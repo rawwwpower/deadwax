@@ -28,6 +28,15 @@ const Store = {
   },
 };
 
+function seedIfNeeded() {
+  const SEEDED_KEY = "deadwax_seeded";
+  if (localStorage.getItem(SEEDED_KEY)) return;
+  localStorage.setItem(SEEDED_KEY, "1");
+  if (typeof window.DEADWAX_SEED === "undefined") return;
+  if (Store.getAll().length > 0) return;
+  Store.saveAll(window.DEADWAX_SEED);
+}
+
 const OWNER_LABELS = { yo: "Yo", seba: "Seba" };
 
 const state = {
@@ -233,4 +242,5 @@ document.getElementById("import-input").addEventListener("change", async (e) => 
   }
 });
 
+seedIfNeeded();
 render();
