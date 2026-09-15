@@ -82,6 +82,31 @@ body {
   font-weight: 600;
 }
 
+.owner-filter {
+  display: flex;
+  gap: 6px;
+  padding-top: 10px;
+  background: var(--bg);
+}
+
+.owner-filter[hidden] { display: none !important; }
+
+.chip {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+
+.chip.active {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 600;
+}
+
 .searchbar {
   padding: 12px 0;
   position: sticky;
@@ -135,6 +160,18 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.owner-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  padding: 1px 8px;
+  margin-right: 8px;
+  flex-shrink: 0;
 }
 
 .card-actions {

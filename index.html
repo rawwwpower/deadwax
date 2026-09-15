@@ -15,6 +15,12 @@
     </div>
   </header>
 
+  <div class="owner-filter" id="owner-filter">
+    <button class="chip active" data-owner="yo">Yo</button>
+    <button class="chip" data-owner="seba">Seba</button>
+    <button class="chip" data-owner="fusion">Fusión</button>
+  </div>
+
   <div class="searchbar">
     <input id="search" type="search" placeholder="Buscar por artista o álbum…" autocomplete="off" />
   </div>
@@ -39,6 +45,12 @@
       <input type="hidden" id="record-id" />
       <input type="hidden" id="record-type" />
 
+      <label id="owner-field">De quién
+        <select id="f-owner">
+          <option value="yo">Yo</option>
+          <option value="seba">Seba</option>
+        </select>
+      </label>
       <label>Artista *<input id="f-artist" required /></label>
       <label>Álbum *<input id="f-album" required /></label>
       <label>Sello<input id="f-label" /></label>

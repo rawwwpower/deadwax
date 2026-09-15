@@ -1,7 +1,7 @@
 # deadwax
 
-App simple para llevar tu colección de discos y tu wantlist, pensada para usar
-desde el celular en la disquería.
+App simple para llevar tu colección de discos, tu wantlist, y fusionarla con
+la de Seba cuando escuchan música juntos.
 
 ## Uso
 
@@ -9,10 +9,13 @@ Abrí `index.html` en el navegador (o serví la carpeta con cualquier servidor
 estático). Todo se guarda en el navegador (`localStorage`), no requiere
 backend ni conexión.
 
-- **Colección**: los discos que ya tenés.
+- **Colección**: los discos que ya tenés, con un filtro **Yo / Seba /
+  Fusión**. Fusión combina ambas colecciones (cada disco muestra de quién
+  es) para armar la sesión de escucha juntos.
 - **Wantlist**: los que buscás. Botón "Comprado" los pasa directo a tu
   colección.
-- **Exportar/Importar**: backup en JSON, abajo de todo.
+- **Exportar/Importar**: backup en JSON, abajo de todo. Podés pedirle a
+  Seba que exporte su colección y la importás para tenerla en Fusión.
 
 ## Escalar a futuro
 

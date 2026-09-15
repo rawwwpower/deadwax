@@ -28,8 +28,11 @@ const Store = {
   },
 };
 
+const OWNER_LABELS = { yo: "Yo", seba: "Seba" };
+
 const state = {
   tab: "collection",
+  owner: "yo",
   query: "",
 };
 
@@ -39,12 +42,24 @@ const searchEl = document.getElementById("search");
 const dialogEl = document.getElementById("record-dialog");
 const formEl = document.getElementById("record-form");
 const deleteBtn = document.getElementById("delete-btn");
+const ownerFilterEl = document.getElementById("owner-filter");
+const ownerFieldEl = document.getElementById("owner-field");
 
 document.querySelectorAll(".tab").forEach((btn) => {
   btn.addEventListener("click", () => {
     document.querySelectorAll(".tab").forEach((b) => b.classList.remove("active"));
     btn.classList.add("active");
     state.tab = btn.dataset.tab;
+    ownerFilterEl.hidden = state.tab !== "collection";
+    render();
+  });
+});
+
+ownerFilterEl.querySelectorAll(".chip").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    ownerFilterEl.querySelectorAll(".chip").forEach((b) => b.classList.remove("active"));
+    btn.classList.add("active");
+    state.owner = btn.dataset.owner;
     render();
   });
 });
@@ -60,22 +75,32 @@ function matchesQuery(record) {
   return haystack.includes(state.query);
 }
 
+function matchesOwner(record) {
+  if (record.type !== "collection" || state.owner === "fusion") return true;
+  return (record.owner || "yo") === state.owner;
+}
+
 function render() {
   const records = Store.getAll()
     .filter((r) => r.type === state.tab)
+    .filter(matchesOwner)
     .filter(matchesQuery)
     .sort((a, b) => a.artist.localeCompare(b.artist) || a.album.localeCompare(b.album));
 
   listEl.innerHTML = "";
   emptyEl.hidden = records.length > 0;
-  emptyEl.textContent =
-    state.tab === "collection"
-      ? "Todavía no cargaste discos en tu colección."
-      : "Tu wantlist está vacía.";
+  emptyEl.textContent = emptyMessage();
 
   for (const record of records) {
     listEl.appendChild(renderCard(record));
   }
+}
+
+function emptyMessage() {
+  if (state.tab === "wantlist") return "Tu wantlist está vacía.";
+  if (state.owner === "seba") return "Todavía no cargaste la colección de Seba.";
+  if (state.owner === "fusion") return "Fusioná cargando discos en Yo y en Seba.";
+  return "Todavía no cargaste discos en tu colección.";
 }
 
 function renderCard(record) {
@@ -87,7 +112,13 @@ function renderCard(record) {
 
   const title = document.createElement("div");
   title.className = "card-title";
-  title.textContent = `${record.artist} — ${record.album}`;
+  if (record.type === "collection" && state.owner === "fusion") {
+    const badge = document.createElement("span");
+    badge.className = "owner-badge";
+    badge.textContent = OWNER_LABELS[record.owner || "yo"];
+    title.appendChild(badge);
+  }
+  title.append(`${record.artist} — ${record.album}`);
 
   const sub = document.createElement("div");
   sub.className = "card-sub";
@@ -117,22 +148,28 @@ function renderCard(record) {
 
 function markAsPurchased(record) {
   Store.remove(record.id);
-  Store.upsert({ ...record, type: "collection", id: crypto.randomUUID() });
+  Store.upsert({ ...record, type: "collection", owner: "yo", id: crypto.randomUUID() });
   render();
 }
 
 function openDialog(record) {
+  const type = record ? record.type : state.tab;
   document.getElementById("dialog-title").textContent = record
     ? "Editar disco"
-    : `Nuevo disco — ${state.tab === "collection" ? "Colección" : "Wantlist"}`;
+    : `Nuevo disco — ${type === "collection" ? "Colección" : "Wantlist"}`;
   document.getElementById("record-id").value = record ? record.id : "";
-  document.getElementById("record-type").value = record ? record.type : state.tab;
+  document.getElementById("record-type").value = type;
   document.getElementById("f-artist").value = record ? record.artist : "";
   document.getElementById("f-album").value = record ? record.album : "";
   document.getElementById("f-label").value = record ? record.label || "" : "";
   document.getElementById("f-year").value = record ? record.year || "" : "";
   document.getElementById("f-format").value = record ? record.format || "LP" : "LP";
   document.getElementById("f-notes").value = record ? record.notes || "" : "";
+
+  ownerFieldEl.hidden = type !== "collection";
+  const defaultOwner = state.owner === "fusion" ? "yo" : state.owner;
+  document.getElementById("f-owner").value = record ? record.owner || "yo" : defaultOwner;
+
   deleteBtn.hidden = !record;
   dialogEl.showModal();
 }
@@ -149,9 +186,10 @@ deleteBtn.addEventListener("click", () => {
 
 formEl.addEventListener("submit", () => {
   const id = document.getElementById("record-id").value || crypto.randomUUID();
+  const type = document.getElementById("record-type").value;
   const record = {
     id,
-    type: document.getElementById("record-type").value,
+    type,
     artist: document.getElementById("f-artist").value.trim(),
     album: document.getElementById("f-album").value.trim(),
     label: document.getElementById("f-label").value.trim(),
@@ -159,6 +197,7 @@ formEl.addEventListener("submit", () => {
     format: document.getElementById("f-format").value,
     notes: document.getElementById("f-notes").value.trim(),
   };
+  if (type === "collection") record.owner = document.getElementById("f-owner").value;
   if (!record.artist || !record.album) return;
   Store.upsert(record);
   render();
