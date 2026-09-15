@@ -1,25 +1,58 @@
-# deadwax
+# Dead Wax
 
-App simple para llevar tu colección de discos, tu wantlist, y fusionarla con
-la de Seba cuando escuchan música juntos.
+Proyecto personal de Ana (y Seba) para evaluar ediciones de vinilo antes de
+comprarlas (autenticación de prensados, jerarquía de plantas, red flags de
+sellos truchos) y llevar el catálogo de sus colecciones.
 
-## Uso
+Tiene dos piezas hoy, que todavía viven separadas pero son parte del mismo
+proyecto — ver [ROADMAP.md](ROADMAP.md) para cómo se piensan ir uniendo.
 
-Abrí `index.html` en el navegador (o serví la carpeta con cualquier servidor
-estático). Todo se guarda en el navegador (`localStorage`), no requiere
-backend ni conexión.
+## 1. El skill de Claude Code (metodología + colección)
 
-- **Colección**: los discos que ya tenés, con un filtro **Yo / Seba /
-  Fusión**. Fusión combina ambas colecciones (cada disco muestra de quién
-  es) para armar la sesión de escucha juntos.
-- **Wantlist**: los que buscás. Botón "Comprado" los pasa directo a tu
-  colección.
-- **Exportar/Importar**: backup en JSON, abajo de todo. Podés pedirle a
-  Seba que exporte su colección y la importás para tenerla en Fusión.
+En [`.claude/skills/dead-wax/`](.claude/skills/dead-wax/): la metodología de
+evaluación (`SKILL.md`/`references/`) más un CLI (`scripts/coleccion.py`)
+sobre una base SQLite (`data/coleccion.db`) con la colección real. Claude
+Code lo detecta solo al abrir este repo — no hace falta invocarlo a mano.
+Ver el [README del skill](.claude/skills/dead-wax/README.md) para el uso.
 
-## Escalar a futuro
+```bash
+cd .claude/skills/dead-wax
+python3 scripts/coleccion.py list
+python3 scripts/coleccion.py stats
+```
 
-La lógica de guardado vive toda en el objeto `Store` de `js/app.js`
-(`getAll`, `saveAll`, `upsert`, `remove`). Para pasar a un backend real
-(sync entre dispositivos, compartir colección, etc.) alcanza con reemplazar
-esos métodos por llamadas a una API, sin tocar el resto de la UI.
+## 2. La app web (colección + wantlist)
+
+En la raíz (`index.html`, `css/`, `js/`): una app simple para llevar la
+colección de discos y la wantlist desde el navegador, con un filtro
+**Yo / Seba / Fusión** para armar sesiones de escucha juntos. Todo se guarda
+en `localStorage` (sin backend), con export/import a JSON para pasarse
+colecciones entre los dos.
+
+```bash
+# abrí index.html en el navegador, o serví la carpeta con cualquier
+# servidor estático
+```
+
+La lógica de guardado vive en el objeto `Store` de `js/app.js` (`getAll`,
+`saveAll`, `upsert`, `remove`) — para pasar a un backend real alcanza con
+reemplazar esos métodos, sin tocar el resto de la UI.
+
+## Estructura del repo
+
+```
+deadwax/
+├── README.md
+├── ROADMAP.md
+├── index.html            ← app web (colección + wantlist)
+├── css/
+├── js/
+└── .claude/
+    └── skills/
+        └── dead-wax/      ← skill de Claude Code (metodología + CLI + datos)
+            ├── SKILL.md
+            ├── README.md
+            ├── references/
+            ├── scripts/
+            └── data/coleccion.db
+```
