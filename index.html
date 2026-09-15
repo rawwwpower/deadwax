@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>deadwax</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>deadwax</h1>
+    <div class="tabs">
+      <button class="tab active" data-tab="collection">Colección</button>
+      <button class="tab" data-tab="wantlist">Wantlist</button>
+    </div>
+  </header>
+
+  <div class="searchbar">
+    <input id="search" type="search" placeholder="Buscar por artista o álbum…" autocomplete="off" />
+  </div>
+
+  <main id="list" class="list"></main>
+
+  <p id="empty" class="empty" hidden></p>
+
+  <button id="fab" class="fab" aria-label="Agregar disco">+</button>
+
+  <footer class="footer">
+    <button id="export-btn" class="link-btn">Exportar</button>
+    <label class="link-btn">
+      Importar
+      <input id="import-input" type="file" accept="application/json" hidden />
+    </label>
+  </footer>
+
+  <dialog id="record-dialog">
+    <form id="record-form" method="dialog">
+      <h2 id="dialog-title">Nuevo disco</h2>
+      <input type="hidden" id="record-id" />
+      <input type="hidden" id="record-type" />
+
+      <label>Artista *<input id="f-artist" required /></label>
+      <label>Álbum *<input id="f-album" required /></label>
+      <label>Sello<input id="f-label" /></label>
+      <label>Año<input id="f-year" inputmode="numeric" maxlength="4" /></label>
+      <label>Formato
+        <select id="f-format">
+          <option value="LP">LP</option>
+          <option value="12&quot;">12"</option>
+          <option value="7&quot;">7"</option>
+          <option value="CD">CD</option>
+          <option value="Otro">Otro</option>
+        </select>
+      </label>
+      <label>Notas<textarea id="f-notes" rows="2" placeholder="ej: solo prensación original, cualquier año, etc."></textarea></label>
+
+      <div class="dialog-actions">
+        <button type="button" id="delete-btn" class="danger" hidden>Eliminar</button>
+        <button type="button" id="cancel-btn">Cancelar</button>
+        <button type="submit" id="save-btn">Guardar</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
