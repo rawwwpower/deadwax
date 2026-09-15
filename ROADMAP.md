@@ -28,10 +28,17 @@ como está pensado hoy.
 
 ## Fase 4 — Visualización / front simple
 
-- Alguna forma liviana de ver la colección sin pasar por el CLI (filtros por
-  owner/status/sello/país, estadísticas). No está decidido si esto es una
-  app separada, un dashboard estático generado del export, o algo dentro
-  del propio repo.
+Ya arrancó: hay una app web en la raíz (`index.html`, `css/`, `js/`) con
+colección + wantlist + fusión Yo/Seba, guardando en `localStorage` con
+export/import a JSON.
+
+Pendiente para que deje de ser una pieza separada del skill:
+- Hoy la app y `data/coleccion.db` son dos fuentes de verdad distintas
+  (localStorage del navegador vs. SQLite que maneja Claude). Definir cuál
+  manda, o cómo sincronizarlas — el export/import JSON de la app es un
+  punto de partida natural, casa con lo que ya pide la Fase 3.
+- Evaluar si conviene que la app lea/escriba directo `coleccion.db` (con
+  backend) en vez de duplicar el estado en `localStorage`.
 
 ## Fuera de alcance por ahora
 
