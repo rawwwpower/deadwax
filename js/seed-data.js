@@ -176,5 +176,27 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: UK · Catálogo: TPLP31 · Prensado: primera prensa confirmada por matrix · Matrix: TPLP31A1/B1 Mike's - The Exchange MPO",
     "owner": "seba"
+  },
+  {
+    "id": "dw-21",
+    "type": "collection",
+    "artist": "Daft Punk",
+    "album": "Homework",
+    "label": "Virgin",
+    "year": "1997",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: 724384260910 (V 2821, LC 3098, F: PM 213) · Prensado: Prensa original 1997: barcode 724384260910 y price code PM 213 coinciden con Discogs r2947655 (pressed in France). No confirmado por dead wax/matrix (falta foto).\nDe Seba, sonando en casa.",
+    "owner": "seba"
+  },
+  {
+    "id": "dw-22",
+    "type": "collection",
+    "artist": "Black Sabbath",
+    "album": "Master of Reality",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "De Seba, sonando en casa. Falta foto de tapa frontal/etiqueta o dead wax: no hay país/sello/catálogo visibles todavía, no asumir edición por parecido.",
+    "owner": "seba"
   }
 ];
