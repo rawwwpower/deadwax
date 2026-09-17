@@ -198,5 +198,16 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "De Seba, sonando en casa. Falta foto de tapa frontal/etiqueta o dead wax: no hay país/sello/catálogo visibles todavía, no asumir edición por parecido.",
     "owner": "seba"
+  },
+  {
+    "id": "dw-23",
+    "type": "collection",
+    "artist": "Black Sabbath",
+    "album": "Sabbath Bloody Sabbath",
+    "label": "Vertigo",
+    "year": "1978",
+    "format": "LP",
+    "notes": "País: Japón · Catálogo: BT-5155 · Prensado: Repress japonés 1978 (no la primera prensa japonesa ~1973-74 que tengo anotada como top en la guía, esa es otro catálogo): manufacturado y distribuido por Nippon Phonogram Co. Tokyo, impreso en Japón (JASRAC). Sin gatefold, con inner sheet. Obi no confirmado en la foto (no visible, no significa que falte).\nMío (Ana). Sticker de tienda japonesa de segunda mano en la tapa (RS-Y013-4A3J-3305-P74C), no es parte del release original.",
+    "owner": "yo"
   }
 ];
