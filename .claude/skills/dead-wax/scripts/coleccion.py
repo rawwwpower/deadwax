@@ -109,6 +109,11 @@ def cmd_list(args):
     if args.owner:
         clauses.append("owner = ?")
         params.append(args.owner)
+    if args.incomplete:
+        clauses.append(
+            "(pais IS NULL OR pais = '' OR sello IS NULL OR sello = '' "
+            "OR catalogo IS NULL OR catalogo = '')"
+        )
     where = f"WHERE {' AND '.join(clauses)}" if clauses else ""
     rows = conn.execute(f"SELECT * FROM discos {where} ORDER BY artista", params).fetchall()
     _print_rows(rows)
@@ -176,6 +181,10 @@ def build_parser():
     list_p = sub.add_parser("list")
     list_p.add_argument("--status", choices=["owned", "evaluado_no_comprado", "pendiente"])
     list_p.add_argument("--owner", choices=["ana", "seba"])
+    list_p.add_argument(
+        "--incomplete", action="store_true",
+        help="solo discos con país, sello o catálogo vacío (para rondas de repaso)",
+    )
     list_p.set_defaults(func=cmd_list)
 
     show_p = sub.add_parser("show")

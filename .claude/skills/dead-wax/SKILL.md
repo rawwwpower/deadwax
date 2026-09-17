@@ -61,6 +61,8 @@ Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`,
 - Todo disco identificado como pendiente de investigar más (falta matrix, falta confirmar edición) va con `status=pendiente`.
 - Siempre guardar el catálogo exacto y, si existe, el Discogs release ID — son la clave para no confundir ediciones parecidas.
 - **Campo `owner`**: la base guarda dos colecciones separadas, `ana` (default) y `seba` — comparten sesiones de escucha pero son colecciones distintas de cada uno. Nunca asumir que un disco es de Ana si no se aclara; si Ana menciona algo de Seba (o viceversa), usar `--owner seba` explícitamente. Al buscar o listar, tener en cuenta que puede haber resultados de ambos dueños.
+- **Datos faltantes (país/sello/catálogo)**: si al cargar un disco no hay foto de tapa/etiqueta con esos datos, cargarlo igual con lo que se sepa (status real: `owned` si ya está confirmado como propio, aunque falte identificar la edición exacta) y dejar esos campos vacíos. **No volver a pedir esa info en el momento** — se completa después, en rondas de repaso con Seba. Para armar esas rondas: `python3 scripts/coleccion.py list --incomplete` lista todo lo que tiene país, sello o catálogo vacío, de cualquier owner/status.
+  - `status=pendiente` es solo para "no decidido si se compra" (afecta cómo lo lee la app: aparece en wantlist) — no usarlo para "ya lo tengo pero falta identificar la edición", eso es `owned` + campos vacíos.
 
 ## Estilo al responder
 
