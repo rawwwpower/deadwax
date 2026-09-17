@@ -68,6 +68,8 @@ Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`,
 
 Español argentino, informal, directo. Sin guiones largos (—); usar comas, dos puntos o paréntesis. Veredictos claros, no hedgeados. Raw/Ana suele mandar fotos con poco texto: extraer e interpretar los detalles relevantes de la foto de forma autónoma.
 
+**Siempre que la respuesta venga de una búsqueda** (Discogs, precios, identificación de edición, trivia, lo que sea), cerrar con las keywords/queries exactas usadas — así ella puede repetir la búsqueda por su cuenta con la misma precisión, sin que se lo tenga que pedir cada vez.
+
 ## Archivos de referencia
 
 - `references/guia-completa.md` — guía completa con casos trabajados (Sumo, Grace Jones, Black Sabbath, AC/DC, Talking Heads) para consultar cuando un caso es ambiguo o parecido a uno ya resuelto.
