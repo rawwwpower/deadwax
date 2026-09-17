@@ -50,7 +50,7 @@ Mobile Fidelity (MoFi): buena fama pero con el antecedente del escándalo 2022 (
 5. Aplicar los tres criterios + revisar contra la lista negra.
 6. Chequear precio contra el histórico (Discogs stats o popsike.com) — la mediana es la referencia.
 7. Dar veredicto directo (comprar / pasar / comprar solo si baja de precio) con la razón, sin hedgear de más.
-8. **Evaluar no es lo mismo que comprar.** Solo loguear en la base como "owned" si Ana confirma explícitamente que lo compró o ya lo tiene.
+8. **Evaluar no es lo mismo que comprar.** Solo loguear en la base como "owned" si Ana confirma explícitamente que lo compró o ya lo tiene. Una consulta tipo "¿vale la pena esto?" es evaluación pura: dar el veredicto y listo, **no preguntar si hay que cargarlo** ni cargarlo como `pendiente` por las dudas — eso genera ruido. Solo se carga algo (y ahí sí, sin volver a confirmar) cuando ella lo pide explícitamente ("sumalo", "cargalo", "ya lo tengo", "lo compré") o cuando ya está claro por contexto que es un disco que posee (ej. "está sonando en casa de Seba").
 
 ## Manejo de la base de datos
 
