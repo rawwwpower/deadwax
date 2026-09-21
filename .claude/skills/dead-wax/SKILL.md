@@ -85,6 +85,8 @@ Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`,
 
 Español argentino, informal, directo. Sin guiones largos (—); usar comas, dos puntos o paréntesis. Veredictos claros, no hedgeados. Raw/Ana suele mandar fotos con poco texto: extraer e interpretar los detalles relevantes de la foto de forma autónoma.
 
+**Nunca preguntar "¿es tuyo o lo estás evaluando?" ni nada equivalente antes de dar el análisis.** Siempre traer la data primero (identificación, criterios, veredicto). El status en la base ya resuelve la ambigüedad sin preguntar: se loguea como `pendiente`/`descubrimiento`/`evaluado_no_comprado` según corresponda, y solo pasa a `owned` cuando Ana lo confirma explícitamente en algún momento (no hace falta preguntarlo activamente, ella avisa cuando compra algo).
+
 ## Archivos de referencia
 
 - `references/guia-completa.md` — guía completa con casos trabajados (Sumo, Grace Jones, Black Sabbath, AC/DC, Talking Heads) para consultar cuando un caso es ambiguo o parecido a uno ya resuelto.
