@@ -31,11 +31,12 @@ CREATE TABLE IF NOT EXISTS discos (
     sello TEXT,
     catalogo TEXT,
     anio INTEGER,
+    genero TEXT,                -- género/subgénero específico, ej. "jazz fusion"
     prensado_notas TEXT,        -- ej. "primera prensa confirmada por PORKY/PECKO"
     dead_wax_matrix TEXT,
     grading_disco TEXT,         -- M / NM / VG+ / VG / G / P
     grading_tapa TEXT,
-    status TEXT NOT NULL DEFAULT 'pendiente',  -- owned | evaluado_no_comprado | pendiente
+    status TEXT NOT NULL DEFAULT 'pendiente',  -- owned | evaluado_no_comprado | pendiente | descubrimiento
     discogs_release_id TEXT,
     precio TEXT,
     fecha_adquirido TEXT,
@@ -44,8 +45,13 @@ CREATE TABLE IF NOT EXISTS discos (
 );
 """
 
+# Columnas agregadas después de la creación inicial de la tabla — migración liviana en get_conn().
+MIGRATIONS = [
+    ("genero", "TEXT"),
+]
+
 FIELDS = [
-    "owner", "artista", "titulo", "pais", "sello", "catalogo", "anio",
+    "owner", "artista", "titulo", "pais", "sello", "catalogo", "anio", "genero",
     "prensado_notas", "dead_wax_matrix", "grading_disco", "grading_tapa",
     "status", "discogs_release_id", "precio", "fecha_adquirido", "notas",
 ]
@@ -55,19 +61,22 @@ def get_conn():
     os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
+    conn.executescript(SCHEMA)
+    existing_cols = {row[1] for row in conn.execute("PRAGMA table_info(discos)")}
+    for col, coltype in MIGRATIONS:
+        if col not in existing_cols:
+            conn.execute(f"ALTER TABLE discos ADD COLUMN {col} {coltype}")
+    conn.commit()
     return conn
 
 
 def cmd_init(args):
-    conn = get_conn()
-    conn.executescript(SCHEMA)
-    conn.commit()
+    get_conn()
     print(f"Base inicializada en {DB_PATH}")
 
 
 def cmd_add(args):
     conn = get_conn()
-    conn.executescript(SCHEMA)
     values = {f: getattr(args, f, None) for f in FIELDS}
     cols = ", ".join(values.keys())
     placeholders = ", ".join(["?"] * len(values))
@@ -85,9 +94,10 @@ def _print_rows(rows):
         print("(sin resultados)")
         return
     for r in rows:
+        genero = r['genero'] if 'genero' in r.keys() else None
         print(f"[{r['id']}] ({r['owner']}) {r['artista']} — {r['titulo']} "
               f"({r['pais'] or '?'}, {r['sello'] or '?'}, cat. {r['catalogo'] or '?'}, {r['anio'] or '?'}) "
-              f"[{r['status']}] {r['grading_disco'] or ''}/{r['grading_tapa'] or ''}")
+              f"[{r['status']}] {genero or '?'} {r['grading_disco'] or ''}/{r['grading_tapa'] or ''}")
 
 
 def cmd_search(args):
@@ -158,11 +168,13 @@ def build_parser():
     add_p.add_argument("--sello")
     add_p.add_argument("--catalogo")
     add_p.add_argument("--anio", type=int)
+    add_p.add_argument("--genero")
     add_p.add_argument("--prensado-notas", dest="prensado_notas")
     add_p.add_argument("--dead-wax-matrix", dest="dead_wax_matrix")
     add_p.add_argument("--grading-disco", dest="grading_disco")
     add_p.add_argument("--grading-tapa", dest="grading_tapa")
-    add_p.add_argument("--status", default="pendiente", choices=["owned", "evaluado_no_comprado", "pendiente"])
+    add_p.add_argument("--status", default="pendiente",
+                        choices=["owned", "evaluado_no_comprado", "pendiente", "descubrimiento"])
     add_p.add_argument("--discogs-release-id", dest="discogs_release_id")
     add_p.add_argument("--precio")
     add_p.add_argument("--fecha-adquirido", dest="fecha_adquirido")
@@ -174,7 +186,7 @@ def build_parser():
     search_p.set_defaults(func=cmd_search)
 
     list_p = sub.add_parser("list")
-    list_p.add_argument("--status", choices=["owned", "evaluado_no_comprado", "pendiente"])
+    list_p.add_argument("--status", choices=["owned", "evaluado_no_comprado", "pendiente", "descubrimiento"])
     list_p.add_argument("--owner", choices=["ana", "seba"])
     list_p.set_defaults(func=cmd_list)
 

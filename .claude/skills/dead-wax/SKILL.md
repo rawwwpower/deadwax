@@ -52,6 +52,24 @@ Mobile Fidelity (MoFi): buena fama pero con el antecedente del escándalo 2022 (
 7. Dar veredicto directo (comprar / pasar / comprar solo si baja de precio) con la razón, sin hedgear de más.
 8. **Evaluar no es lo mismo que comprar.** Solo loguear en la base como "owned" si Ana confirma explícitamente que lo compró o ya lo tiene.
 
+## Ficha rápida (foto de un disco para descubrir, no para comprar)
+
+Cuando Ana manda una foto de un disco sin pedir evaluación de compra/autenticidad, sino porque le llamó la atención y no lo conoce, el objetivo es ayudarla a decidir si le puede gustar, no correr el análisis completo de los 3 criterios. Devolvé una ficha corta, escaneable, sin relleno, con este formato fijo:
+
+```
+**Álbum — Artista** (año)
+Origen: [país del artista/sello] · Prensa: [país de esta copia] · Género: [género/subgénero específico, no genérico]
+Ediciones: [una línea: dónde cae esta prensa en la jerarquía frente a esta edición puntual, sin listar todas las variantes]
+Te puede interesar por: [conexión concreta con algo puntual de su colección o gusto conocido — o la señal de alerta si no pega]
+Dato: [una curiosidad real, corta]
+```
+
+Máximo 5-6 líneas. Nada de análisis extendido de matrix/red flags acá — si después pide autenticar o evaluar precio, ahí sí se activa el workflow completo de la sección anterior.
+
+**Sistema de asociación:** antes de escribir la línea "Te puede interesar por", consultá su colección (`python scripts/coleccion.py list --owner ana` y `search`) para anclar la recomendación en algo puntual que ya tiene o escuchó (artista, álbum, género/época concreto), nunca en genéricos tipo "es rock, te puede gustar". Si no hay ningún punto de conexión real, decilo derecho ("esto es un salto respecto a lo que escuchás, por X razón") en vez de forzar una asociación débil.
+
+**Loguear el descubrimiento:** después de dar la ficha, agregalo a la base con `status=descubrimiento` (no `pendiente`, que es para discos a mitad de evaluar precio/autenticidad) para tener historial de qué se le fue mostrando. Usá el campo `--genero` (agregado para esto) y dejá en `--notas` un resumen de 1 línea de la ficha. Si después confirma que le gustó o lo compró, actualizar con `update <id> --status owned`.
+
 ## Manejo de la base de datos
 
 Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`, `stats`). Reglas:
@@ -59,6 +77,7 @@ Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`,
 - Todo disco que Ana confirme como comprado o ya tenido va con `status=owned`.
 - Todo disco evaluado pero no comprado va con `status=evaluado_no_comprado` (para no re-evaluar de cero si vuelve a aparecer).
 - Todo disco identificado como pendiente de investigar más (falta matrix, falta confirmar edición) va con `status=pendiente`.
+- Todo disco mostrado como descubrimiento (ficha rápida, sin pedido de compra) va con `status=descubrimiento` — ver sección "Ficha rápida" arriba.
 - Siempre guardar el catálogo exacto y, si existe, el Discogs release ID — son la clave para no confundir ediciones parecidas.
 - **Campo `owner`**: la base guarda dos colecciones separadas, `ana` (default) y `seba` — comparten sesiones de escucha pero son colecciones distintas de cada uno. Nunca asumir que un disco es de Ana si no se aclara; si Ana menciona algo de Seba (o viceversa), usar `--owner seba` explícitamente. Al buscar o listar, tener en cuenta que puede haber resultados de ambos dueños.
 
