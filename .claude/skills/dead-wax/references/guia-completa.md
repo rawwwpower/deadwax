@@ -78,6 +78,8 @@ Variante vista también con catálogo **Atlantic SD 16018** (formato tipo USA) p
 ### Black Sabbath — Sabbath Bloody Sabbath: USA (Warner Bros BS 2695) vs Japón (Vertigo RJ-5113)
 Ninguna es el origen real (UK Vertigo 6360 101). Entre las dos, la japonesa gana: mejor manufactura general de Japón + este título específico tiene fama de que la edición japonesa resolvió mejor una masterización de origen problemática. La RJ-5113 viene con obi "Rock Impact '74", inserto de letras en inglés, tapa gatefold, y vinilo negro translúcido a la luz — señas de identidad para confirmarla sin depender de fotos.
 
+Variante japonesa distinta vista después: **reedición 1980 vía NEMS/Nippon Phonogram**, obi "来日記念盤" (edición conmemorativa de gira), catálogo de tapa SP18-5014 y en la etiqueta B1-5155 (WWA 005 II) con swirl Vertigo. Sigue siendo Japón (buena manufactura) pero es reedición posterior, no confirmado que comparta la misma ventaja de masterización que la RJ-5113 original. Dato de mercado real: copia NM con obi de esta variante se vendió por $410.000 ARS (londonrecordsar, Buenos Aires) — referencia de precio piso para Japón NM con obi en el mercado argentino.
+
 ## Checklist rápido antes de comprar
 
 1. Anotar catálogo, sello y país que dice el anuncio.
