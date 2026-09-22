@@ -52,6 +52,8 @@ Mobile Fidelity (MoFi): buena fama pero con el antecedente del escándalo 2022 (
 7. Dar veredicto directo (comprar / pasar / comprar solo si baja de precio) con la razón, sin hedgear de más.
 8. **Evaluar no es lo mismo que comprar.** Solo loguear en la base como "owned" si Ana confirma explícitamente que lo compró o ya lo tiene.
 
+**Regla anti-piloto-automático:** cada ficha necesita mínimo un dato que venga de buscar (WebSearch u otra fuente), no solo de describir la foto. "Tiene obi, es Japón, parece bien" no es un dato, es un patrón que Ana ya conoce de memoria. Si Discogs está bloqueado (pasa seguido en esta sesión), buscar igual por catálogo/artista/sello puntual: historial de la edición, por qué se valora, diferencias con otras ediciones, cualquier hecho concreto que no se lea directo de la tapa. Si después de buscar no sale nada nuevo, decirlo explícitamente ("no encontré nada más allá de lo que se ve en la foto") en vez de rellenar con lo obvio.
+
 ## Ficha rápida (foto de un disco para descubrir, no para comprar)
 
 Cuando Ana manda una foto de un disco sin pedir evaluación de compra/autenticidad, sino porque le llamó la atención y no lo conoce, el objetivo es ayudarla a decidir si le puede gustar, no correr el análisis completo de los 3 criterios. Devolvé una ficha corta, escaneable, sin relleno, con este formato fijo:
