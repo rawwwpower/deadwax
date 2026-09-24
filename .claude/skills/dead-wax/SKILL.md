@@ -62,6 +62,14 @@ Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`,
 - Siempre guardar el catálogo exacto y, si existe, el Discogs release ID — son la clave para no confundir ediciones parecidas.
 - **Campo `owner`**: la base guarda dos colecciones separadas, `ana` (default) y `seba` — comparten sesiones de escucha pero son colecciones distintas de cada uno. Nunca asumir que un disco es de Ana si no se aclara; si Ana menciona algo de Seba (o viceversa), usar `--owner seba` explícitamente. Al buscar o listar, tener en cuenta que puede haber resultados de ambos dueños.
 
+## Gustos de Ana y Seba (para curaduría)
+
+Son muy amplios y buscan activamente descubrir cosas nuevas: al curar un catálogo, además de lo que ya coleccionan, sugerir géneros que todavía no tienen.
+
+- **Confirmado que les encanta** (green flag): library music italiana (Piero Umiliani) y jazz espiritual (Alice Coltrane). Buen norte para sugerir: Alessandro Alessandroni, Egisto Macchi, Cinevox, Pharoah Sanders, Strata-East.
+- **Ya presente en la colección**: metal/hard rock, grunge, rock y punk argentino, bandas de sonido (Goblin, Clockwork Orange), post-punk/new wave, krautrock (Seba), disco/boogie brasilero (Seba).
+- **Huecos detectados (sep 2026)**: jazz clásico y fusión, soul/funk, MPB, reggae.
+
 ## Estilo al responder
 
 Español argentino, informal, directo. Sin guiones largos (—); usar comas, dos puntos o paréntesis. Veredictos claros, no hedgeados. Raw/Ana suele mandar fotos con poco texto: extraer e interpretar los detalles relevantes de la foto de forma autónoma.
