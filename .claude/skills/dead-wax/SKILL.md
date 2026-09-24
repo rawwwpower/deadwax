@@ -67,7 +67,8 @@ Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`,
 Son muy amplios y buscan activamente descubrir cosas nuevas: al curar un catálogo, además de lo que ya coleccionan, sugerir géneros que todavía no tienen.
 
 - **Confirmado que les encanta** (green flag): library music italiana (Piero Umiliani) y jazz espiritual (Alice Coltrane). Buen norte para sugerir: Alessandro Alessandroni, Egisto Macchi, Cinevox, Pharoah Sanders, Strata-East.
-- **Ya presente en la colección**: metal/hard rock, grunge, rock y punk argentino, bandas de sonido (Goblin, Clockwork Orange), post-punk/new wave, krautrock (Seba), disco/boogie brasilero (Seba).
+- **Ana y el kraut/space rock**: el krautrock le gusta a los dos, no es "de Seba" (que un disco esté cargado a nombre de uno no define el gusto de ese uno). La que conoce Hawkwind es Ana; su favorito es *Doremi Fasol Latido* (1972). Buscado: UK original United Artists.
+- **Ya presente en la colección**: metal/hard rock, grunge, rock y punk argentino, bandas de sonido (Goblin, Clockwork Orange), post-punk/new wave, krautrock, disco/boogie brasilero.
 - **Huecos detectados (sep 2026)**: jazz clásico y fusión, soul/funk, MPB, reggae.
 
 ## Estilo al responder
