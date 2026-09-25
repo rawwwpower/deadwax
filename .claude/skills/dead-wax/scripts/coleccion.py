@@ -9,6 +9,7 @@ Uso:
     python coleccion.py list [--status owned|evaluado_no_comprado|pendiente]
     python coleccion.py show <id>
     python coleccion.py update <id> --status owned [otras opciones]
+    python coleccion.py update <id> --review "reseña personal de escucha"
     python coleccion.py stats
 
 La base vive en data/coleccion.db (SQLite), relativa a este script.
@@ -40,6 +41,7 @@ CREATE TABLE IF NOT EXISTS discos (
     precio TEXT,
     fecha_adquirido TEXT,
     notas TEXT,
+    review TEXT,                -- reseña personal de escucha (sonido, impresiones)
     creado_en TEXT DEFAULT CURRENT_TIMESTAMP
 );
 """
@@ -48,6 +50,7 @@ FIELDS = [
     "owner", "artista", "titulo", "pais", "sello", "catalogo", "anio",
     "prensado_notas", "dead_wax_matrix", "grading_disco", "grading_tapa",
     "status", "discogs_release_id", "precio", "fecha_adquirido", "notas",
+    "review",
 ]
 
 
@@ -55,6 +58,10 @@ def get_conn():
     os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
+    conn.executescript(SCHEMA)
+    cols = {r["name"] for r in conn.execute("PRAGMA table_info(discos)")}
+    if "review" not in cols:
+        conn.execute("ALTER TABLE discos ADD COLUMN review TEXT")
     return conn
 
 
@@ -167,6 +174,7 @@ def build_parser():
     add_p.add_argument("--precio")
     add_p.add_argument("--fecha-adquirido", dest="fecha_adquirido")
     add_p.add_argument("--notas")
+    add_p.add_argument("--review")
     add_p.set_defaults(func=cmd_add)
 
     search_p = sub.add_parser("search")

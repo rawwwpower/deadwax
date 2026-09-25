@@ -59,6 +59,7 @@ Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`,
 - Todo disco que Ana confirme como comprado o ya tenido va con `status=owned`.
 - Todo disco evaluado pero no comprado va con `status=evaluado_no_comprado` (para no re-evaluar de cero si vuelve a aparecer).
 - Todo disco identificado como pendiente de investigar más (falta matrix, falta confirmar edición) va con `status=pendiente`.
+- **Campo `review`**: toda impresión personal de escucha que Ana o Seba compartan (cómo suena, qué les pareció) va en `--review`, separada de `notas` (datos técnicos). Si ya hay review, sumar la nueva sin borrar la anterior.
 - Siempre guardar el catálogo exacto y, si existe, el Discogs release ID — son la clave para no confundir ediciones parecidas.
 - **Campo `owner`**: la base guarda dos colecciones separadas, `ana` (default) y `seba` — comparten sesiones de escucha pero son colecciones distintas de cada uno. Nunca asumir que un disco es de Ana si no se aclara; si Ana menciona algo de Seba (o viceversa), usar `--owner seba` explícitamente. Al buscar o listar, tener en cuenta que puede haber resultados de ambos dueños.
 
