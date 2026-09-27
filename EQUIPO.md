@@ -58,6 +58,18 @@ pitch de ±16 % y luces azules. Están buenas pero no hacen falta.
 - **Bueno:** número de serie legible y que las dos del par sean del mismo
   modelo.
 
+### Precio de referencia MK2 usada en Argentina (consultado 2026-09-27)
+
+- Estimación (sin datos en vivo, porque MercadoLibre y las cotizaciones
+  estaban bloqueadas desde el sandbox): **US$ 700–1.000 por unidad**
+  revisada y funcionando, **US$ 1.400–2.000 el par**. Afuera ronda
+  US$ 500–800 por unidad. En Argentina sale más por la importación.
+- Lo que se vio en ML ese día: publicaciones de ARS 1,87 M a 2,5 M
+  (la de ARS 4 M probablemente sea un par). Falta chequear si son por
+  unidad o por par.
+- Con restaurador propio conviene mirar las "para reparar" y las que
+  están sin service. Pagar menos y restaurar.
+
 ### El resto del set (pendiente de definir)
 
 - Mixer de 2 canales.
