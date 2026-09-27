@@ -50,7 +50,7 @@ Mobile Fidelity (MoFi): buena fama pero con el antecedente del escándalo 2022 (
 5. Aplicar los tres criterios + revisar contra la lista negra.
 6. Chequear precio contra el histórico (Discogs stats o popsike.com) — la mediana es la referencia.
 7. Dar veredicto directo (comprar / pasar / comprar solo si baja de precio) con la razón, sin hedgear de más.
-8. **Evaluar no es lo mismo que comprar.** Solo loguear en la base como "owned" si Ana confirma explícitamente que lo compró o ya lo tiene.
+8. **Evaluar no es lo mismo que comprar.** Solo loguear en la base como "owned" si Ana confirma explícitamente que lo compró o ya lo tiene. Una consulta tipo "¿vale la pena esto?" es evaluación pura: dar el veredicto y listo, **no preguntar si hay que cargarlo** ni cargarlo como `pendiente` por las dudas — eso genera ruido. Solo se carga algo (y ahí sí, sin volver a confirmar) cuando ella lo pide explícitamente ("sumalo", "cargalo", "ya lo tengo", "lo compré") o cuando ya está claro por contexto que es un disco que posee (ej. "está sonando en casa de Seba").
 
 ## Manejo de la base de datos
 
@@ -62,6 +62,8 @@ Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`,
 - **Campo `review`**: toda impresión personal de escucha que Ana o Seba compartan (cómo suena, qué les pareció) va en `--review`, separada de `notas` (datos técnicos). Si ya hay review, sumar la nueva sin borrar la anterior.
 - Siempre guardar el catálogo exacto y, si existe, el Discogs release ID — son la clave para no confundir ediciones parecidas.
 - **Campo `owner`**: la base guarda dos colecciones separadas, `ana` (default) y `seba` — comparten sesiones de escucha pero son colecciones distintas de cada uno. Nunca asumir que un disco es de Ana si no se aclara; si Ana menciona algo de Seba (o viceversa), usar `--owner seba` explícitamente. Al buscar o listar, tener en cuenta que puede haber resultados de ambos dueños.
+- **Datos faltantes (país/sello/catálogo)**: si al cargar un disco no hay foto de tapa/etiqueta con esos datos, cargarlo igual con lo que se sepa (status real: `owned` si ya está confirmado como propio, aunque falte identificar la edición exacta) y dejar esos campos vacíos. **No volver a pedir esa info en el momento** — se completa después, en rondas de repaso con Seba. Para armar esas rondas: `python3 scripts/coleccion.py list --incomplete` lista todo lo que tiene país, sello o catálogo vacío, de cualquier owner/status.
+  - `status=pendiente` es solo para "no decidido si se compra" (afecta cómo lo lee la app: aparece en wantlist) — no usarlo para "ya lo tengo pero falta identificar la edición", eso es `owned` + campos vacíos.
 
 ## Gustos de Ana y Seba (para curaduría)
 
@@ -86,6 +88,8 @@ Antes de cualquier curaduría, compra o carga, leer `curaduria/PENDIENTES.md`: t
 - **Sugerir amplio**: si un disco es bueno y no está en la colección, sugerirlo, aunque no llene un "hueco" de género ni sea raro o valioso. La curaduría es musical, no solo matemática de precios.
 
 Español argentino, informal, directo. Sin guiones largos (—); usar comas, dos puntos o paréntesis. Veredictos claros, no hedgeados. Raw/Ana suele mandar fotos con poco texto: extraer e interpretar los detalles relevantes de la foto de forma autónoma.
+
+**Siempre que la respuesta venga de una búsqueda** (Discogs, precios, identificación de edición, trivia, lo que sea), cerrar con las keywords/queries exactas usadas — así ella puede repetir la búsqueda por su cuenta con la misma precisión, sin que se lo tenga que pedir cada vez.
 
 ## Archivos de referencia
 
