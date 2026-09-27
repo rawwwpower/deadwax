@@ -73,8 +73,12 @@ Primera edición, sello y país de origen coinciden (banda USA, sello Sire/Warne
 ### AC/DC — Back in Black (Alemania, Atlantic ATL/K 50735, WEA Musik GmbH)
 No hay "país de origen" único para este álbum (banda australiana, grabado en Bahamas, lanzado casi simultáneo mundialmente vía Atlantic). Entre las variantes, la jerarquía de calidad conocida es: USA original con mastering "RL" (Robert Ludwig) > UK primera prensa > Japón (más silenciosa) > reediciones modernas de valor. La alemana (WEA) no es la cima absoluta pero tiene muy buena fama de manufactura — compra sólida, no la pieza de museo.
 
+Variante vista también con catálogo **Atlantic SD 16018** (formato tipo USA) pero manufacturada por **Leidseplein Presse B.V.** (planta holandesa), ©1980 en la etiqueta — pinta a prensa de exportación europea con numeración estilo USA, no el original USA real (eso requiere confirmar "RL" en el runout, no visible en la etiqueta). Holanda pisa bien en manufactura europea, variante sólida más no la tope.
+
 ### Black Sabbath — Sabbath Bloody Sabbath: USA (Warner Bros BS 2695) vs Japón (Vertigo RJ-5113)
 Ninguna es el origen real (UK Vertigo 6360 101). Entre las dos, la japonesa gana: mejor manufactura general de Japón + este título específico tiene fama de que la edición japonesa resolvió mejor una masterización de origen problemática. La RJ-5113 viene con obi "Rock Impact '74", inserto de letras en inglés, tapa gatefold, y vinilo negro translúcido a la luz — señas de identidad para confirmarla sin depender de fotos.
+
+Variante japonesa distinta vista después: **reedición 1980 vía NEMS/Nippon Phonogram**, obi "来日記念盤" (edición conmemorativa de gira), catálogo de tapa SP18-5014 y en la etiqueta B1-5155 (WWA 005 II) con swirl Vertigo. Sigue siendo Japón (buena manufactura) pero es reedición posterior, no confirmado que comparta la misma ventaja de masterización que la RJ-5113 original. Dato de mercado real: copia NM con obi de esta variante se vendió por $410.000 ARS (londonrecordsar, Buenos Aires) — referencia de precio piso para Japón NM con obi en el mercado argentino.
 
 ## Checklist rápido antes de comprar
 

@@ -2,6 +2,18 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Rol de Claude en este proyecto (pedido explícito de Ana)
+
+Ana quiere que Claude sea **su ingeniera tech y de sonido**, no solo asistente
+del catálogo: además de programar la app/skill, asesorar sobre equipo (bandejas,
+cápsulas, mixer, pre, parlantes), calidad de audio de prensados y técnica.
+Hablarle en castellano rioplatense.
+
+Ana **quiere aprender a mezclar vinilos** (DJ). Su equipo actual, el plan de
+compra y las decisiones tomadas viven en [`EQUIPO.md`](EQUIPO.md): leerlo antes
+de responder cualquier cosa de equipo o mezcla, y actualizarlo cuando se decida
+o se compre algo.
+
 ## What this repo is
 
 Two pieces sharing one SQLite database as source of truth:
@@ -38,8 +50,18 @@ No build, lint, or test tooling in this repo: it's a stdlib-only Python CLI plus
 ## Data model conventions (`data/coleccion.db`, table `discos`)
 
 - `owner`: `ana` (default) or `seba` — two separate personal collections. Never assume a record is Ana's without it being said; infer/ask explicitly.
-- `status`: `owned` / `evaluado_no_comprado` / `pendiente`. `pendiente` means "not decided whether to buy" (the export script maps it to the app's *wantlist*) — it is **not** for "owned but missing catalog/label/country data". A confirmed-owned record with an unidentified edition stays `status=owned` with those fields empty.
+- `status`: `owned` / `evaluado_no_comprado` / `pendiente` / `descubrimiento` (a record shown as a quick "ficha" for discovery, not a purchase evaluation).
+- `review`: Ana's or Seba's own listening impressions, kept apart from the technical `notas`. `genero`: specific genre, filled for descubrimientos.
+- `status` detail: `pendiente` means "not decided whether to buy" (the export script maps it to the app's *wantlist*) — it is **not** for "owned but missing catalog/label/country data". A confirmed-owned record with an unidentified edition stays `status=owned` with those fields empty.
 - Missing país/sello/catálogo at add-time: fill in what's known, leave the rest empty, don't ask again in the moment. `coleccion.py list --incomplete` surfaces every record with a gap, for periodic review rounds (see `SKILL.md`).
+
+## Branches: `main` is the only source of truth
+
+Every Claude session works on its own `claude/...` branch. In Sep 2026 seven of these had piled up unmerged, with collection records living only on side branches. To keep that from happening again:
+
+- **Start from `main`**: at the beginning of a session, merge the latest `origin/main` into the session branch before changing anything.
+- **Close by opening a PR to `main`** whenever the session saved work (commit + push), and tell Ana it's waiting for her "Merge" click. A session's work isn't saved until it's in `main`.
+- **`coleccion.db` is binary: git can't merge it.** On a conflict, never pick one side (records get lost). Merge row by row, keyed on `(owner, artista, titulo)`: union the columns and the rows, fill empty fields from the other side, and let `owned` win on `status`. Then regenerate `js/seed-data.js`.
 
 ## Environment note (this sandbox specifically)
 
