@@ -1,8 +1,7 @@
 # Dead Wax
 
-Proyecto personal de Ana (y Seba) para evaluar ediciones de vinilo antes de
-comprarlas (autenticación de prensados, jerarquía de plantas, red flags de
-sellos truchos) y llevar el catálogo de sus colecciones.
+Una guía para comprar vinilos como se compra una obra de arte: sabiendo qué
+edición es, quién la hizo y cuánto vale.
 
 Tiene dos piezas hoy, que todavía viven separadas pero son parte del mismo
 proyecto — ver [ROADMAP.md](ROADMAP.md) para cómo se piensan ir uniendo.
