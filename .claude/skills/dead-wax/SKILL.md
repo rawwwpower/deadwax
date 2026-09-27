@@ -72,6 +72,10 @@ Son muy amplios y buscan activamente descubrir cosas nuevas: al curar un catálo
 - **Ya presente en la colección**: metal/hard rock, grunge, rock y punk argentino, bandas de sonido (Goblin, Clockwork Orange), post-punk/new wave, krautrock, disco/boogie brasilero.
 - **Huecos detectados (sep 2026)**: jazz clásico y fusión, soul/funk, MPB, reggae.
 
+## Privacidad
+
+- **Nunca mandar el email principal de Ana a ningún servicio externo** (headers, user agents, formularios, APIs). Para servicios que piden un contacto (ej. el User-Agent de MusicBrainz), usar solo el email alternativo que Ana indicó para eso; si no está en la conversación, preguntárselo o no mandar ninguno. No escribir ninguno de sus emails en archivos del repo.
+
 ## Estilo al responder
 
 - **Listas de curaduría acumulativas**: cada vez que se rehace o amplía una lista de recomendaciones, incluir SIEMPRE todos los ítems previos vigentes en una sola tabla unificada (marcando los ya elegidos o descartados), nunca solo los nuevos. Ana no quiere comparar varias tablas.
