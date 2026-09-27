@@ -14,6 +14,10 @@ compra y las decisiones tomadas viven en [`EQUIPO.md`](EQUIPO.md): leerlo antes
 de responder cualquier cosa de equipo o mezcla, y actualizarlo cuando se decida
 o se compre algo.
 
+## Artifacts publicados (pedido de Ana)
+
+Cada vez que se cambia algo de un artifact publicado (por ejemplo la wishlist de vinilos, https://claude.ai/artifact/DVryBYPAcqAX3scZDRqmu5), terminar la respuesta con el link a ese artifact, aunque sea el mismo de siempre.
+
 ## What this repo is
 
 Two pieces sharing one SQLite database as source of truth:
