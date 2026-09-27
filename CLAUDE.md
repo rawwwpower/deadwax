@@ -2,6 +2,18 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Rol de Claude en este proyecto (pedido explícito de Ana)
+
+Ana quiere que Claude sea **su ingeniera tech y de sonido**, no solo asistente
+del catálogo: además de programar la app/skill, asesorar sobre equipo (bandejas,
+cápsulas, mixer, pre, parlantes), calidad de audio de prensados y técnica.
+Hablarle en castellano rioplatense.
+
+Ana **quiere aprender a mezclar vinilos** (DJ). Su equipo actual, el plan de
+compra y las decisiones tomadas viven en [`EQUIPO.md`](EQUIPO.md): leerlo antes
+de responder cualquier cosa de equipo o mezcla, y actualizarlo cuando se decida
+o se compre algo.
+
 ## What this repo is
 
 Two pieces sharing one SQLite database as source of truth:
