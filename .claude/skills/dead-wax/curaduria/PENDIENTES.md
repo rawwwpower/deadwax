@@ -12,12 +12,13 @@ Leer esto antes de seguir con cualquier compra, carga a la base o la página de 
 - Debe ser **liviana** (poca señal): nada externo en runtime; tapas embebidas como JPEG 88×88 (~2-3 KB c/u).
 - Datos: `feria-2026-09/full_data.js` (48 discos: 14 destacados, 28 también, 6 evitar). Lista original del proveedor: `lista-proveedor.txt` (561 ítems).
 
-### Tapas: PENDIENTE
+### Tapas: HECHO (27/09, versión 5 del artifact)
 
-- `mbids.json`: release-group de MusicBrainz para 44 de 47 títulos (sin tapa: Milton *Paixão e Fé*, y los bootlegs de Talking Heads y Boston).
-- `covers.py` baja `front-250` de Cover Art Archive, reduce a 88×88 y guarda `covers.json` (data URIs). Después, meter ese JSON en `const COVERS = {}` de la página (clave `"Artista | Título"`) y republicar.
-- Contacto para el User-Agent de MusicBrainz: variable de entorno `MB_CONTACT` (pedírselo a Ana; nunca usar su email principal).
-- Bloqueo: Cover Art Archive redirige a `dnXXXXXX.ca.archive.org` / `iaXXX.us.archive.org`. Ana agregó `*.ca.archive.org` y `*.us.archive.org` en Network access, pero en la sesión anterior el proxy seguía rechazándolos. Probar primero: `curl -sS -o /dev/null -w "%{http_code}" https://dn710703.ca.archive.org/`.
+- 43 de 47 títulos con tapa embebida (88×88 JPEG, ~120 KB en total; la página pesa ~173 KB). Revisadas a ojo con una hoja de contacto.
+- Sin tapa (quedan con iniciales): Milton *Paixão e Fé* (no está en MusicBrainz), Schoener *Video Magic* (ningún release tiene arte en Cover Art Archive) y los bootlegs de Talking Heads y Boston.
+- Corregidos en `mbids.json`: Queen I (apuntaba a un compilado de 1981) y Draw the Line (apuntaba al simple).
+- Cómo baja `covers.py`: los nodos `dnXXXXXX.ca.archive.org` / `iaXXX.us.archive.org` **siguen bloqueados** por el proxy aunque estén en Network access. El script toma el identificador del item de la redirección de Cover Art Archive y baja `archive.org/services/img/<item>` (miniatura de ~180 px, servida directo por archive.org). Para reintentar algunos: `python3 covers.py "Artista | Título" ...` (los suma a `covers.json`).
+- Para agregar tapas a discos nuevos: sumar el MBID a `mbids.json`, correr `covers.py` con esas claves y reemplazar el objeto `COVERS` de la página con el contenido de `covers.json`.
 
 ## 2. Javierfan (javierfandiscos.com.ar)
 
