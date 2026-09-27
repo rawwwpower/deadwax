@@ -105,7 +105,7 @@ Antes de cualquier curaduría, compra o carga, leer `curaduria/PENDIENTES.md`: t
 
 ## Datos curiosos al sumar o comentar un disco
 
-Cada vez que Ana suma un disco a la colección (o pregunta por un tema/disco puntual), además de catalogarlo agregar **datos curiosos y conexiones que se desprendan**: de dónde viene una melodía, a qué canción le toma prestado el groove, samples famosos que salieron de ahí, músicos de sesión, historia del sello o de la grabación, covers, contexto de época. Ordenar la cronología cuando hay préstamos cruzados (qué fue primero). Buscarlos en la web y citar fuentes, nunca inventarlos de memoria.
+**Obligatorio, también en modo rush y aunque la carga en la base sea silenciosa.** Cada vez que Ana suma un disco a la colección (o pregunta por un tema/disco puntual), además de catalogarlo agregar **datos curiosos y conexiones que se desprendan**: de dónde viene una melodía, a qué canción le toma prestado el groove, samples famosos que salieron de ahí, músicos de sesión, historia del sello o de la grabación, covers, contexto de época. Ordenar la cronología cuando hay préstamos cruzados (qué fue primero). Buscarlos en la web y citar fuentes, nunca inventarlos de memoria. Va en la línea "🔗 Dato/conexión" de la plantilla (o "Dato:" en la ficha rápida); en una carga de varios discos, una línea por disco. La confirmación de carga nunca sale sin ese dato.
 
 Ejemplo de lo que le gusta: "Sōma Nagareyama" (Kiyoshi Yamaya & Kifu Mitsuhashi, 1976, serie Wamono) es una melodía folk tradicional de Fukushima (festival Sōma Nomaoi) montada sobre el groove de "Superstition" de Stevie Wonder (1972).
 
@@ -131,6 +131,7 @@ Español argentino, informal, directo. Sin guiones largos (—); usar comas, dos
 - País origen · país prensa
 - [dato de autenticidad o edición, si aplica]
 - [red flag o duda puntual, si aplica]
+- 🔗 Dato/conexión: [curiosidad o vínculo con otro tema/disco, buscado en la web]
 ```
 
 Una tabla reemplaza los bullets cuando hay varios campos parejos (ej. comparar dos ediciones). Nada de bloques de 3+ oraciones seguidas.
