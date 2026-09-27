@@ -382,13 +382,14 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-41",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "AC/DC",
     "album": "Back in Black",
     "label": "Atlantic / WEA Musik GmbH",
     "year": "1980",
     "format": "LP",
-    "notes": "País: Alemania · Catálogo: ATL/K 50735 (SD 16018) · Prensado: Ya documentado en mi guía (guia-completa.md): jerarquía de calidad conocida USA (mastering RL, Robert Ludwig) > UK primera prensa > Japón > Alemania (WEA). La alemana no es la cima absoluta pero tiene muy buena fama de manufactura — compra sólida, no la pieza de museo. Varias variantes de matrix dentro de la misma edición alemana, todas legítimas.\nVEREDICTO: compra sólida y segura."
+    "notes": "País: Alemania · Catálogo: ATL/K 50735 (SD 16018) · Prensado: Ya documentado en mi guía (guia-completa.md): jerarquía de calidad conocida USA (mastering RL, Robert Ludwig) > UK primera prensa > Japón > Alemania (WEA). La alemana no es la cima absoluta pero tiene muy buena fama de manufactura — compra sólida, no la pieza de museo. Varias variantes de matrix dentro de la misma edición alemana, todas legítimas.\nVEREDICTO: compra sólida y segura.",
+    "owner": "yo"
   },
   {
     "id": "dw-42",
@@ -479,5 +480,67 @@ window.DEADWAX_SEED = [
     "year": "2003",
     "format": "LP",
     "notes": "País: USA · Catálogo: PRO-A-101097 · Prensado: Promo US confirmado, 'Not For Sale'. Remix de 'American Life' con Missy Elliott y Tweet, usado para meter el tema en radios urbanas (el original no pegó ahí). Viene en packaging especial (caja negra con sticker), no funda genérica. Tracklist: Missy Elliott American Dream Remix (4:40) / Instrumental / Clean Edit.\nConsultado, no comprado. Buena pieza por el cruce con Missy Elliott/Tweet."
+  },
+  {
+    "id": "dw-51",
+    "type": "collection",
+    "artist": "Walter Carlos",
+    "album": "Electronic Bach (Switched-On Bach)",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "Prensado: Edición sin confirmar (país, sello, catálogo). En Argentina salió como 'Electronic Bach'.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-54",
+    "type": "wantlist",
+    "artist": "Grace Jones",
+    "album": "Inside Story",
+    "label": "",
+    "year": "1986",
+    "format": "LP",
+    "notes": "Prensado: Contratapa con barniz spot dice 'SUPER LUXO' (portugués), sugiere prensa brasileña de época, no reedición audiófila moderna como se pensó al principio. Producido por Nile Rodgers, DMM mencionado para el original. Falta catálogo/etiqueta para confirmar país y año exacto.\nTapa wireframe Jean-Paul Goude, gatefold con mapa de Jamaica + shuttle. Tracklist confirmado igual al de Inside Story. Discogs bloqueado esta sesión, sin cruzar aún."
+  },
+  {
+    "id": "dw-57",
+    "type": "collection",
+    "artist": "Aerosmith",
+    "album": "Toys in the Attic",
+    "label": "Columbia",
+    "year": "1975",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: PC 33479 (RSD 2013 reissue) · Prensado: Reedición Record Store Day 2013, numerada, tirada de 5000, 180g HQ, masterizada de cintas analógicas originales por Ryan Smith en Sterling Sound. Runout debería decir STERLING RKS. No es la prensa original del 75 pese al label rojo estilo clásico Columbia.\nComprada por Seba.",
+    "owner": "seba"
+  },
+  {
+    "id": "dw-59",
+    "type": "wantlist",
+    "artist": "Madonna",
+    "album": "Music (single, no el álbum)",
+    "label": "Maverick / Warner Bros.",
+    "year": "2000",
+    "format": "LP",
+    "notes": "Prensado: Tapa del SINGLE 'Music' (arte vaquero/heno), no la del álbum completo. Reusada en varios formatos (12', CD single) internacionalmente.\nFalta contratapa/lomo o etiqueta para confirmar catálogo y edición exacta (US/UK/promo)."
+  },
+  {
+    "id": "dw-71",
+    "type": "wantlist",
+    "artist": "The Chemical Brothers",
+    "album": "Galvanize (12\")",
+    "label": "Freestyle Dust / Virgin (a confirmar)",
+    "year": "2004",
+    "format": "LP",
+    "notes": "Single de Push the Button (con Q-Tip). Sticker promo blanco en la tapa, texto no legible en la foto, podría ser copia promo. Falta catálogo y foto de etiqueta para cerrar."
+  },
+  {
+    "id": "dw-80",
+    "type": "wantlist",
+    "artist": "Black Sabbath",
+    "album": "Sabbath Bloody Sabbath (copia propia de Ana, edición sin confirmar)",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "Prensado: Solo se vio tapa (círculo pequeño arriba a la izquierda, catálogo no legible), nunca llegó la foto de etiqueta pedida.\nSe comparó contra una prensa japonesa NEMS 1980 (VIP-8988 / SP18-5014 / B1-5155 WWA 005 II) vista en un post de Instagram de @londonrecordsar, vendida en $410.000 ARS NM con obi (esa variante ya está documentada en references/guia-completa.md, no es la copia de Ana). Falta la etiqueta de la copia de Ana para saber en qué punto de la jerarquía cae la suya."
   }
 ];
