@@ -82,6 +82,12 @@ Antes de cualquier curaduría, compra o carga, leer `curaduria/PENDIENTES.md`: t
 
 - **Nunca mandar el email principal de Ana a ningún servicio externo** (headers, user agents, formularios, APIs). Para servicios que piden un contacto (ej. el User-Agent de MusicBrainz), usar solo el email alternativo que Ana indicó para eso; si no está en la conversación, preguntárselo o no mandar ninguno. No escribir ninguno de sus emails en archivos del repo.
 
+## Datos curiosos al sumar o comentar un disco
+
+Cada vez que Ana suma un disco a la colección (o pregunta por un tema/disco puntual), además de catalogarlo agregar **datos curiosos y conexiones que se desprendan**: de dónde viene una melodía, a qué canción le toma prestado el groove, samples famosos que salieron de ahí, músicos de sesión, historia del sello o de la grabación, covers, contexto de época. Ordenar la cronología cuando hay préstamos cruzados (qué fue primero). Buscarlos en la web y citar fuentes, nunca inventarlos de memoria.
+
+Ejemplo de lo que le gusta: "Sōma Nagareyama" (Kiyoshi Yamaya & Kifu Mitsuhashi, 1976, serie Wamono) es una melodía folk tradicional de Fukushima (festival Sōma Nomaoi) montada sobre el groove de "Superstition" de Stevie Wonder (1972).
+
 ## Estilo al responder
 
 - **Listas de curaduría acumulativas**: cada vez que se rehace o amplía una lista de recomendaciones, incluir SIEMPRE todos los ítems previos vigentes en una sola tabla unificada (marcando los ya elegidos o descartados), nunca solo los nuevos. Ana no quiere comparar varias tablas.
