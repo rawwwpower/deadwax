@@ -62,6 +62,12 @@ Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`,
 - Siempre guardar el catálogo exacto y, si existe, el Discogs release ID — son la clave para no confundir ediciones parecidas.
 - **Campo `owner`**: la base guarda dos colecciones separadas, `ana` (default) y `seba` — comparten sesiones de escucha pero son colecciones distintas de cada uno. Nunca asumir que un disco es de Ana si no se aclara; si Ana menciona algo de Seba (o viceversa), usar `--owner seba` explícitamente. Al buscar o listar, tener en cuenta que puede haber resultados de ambos dueños.
 
+## Datos curiosos al sumar o comentar un disco
+
+Cada vez que Ana suma un disco a la colección (o pregunta por un tema/disco puntual), además de catalogarlo agregar **datos curiosos y conexiones que se desprendan**: de dónde viene una melodía, a qué canción le toma prestado el groove, samples famosos que salieron de ahí, músicos de sesión, historia del sello o de la grabación, covers, contexto de época. Ordenar la cronología cuando hay préstamos cruzados (qué fue primero). Buscarlos en la web y citar fuentes, nunca inventarlos de memoria.
+
+Ejemplo de lo que le gusta: "Sōma Nagareyama" (Kiyoshi Yamaya & Kifu Mitsuhashi, 1976, serie Wamono) es una melodía folk tradicional de Fukushima (festival Sōma Nomaoi) montada sobre el groove de "Superstition" de Stevie Wonder (1972).
+
 ## Estilo al responder
 
 Español argentino, informal, directo. Sin guiones largos (—); usar comas, dos puntos o paréntesis. Veredictos claros, no hedgeados. Raw/Ana suele mandar fotos con poco texto: extraer e interpretar los detalles relevantes de la foto de forma autónoma.
