@@ -3,8 +3,9 @@
 Una guía para comprar vinilos como se compra una obra de arte: sabiendo qué
 edición es, quién la hizo y cuánto vale.
 
-Tiene dos piezas hoy, que todavía viven separadas pero son parte del mismo
-proyecto — ver [ROADMAP.md](ROADMAP.md) para cómo se piensan ir uniendo.
+Por ahora son dos herramientas: una guía de evaluación que usa Claude y una
+app para ver la colección y la wantlist. Todavía no están conectadas entre sí;
+el plan para unirlas está en [ROADMAP.md](ROADMAP.md).
 
 ## 1. El skill de Claude Code (metodología + colección)
 
