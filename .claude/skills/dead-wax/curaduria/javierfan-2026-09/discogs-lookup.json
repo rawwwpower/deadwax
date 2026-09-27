@@ -1,0 +1,1556 @@
+[
+ {
+  "artist": "Motorhead",
+  "title": "No Sleep",
+  "catno": "BRON 535",
+  "price": 68500,
+  "cands": [
+   {
+    "id": 22593752,
+    "title": "Motörhead - No Sleep 'til Hammersmith",
+    "country": "Scandinavia",
+    "year": "1981",
+    "catno": "BRON-535",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 65,
+    "want": 83,
+    "low": 37.49,
+    "n": 3
+   },
+   {
+    "id": 1923533,
+    "title": "Motörhead - No Sleep 'til Hammersmith",
+    "country": "Scandinavia",
+    "year": "1981",
+    "catno": "BRON 535",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 1338,
+    "want": 222,
+    "low": 17.05,
+    "n": 9
+   },
+   {
+    "id": 8351177,
+    "title": "Motörhead - No Sleep 'til Hammersmith",
+    "country": "Ireland",
+    "year": "1981",
+    "catno": "BRON 535",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 51,
+    "want": 91,
+    "low": 45.4,
+    "n": 5
+   },
+   {
+    "id": 8232360,
+    "title": "Motörhead - No Sleep 'til Hammersmith",
+    "country": "Singapore, Malaysia & Hong Kong",
+    "year": "1981",
+    "catno": "BRON 535",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 22,
+    "want": 158,
+    "low": 79.99,
+    "n": 3
+   },
+   {
+    "id": 372329,
+    "title": "Motörhead - No Sleep 'Til Hammersmith",
+    "country": "UK",
+    "year": "1981",
+    "catno": "BRON 535",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 4872,
+    "want": 939,
+    "low": 10.67,
+    "n": 37
+   },
+   {
+    "id": 11126775,
+    "title": "Motörhead - No Sleep 'til Hammersmith",
+    "country": "UK",
+    "year": "1981",
+    "catno": "BRON 535",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 525,
+    "want": 227,
+    "low": 15.06,
+    "n": 10
+   }
+  ]
+ },
+ {
+  "artist": "Al Green",
+  "title": "Livin' For You",
+  "catno": "32082",
+  "price": 38960,
+  "cands": [
+   {
+    "id": 1489552,
+    "title": "Al Green - Livin' For You",
+    "country": "US",
+    "year": "1973",
+    "catno": "ASHL 32082",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 2126,
+    "want": 484,
+    "low": 1.99,
+    "n": 22
+   },
+   {
+    "id": 14050003,
+    "title": "Al Green - Livin' For You",
+    "country": "Venezuela",
+    "year": "1973",
+    "catno": "ASHL 32082",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 3,
+    "want": 74,
+    "low": 9.98,
+    "n": 1
+   },
+   {
+    "id": 4301656,
+    "title": "Al Green - Livin' For You",
+    "country": "US",
+    "year": "1973",
+    "catno": "ASHL 32082",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 392,
+    "want": 203,
+    "low": 2.99,
+    "n": 16
+   },
+   {
+    "id": 6891576,
+    "title": "Al Green - Livin' For You ",
+    "country": "US",
+    "year": "1973",
+    "catno": "ASHL 32082",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 252,
+    "want": 170,
+    "low": 5.0,
+    "n": 22
+   },
+   {
+    "id": 12730773,
+    "title": "Al Green - Livin' For You",
+    "country": "US",
+    "year": "1973",
+    "catno": "ASHL 32082",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Club Edition",
+     "Stereo"
+    ],
+    "have": 66,
+    "want": 114,
+    "low": 3.99,
+    "n": 2
+   },
+   {
+    "id": 6691171,
+    "title": "Al Green - Livin' For You",
+    "country": "Jamaica",
+    "year": "1973",
+    "catno": "ASHL 32082",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 18,
+    "want": 111,
+    "low": 20.0,
+    "n": 1
+   }
+  ]
+ },
+ {
+  "artist": "Miles Davis",
+  "title": "Friday Night",
+  "catno": "CL 1669",
+  "price": 87400,
+  "cands": [
+   {
+    "id": 4729504,
+    "title": "Miles Davis - In Person, Friday Night At The Blackhawk, San Francisco, Volume I",
+    "country": "US",
+    "year": "1961",
+    "catno": "CL-1669",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Mono"
+    ],
+    "have": 1257,
+    "want": 203,
+    "low": 2.99,
+    "n": 22
+   },
+   {
+    "id": 6126074,
+    "title": "Miles Davis - In Person, Friday Night At The Blackhawk, San Francisco, Volume I",
+    "country": "US",
+    "year": null,
+    "catno": "CL-1669",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Repress",
+     "Mono"
+    ],
+    "have": 164,
+    "want": 65,
+    "low": 3.99,
+    "n": 10
+   },
+   {
+    "id": 12487532,
+    "title": "Miles Davis - Miles Davis In Person Friday Night At The Blackhawk, San Francisco (Volume I)",
+    "country": "US",
+    "year": "1961",
+    "catno": "CL 1669",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Mono"
+    ],
+    "have": 152,
+    "want": 90,
+    "low": 10.65,
+    "n": 5
+   },
+   {
+    "id": 35018825,
+    "title": "Miles Davis - Miles Davis In Person Friday Night At The Blackhawk, San Francisco (Volume 1)",
+    "country": "US",
+    "year": "1961",
+    "catno": "CL 1669",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Mono"
+    ],
+    "have": 4,
+    "want": 7,
+    "low": null,
+    "n": 0
+   },
+   {
+    "id": 2155247,
+    "title": "Miles Davis - In Person, Friday Night At The Blackhawk, San Francisco, Volume I",
+    "country": "US",
+    "year": "1961",
+    "catno": "CL 1669",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Mono"
+    ],
+    "have": 377,
+    "want": 151,
+    "low": 14.99,
+    "n": 8
+   },
+   {
+    "id": 21809326,
+    "title": "Miles Davis - In Person, Friday Night At The Blackhawk, San Francisco, Volume I",
+    "country": "US",
+    "year": "1961",
+    "catno": "CL-1669",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Mono"
+    ],
+    "have": 98,
+    "want": 45,
+    "low": 46.0,
+    "n": 4
+   }
+  ]
+ },
+ {
+  "artist": "Caetano Veloso",
+  "title": "Outras Palavras",
+  "catno": "6328 303",
+  "price": 55800,
+  "cands": [
+   {
+    "id": 5531816,
+    "title": "Caetano Veloso - Outras Palavras",
+    "country": "Portugal",
+    "year": "1981",
+    "catno": "6328 303",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 183,
+    "want": 90,
+    "low": 17.05,
+    "n": 6
+   },
+   {
+    "id": 15460285,
+    "title": "Caetano Veloso - Outras Palavras",
+    "country": "Uruguay",
+    "year": "1982",
+    "catno": "6328 303",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 2,
+    "want": 27,
+    "low": null,
+    "n": 0
+   },
+   {
+    "id": 22711505,
+    "title": "Caetano Veloso - Outras Palavras",
+    "country": "Brazil",
+    "year": "1987",
+    "catno": "6328 303",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Reissue"
+    ],
+    "have": 10,
+    "want": 24,
+    "low": null,
+    "n": 0
+   },
+   {
+    "id": 10831730,
+    "title": "Caetano* - Outras Palavras",
+    "country": "Brazil",
+    "year": "1985",
+    "catno": "6328 303",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Reissue"
+    ],
+    "have": 124,
+    "want": 62,
+    "low": 17.05,
+    "n": 12
+   },
+   {
+    "id": 6880696,
+    "title": "Caetano Veloso - Outras Palavras",
+    "country": "Brazil",
+    "year": "1981",
+    "catno": "6328 303",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 1917,
+    "want": 197,
+    "low": 5.85,
+    "n": 36
+   },
+   {
+    "id": 2388303,
+    "title": "Caetano Veloso - Outras Palavras",
+    "country": "Brazil",
+    "year": "1981",
+    "catno": "6328.303",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 691,
+    "want": 164,
+    "low": 11.7,
+    "n": 9
+   }
+  ]
+ },
+ {
+  "artist": "Bob Marley",
+  "title": "Rastaman Vibration",
+  "catno": "ILPS 9383",
+  "price": 92700,
+  "cands": [
+   {
+    "id": 22313893,
+    "title": "Bob Marley & The Wailers - Rastaman Vibration",
+    "country": "Barbados",
+    "year": null,
+    "catno": "ILPS 9383",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Stereo"
+    ],
+    "have": 17,
+    "want": 82,
+    "low": null,
+    "n": 0
+   },
+   {
+    "id": 4086679,
+    "title": "Bob Marley & The Wailers - Rastaman Vibration",
+    "country": "UK",
+    "year": null,
+    "catno": "ILPS 9383",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Reissue"
+    ],
+    "have": 111,
+    "want": 193,
+    "low": 18.67,
+    "n": 8
+   },
+   {
+    "id": 23007626,
+    "title": "Bob Marley & The Wailers - Rastaman Vibration",
+    "country": "US",
+    "year": "1979",
+    "catno": "ILPS 9383",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Repress"
+    ],
+    "have": 64,
+    "want": 104,
+    "low": 19.99,
+    "n": 2
+   },
+   {
+    "id": 13751835,
+    "title": "Bob Marley & The Wailers - Rastaman Vibration",
+    "country": "US",
+    "year": "1979",
+    "catno": "ILPS 9383",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Repress"
+    ],
+    "have": 352,
+    "want": 158,
+    "low": 10.98,
+    "n": 9
+   },
+   {
+    "id": 16770972,
+    "title": "Bob Marley & The Wailers - Rastaman Vibration",
+    "country": "Canada",
+    "year": "1976",
+    "catno": "ILPS 9383",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 99,
+    "want": 123,
+    "low": 14.18,
+    "n": 6
+   },
+   {
+    "id": 5812349,
+    "title": "Bob Marley & The Wailers - Rastaman Vibration",
+    "country": "Barbados",
+    "year": "1976",
+    "catno": "ILPS 9383",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 62,
+    "want": 209,
+    "low": 28.41,
+    "n": 2
+   }
+  ]
+ },
+ {
+  "artist": "Jean-Luc Ponty",
+  "title": "King Kong",
+  "catno": "LBS 83375",
+  "price": 63200,
+  "cands": [
+   {
+    "id": 13428063,
+    "title": "Jean-Luc Ponty - King Kong (Jean-Luc Ponty Plays The Music Of Frank Zappa)",
+    "country": "UK",
+    "year": "1970",
+    "catno": "LBS 83375",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 137,
+    "want": 53,
+    "low": 11.36,
+    "n": 11
+   },
+   {
+    "id": 4075969,
+    "title": "Jean-Luc Ponty - King Kong: Jean-Luc Ponty Plays The Music Of Frank Zappa",
+    "country": "Germany",
+    "year": "1970",
+    "catno": "LBS 83 375 I",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 159,
+    "want": 85,
+    "low": 11.36,
+    "n": 18
+   },
+   {
+    "id": 31978103,
+    "title": "Jean-Luc Ponty - King Kong (Jean-Luc Ponty Plays The Music Of Frank Zappa)",
+    "country": "UK",
+    "year": "1970",
+    "catno": "LBS 83375",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 3,
+    "want": 18,
+    "low": 32.6,
+    "n": 1
+   },
+   {
+    "id": 6525534,
+    "title": "Jean-Luc Ponty - King Kong (Jean-Luc Ponty Plays The Music Of Frank Zappa)",
+    "country": "UK",
+    "year": "1970",
+    "catno": "LBS 83375",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 219,
+    "want": 81,
+    "low": 12.13,
+    "n": 13
+   },
+   {
+    "id": 2756110,
+    "title": "Jean-Luc Ponty - King Kong: Jean-Luc Ponty Plays The Music Of Frank Zappa",
+    "country": "France",
+    "year": "1970",
+    "catno": "LBS 83375",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 139,
+    "want": 80,
+    "low": 5.68,
+    "n": 10
+   },
+   {
+    "id": 916033,
+    "title": "Jean-Luc Ponty - King Kong (Jean-Luc Ponty Plays The Music Of Frank Zappa)",
+    "country": "UK",
+    "year": "1970",
+    "catno": "LBS 83375",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 719,
+    "want": 142,
+    "low": 9.7,
+    "n": 27
+   }
+  ]
+ },
+ {
+  "artist": "Milton Nascimento",
+  "title": "Ultimo Trem",
+  "catno": "FARO217DLP",
+  "price": 63200,
+  "cands": [
+   {
+    "id": 15838821,
+    "title": "Milton Nascimento - Último Trem",
+    "country": "UK",
+    "year": "2020",
+    "catno": "FARO217DLP",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Record Store Day"
+    ],
+    "have": 350,
+    "want": 135,
+    "low": 20.0,
+    "n": 20
+   }
+  ]
+ },
+ {
+  "artist": "Isaac Hayes",
+  "title": "Joy",
+  "catno": "ENS-5007",
+  "price": 48500,
+  "cands": [
+   {
+    "id": 1926996,
+    "title": "Isaac Hayes - Joy",
+    "country": "Canada",
+    "year": "1973",
+    "catno": "ENS-5007",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 632,
+    "want": 144,
+    "low": 3.0,
+    "n": 23
+   },
+   {
+    "id": 9509347,
+    "title": "Isaac Hayes - Joy",
+    "country": "US",
+    "year": "1973",
+    "catno": "ENS-5007",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 217,
+    "want": 128,
+    "low": 5.99,
+    "n": 15
+   },
+   {
+    "id": 574637,
+    "title": "Isaac Hayes - Joy",
+    "country": "US",
+    "year": "1973",
+    "catno": "ENS-5007",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 5424,
+    "want": 558,
+    "low": 1.99,
+    "n": 184
+   },
+   {
+    "id": 8100106,
+    "title": "Isaac Hayes - Joy",
+    "country": "US",
+    "year": "1973",
+    "catno": "ENS 5007",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Promo"
+    ],
+    "have": 60,
+    "want": 133,
+    "low": 3.91,
+    "n": 8
+   },
+   {
+    "id": 25410745,
+    "title": "Isaac Hayes - Joy",
+    "country": "US",
+    "year": "1973",
+    "catno": "ENS-5007",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Club Edition",
+     "Stereo"
+    ],
+    "have": 121,
+    "want": 55,
+    "low": null,
+    "n": 0
+   },
+   {
+    "id": 18421633,
+    "title": "Isaac Hayes - Joy",
+    "country": "US",
+    "year": "1973",
+    "catno": "ENS-5007",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 240,
+    "want": 89,
+    "low": 2.87,
+    "n": 24
+   }
+  ]
+ },
+ {
+  "artist": "Quincy Jones",
+  "title": "Body Heat",
+  "catno": "GP-224",
+  "price": 71600,
+  "cands": [
+   {
+    "id": 6016195,
+    "title": "Quincy Jones - Body Heat",
+    "country": "Japan",
+    "year": "1974",
+    "catno": "GP-224",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 243,
+    "want": 185,
+    "low": 5.57,
+    "n": 25
+   }
+  ]
+ },
+ {
+  "artist": "Hawkwind",
+  "title": "Hall Of The Mountain Grill",
+  "catno": "UAG 29672",
+  "price": 73700,
+  "cands": [
+   {
+    "id": 20565607,
+    "title": "Hawkwind - Hall Of The Mountain Grill",
+    "country": "France",
+    "year": "1974",
+    "catno": "UAG 29672",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 130,
+    "want": 119,
+    "low": 22.73,
+    "n": 6
+   },
+   {
+    "id": 9700029,
+    "title": "Hawkwind - Hall Of The Mountain Grill",
+    "country": "France",
+    "year": null,
+    "catno": "UAG 29672",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Reissue"
+    ],
+    "have": 74,
+    "want": 200,
+    "low": 50.39,
+    "n": 2
+   },
+   {
+    "id": 14579455,
+    "title": "Hawkwind - Hall Of The Mountain Grill",
+    "country": "UK",
+    "year": "1974",
+    "catno": "UAG 29672",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 117,
+    "want": 195,
+    "low": 25.6,
+    "n": 4
+   },
+   {
+    "id": 12982203,
+    "title": "Hawkwind - Hall Of The Mountain Grill",
+    "country": "UK",
+    "year": "1974",
+    "catno": "UAG 29672",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 142,
+    "want": 246,
+    "low": 23.99,
+    "n": 4
+   },
+   {
+    "id": 4731472,
+    "title": "Hawkwind - Hall Of The Mountain Grill",
+    "country": "Netherlands",
+    "year": "1974",
+    "catno": "UAG 29672",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 111,
+    "want": 265,
+    "low": 33.58,
+    "n": 1
+   },
+   {
+    "id": 4550443,
+    "title": "Hawkwind - Hall Of The Mountain Grill",
+    "country": "UK",
+    "year": "1974",
+    "catno": "UAG 29672",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 1704,
+    "want": 556,
+    "low": 13.64,
+    "n": 53
+   }
+  ]
+ },
+ {
+  "artist": "New York Dolls",
+  "title": "Too Much Too Soon",
+  "catno": "6338 498",
+  "price": 79000,
+  "cands": [
+   {
+    "id": 12115874,
+    "title": "New York Dolls - Too Much Too Soon",
+    "country": "New Zealand",
+    "year": "1974",
+    "catno": "6338 498",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 32,
+    "want": 104,
+    "low": null,
+    "n": 0
+   },
+   {
+    "id": 32052537,
+    "title": "New York Dolls - Too Much Too Soon",
+    "country": "Australia",
+    "year": "1974",
+    "catno": "6338 498",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 2,
+    "want": 34,
+    "low": null,
+    "n": 0
+   },
+   {
+    "id": 6655984,
+    "title": "New York Dolls - Too Much Too Soon",
+    "country": "Germany",
+    "year": "1974",
+    "catno": "6338 498",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 217,
+    "want": 183,
+    "low": 27.05,
+    "n": 12
+   },
+   {
+    "id": 23114735,
+    "title": "New York Dolls - Too Much Too Soon",
+    "country": "Australia",
+    "year": "1974",
+    "catno": "6338 498",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 10,
+    "want": 67,
+    "low": null,
+    "n": 0
+   },
+   {
+    "id": 1527059,
+    "title": "New York Dolls - Too Much Too Soon",
+    "country": "Germany",
+    "year": "1974",
+    "catno": "6338 498",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Promo",
+     "Test Pressing"
+    ],
+    "have": 14,
+    "want": 152,
+    "low": null,
+    "n": 0
+   },
+   {
+    "id": 4866703,
+    "title": "New York Dolls - Too Much Too Soon",
+    "country": "Australia",
+    "year": "1974",
+    "catno": "6338 498",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 94,
+    "want": 145,
+    "low": null,
+    "n": 0
+   }
+  ]
+ },
+ {
+  "artist": "Damned",
+  "title": "Anything",
+  "catno": "MCG 6015",
+  "price": 82200,
+  "cands": [
+   {
+    "id": 1227274,
+    "title": "The Damned - Anything",
+    "country": "UK",
+    "year": "1986",
+    "catno": "MCG 6015",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Limited Edition",
+     "Special Edition",
+     "Stereo"
+    ],
+    "have": 3030,
+    "want": 333,
+    "low": 9.09,
+    "n": 85
+   },
+   {
+    "id": 5970532,
+    "title": "The Damned - Anything",
+    "country": "Ireland",
+    "year": "1986",
+    "catno": "MCG 6015",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 122,
+    "want": 76,
+    "low": 39.72,
+    "n": 3
+   },
+   {
+    "id": 25039783,
+    "title": "The Damned - Anything",
+    "country": "UK",
+    "year": "1986",
+    "catno": "MCG 6015",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "White Label"
+    ],
+    "have": 4,
+    "want": 35,
+    "low": null,
+    "n": 0
+   },
+   {
+    "id": 5461755,
+    "title": "The Damned - Anything",
+    "country": "Portugal",
+    "year": "1986",
+    "catno": "MCG 6015.1",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 4,
+    "want": 78,
+    "low": null,
+    "n": 0
+   },
+   {
+    "id": 1473291,
+    "title": "The Damned - Anything",
+    "country": "Greece",
+    "year": "1986",
+    "catno": "254348-1",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 81,
+    "want": 73,
+    "low": 7.95,
+    "n": 15
+   },
+   {
+    "id": 1132771,
+    "title": "The Damned - Anything",
+    "country": "Europe",
+    "year": "1986",
+    "catno": "254 348-1",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 683,
+    "want": 127,
+    "low": 6.82,
+    "n": 25
+   }
+  ]
+ },
+ {
+  "artist": "Eleventh House",
+  "title": "Level One",
+  "catno": "AL 4052",
+  "price": 50600,
+  "cands": [
+   {
+    "id": 4106459,
+    "title": "The Eleventh House Featuring Larry Coryell - Level One",
+    "country": "Canada",
+    "year": "1975",
+    "catno": "AL 4052",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 227,
+    "want": 48,
+    "low": 4.25,
+    "n": 5
+   },
+   {
+    "id": 6775111,
+    "title": "The Eleventh House Featuring Larry Coryell - Level One",
+    "country": "US",
+    "year": "1975",
+    "catno": "AL 4052",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 289,
+    "want": 53,
+    "low": 4.0,
+    "n": 33
+   },
+   {
+    "id": 10282588,
+    "title": "The Eleventh House Featuring Larry Coryell - Level One",
+    "country": "US",
+    "year": "1975",
+    "catno": "AL 4052",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 198,
+    "want": 43,
+    "low": 4.99,
+    "n": 20
+   },
+   {
+    "id": 7680252,
+    "title": "The Eleventh House Featuring Larry Coryell - Level One",
+    "country": "US",
+    "year": "1975",
+    "catno": "AL 4052",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 51,
+    "want": 55,
+    "low": 2.44,
+    "n": 5
+   },
+   {
+    "id": 6858108,
+    "title": "The Eleventh House Featuring Larry Coryell - Level One",
+    "country": "Australia",
+    "year": "1975",
+    "catno": "AL 4052",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 22,
+    "want": 35,
+    "low": 13.38,
+    "n": 1
+   },
+   {
+    "id": 10741328,
+    "title": "The Eleventh House Featuring Larry Coryell - Level One",
+    "country": "New Zealand",
+    "year": "1975",
+    "catno": "AL 4052",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 12,
+    "want": 24,
+    "low": 11.29,
+    "n": 1
+   }
+  ]
+ },
+ {
+  "artist": "Anthrax",
+  "title": "State Of Euphoria",
+  "catno": "ILPS 9916",
+  "price": 94800,
+  "cands": [
+   {
+    "id": 1306899,
+    "title": "Anthrax - State Of Euphoria",
+    "country": "UK",
+    "year": "1988",
+    "catno": "ILPS 9916",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 2859,
+    "want": 281,
+    "low": 4.0,
+    "n": 24
+   },
+   {
+    "id": 1568615,
+    "title": "Anthrax - State Of Euphoria",
+    "country": "Scandinavia",
+    "year": "1988",
+    "catno": "ILPS 9916",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 1283,
+    "want": 144,
+    "low": 20.22,
+    "n": 6
+   },
+   {
+    "id": 38462988,
+    "title": "Anthrax - State Of Euphoria",
+    "country": "Europe",
+    "year": "1988",
+    "catno": "ILPS 9916",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 1,
+    "want": 0,
+    "low": null,
+    "n": 0
+   },
+   {
+    "id": 2685213,
+    "title": "Anthrax - State Of Euphoria",
+    "country": "Italy",
+    "year": "1988",
+    "catno": "ILPS 9916",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 781,
+    "want": 142,
+    "low": 11.36,
+    "n": 26
+   },
+   {
+    "id": 1596339,
+    "title": "Anthrax - State Of Euphoria",
+    "country": "UK",
+    "year": "1988",
+    "catno": "PILPS 9916",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Picture Disc"
+    ],
+    "have": 710,
+    "want": 215,
+    "low": 22.16,
+    "n": 14
+   },
+   {
+    "id": 4979932,
+    "title": "Anthrax - State Of Euphoria",
+    "country": "UK",
+    "year": "1988",
+    "catno": "PILPS-9916",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Picture Disc",
+     "Test Pressing"
+    ],
+    "have": 17,
+    "want": 124,
+    "low": null,
+    "n": 0
+   }
+  ]
+ },
+ {
+  "artist": "Stevie Wonder",
+  "title": "Fulfillingness",
+  "catno": "STMA 8019",
+  "price": 61100,
+  "cands": [
+   {
+    "id": 7091734,
+    "title": "Stevie Wonder - Fulfillingness' First Finale",
+    "country": "India",
+    "year": "1974",
+    "catno": "STMA 8019",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 28,
+    "want": 187,
+    "low": 400.0,
+    "n": 1
+   },
+   {
+    "id": 5565698,
+    "title": "Stevie Wonder - Fulfillingness' First Finale",
+    "country": "Portugal",
+    "year": "1974",
+    "catno": "STMA 8019",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 173,
+    "want": 205,
+    "low": 24.99,
+    "n": 2
+   },
+   {
+    "id": 4675007,
+    "title": "Stevie Wonder - Fulfillingness' First Finale",
+    "country": "Australia",
+    "year": "1974",
+    "catno": "STMA 8019",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 496,
+    "want": 215,
+    "low": 12.67,
+    "n": 8
+   },
+   {
+    "id": 2723683,
+    "title": "Stevie Wonder - Fulfillingness' First Finale",
+    "country": "UK",
+    "year": null,
+    "catno": "STMA 8019",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Reissue",
+     "Stereo"
+    ],
+    "have": 140,
+    "want": 208,
+    "low": 14.0,
+    "n": 1
+   },
+   {
+    "id": 12200208,
+    "title": "Stevie Wonder - Fulfillingness' First Finale",
+    "country": "UK",
+    "year": "1974",
+    "catno": "STMA 8019",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 493,
+    "want": 227,
+    "low": 8.0,
+    "n": 9
+   },
+   {
+    "id": 5383861,
+    "title": "Stevie Wonder - Fulfillingness' First Finale",
+    "country": "UK",
+    "year": "1974",
+    "catno": "STMA 8019",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Misprint",
+     "Stereo"
+    ],
+    "have": 749,
+    "want": 256,
+    "low": 5.0,
+    "n": 37
+   }
+  ]
+ },
+ {
+  "artist": "David Bowie",
+  "title": "Stage",
+  "catno": "PL 02913",
+  "price": 86400,
+  "cands": [
+   {
+    "id": 423048,
+    "title": "David Bowie - Stage",
+    "country": "France",
+    "year": "1978",
+    "catno": "PL  02913",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 307,
+    "want": 231,
+    "low": 169.89,
+    "n": 2
+   },
+   {
+    "id": 17593186,
+    "title": "David Bowie - Stage",
+    "country": "Germany",
+    "year": null,
+    "catno": "PL 02913",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Reissue",
+     "Stereo"
+    ],
+    "have": 87,
+    "want": 84,
+    "low": 18.18,
+    "n": 5
+   },
+   {
+    "id": 620617,
+    "title": "David Bowie - Stage",
+    "country": "Germany",
+    "year": "1978",
+    "catno": "PL 02913",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 2918,
+    "want": 250,
+    "low": 8.47,
+    "n": 60
+   },
+   {
+    "id": 24379121,
+    "title": "David Bowie - Stage",
+    "country": "Germany",
+    "year": "1978",
+    "catno": "PL 02913",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album",
+     "Stereo"
+    ],
+    "have": 63,
+    "want": 80,
+    "low": 14.2,
+    "n": 11
+   },
+   {
+    "id": 885337,
+    "title": "David Bowie - Stage",
+    "country": "Netherlands",
+    "year": "1978",
+    "catno": "PL 02913",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 541,
+    "want": 170,
+    "low": 12.49,
+    "n": 11
+   },
+   {
+    "id": 1630890,
+    "title": "David Bowie - Stage",
+    "country": "France",
+    "year": "1978",
+    "catno": "PL 02913",
+    "fmt": [
+     "Vinyl",
+     "LP",
+     "Album"
+    ],
+    "have": 461,
+    "want": 168,
+    "low": 2.84,
+    "n": 14
+   }
+  ]
+ }
+]
