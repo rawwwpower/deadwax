@@ -50,6 +50,7 @@ CREATE TABLE IF NOT EXISTS discos (
     etiquetas TEXT,             -- marcas cortas separadas por coma, ej. "país de origen, falta el single"
     resumen TEXT,               -- una línea para la página de vinilos (por qué está, cómo suena)
     fuente TEXT,                -- de dónde salió, ej. "feria 2026-09", "javierfan"
+    origen TEXT,                -- país de origen del disco (banda/sello original), criterio 2
     creado_en TEXT DEFAULT CURRENT_TIMESTAMP
 );
 
@@ -63,7 +64,9 @@ CREATE TABLE IF NOT EXISTS versiones (
     sonido TEXT,                -- cómo suena, según reviews
     precio TEXT,                -- referencia de precio (texto libre)
     donde TEXT,                 -- dónde se vio, ej. "London Records $130.000"
-    marca TEXT                  -- buscar (la recomendada) | evitar | NULL
+    marca TEXT,                 -- buscar (la recomendada) | evitar | NULL
+    pais TEXT,                  -- país de prensado de esa edición
+    confirmar TEXT              -- cómo reconocerla: etiqueta, matrix, tapa, inserts
 );
 """
 
@@ -75,13 +78,20 @@ MIGRATIONS = [
     ("etiquetas", "TEXT"),
     ("resumen", "TEXT"),
     ("fuente", "TEXT"),
+    ("origen", "TEXT"),
+]
+
+# Columnas agregadas a versiones después de crearla.
+MIGRATIONS_VERSIONES = [
+    ("pais", "TEXT"),
+    ("confirmar", "TEXT"),
 ]
 
 FIELDS = [
     "owner", "artista", "titulo", "pais", "sello", "catalogo", "anio", "genero",
     "prensado_notas", "dead_wax_matrix", "grading_disco", "grading_tapa",
     "status", "discogs_release_id", "precio", "fecha_adquirido", "notas",
-    "review", "prioridad", "etiquetas", "resumen", "fuente",
+    "review", "prioridad", "etiquetas", "resumen", "fuente", "origen",
 ]
 
 
@@ -94,6 +104,10 @@ def get_conn():
     for col, coltype in MIGRATIONS:
         if col not in existing_cols:
             conn.execute(f"ALTER TABLE discos ADD COLUMN {col} {coltype}")
+    existing_v = {row[1] for row in conn.execute("PRAGMA table_info(versiones)")}
+    for col, coltype in MIGRATIONS_VERSIONES:
+        if col not in existing_v:
+            conn.execute(f"ALTER TABLE versiones ADD COLUMN {col} {coltype}")
     conn.commit()
     return conn
 
@@ -204,8 +218,10 @@ def cmd_versiones(args):
 def cmd_version_add(args):
     conn = get_conn()
     conn.execute(
-        "INSERT INTO versiones (disco_id, orden, edicion, catalogo, sonido, precio, donde, marca) VALUES (?,?,?,?,?,?,?,?)",
-        [args.disco_id, args.orden, args.edicion, args.catalogo, args.sonido, args.precio, args.donde, args.marca],
+        "INSERT INTO versiones (disco_id, orden, edicion, catalogo, sonido, precio, donde, marca, pais, confirmar) "
+        "VALUES (?,?,?,?,?,?,?,?,?,?)",
+        [args.disco_id, args.orden, args.edicion, args.catalogo, args.sonido, args.precio, args.donde, args.marca,
+         args.pais, args.confirmar],
     )
     conn.commit()
     print(f"Versión {args.orden} agregada al disco {args.disco_id}.")
@@ -249,6 +265,7 @@ def build_parser():
     add_p.add_argument("--etiquetas")
     add_p.add_argument("--resumen")
     add_p.add_argument("--fuente")
+    add_p.add_argument("--origen", help="país de origen del disco (banda/sello original)")
     add_p.set_defaults(func=cmd_add)
 
     search_p = sub.add_parser("search")
@@ -291,6 +308,8 @@ def build_parser():
     va_p.add_argument("--precio")
     va_p.add_argument("--donde")
     va_p.add_argument("--marca", choices=["buscar", "evitar"])
+    va_p.add_argument("--pais")
+    va_p.add_argument("--confirmar", help="cómo reconocerla: etiqueta, matrix, tapa, inserts")
     va_p.set_defaults(func=cmd_version_add)
 
     sub.add_parser("stats").set_defaults(func=cmd_stats)

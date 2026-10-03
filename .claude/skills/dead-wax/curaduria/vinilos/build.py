@@ -82,7 +82,7 @@ def item(r):
         'l': 'coleccion' if owned else 'wishlist',
         'o': r['owner'],
         'p': r['prioridad'],
-        'a': r['artista'], 'd': r['titulo'],
+        'a': r['artista'], 'd': r['titulo'], 'or': r['origen'],
         'pa': r['pais'], 'se': r['sello'], 'ca': r['catalogo'], 'y': r['anio'],
         'g': grading(r), 'e': estilo(r['genero']),
         'ed': r['prensado_notas'] if not owned and r['fuente'] == 'feria 2026-09' else None,
@@ -96,7 +96,8 @@ def item(r):
 
 
 def versiones(conn, disco_id):
-    keys = {'edicion': 'e', 'catalogo': 'c', 'sonido': 's', 'precio': 'p', 'donde': 'w', 'marca': 'm'}
+    keys = {'edicion': 'e', 'catalogo': 'c', 'sonido': 's', 'precio': 'p', 'donde': 'w', 'marca': 'm',
+            'pais': 'pa', 'confirmar': 'k'}
     rows = conn.execute('SELECT * FROM versiones WHERE disco_id = ? ORDER BY orden', [disco_id]).fetchall()
     return [{k: r[col] for col, k in keys.items() if r[col]} for r in rows]
 

@@ -16,9 +16,7 @@
 html,body{background:var(--background);color:var(--foreground)}
 body{margin:0;font-family:var(--sans);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;text-size-adjust:100%;padding-inline:var(--page-pad-x);padding-block:var(--page-pad-y)}
 main{max-width:36rem}
-.head{min-height:3rem}
 h1{font-size:16px;font-weight:600;letter-spacing:-0.01em;color:var(--z100);margin:0}
-.head p{margin:0;color:var(--z400)}
 nav{margin:1.5rem 0 0 -0.75rem}
 nav ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap}
 .tabs{margin-top:1.25rem}
@@ -29,14 +27,6 @@ nav ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap}
 .f[aria-pressed="true"]{color:var(--z100);text-decoration:none}
 .f:focus-visible{outline:1px solid var(--z500);outline-offset:4px}
 .f .n{font-family:var(--mono);font-size:10px;letter-spacing:.06em;color:var(--z500);margin-left:6px}
-.search{margin-top:1.25rem;position:relative}
-.search input{width:100%;box-sizing:border-box;background:none;border:0;border-bottom:1px solid var(--z600);color:var(--z100);font:inherit;font-size:16px;padding:10px 28px 10px 0;border-radius:0;outline:none;transition:border-color 150ms var(--ease-out)}
-.search input::placeholder{color:var(--z500)}
-.search input:focus{border-bottom-color:var(--z400)}
-.search input::-webkit-search-cancel-button{display:none}
-.search .x{position:absolute;right:-10px;top:50%;transform:translateY(-50%);appearance:none;background:none;border:0;color:var(--z500);font:inherit;font-size:18px;cursor:pointer;width:44px;height:44px;display:none}
-.search .x:hover{color:var(--z100)}
-.search.on .x{display:block}
 .hint{margin-top:.75rem;font-family:var(--mono);font-size:10px;letter-spacing:.08em;color:var(--z500);min-height:1em}
 section{margin-top:2.75rem}
 h2{font-family:var(--mono);font-size:10px;font-weight:400;letter-spacing:.08em;color:var(--z500);margin:0 0 .5rem}
@@ -55,6 +45,33 @@ ul.list{list-style:none;margin:0;padding:0}
 .rv::after{content:"”"}
 .pr{align-self:start;padding-top:1px;font-family:var(--mono);font-size:12px;color:var(--z400);font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
 .pr small{display:block;font-size:10px;color:var(--z600)}
+.top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;min-height:3rem}
+.ttl{min-width:0}
+.ttl p{margin:0;color:var(--z400)}
+.sbox{display:flex;align-items:center;gap:4px;margin:-10px -10px 0 0}
+.sbox input{width:0;opacity:0;padding:8px 0;border:0;border-bottom:1px solid var(--z600);background:none;color:var(--z100);font:inherit;font-size:16px;outline:none;transition:width 200ms var(--ease-out),opacity 150ms var(--ease-out)}
+.sbox input::placeholder{color:var(--z500)}
+.sbox input::-webkit-search-cancel-button{display:none}
+.top.searching .ttl{display:none}
+.top.searching .sbox{flex:1;margin-right:-10px}
+.top.searching .sbox input{width:100%;opacity:1}
+.ico{appearance:none;background:none;border:0;color:var(--z400);width:44px;height:44px;display:grid;place-items:center;border-radius:2px;cursor:pointer;flex:none;transition:color 150ms var(--ease-out)}
+.ico:hover{color:var(--z100)}
+.ico:focus-visible{outline:1px solid var(--z500);outline-offset:-4px}
+.ico .cruz{display:none}
+.top.searching .ico .lupa{display:none}
+.top.searching .ico .cruz{display:block}
+.chips{margin-top:1rem;display:flex;flex-direction:column;gap:8px}
+.chips ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px}
+.chips ul:empty{display:none}
+.chip{appearance:none;background:none;font-family:var(--mono);font-size:11px;letter-spacing:.04em;color:var(--z400);border:1px solid var(--z800);border-radius:999px;padding:0 11px;min-height:30px;display:inline-flex;align-items:center;gap:6px;cursor:pointer;transition:color 150ms var(--ease-out),border-color 150ms var(--ease-out),background-color 150ms var(--ease-out)}
+.chip:hover{color:var(--z100);border-color:var(--z600)}
+.chip[aria-pressed="true"]{color:var(--z100);border-color:var(--z500);background:var(--z800)}
+.chip:focus-visible{outline:1px solid var(--z500);outline-offset:2px}
+.chip .cn{color:var(--z500);font-size:10px}
+#secs .chip{font-size:12px}
+.chk{font-size:12px;line-height:1.45;color:var(--z400);margin-top:4px;padding-left:8px;border-left:1px solid var(--z800)}
+.chk b{font-family:var(--mono);font-weight:400;font-size:10px;letter-spacing:.06em;color:var(--z500);margin-right:4px}
 .card{border:1px solid var(--z800);border-radius:4px;padding:14px 14px 4px;margin:10px 0 14px}
 .ch{display:grid;grid-template-columns:64px minmax(0,1fr);gap:0 14px;align-items:center;padding-bottom:10px;border-bottom:1px solid var(--z800)}
 .cv.big{width:64px;height:64px}
@@ -64,14 +81,12 @@ ol.vers{list-style:none;margin:0;padding:0}
 .ver:last-child{border-bottom:0}
 .ver .n{font-family:var(--mono);font-size:12px;color:var(--z500);padding-top:1px}
 .ve{font-size:14px;line-height:1.35;color:var(--z100)}
-.tag{display:inline-block;margin-left:8px;font-family:var(--mono);font-size:10px;letter-spacing:.06em;color:var(--background);background:var(--z100);border-radius:2px;padding:0 5px;vertical-align:1px}
-.tag.no{background:none;color:var(--z100);border:1px solid var(--z500)}
+.tag{display:inline-block;margin-left:8px;font-family:var(--mono);font-size:10px;letter-spacing:.06em;color:var(--z100);border:1px solid var(--z400);border-radius:999px;padding:0 7px;vertical-align:1px}
+.tag.no{color:var(--z400);border-style:dashed;border-color:var(--z600)}
 .ver.no .ve{text-decoration:line-through;text-decoration-color:var(--z600)}
 .vp{font-family:var(--mono);font-size:11px;line-height:1.5;color:var(--z400);text-align:right}
 .vp small{display:block;font-size:10px;color:var(--z500)}
 @media (max-width:480px){.ver{grid-template-columns:20px minmax(0,1fr)}.vp{grid-column:2;text-align:left;margin-top:4px}}
-.evitar .name{text-decoration:line-through;text-decoration-color:var(--z600)}
-.evitar .cv{opacity:.45}
 mark{background:none;color:var(--z100);text-decoration:underline;text-decoration-color:var(--z500);text-underline-offset:3px}
 .empty{font-family:var(--mono);font-size:10px;letter-spacing:.08em;color:var(--z600);padding:8px 0}
 .foot{margin-top:3.5rem;font-family:var(--mono);font-size:10px;letter-spacing:.08em;line-height:1.8;color:var(--z600)}
@@ -82,13 +97,21 @@ mark{background:none;color:var(--z100);text-decoration:underline;text-decoration
 </style>
 
 <main>
-  <div class="head reveal"><h1>vinilos</h1><p>colección y wishlist</p></div>
+  <header class="top reveal">
+    <div class="ttl"><h1>vinilos</h1><p>colección y wishlist</p></div>
+    <div class="sbox" id="sbox">
+      <input type="search" id="q" placeholder="buscar en todo…" autocomplete="off" aria-label="Buscar en la colección y la wishlist" tabindex="-1">
+      <button type="button" class="ico" id="qbtn" aria-label="Buscar" aria-expanded="false" title="Buscar (/)">
+        <svg class="lupa" viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M12.6 12.6 17 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+        <svg class="cruz" viewBox="0 0 20 20" width="18" height="18" aria-hidden="true"><path d="M5 5l10 10M15 5 5 15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+  </header>
   <nav class="tabs reveal" style="--d:60ms" aria-label="Lista"><ul id="tabs"></ul></nav>
-  <div class="search reveal" style="--d:90ms" id="sbox">
-    <input type="search" id="q" placeholder="buscar en todo: artista, disco, sello, catálogo, país…" autocomplete="off" aria-label="Buscar en la colección y la wishlist">
-    <button type="button" class="x" id="qx" aria-label="Borrar búsqueda">×</button>
+  <div class="chips reveal" style="--d:90ms">
+    <ul id="secs" aria-label="Filtrar por sección"></ul>
+    <ul id="filters" aria-label="Filtrar por estilo"></ul>
   </div>
-  <nav class="reveal" style="--d:120ms" aria-label="Filtrar por estilo"><ul id="filters"></ul></nav>
   <div class="hint" id="hint" aria-live="polite"></div>
   <div id="sections"></div>
   <p class="foot">actualizado /*FECHA*/ · usd a $/*USD*/</p>
@@ -99,22 +122,21 @@ const USD = /*USD*/;
 const COVERS = /*COVERS*/;
 const D = /*DATA*/;
 const LISTS = {
-  coleccion: {label: "colección", secs: [["ana","ana"],["seba","seba"]], sec: x => x.o},
   wishlist: {label: "wishlist", secs: [["iconico","icónicos"],["top","top tier"],["interesante","interesantes"]], sec: x => x.p},
+  coleccion: {label: "colección", secs: [["ana","ana"],["seba","seba"]], sec: x => x.o},
 };
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const fold = s => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 const fmt = n => "$" + n.toLocaleString("es-AR");
 const initials = a => a.replace(/^the /i,"").split(/[\s/&,()]+/).filter(Boolean).slice(0,2).map(w=>w[0]).join("");
-D.forEach(x => { x.hay = fold([x.a,x.d,x.pa,x.se,x.ca,x.y,x.g,x.e,x.w,x.r,x.fl,x.n,x.l==="coleccion"?"coleccion tengo":"wishlist quiero",...(x.v||[]).map(v => [v.e,v.c,v.s,v.p,v.w].join(" "))].filter(Boolean).join(" ")); });
+D.forEach(x => { x.hay = fold([x.a,x.d,x.pa,x.se,x.ca,x.y,x.g,x.e,x.w,x.r,x.fl,x.n,x.l==="coleccion"?"coleccion tengo":"wishlist quiero",...(x.v||[]).map(v => [v.e,v.c,v.s,v.p,v.w,v.pa,v.k].join(" ")),x.or].filter(Boolean).join(" ")); });
 
-const st = {list: "coleccion", style: "todos", q: ""};
+const st = {list: "wishlist", sec: "todos", style: "todos", q: ""};
 try {
   const s = JSON.parse(localStorage.getItem("vinilos-estado") || "{}");
-  if (LISTS[s.list]) st.list = s.list;
   if (typeof s.style === "string") st.style = s.style;
 } catch (e) {}
-const save = () => { try { localStorage.setItem("vinilos-estado", JSON.stringify({list: st.list, style: st.style})); } catch (e) {} };
+const save = () => { try { localStorage.setItem("vinilos-estado", JSON.stringify({style: st.style})); } catch (e) {} };
 
 // Resalta los términos buscados en un texto ya escapado-por-partes.
 function hl(text){
@@ -148,16 +170,19 @@ function card(x){
   const key = x.a + " | " + x.d;
   const cv = COVERS[key] ? '<img src="'+COVERS[key]+'" alt="" loading="lazy">' : esc(initials(x.a));
   const vs = (x.v||[]).map((v,i) => {
-    const tag = v.m === "buscar" ? '<span class="tag">la que buscaría</span>' : v.m === "evitar" ? '<span class="tag no">evitar</span>' : "";
+    const tag = v.m === "buscar" ? '<span class="tag">recomendada</span>' : v.m === "evitar" ? '<span class="tag no">evitar</span>' : "";
+    const meta = [v.pa, v.c].filter(Boolean).map(t => hl(t.toLowerCase())).join(" · ");
     return '<li class="ver'+(v.m === "evitar" ? " no" : "")+'"><span class="n">'+(i+1)+'</span>'+
       '<div class="tx"><span class="ve">'+hl(v.e)+tag+'</span>'+
-      (v.c ? '<span class="data">'+hl(v.c.toLowerCase())+'</span>' : "")+
-      (v.s ? '<span class="why">'+hl(v.s)+'</span>' : "")+'</div>'+
+      (meta ? '<span class="data">'+meta+'</span>' : "")+
+      (v.s ? '<span class="why">'+hl(v.s)+'</span>' : "")+
+      (v.k ? '<span class="chk"><b>cómo reconocerla</b> '+hl(v.k)+'</span>' : "")+'</div>'+
       '<span class="vp">'+(v.p ? hl(v.p) : "")+(v.w ? '<small>'+hl(v.w)+'</small>' : "")+'</span></li>';
   }).join("");
+  const head = [x.or ? "origen "+x.or : "", x.e, (x.v||[]).length+" versiones"].filter(Boolean).map(t => hl(t.toLowerCase())).join(" · ");
   return '<li class="card"><div class="ch"><div class="cv big" aria-hidden="true">'+cv+'</div>'+
     '<div class="tx"><span class="name"><span class="who">'+hl(x.a)+'</span> '+hl(x.d)+'</span>'+
-    '<span class="data">'+hl(x.e)+' · '+(x.v||[]).length+' versiones</span></div></div>'+
+    '<span class="data">'+head+'</span></div></div>'+
     '<ol class="vers">'+vs+'</ol></li>';
 }
 
@@ -167,51 +192,73 @@ function matches(x){
   return fold(st.q).split(/\s+/).filter(Boolean).every(t => x.hay.includes(t));
 }
 
-function section(label, items, cls, i){
-  return '<section class="reveal '+(cls||"")+'" style="--d:'+(120+i*30)+'ms"><h2>'+esc(label)+' · '+String(items.length).padStart(2,"0")+'</h2>'+
+function section(label, items, i){
+  return '<section class="reveal" style="--d:'+(120+i*30)+'ms"><h2>'+esc(label)+' · '+String(items.length).padStart(2,"0")+'</h2>'+
     '<ul class="list">'+(items.length ? items.map(x => x.p === "iconico" && x.v ? card(x) : row(x)).join("") : '<li class="empty">nada de este estilo</li>')+'</ul></section>';
 }
 
+const searching = () => st.q.trim() !== "";
+
 function render(){
-  const searching = st.q.trim() !== "";
-  const lists = searching ? ["coleccion","wishlist"] : [st.list];
+  const lists = searching() ? ["wishlist","coleccion"] : [st.list];
   let html = "", i = 0, total = 0;
   lists.forEach(l => {
     const L = LISTS[l];
     L.secs.forEach(([k, label]) => {
+      if (!searching() && st.sec !== "todos" && st.sec !== k) return;
       const items = D.filter(x => x.l === l && L.sec(x) === k && matches(x));
       total += items.length;
-      if (searching && !items.length) return;
-      html += section((searching ? L.label + " · " : "") + label, items, k === "evitar" ? "evitar" : "", i++);
+      if (searching() && !items.length) return;
+      html += section((searching() ? L.label + " · " : "") + label, items, i++);
     });
   });
   document.getElementById("sections").innerHTML = html;
-  document.getElementById("hint").textContent = searching ? (total ? total + (total === 1 ? " resultado" : " resultados") + " en colección y wishlist" : "no hay nada con eso, ni en la colección ni en la wishlist") : "";
-  document.getElementById("sbox").classList.toggle("on", searching);
-  document.querySelectorAll("#tabs .f").forEach(b => b.setAttribute("aria-pressed", !searching && b.dataset.l === st.list ? "true" : "false"));
-  renderFilters();
+  document.getElementById("hint").textContent = searching() ? (total ? total + (total === 1 ? " resultado" : " resultados") + " en wishlist y colección" : "no hay nada con eso, ni en la wishlist ni en la colección") : "";
+  document.querySelectorAll("#tabs .f").forEach(b => b.setAttribute("aria-pressed", !searching() && b.dataset.l === st.list ? "true" : "false"));
+  renderChips();
 }
 
-function renderFilters(){
-  const pool = st.q.trim() ? D : D.filter(x => x.l === st.list);
+function chip(attr, val, label, on, n){
+  return '<li><button type="button" class="chip" '+attr+'="'+esc(val)+'" aria-pressed="'+on+'">'+esc(label)+(n !== undefined ? '<span class="cn">'+n+'</span>' : "")+'</button></li>';
+}
+
+function renderChips(){
+  const secs = document.getElementById("secs");
+  if (searching()) { secs.innerHTML = ""; }
+  else {
+    const L = LISTS[st.list];
+    const n = k => D.filter(x => x.l === st.list && (k === "todos" || L.sec(x) === k)).length;
+    secs.innerHTML = [["todos","todos"], ...L.secs].map(([k,label]) => chip("data-sec", k, label, st.sec === k, n(k))).join("");
+  }
+  const pool = searching() ? D : D.filter(x => x.l === st.list && (st.sec === "todos" || LISTS[st.list].sec(x) === st.sec));
   const styles = ["todos", ...Array.from(new Set(pool.map(x => x.e))).sort((a,b)=>a.localeCompare(b,"es"))];
   if (!styles.includes(st.style)) st.style = "todos";
-  document.getElementById("filters").innerHTML = styles.map(s => '<li><button type="button" class="f" data-s="'+esc(s)+'" aria-pressed="'+(s===st.style)+'">'+esc(s)+'</button></li>').join("");
+  document.getElementById("filters").innerHTML = styles.map(s => chip("data-s", s, s === "todos" ? "todos los estilos" : s, s === st.style)).join("");
 }
 
-document.getElementById("tabs").innerHTML = Object.entries(LISTS).map(([k,L]) =>
-  '<li><button type="button" class="f" data-l="'+k+'">'+L.label+'<span class="n">'+D.filter(x=>x.l===k).length+'</span></button></li>').join("");
+document.getElementById("tabs").innerHTML = ["wishlist","coleccion"].map(k =>
+  '<li><button type="button" class="f" data-l="'+k+'">'+LISTS[k].label+'<span class="n">'+D.filter(x=>x.l===k).length+'</span></button></li>').join("");
 document.getElementById("tabs").addEventListener("click", ev => {
   const b = ev.target.closest(".f"); if (!b) return;
-  st.list = b.dataset.l; st.q = ""; document.getElementById("q").value = ""; save(); render();
+  st.list = b.dataset.l; st.sec = "todos"; closeSearch(); render();
+});
+document.getElementById("secs").addEventListener("click", ev => {
+  const b = ev.target.closest(".chip"); if (!b) return;
+  st.sec = b.dataset.sec; render();
 });
 document.getElementById("filters").addEventListener("click", ev => {
-  const b = ev.target.closest(".f"); if (!b) return;
+  const b = ev.target.closest(".chip"); if (!b) return;
   st.style = b.dataset.s; save(); render();
 });
-const q = document.getElementById("q");
+
+const hdr = document.querySelector(".top"), q = document.getElementById("q"), qbtn = document.getElementById("qbtn");
+function openSearch(){ hdr.classList.add("searching"); qbtn.setAttribute("aria-expanded","true"); qbtn.setAttribute("aria-label","Cerrar búsqueda"); q.tabIndex = 0; q.focus(); }
+function closeSearch(){ hdr.classList.remove("searching"); qbtn.setAttribute("aria-expanded","false"); qbtn.setAttribute("aria-label","Buscar"); q.tabIndex = -1; q.value = ""; st.q = ""; }
+qbtn.addEventListener("click", () => { if (hdr.classList.contains("searching")) { closeSearch(); render(); } else openSearch(); });
 q.addEventListener("input", () => { st.q = q.value; render(); });
-q.addEventListener("keydown", ev => { if (ev.key === "Escape") { q.value = ""; st.q = ""; render(); } });
-document.getElementById("qx").addEventListener("click", () => { q.value = ""; st.q = ""; render(); q.focus(); });
+q.addEventListener("keydown", ev => { if (ev.key === "Escape") { closeSearch(); render(); qbtn.focus(); } });
+document.addEventListener("keydown", ev => {
+  if (ev.key === "/" && document.activeElement !== q) { ev.preventDefault(); openSearch(); }
+});
 render();
 </script>
