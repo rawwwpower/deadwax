@@ -545,6 +545,16 @@ window.DEADWAX_SEED = [
     "notes": "Single de Push the Button (con Q-Tip). Sticker promo blanco en la tapa, texto no legible en la foto, podría ser copia promo. Falta catálogo y foto de etiqueta para cerrar."
   },
   {
+    "id": "dw-72",
+    "type": "wantlist",
+    "artist": "David Bowie",
+    "album": "Let's Dance",
+    "label": "EMI",
+    "year": "1983",
+    "format": "LP",
+    "notes": "País: Alemania · Prensado: Prensa alemana contemporánea al lanzamiento (1983), de época legítima.\nÁlbum masivo, se prensó en cantidades industriales en todo el mundo. No es rareza, buena copia si le gusta el disco/tapa pero sin valor de coleccionista alto. Consultado por texto tipo anuncio ('David Bowie Let's Dance Lp Vinilo Alema 83 Cx'). | 03/10/2026: London Records tiene la japonesa en NM / NM a $115.000 (antes se había evaluado una alemana de 1983)."
+  },
+  {
     "id": "dw-81",
     "type": "collection",
     "artist": "AC/DC",
@@ -635,7 +645,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG"
+    "notes": "País: Japón · Grading: VG+ / VG\n | 03/10/2026: London Records tiene la primera USA 1978 en VG+ / VG++ a $65.000, alternativa más barata que la japonesa."
   },
   {
     "id": "dw-90",
@@ -1035,7 +1045,7 @@ window.DEADWAX_SEED = [
     "label": "CBS/Sony",
     "year": "1976",
     "format": "LP",
-    "notes": "País: Japón · Catálogo: 25AP 78"
+    "notes": "País: Japón · Catálogo: 25AP 78\n | 03/10/2026: London Records tiene una japonesa EXC / EXC a $150.000: muy por encima de lo razonable."
   },
   {
     "id": "dw-134",
@@ -1076,5 +1086,205 @@ window.DEADWAX_SEED = [
     "year": "1956",
     "format": "LP",
     "notes": ""
+  },
+  {
+    "id": "dw-138",
+    "type": "wantlist",
+    "artist": "Black Sabbath",
+    "album": "Black Sabbath",
+    "label": "Rhino",
+    "year": "2024",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: UPC 081227814434 · Prensado: Rhino High Fidelity, exclusiva de disquerías (Brick & Mortar): 180 g, cortada por Kevin Gray de las cintas analógicas originales, prensada en Optimal Media. Tapa tip-on, entrevista a Tom Allom (ingeniero del disco)."
+  },
+  {
+    "id": "dw-139",
+    "type": "wantlist",
+    "artist": "The Cramps",
+    "album": "Gravest Hits",
+    "label": "Illegal / I.R.S.",
+    "year": "1979",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: SP 501 · Grading: NM / VG+ · Prensado: EP de 5 temas, prensa USA de época (Terre Haute). La UK salió en Illegal ILS 12013. Insert original."
+  },
+  {
+    "id": "dw-140",
+    "type": "wantlist",
+    "artist": "The Rolling Stones",
+    "album": "Goats Head Soup",
+    "label": "Rolling Stones Records",
+    "year": "1973",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: COC 59101 · Grading: NM / NM · Prensado: Primera edición USA 1973 con insert, sin fritura ni tics según el vendedor."
+  },
+  {
+    "id": "dw-141",
+    "type": "wantlist",
+    "artist": "Red Hot Chili Peppers",
+    "album": "Blood Sugar Sex Magik",
+    "label": "Warner Bros.",
+    "year": "",
+    "format": "LP",
+    "notes": "País: USA · Grading: NM / NM · Prensado: Publicada como \"edición limitada\", país USA, sin catálogo. Casi seguro la reedición 2LP 180 g (remaster de cintas analógicas, 2012) y no la original de 1991."
+  },
+  {
+    "id": "dw-142",
+    "type": "wantlist",
+    "artist": "Queen",
+    "album": "Hot Space",
+    "label": "Elektra",
+    "year": "1982",
+    "format": "LP",
+    "notes": "País: Japón · Catálogo: P-11204 (a confirmar) · Grading: NM / NM"
+  },
+  {
+    "id": "dw-143",
+    "type": "wantlist",
+    "artist": "Alice in Chains",
+    "album": "MTV Unplugged",
+    "label": "Sony Legacy",
+    "year": "2026",
+    "format": "LP",
+    "notes": "País: USA · Prensado: Reedición 30 aniversario 2026, 2LP, variante exclusiva en vinilo rubí (la estándar es negra). Primera vez en vinilo en EE.UU."
+  },
+  {
+    "id": "dw-144",
+    "type": "wantlist",
+    "artist": "Masayoshi Takanaka",
+    "album": "T-Wave",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: NM / NM · Prensado: Publicado como \"color azul\". La reedición 2025 de T-Wave (Abbey Road, 180 g) es naranja transparente; la azul es Can I Sing? (y Brasilian Skies es celeste). La original es Kitty MKF 1063 (1980, negra)."
+  },
+  {
+    "id": "dw-145",
+    "type": "wantlist",
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin IV",
+    "label": "Atlantic",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: NM / NM · Prensado: Japonesa sin catálogo publicado: P-8166A es la primera japonesa (1971); P-10125A es la tercera (1976). El precio solo se justifica si es la primera con obi."
+  },
+  {
+    "id": "dw-146",
+    "type": "wantlist",
+    "artist": "AC/DC",
+    "album": "High Voltage",
+    "label": "Albert Productions",
+    "year": "1975",
+    "format": "LP",
+    "notes": "País: Australia · Catálogo: APLP 009 · Grading: NM / NM · Prensado: Publicada como primera edición australiana 1975, insert crema original. Hay repress australianos: pedir foto de etiqueta y matrix."
+  },
+  {
+    "id": "dw-147",
+    "type": "wantlist",
+    "artist": "AC/DC",
+    "album": "Dirty Deeds Done Dirt Cheap (edición australiana)",
+    "label": "Albert Productions",
+    "year": "1976",
+    "format": "LP",
+    "notes": "País: Australia · Grading: NM / NM"
+  },
+  {
+    "id": "dw-148",
+    "type": "wantlist",
+    "artist": "Weather Report",
+    "album": "Heavy Weather",
+    "label": "",
+    "year": "1977",
+    "format": "LP",
+    "notes": "País: Japón · Grading: NM / NM"
+  },
+  {
+    "id": "dw-149",
+    "type": "wantlist",
+    "artist": "The Blackbyrds",
+    "album": "City Life",
+    "label": "Fantasy",
+    "year": "1975",
+    "format": "LP",
+    "notes": "País: USA · Grading: VG++"
+  },
+  {
+    "id": "dw-150",
+    "type": "wantlist",
+    "artist": "Joe Henderson",
+    "album": "The Elements",
+    "label": "Fantasy",
+    "year": "2017",
+    "format": "LP",
+    "notes": "País: USA"
+  },
+  {
+    "id": "dw-151",
+    "type": "wantlist",
+    "artist": "Pharoah Sanders",
+    "album": "Wisdom Through Music",
+    "label": "Impulse! / Elemental",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Europa"
+  },
+  {
+    "id": "dw-152",
+    "type": "wantlist",
+    "artist": "Bennie Maupin",
+    "album": "The Jewel in the Lotus",
+    "label": "ECM",
+    "year": "2025",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-153",
+    "type": "wantlist",
+    "artist": "Taeko Onuki",
+    "album": "Sunshower",
+    "label": "",
+    "year": "1977",
+    "format": "LP",
+    "notes": "País: Japón"
+  },
+  {
+    "id": "dw-154",
+    "type": "wantlist",
+    "artist": "Jiro Inagaki & Soul Media",
+    "album": "Funky Stuff",
+    "label": "Nippon Columbia",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón"
+  },
+  {
+    "id": "dw-155",
+    "type": "wantlist",
+    "artist": "Can",
+    "album": "Ege Bamyasi",
+    "label": "Mute",
+    "year": "2019",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-156",
+    "type": "wantlist",
+    "artist": "Neu!",
+    "album": "Neu! '75",
+    "label": "Groenland",
+    "year": "2012",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-157",
+    "type": "wantlist",
+    "artist": "Steely Dan",
+    "album": "Aja",
+    "label": "ABC",
+    "year": "1977",
+    "format": "LP",
+    "notes": "País: USA · Grading: NM / NM"
   }
 ];

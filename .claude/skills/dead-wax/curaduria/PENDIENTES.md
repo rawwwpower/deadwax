@@ -23,6 +23,10 @@ Leer esto antes de seguir con cualquier compra, carga a la base o la página de 
   etiqueta y dead wax.
 - **Walter Carlos · Electronic Bach** (owned, id 51): falta la edición (país, sello, catálogo).
 - **Aerosmith · Rocks** (wishlist): falta precio y si tiene obi.
+- **London Records** (londonrecords.com.ar, 03/10): preguntar al vendedor el catálogo de Led Zeppelin IV
+  (¿P-8166A?), qué es el T-Wave "color azul", qué edición es el Blood Sugar Sex Magik "limitado", si Hot
+  Space trae obi, y fotos de etiqueta/matrix de los AC/DC australianos. Las fotos de la tienda
+  (acdn-us.mitiendanube.com) están bloqueadas por el proxy del sandbox: hay que pedírselas a Ana.
 - `coleccion.py list --incomplete` para la próxima ronda de repaso con Seba.
 - Tapas que faltan (quedan con iniciales): Milton *Paixão e Fé*, Schoener *Video Magic*, Favio
   *Nazareno Cruz y el Lobo*, *Orange Mécanique*, Lennon *Shaved Fish*, Divine, Jack de Mello,
@@ -34,4 +38,5 @@ Leer esto antes de seguir con cualquier compra, carga a la base o la página de 
 - 03/10: compras en Javierfan cargadas (Dirty Deeds, Sweet Dreams, Musiquarium, maxi de Kravitz).
   Siguen en la wishlist Bowie *Station to Station*, Hawkwind *Hall of the Mountain Grill* y Marley
   *Rastaman Vibration*.
+- 03/10: review de London Records: 9 pedidos por Ana + 15 hallazgos de la web, todo en la base (fuente "london records 2026-10").
 - 03/10: la página pasa a ser "vinilos": colección + wishlist + buscador, generada desde la base.
