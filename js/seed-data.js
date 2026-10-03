@@ -1416,5 +1416,15 @@ window.DEADWAX_SEED = [
     "year": "1977",
     "format": "LP",
     "notes": "País: Francia · Grading: VG+ / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-175",
+    "type": "wantlist",
+    "artist": "The Go-Go's",
+    "album": "Vacation",
+    "label": "CBS/Sony (I.R.S. en USA)",
+    "year": "1982",
+    "format": "LP",
+    "notes": "País: Japón · Catálogo: 25AP 2380 · Grading: EX / EX\nProbable 1ra edición japonesa: obi CBS/Sony 25AP 2380 visto en foto (04/10), con la bajada de época 'subiendo en los charts de USA'. Falta ver etiqueta y dead wax. Hay un sello negro en el obi tapado por el sticker de precio (¿póster?)."
   }
 ];
