@@ -3,7 +3,7 @@
 # cambio en la base y republicar el artifact con la tool Artifact (mismo url).
 #
 #   colección = status owned (ana y seba)
-#   wishlist  = discos con prioridad (top | interesante | evitar) que no son owned
+#   wishlist  = discos con prioridad (iconico | top | interesante | evitar) que no son owned
 #
 # uso: python3 build.py
 import datetime, json, os, re, sqlite3
@@ -47,7 +47,7 @@ def key(r):
 def disc_rows(conn):
     return conn.execute(
         "SELECT * FROM discos WHERE status = 'owned' "
-        "OR (prioridad IN ('top', 'interesante', 'evitar') AND status != 'owned') "
+        "OR (prioridad IN ('iconico', 'top', 'interesante', 'evitar') AND status != 'owned') "
         "ORDER BY lower(artista), anio, lower(titulo)"
     ).fetchall()
 

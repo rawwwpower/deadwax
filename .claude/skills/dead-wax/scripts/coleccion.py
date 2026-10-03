@@ -44,7 +44,7 @@ CREATE TABLE IF NOT EXISTS discos (
     fecha_adquirido TEXT,
     notas TEXT,
     review TEXT,                -- reseña personal de escucha (sonido, impresiones)
-    prioridad TEXT,             -- wishlist: top | interesante | evitar (secciones de la página)
+    prioridad TEXT,             -- wishlist: iconico | top | interesante | evitar (secciones de la página)
     etiquetas TEXT,             -- marcas cortas separadas por coma, ej. "país de origen, falta el single"
     resumen TEXT,               -- una línea para la página de vinilos (por qué está, cómo suena)
     fuente TEXT,                -- de dónde salió, ej. "feria 2026-09", "javierfan"
@@ -210,7 +210,7 @@ def build_parser():
     add_p.add_argument("--fecha-adquirido", dest="fecha_adquirido")
     add_p.add_argument("--notas")
     add_p.add_argument("--review")
-    add_p.add_argument("--prioridad", choices=["top", "interesante", "evitar"])
+    add_p.add_argument("--prioridad", choices=["iconico", "top", "interesante", "evitar"])
     add_p.add_argument("--etiquetas")
     add_p.add_argument("--resumen")
     add_p.add_argument("--fuente")

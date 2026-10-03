@@ -85,7 +85,7 @@ const COVERS = /*COVERS*/;
 const D = /*DATA*/;
 const LISTS = {
   coleccion: {label: "colección", secs: [["ana","ana"],["seba","seba"]], sec: x => x.o},
-  wishlist: {label: "wishlist", secs: [["top","top tier"],["interesante","interesantes"],["evitar","red flags"]], sec: x => x.p},
+  wishlist: {label: "wishlist", secs: [["iconico","icónicos"],["top","top tier"],["interesante","interesantes"],["evitar","red flags"]], sec: x => x.p},
 };
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const fold = s => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();

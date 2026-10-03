@@ -6,7 +6,7 @@ Leer esto antes de seguir con cualquier compra, carga a la base o la página de 
 ## Dónde vive cada cosa
 
 - **Todo disco (tenido o querido) está en `data/coleccion.db`.** Colección = `status=owned`; wishlist =
-  discos con `prioridad` (`top` / `interesante` / `evitar`), con `resumen`, `etiquetas` y `fuente`.
+  discos con `prioridad` (`iconico` / `top` / `interesante` / `evitar`), con `resumen`, `etiquetas` y `fuente`.
   Desde el 03/10/2026 ahí está también lo que antes vivía en tablas sueltas (la feria, los elegidos de
   Javierfan, los buscados), así que no hay que mantener listas aparte.
 - **La página "vinilos"** (https://claude.ai/artifact/DVryBYPAcqAX3scZDRqmu5) se genera desde la base:
