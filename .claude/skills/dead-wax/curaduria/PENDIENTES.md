@@ -39,6 +39,10 @@ Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **proto
   Space trae obi, y fotos de etiqueta/matrix de los AC/DC australianos. Las fotos de la tienda
   (acdn-us.mitiendanube.com) están bloqueadas por el proxy del sandbox: hay que pedírselas a Ana.
 - `coleccion.py list --incomplete` para la próxima ronda de repaso con Seba.
+- **"Listado de Gaby"** (04/10): no está en el repo. Se asumió que es la lista de la feria (copias repetidas del
+  mismo disco) y se respondió cuál copia conviene; si es otra lista, pedírsela a Ana.
+- Feria, 14 hallazgos nuevos (ids 160-173): todos "sin confirmar" (solo datos de la lista). Preguntar el estado
+  de King Crimson *Earthbound* (¿UK Island HELP 6?) y si Synergy *Cords* es el vinilo transparente.
 - Tapas que faltan (quedan con iniciales): Milton *Paixão e Fé*, Schoener *Video Magic*, Favio
   *Nazareno Cruz y el Lobo*, *Orange Mécanique*, Lennon *Shaved Fish*, Divine, Jack de Mello,
   Mister Sam, Elvis *Elvis Presley*, White Album y los bootlegs. No están (o no bien) en MusicBrainz.
@@ -54,3 +58,5 @@ Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **proto
 - 03-04/10: icónicos como fichas con ranking de versiones (país, cómo suena, cómo reconocerla); wishlist primero,
   chips de sección/estilo, lupa; las red flags ya no se muestran.
 - 04/10: error con *Music* (SKU = barcode compartido) → protocolo de identificación en SKILL.md y revisión de fichas.
+- 04/10: segunda pasada a la lista de la feria (el PDF = `feria-2026-09/lista-proveedor.txt`): 14 hallazgos nuevos
+  (jazz/fusión, funk, art pop, axé) + el bootleg de Gabriel como evitar; respuesta sobre las copias repetidas.

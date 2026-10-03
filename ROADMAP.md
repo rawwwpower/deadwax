@@ -45,3 +45,16 @@ Pendiente para que deje de ser una pieza separada del skill:
 - Integración de compra/venta automatizada, scraping de marketplaces, o
   cualquier cosa que dependa de credenciales de terceros — el skill asiste
   la decisión, Ana sigue comprando a mano.
+
+## Fase nana — el reproductor
+
+nana (`nana/`) es la cara del proyecto: una webapp liviana con forma de iPod nano
+2005. Hoy busca, cura y archiva (la colección y la wishlist) y reproduce un sample y
+los archivos que se le carguen. Lo que sigue, en orden:
+
+1. **Audio por disco**: atar temas a cada registro de la base (y no solo por nombre de
+   artista), para escuchar desde la ficha.
+2. **Reconocer lo que suena** (tipo Shazam): escuchar por el micrófono, identificar el
+   tema y abrir la ficha del disco si está en la colección o la wishlist.
+3. **Videos**: si un tema tiene video, verlo en nana (ya hay un sample de video).
+

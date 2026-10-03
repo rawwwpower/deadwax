@@ -38,6 +38,9 @@ Q = {
     "Eurythmics | Sweet Dreams (Are Made of This)": ("Eurythmics", "Sweet Dreams (Are Made of This)"),
     "AC/DC | Dirty Deeds Done Dirt Cheap (edición australiana)": ("AC/DC", "Dirty Deeds Done Dirt Cheap"),
     "The Blackbyrds | City Life": ("The Blackbyrds", "City Life"),
+    "David Byrne | Songs from The Catherine Wheel": ("David Byrne", "The Catherine Wheel"),
+    "David Bowie | \"Héros\" / V-2 Schneider (simple francés)": ("David Bowie", "\"Heroes\""),
+    "Count Basie | Basie at Birdland": ("Count Basie and His Orchestra", "Basie at Birdland"),
 }
 
 # Por defecto se busca el álbum (si no, MusicBrainz a veces devuelve el simple homónimo y la tapa
@@ -53,6 +56,9 @@ TIPO = {
     "Stevie Wonder | Original Musiquarium I": None,
     "Elvis Presley | The Sun Sessions": None,
     "Madonna | American Life [promo sin identificar: Love Profusion / Nobody Knows Me / Nothing Fails]": None,
+    "David Bowie | \"Héros\" / V-2 Schneider (simple francés)": 'single',
+    "Allan Holdsworth | Road Games": 'ep',
+    "Banda Mel | Prefixo de Verão": None,
 }
 
 
