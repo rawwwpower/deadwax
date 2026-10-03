@@ -54,6 +54,8 @@ Mobile Fidelity (MoFi): buena fama pero con el antecedente del escándalo 2022 (
 
 **Regla anti-piloto-automático:** cada ficha necesita mínimo un dato que venga de buscar (WebSearch u otra fuente), no solo de describir la foto. "Tiene obi, es Japón, parece bien" no es un dato, es un patrón que Ana ya conoce de memoria. Si Discogs está bloqueado (pasa seguido en esta sesión), buscar igual por catálogo/artista/sello puntual: historial de la edición, por qué se valora, diferencias con otras ediciones, cualquier hecho concreto que no se lea directo de la tapa. Si después de buscar no sale nada nuevo, decirlo explícitamente ("no encontré nada más allá de lo que se ve en la foto") en vez de rellenar con lo obvio.
 
+**Barcode y catálogo no alcanzan para distinguir original de reedición.** Los sellos grandes (Warner sobre todo) reusan el mismo código de barras y catálogo en las represiones: Madonna *Music* 093624786511 / 9362-47865-1 es la original 2000, la azul 2018 y la negra 2020. Un SKU de tienda que copia el barcode tampoco prueba nada. Para confirmar: etiqueta (logo y textos de época), detalles de packaging y, sobre todo, el dead wax. Orden de confianza: dead wax > barcode > catálogo > anuncio. Si la tienda vende el disco nuevo/sellado, sospechar reedición.
+
 ## Ficha rápida (foto de un disco para descubrir, no para comprar)
 
 Cuando Ana manda una foto de un disco sin pedir evaluación de compra/autenticidad, sino porque le llamó la atención y no lo conoce, el objetivo es ayudarla a decidir si le puede gustar, no correr el análisis completo de los 3 criterios. Devolvé una ficha corta, escaneable, sin relleno, con este formato fijo:
