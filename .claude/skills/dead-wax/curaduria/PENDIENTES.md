@@ -1,6 +1,6 @@
 # Curaduría en curso
 
-Estado al 03/10/2026, para retomar en una sesión nueva sin perder nada.
+Estado al 04/10/2026, para retomar en una sesión nueva sin perder nada.
 Leer esto antes de seguir con cualquier compra, carga a la base o la página de vinilos.
 
 ## Dónde vive cada cosa
@@ -17,7 +17,18 @@ Leer esto antes de seguir con cualquier compra, carga a la base o la página de 
   `javierfan-2026-09/catalogo-web.json` (catálogo de la web con stock; en MercadoLibre, JAVIERFAN1,
   los mismos discos salen ~8-12% más caros: comprar por la web).
 
+## Antes de cualquier recomendación
+
+Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **protocolo de identificación**
+(niveles de confianza confirmada / probable / sin confirmar). Lo que dice la base es hipótesis hasta verificarlo.
+
 ## Abierto
+
+- **Madonna · Music** (wishlist, #26): en Maniac hay dos reediciones (negra 2020, barcode 093624786511, y azul 2026,
+  081227924034), con el mismo master: elegir por precio. La original 2000 hay que buscarla usada y confirmarla por dead wax.
+- **Icónicos** (9, con ranking de versiones en la tabla `versiones`): Black Sabbath, AIC *Facelift* y *MTV Unplugged*,
+  *Blood Sugar Sex Magik*, *Mezzanine* (año de la reedición de Maniac a confirmar: el barcode 602537540433 es de
+  2013, 2017 o 2023), *Play*, *Sonic Temple*, *White Album* (la US SWBO-101 es "evitar") y *Dig Your Own Hole*.
 
 - **AC/DC · Back in Black** (owned, id 41): confirmar cuál de las 8 variantes alemanas, con foto de
   etiqueta y dead wax.
@@ -40,3 +51,6 @@ Leer esto antes de seguir con cualquier compra, carga a la base o la página de 
   *Rastaman Vibration*.
 - 03/10: review de London Records: 9 pedidos por Ana + 15 hallazgos de la web, todo en la base (fuente "london records 2026-10").
 - 03/10: la página pasa a ser "vinilos": colección + wishlist + buscador, generada desde la base.
+- 03-04/10: icónicos como fichas con ranking de versiones (país, cómo suena, cómo reconocerla); wishlist primero,
+  chips de sección/estilo, lupa; las red flags ya no se muestran.
+- 04/10: error con *Music* (SKU = barcode compartido) → protocolo de identificación en SKILL.md y revisión de fichas.
