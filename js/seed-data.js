@@ -625,7 +625,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG"
+    "notes": "País: Japón · Grading: VG+ / VG\nJaponesa de época: EG/Polydor 28MM 0065, con inserto (según una tienda, sin obi). Ojo: existe también el Mini Album (1983, 6 temas, vivos de Tokio 1982): confirmar por el tracklist que sea el LP de 1981 (Air à Danser, Telephone and Rubber Band, Numbers 1-4…)."
   },
   {
     "id": "dw-88",
@@ -1396,16 +1396,6 @@ window.DEADWAX_SEED = [
     "year": "1990",
     "format": "LP",
     "notes": "País: Brasil · Grading: EX / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
-  },
-  {
-    "id": "dw-171",
-    "type": "wantlist",
-    "artist": "Pink Floyd",
-    "album": "Ummagumma",
-    "label": "",
-    "year": "1969",
-    "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
   },
   {
     "id": "dw-172",
