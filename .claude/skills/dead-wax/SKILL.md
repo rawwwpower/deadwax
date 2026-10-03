@@ -5,6 +5,10 @@ description: Metodología de Ana para evaluar y catalogar ediciones de vinilo (a
 
 # Dead Wax — evaluación y catálogo de vinilos
 
+> **No confiar: verificar.** (pedido de Ana, 04/10/2026). Ningún dato se da por bueno por venir de la base, de una sesión anterior, de un SKU o de un anuncio: se verifica contra una fuente antes de recomendar, y la respuesta dice qué se verificó y qué no.
+>
+> **Por qué: un disco es un activo** (Ana, 04/10/2026). En un mundo de cosas escasas, la colección es un patrimonio que a futuro puede salvarnos. Un error de identificación es plata mal puesta o una joya que se escapa. Por eso, además del sonido, cada veredicto de compra dice cómo se comporta como activo: si es original de época o reedición (las reediciones nuevas casi no se revalorizan), si la tirada es corta, el estado (que es lo que sostiene el valor) y si se puede revender.
+
 Este skill tiene dos partes que casi siempre van juntas:
 
 1. **La metodología** (cómo juzgar si una edición puntual vale la pena) — está resumida acá abajo, con el detalle completo en `references/`.
@@ -16,6 +20,25 @@ Nunca evalúes de memoria ni por similitud. Siempre:
 - Pedí o extraé el **catálogo completo exacto** tal cual aparece en la foto (contratapa, etiqueta, lomo) — no asumas país/edición por parecido con otra que conocés.
 - Comparalo contra el **master de Discogs** para ese álbum, ubicando la edición exacta entre las versiones listadas.
 - Si hay foto de dead wax/matrix, usala para confirmar la prensa exacta (ver vocabulario abajo).
+
+### Protocolo de identificación (obligatorio antes de recomendar una compra)
+
+Lo que no se identifica bien se recomienda mal: este paso va **antes** del veredicto, siempre.
+
+1. **Anotar qué evidencia hay y cuánto vale.** Orden de confianza: dead wax/matrix > etiqueta (logo, textos de época, planta) > barcode > catálogo > título del anuncio/SKU de la tienda. Un SKU que copia el barcode es un barcode, no una prueba.
+2. **Buscar el identificador en Discogs y listar TODAS las ediciones que lo comparten.** Los sellos grandes (Warner, Sony, Universal) reusan barcode y catálogo en represiones: no asumir que un barcode = una edición. Si hay más de una, el veredicto se da para cada una o se dice qué falta para distinguirlas.
+3. **Contexto de la tienda:** si el disco se vende nuevo/sellado, la hipótesis por defecto es reedición, nunca original de época.
+4. **Nivel de confianza explícito en la primera línea del veredicto:**
+   - **confirmada**: dead wax o etiqueta vistos (foto o en mano).
+   - **probable**: un identificador que en Discogs corresponde a una sola edición.
+   - **sin confirmar**: identificador compartido, datos del anuncio o página inaccesible.
+   Nunca escribir "confirmada" en la base ni en la respuesta si no es el primer caso. Si no pude abrir la página de la tienda, decirlo en la primera línea, no al final.
+5. **Lo que dice la base es hipótesis, no verdad.** Fichas de sesiones anteriores ("CONFIRMADA en tal tienda") se re-verifican con este protocolo antes de apoyar en ellas una recomendación de compra.
+6. **Cerrar con qué mirar en la batea** para pasar de "probable/sin confirmar" a "confirmada" (texto de la etiqueta, marca en el dead wax, funda, insert).
+
+### Errores aprendidos (no repetir)
+
+- **03-04/10/2026, Madonna *Music* en Maniac:** recomendé "la original del 2000" porque el SKU era el barcode 093624786511, y la ficha de la base decía "CONFIRMADA = original". Ese barcode lo comparten la original 2000, la azul 2018 y la negra 2020; la de Maniac era la 2020. Faltaron los pasos 2, 3 y 5. La misma falla estaba en las fichas de *Mezzanine* y *Facelift*, que se bajaron a "probable".
 
 ## Los tres criterios (resumen — detalle en `references/guia-completa.md`)
 
@@ -53,6 +76,8 @@ Mobile Fidelity (MoFi): buena fama pero con el antecedente del escándalo 2022 (
 8. **Evaluar no es lo mismo que comprar.** Solo loguear en la base como "owned" si Ana confirma explícitamente que lo compró o ya lo tiene. Una consulta tipo "¿vale la pena esto?" es evaluación pura: dar el veredicto y listo, **no preguntar si hay que cargarlo** ni cargarlo como `pendiente` por las dudas — eso genera ruido. Solo se carga algo (y ahí sí, sin volver a confirmar) cuando ella lo pide explícitamente ("sumalo", "cargalo", "ya lo tengo", "lo compré") o cuando ya está claro por contexto que es un disco que posee (ej. "está sonando en casa de Seba").
 
 **Regla anti-piloto-automático:** cada ficha necesita mínimo un dato que venga de buscar (WebSearch u otra fuente), no solo de describir la foto. "Tiene obi, es Japón, parece bien" no es un dato, es un patrón que Ana ya conoce de memoria. Si Discogs está bloqueado (pasa seguido en esta sesión), buscar igual por catálogo/artista/sello puntual: historial de la edición, por qué se valora, diferencias con otras ediciones, cualquier hecho concreto que no se lea directo de la tapa. Si después de buscar no sale nada nuevo, decirlo explícitamente ("no encontré nada más allá de lo que se ve en la foto") en vez de rellenar con lo obvio.
+
+**Barcode y catálogo no alcanzan para distinguir original de reedición.** Los sellos grandes (Warner sobre todo) reusan el mismo código de barras y catálogo en las represiones: Madonna *Music* 093624786511 / 9362-47865-1 es la original 2000, la azul 2018 y la negra 2020. Un SKU de tienda que copia el barcode tampoco prueba nada. Para confirmar: etiqueta (logo y textos de época), detalles de packaging y, sobre todo, el dead wax. Orden de confianza: dead wax > barcode > catálogo > anuncio. Si la tienda vende el disco nuevo/sellado, sospechar reedición.
 
 ## Ficha rápida (foto de un disco para descubrir, no para comprar)
 
@@ -137,7 +162,7 @@ Español argentino, informal, directo. Sin guiones largos (—); usar comas, dos
 
 **El precio informa, no veta (pedido de Ana, 03/10/2026).** El foco de cada review es el sonido de esa prensa puntual: buscar reviews de sonido (Steve Hoffman, Tracking Angle, Analog Planet, comentarios de Discogs) y decir cómo suena frente a otras ediciones. El precio se dice siempre (caro / razonable / barato, con la referencia que lo justifica), pero nunca descarta un disco por sí solo: un disco imposible de conseguir que suena impecable pasa de "caro" a "aceptable". La palabra final es de Ana: sugerir, no prohibir. Reservar 🚩 para problemas de autenticidad, estado o sonido, no para precios altos.
 
-**Cada respuesta abre con el veredicto, no con el trámite.** Lo primero que necesita saber Ana es si está ante una joya o no (auténtico, prensa top, pieza rara/deseable) o si es un disco sin mayor interés. Esa conclusión va primero, en una línea. Los datos de respaldo (catálogo, país, criterios) van después, para quien quiera el detalle, no antes.
+**Cada respuesta abre con el veredicto (y su nivel de confianza), no con el trámite.** Lo primero que necesita saber Ana es si está ante una joya o no (auténtico, prensa top, pieza rara/deseable) o si es un disco sin mayor interés. Esa conclusión va primero, en una línea. Los datos de respaldo (catálogo, país, criterios) van después, para quien quiera el detalle, no antes.
 
 **Formato: ficha escaneable, no párrafo.** Ana suele mandar varios discos seguidos en modo "rush de búsqueda": nada de prosa corrida. Cada respuesta va en bullets o tabla corta, con emoji de veredicto cuando ayude a escanear más rápido (💎 joya / 👍 vale la pena / 🤷 nada especial / 🚩 ojo). Plantilla:
 

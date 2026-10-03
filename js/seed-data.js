@@ -238,7 +238,7 @@ window.DEADWAX_SEED = [
     "label": "Maverick / Warner Bros",
     "year": "2000",
     "format": "LP",
-    "notes": "País: Alemania · Catálogo: 9362-47865-1 / barcode 093624786511 · Prensado: CONFIRMADA en Maniac Records (SKU093624786511) = original 2000. Misma masterización que la reedición 2020 180g, pero con mejor fama de prensado consistente (la reedición tiene reportes de ruido, evitar variante azul si se opta por esa). Autenticación: etiqueta lado B dice 'SDIE TWO' en vez de 'SIDE TWO' (typo de imprenta original).\nVEREDICTO: vale la pena, comprar."
+    "notes": "País: Alemania · Catálogo: 9362-47865-1 / barcode 093624786511 · Prensado: ERROR CORREGIDO 04/10/2026: el SKU 093624786511 no prueba la original 2000 (barcode compartido con 2018 y 2020). Misma masterización que la reedición 2020 180g, pero con mejor fama de prensado consistente (la reedición tiene reportes de ruido, evitar variante azul si se opta por esa). Autenticación: etiqueta lado B dice 'SDIE TWO' en vez de 'SIDE TWO' (typo de imprenta original; no verificado si las reediciones lo repiten, así que solo no alcanza).\nVEREDICTO: vale la pena, comprar. | 04/10/2026: Maniac tiene además la reedición 2026 en vinilo azul (Rhino, barcode 081227924034, salió el 31/07/2026). Mismo master de Tim Young (Metropolis) que la original; reviews divididas: copias \"casi en silencio\" y otras ruidosas. Elegida: la original 2000. | 04/10/2026 CORRECCIÓN: el barcode 093624786511 (y el catálogo 9362-47865-1) se repite en la original 2000, en la azul 2018 exclusiva de Sainsbury's y en la negra 2020 prensada por Optimal Media (Alemania), con funda interna impresa. Lo de \"confirmada original en Maniac\" se dedujo solo del SKU: no alcanza. Si en Maniac está nueva/sellada, casi seguro es la 2020. | 04/10/2026: Ana confirma que la de Maniac con SKU 093624786511 es reedición (2020 negra)."
   },
   {
     "id": "dw-27",
@@ -258,7 +258,7 @@ window.DEADWAX_SEED = [
     "label": "Circa / Virgin (reedición 2023)",
     "year": "2023",
     "format": "LP",
-    "notes": "País: Alemania · Catálogo: barcode 602537540433 · Prensado: CONFIRMADA en Maniac Records = reedición 2023, 180g, cortada en Metropolis Mastering (mismo estudio que el original 1998). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK tiene fama de ser 'el' sonido de referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: vale la pena, comprar. Si aparece el original 1998 en buen estado sería el tope absoluto."
+    "notes": "País: Alemania · Catálogo: barcode 602537540433 · Prensado: PROBABLE (solo por barcode/SKU de Maniac, sin ver etiqueta ni dead wax): reedición, 180g, cortada en Metropolis Mastering (mismo estudio que el original 1998). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK tiene fama de ser 'el' sonido de referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: vale la pena, comprar. Si aparece el original 1998 en buen estado sería el tope absoluto."
   },
   {
     "id": "dw-29",
@@ -268,7 +268,7 @@ window.DEADWAX_SEED = [
     "label": "Sony Legacy (reedición 2020)",
     "year": "2020",
     "format": "LP",
-    "notes": "Catálogo: barcode 194397838619 · Prensado: CONFIRMADA en Maniac Records = reedición estándar 30 aniversario 2020 (NO el box deluxe, ese es otro SKU). Cortada por Chris Bellman, remasterizada en Gateway Mastering (estudio de Bob Ludwig). Reviews muy buenas: profundidad, silenciosa, buenos agudos.\nVEREDICTO: vale la pena, comprar. Original 1990 Columbia no evaluado en detalle (grunge de los 90, no una era audiófila de referencia)."
+    "notes": "Catálogo: barcode 194397838619 · Prensado: PROBABLE (barcode 194397838619 verificado: corresponde a una sola edición, Legacy 2020; falta ver etiqueta/dead wax): reedición estándar 30 aniversario 2020 (NO el box deluxe, ese es otro SKU). Cortada por Chris Bellman, remasterizada en Gateway Mastering (estudio de Bob Ludwig). Reviews muy buenas: profundidad, silenciosa, buenos agudos.\nVEREDICTO: vale la pena, comprar. Original 1990 Columbia no evaluado en detalle (grunge de los 90, no una era audiófila de referencia)."
   },
   {
     "id": "dw-30",

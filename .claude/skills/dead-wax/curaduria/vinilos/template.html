@@ -182,7 +182,7 @@ function card(x){
   const head = [x.or ? "origen "+x.or : "", x.e, (x.v||[]).length+" versiones"].filter(Boolean).map(t => hl(t.toLowerCase())).join(" · ");
   return '<li class="card"><div class="ch"><div class="cv big" aria-hidden="true">'+cv+'</div>'+
     '<div class="tx"><span class="name"><span class="who">'+hl(x.a)+'</span> '+hl(x.d)+'</span>'+
-    '<span class="data">'+head+'</span></div></div>'+
+    '<span class="data">'+head+(x.fl ? ' · <span class="fl">'+hl(x.fl)+'</span>' : "")+'</span></div></div>'+
     '<ol class="vers">'+vs+'</ol></li>';
 }
 
