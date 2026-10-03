@@ -6,6 +6,8 @@ description: Metodología de Ana para evaluar y catalogar ediciones de vinilo (a
 # Dead Wax — evaluación y catálogo de vinilos
 
 > **No confiar: verificar.** (pedido de Ana, 04/10/2026). Ningún dato se da por bueno por venir de la base, de una sesión anterior, de un SKU o de un anuncio: se verifica contra una fuente antes de recomendar, y la respuesta dice qué se verificó y qué no.
+>
+> **Por qué: un disco es un activo** (Ana, 04/10/2026). En un mundo de cosas escasas, la colección es un patrimonio que a futuro puede salvarnos. Un error de identificación es plata mal puesta o una joya que se escapa. Por eso, además del sonido, cada veredicto de compra dice cómo se comporta como activo: si es original de época o reedición (las reediciones nuevas casi no se revalorizan), si la tirada es corta, el estado (que es lo que sostiene el valor) y si se puede revender.
 
 Este skill tiene dos partes que casi siempre van juntas:
 
