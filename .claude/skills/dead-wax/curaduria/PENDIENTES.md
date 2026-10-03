@@ -1,6 +1,6 @@
 # Curaduría en curso (sep 2026)
 
-Estado al 27/09/2026, para retomar en una sesión nueva sin perder nada.
+Estado al 03/10/2026, para retomar en una sesión nueva sin perder nada.
 Leer esto antes de seguir con cualquier compra, carga a la base o la página de la feria.
 
 ## 1. Página de la feria (artifact)
@@ -22,13 +22,12 @@ Leer esto antes de seguir con cualquier compra, carga a la base o la página de 
 
 ## 2. Javierfan (javierfandiscos.com.ar)
 
-Elegidos por Ana. Dijo que "compró algunos" pero **no confirmó cuáles**: preguntar antes de cargarlos como `owned`.
+Comprados por Ana (confirmado el 03/10/2026, ya cargados como `owned`): AC/DC *Dirty Deeds* (id 81), Eurythmics *Sweet Dreams* (id 67), Stevie Wonder *Original Musiquarium* (id 82) y el maxi de Lenny Kravitz *I Build This Garden for Us* (UK 1990, Virgin VUST 17, $42.150, id 83).
+
+Elegidos y **no** comprados (siguen como opción):
 
 | Disco | Edición | Precio web | Nota |
 |---|---|---|---|
-| AC/DC · Dirty Deeds Done Dirt Cheap | Europa 1979, Atlantic ATL 50 323 | $71.600 | impecable |
-| Eurythmics · Sweet Dreams | UK 1983, RCA RCALP 6063 | $57.900 | tic en el 4º tema del lado A |
-| Stevie Wonder · Original Musiquarium | UK 1982, Motown TMSP 6012, 2 LP | $86.350 | compilado, Precision Lacquer |
 | David Bowie · Station to Station | UK 1976, RCA APL1-1327 | $86.400 | exc++ |
 | Hawkwind · Hall of the Mountain Grill | UK 1974, UA UAG 29672 | $73.700 | con Lemmy; sticker arrancado |
 | Bob Marley · Rastaman Vibration | UK 1976, Island ILPS 9383 | $92.700 | etiqueta = Discogs r844464 (Rondor Music); vendedor confirma STERLING en matrix → primera prensa |

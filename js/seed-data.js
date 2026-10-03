@@ -524,6 +524,17 @@ window.DEADWAX_SEED = [
     "notes": "Prensado: Tapa del SINGLE 'Music' (arte vaquero/heno), no la del álbum completo. Reusada en varios formatos (12', CD single) internacionalmente.\nFalta contratapa/lomo o etiqueta para confirmar catálogo y edición exacta (US/UK/promo)."
   },
   {
+    "id": "dw-67",
+    "type": "collection",
+    "artist": "Eurythmics",
+    "album": "Sweet Dreams (Are Made of This)",
+    "label": "RCA",
+    "year": "1983",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: RCALP 6063 · Grading: VG+/EX+ (tic en algunas vueltas al inicio del 4º tema lado A) / EX (tapa e insert) · Prensado: Confirmado por etiqueta: 'Marketed and Distributed by RCA Limited, Record Division England'. Es UK, el país de origen real de la banda, pega mejor en la jerarquía que la variante USA (AFL1-4681). Copia comprada en Javierfan: RCA RCALP 6063 / PL 25447.\nTapa gris/dorada con foto del corazón es el diseño original real (no variante rara). En la reedición 2005 el dorado sale más cobrizo/marrón; el de esta copia es el dorado clásico.",
+    "owner": "yo"
+  },
+  {
     "id": "dw-71",
     "type": "wantlist",
     "artist": "The Chemical Brothers",
@@ -542,5 +553,38 @@ window.DEADWAX_SEED = [
     "year": "",
     "format": "LP",
     "notes": "Prensado: Solo se vio tapa (círculo pequeño arriba a la izquierda, catálogo no legible), nunca llegó la foto de etiqueta pedida.\nSe comparó contra una prensa japonesa NEMS 1980 (VIP-8988 / SP18-5014 / B1-5155 WWA 005 II) vista en un post de Instagram de @londonrecordsar, vendida en $410.000 ARS NM con obi (esa variante ya está documentada en references/guia-completa.md, no es la copia de Ana). Falta la etiqueta de la copia de Ana para saber en qué punto de la jerarquía cae la suya."
+  },
+  {
+    "id": "dw-81",
+    "type": "collection",
+    "artist": "AC/DC",
+    "album": "Dirty Deeds Done Dirt Cheap",
+    "label": "Atlantic",
+    "year": "1979",
+    "format": "LP",
+    "notes": "País: Europa · Catálogo: ATL 50 323 · Grading: NM (impecable según vendedor) / NM (tapa e insert excelentes) · Prensado: Edición europea 1979 de la versión internacional (la primera es UK 1976, Atlantic K 50323; la australiana de Albert tiene otro tracklist). Comprado en Javierfan (web).\nCon Bon Scott. En EE.UU. recién salió en 1981 (Atlantic SD 16033), después de su muerte.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-82",
+    "type": "collection",
+    "artist": "Stevie Wonder",
+    "album": "Original Musiquarium I",
+    "label": "Motown",
+    "year": "1982",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: TMSP 6012 · Grading: NM (impecable según vendedor) · Prensado: 2 LP, compilado con 4 temas nuevos. Precision Lacquer en el dead wax de todas las caras; cortado de los masters originales de Stevie. Comprado en Javierfan (web).\nInéditos: Front Line, Ribbon in the Sky, That Girl, Do I Do (con solo de Dizzy Gillespie).",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-83",
+    "type": "collection",
+    "artist": "Lenny Kravitz",
+    "album": "I Build This Garden for Us",
+    "label": "Virgin",
+    "year": "1990",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: VUST 17 · Grading: NM (impecable según vendedor) / EX · Prensado: Maxi 12\" UK original 1990. Lado B: Flower Child y Fear (del mismo álbum, Let Love Rule). Comprado en Javierfan (web).\nSegundo simple de Let Love Rule (1989).",
+    "owner": "yo"
   }
 ];
