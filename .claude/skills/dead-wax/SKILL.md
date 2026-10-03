@@ -5,6 +5,8 @@ description: Metodología de Ana para evaluar y catalogar ediciones de vinilo (a
 
 # Dead Wax — evaluación y catálogo de vinilos
 
+> **No confiar: verificar.** (pedido de Ana, 04/10/2026). Ningún dato se da por bueno por venir de la base, de una sesión anterior, de un SKU o de un anuncio: se verifica contra una fuente antes de recomendar, y la respuesta dice qué se verificó y qué no.
+
 Este skill tiene dos partes que casi siempre van juntas:
 
 1. **La metodología** (cómo juzgar si una edición puntual vale la pena) — está resumida acá abajo, con el detalle completo en `references/`.

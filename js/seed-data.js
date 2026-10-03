@@ -268,7 +268,7 @@ window.DEADWAX_SEED = [
     "label": "Sony Legacy (reedición 2020)",
     "year": "2020",
     "format": "LP",
-    "notes": "Catálogo: barcode 194397838619 · Prensado: PROBABLE (solo por barcode/SKU de Maniac, sin ver etiqueta ni dead wax): reedición estándar 30 aniversario 2020 (NO el box deluxe, ese es otro SKU). Cortada por Chris Bellman, remasterizada en Gateway Mastering (estudio de Bob Ludwig). Reviews muy buenas: profundidad, silenciosa, buenos agudos.\nVEREDICTO: vale la pena, comprar. Original 1990 Columbia no evaluado en detalle (grunge de los 90, no una era audiófila de referencia)."
+    "notes": "Catálogo: barcode 194397838619 · Prensado: PROBABLE (barcode 194397838619 verificado: corresponde a una sola edición, Legacy 2020; falta ver etiqueta/dead wax): reedición estándar 30 aniversario 2020 (NO el box deluxe, ese es otro SKU). Cortada por Chris Bellman, remasterizada en Gateway Mastering (estudio de Bob Ludwig). Reviews muy buenas: profundidad, silenciosa, buenos agudos.\nVEREDICTO: vale la pena, comprar. Original 1990 Columbia no evaluado en detalle (grunge de los 90, no una era audiófila de referencia)."
   },
   {
     "id": "dw-30",
