@@ -1436,5 +1436,15 @@ window.DEADWAX_SEED = [
     "year": "1975",
     "format": "LP",
     "notes": "País: Japón · Catálogo: GP 152 · Grading: VG+ / G\n04/10: tapa vista en foto con GP 152 y logo London ffrr. Probable 1ra edición japonesa 1975. Sin obi a la vista. Falta etiqueta/dead wax."
+  },
+  {
+    "id": "dw-177",
+    "type": "wantlist",
+    "artist": "Nena",
+    "album": "99 Luftballons (First America)",
+    "label": "Epic/Sony",
+    "year": "1984",
+    "format": "LP",
+    "notes": "País: Japón\n04/10: tapa vista en foto, sticker 'NENA JAPAN $59.000' (en la lista: 'Nena ?' $59.000 sin grading; hay otra línea 'First America (99 Luftballons)' EX/VG+ $59.900: preguntar si son dos copias). Probable japonesa 1984. Falta etiqueta/catálogo."
   }
 ];
