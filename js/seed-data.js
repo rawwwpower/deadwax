@@ -238,7 +238,7 @@ window.DEADWAX_SEED = [
     "label": "Maverick / Warner Bros",
     "year": "2000",
     "format": "LP",
-    "notes": "País: Alemania · Catálogo: 9362-47865-1 / barcode 093624786511 · Prensado: CONFIRMADA en Maniac Records (SKU093624786511) = original 2000. Misma masterización que la reedición 2020 180g, pero con mejor fama de prensado consistente (la reedición tiene reportes de ruido, evitar variante azul si se opta por esa). Autenticación: etiqueta lado B dice 'SDIE TWO' en vez de 'SIDE TWO' (typo de imprenta original).\nVEREDICTO: vale la pena, comprar."
+    "notes": "País: Alemania · Catálogo: 9362-47865-1 / barcode 093624786511 · Prensado: CONFIRMADA en Maniac Records (SKU093624786511) = original 2000. Misma masterización que la reedición 2020 180g, pero con mejor fama de prensado consistente (la reedición tiene reportes de ruido, evitar variante azul si se opta por esa). Autenticación: etiqueta lado B dice 'SDIE TWO' en vez de 'SIDE TWO' (typo de imprenta original).\nVEREDICTO: vale la pena, comprar. | 04/10/2026: Maniac tiene además la reedición 2026 en vinilo azul (Rhino, barcode 081227924034, salió el 31/07/2026). Mismo master de Tim Young (Metropolis) que la original; reviews divididas: copias \"casi en silencio\" y otras ruidosas. Elegida: la original 2000."
   },
   {
     "id": "dw-27",
