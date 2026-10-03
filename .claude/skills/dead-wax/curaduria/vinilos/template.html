@@ -1,0 +1,184 @@
+<title>vinilos</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+/*FONTS*/
+
+:root{
+  color-scheme:dark;
+  --background:#1c1c1a; --foreground:#fafaf9;
+  --z100:#f4f4f5; --z400:#a1a1aa; --z500:#71717a; --z600:#52525b; --z800:#27272a;
+  --page-pad-x:clamp(1rem,6vw,5rem); --page-pad-y:4rem;
+  --ease-out:cubic-bezier(0.23,1,0.32,1);
+  --sans:"Switzer",Arial,Helvetica,sans-serif;
+  --mono:"Geist Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (min-width:640px){:root{--page-pad-y:5rem}}
+html,body{background:var(--background);color:var(--foreground)}
+body{margin:0;font-family:var(--sans);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;text-size-adjust:100%;padding-inline:var(--page-pad-x);padding-block:var(--page-pad-y)}
+main{max-width:36rem}
+.head{min-height:3rem}
+h1{font-size:16px;font-weight:600;letter-spacing:-0.01em;color:var(--z100);margin:0}
+.head p{margin:0;color:var(--z400)}
+nav{margin:1.5rem 0 0 -0.75rem}
+nav ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap}
+.tabs{margin-top:1.25rem}
+.f{appearance:none;background:none;border:0;font:inherit;font-size:14px;cursor:pointer;min-height:44px;padding:0 .75rem;display:inline-flex;align-items:center;color:var(--z400);text-decoration:underline;text-decoration-color:var(--z600);text-underline-offset:4px;border-radius:2px;transition:color 150ms var(--ease-out),text-decoration-color 150ms var(--ease-out),transform 150ms var(--ease-out)}
+.tabs .f{font-size:16px}
+.f:hover{color:var(--z100);text-decoration-color:var(--z400)}
+.f:active{transform:scale(.97)}
+.f[aria-pressed="true"]{color:var(--z100);text-decoration:none}
+.f:focus-visible{outline:1px solid var(--z500);outline-offset:4px}
+.f .n{font-family:var(--mono);font-size:10px;letter-spacing:.06em;color:var(--z500);margin-left:6px}
+.search{margin-top:1.25rem;position:relative}
+.search input{width:100%;box-sizing:border-box;background:none;border:0;border-bottom:1px solid var(--z600);color:var(--z100);font:inherit;font-size:16px;padding:10px 28px 10px 0;border-radius:0;outline:none;transition:border-color 150ms var(--ease-out)}
+.search input::placeholder{color:var(--z500)}
+.search input:focus{border-bottom-color:var(--z400)}
+.search input::-webkit-search-cancel-button{display:none}
+.search .x{position:absolute;right:-10px;top:50%;transform:translateY(-50%);appearance:none;background:none;border:0;color:var(--z500);font:inherit;font-size:18px;cursor:pointer;width:44px;height:44px;display:none}
+.search .x:hover{color:var(--z100)}
+.search.on .x{display:block}
+.hint{margin-top:.75rem;font-family:var(--mono);font-size:10px;letter-spacing:.08em;color:var(--z500);min-height:1em}
+section{margin-top:2.75rem}
+h2{font-family:var(--mono);font-size:10px;font-weight:400;letter-spacing:.08em;color:var(--z500);margin:0 0 .5rem}
+ul.list{list-style:none;margin:0;padding:0}
+.it{display:grid;grid-template-columns:44px minmax(0,1fr) auto;gap:0 14px;align-items:start;padding:10px 0}
+.cv{width:44px;height:44px;border-radius:2px;background:var(--z800);display:grid;place-items:center;overflow:hidden;font-family:var(--mono);font-size:10px;letter-spacing:.04em;color:var(--z600);text-transform:lowercase}
+.cv img{width:100%;height:100%;object-fit:cover;display:block}
+.tx{min-width:0;display:flex;flex-direction:column;gap:2px}
+.name{font-size:14px;line-height:1.35;color:var(--z100);text-wrap:pretty}
+.name .who{color:var(--z400)}
+.data{font-family:var(--mono);font-size:10px;line-height:1.5;letter-spacing:.06em;color:var(--z500);overflow-wrap:anywhere}
+.data .fl{color:var(--z100)}
+.why{font-size:13px;line-height:1.45;color:var(--z500);margin-top:3px}
+.rv{font-size:13px;line-height:1.45;color:var(--z400);margin-top:3px}
+.rv::before{content:"“"}
+.rv::after{content:"”"}
+.pr{align-self:start;padding-top:1px;font-family:var(--mono);font-size:12px;color:var(--z400);font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+.pr small{display:block;font-size:10px;color:var(--z600)}
+.evitar .name{text-decoration:line-through;text-decoration-color:var(--z600)}
+.evitar .cv{opacity:.45}
+mark{background:none;color:var(--z100);text-decoration:underline;text-decoration-color:var(--z500);text-underline-offset:3px}
+.empty{font-family:var(--mono);font-size:10px;letter-spacing:.08em;color:var(--z600);padding:8px 0}
+.foot{margin-top:3.5rem;font-family:var(--mono);font-size:10px;letter-spacing:.08em;line-height:1.8;color:var(--z600)}
+@keyframes reveal{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes reveal-fade{from{opacity:0}to{opacity:1}}
+.reveal{animation:reveal 320ms var(--ease-out) backwards;animation-delay:var(--d,0ms)}
+@media (prefers-reduced-motion:reduce){.reveal{animation-name:reveal-fade;animation-duration:200ms}}
+</style>
+
+<main>
+  <div class="head reveal"><h1>vinilos</h1><p>colección y wishlist</p></div>
+  <nav class="tabs reveal" style="--d:60ms" aria-label="Lista"><ul id="tabs"></ul></nav>
+  <div class="search reveal" style="--d:90ms" id="sbox">
+    <input type="search" id="q" placeholder="buscar en todo: artista, disco, sello, catálogo, país…" autocomplete="off" aria-label="Buscar en la colección y la wishlist">
+    <button type="button" class="x" id="qx" aria-label="Borrar búsqueda">×</button>
+  </div>
+  <nav class="reveal" style="--d:120ms" aria-label="Filtrar por estilo"><ul id="filters"></ul></nav>
+  <div class="hint" id="hint" aria-live="polite"></div>
+  <div id="sections"></div>
+  <p class="foot">actualizado /*FECHA*/ · usd a $/*USD*/</p>
+</main>
+
+<script>
+const USD = /*USD*/;
+const COVERS = /*COVERS*/;
+const D = /*DATA*/;
+const LISTS = {
+  coleccion: {label: "colección", secs: [["ana","ana"],["seba","seba"]], sec: x => x.o},
+  wishlist: {label: "wishlist", secs: [["top","top tier"],["interesante","interesantes"],["evitar","red flags"]], sec: x => x.p},
+};
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fold = s => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const fmt = n => "$" + n.toLocaleString("es-AR");
+const initials = a => a.replace(/^the /i,"").split(/[\s/&,()]+/).filter(Boolean).slice(0,2).map(w=>w[0]).join("");
+D.forEach(x => { x.hay = fold([x.a,x.d,x.pa,x.se,x.ca,x.y,x.g,x.e,x.w,x.r,x.fl,x.n,x.l==="coleccion"?"coleccion tengo":"wishlist quiero"].filter(Boolean).join(" ")); });
+
+const st = {list: "coleccion", style: "todos", q: ""};
+try {
+  const s = JSON.parse(localStorage.getItem("vinilos-estado") || "{}");
+  if (LISTS[s.list]) st.list = s.list;
+  if (typeof s.style === "string") st.style = s.style;
+} catch (e) {}
+const save = () => { try { localStorage.setItem("vinilos-estado", JSON.stringify({list: st.list, style: st.style})); } catch (e) {} };
+
+// Resalta los términos buscados en un texto ya escapado-por-partes.
+function hl(text){
+  const s = String(text);
+  const terms = fold(st.q).split(/\s+/).filter(t => t.length > 1);
+  if (!terms.length) return esc(s);
+  const f = fold(s); const marks = new Array(s.length).fill(false);
+  terms.forEach(t => { let i = f.indexOf(t); while (i >= 0) { for (let j=i;j<i+t.length;j++) marks[j]=true; i = f.indexOf(t, i+t.length); } });
+  let out = "", open = false;
+  for (let i=0;i<s.length;i++){ if (marks[i] && !open){out+="<mark>";open=true} if (!marks[i] && open){out+="</mark>";open=false} out+=esc(s[i]); }
+  return out + (open ? "</mark>" : "");
+}
+
+function row(x){
+  const key = x.a + " | " + x.d;
+  const cv = COVERS[key] ? '<img src="'+COVERS[key]+'" alt="" loading="lazy">' : esc(initials(x.a));
+  const bits = [x.pa, x.ed, x.se, x.ca, x.y, x.g].filter(Boolean).map(v => hl(String(v).toLowerCase()));
+  const flags = x.fl ? (bits.length ? ' · ' : '')+'<span class="fl">'+hl(x.fl)+'</span>' : "";
+  const own = x.l === "coleccion" && x.o === "seba" && st.q ? ' <span class="who">· de seba</span>' : "";
+  const pr = x.pr ? fmt(x.pr)+'<small>usd '+Math.round(x.pr/USD)+'</small>' : "";
+  return '<li class="it"><div class="cv" aria-hidden="true">'+cv+'</div>'+
+    '<div class="tx"><span class="name"><span class="who">'+hl(x.a)+'</span> '+hl(x.d)+own+'</span>'+
+    (bits.length || flags ? '<span class="data">'+bits.join(" · ")+flags+'</span>' : "")+
+    (x.w ? '<span class="why">'+hl(x.w)+'</span>' : "")+
+    (x.r ? '<span class="rv">'+hl(x.r)+'</span>' : "")+
+    '</div><span class="pr">'+pr+'</span></li>';
+}
+
+function matches(x){
+  if (st.style !== "todos" && x.e !== st.style) return false;
+  if (!st.q) return true;
+  return fold(st.q).split(/\s+/).filter(Boolean).every(t => x.hay.includes(t));
+}
+
+function section(label, items, cls, i){
+  return '<section class="reveal '+(cls||"")+'" style="--d:'+(120+i*30)+'ms"><h2>'+esc(label)+' · '+String(items.length).padStart(2,"0")+'</h2>'+
+    '<ul class="list">'+(items.length ? items.map(row).join("") : '<li class="empty">nada de este estilo</li>')+'</ul></section>';
+}
+
+function render(){
+  const searching = st.q.trim() !== "";
+  const lists = searching ? ["coleccion","wishlist"] : [st.list];
+  let html = "", i = 0, total = 0;
+  lists.forEach(l => {
+    const L = LISTS[l];
+    L.secs.forEach(([k, label]) => {
+      const items = D.filter(x => x.l === l && L.sec(x) === k && matches(x));
+      total += items.length;
+      if (searching && !items.length) return;
+      html += section((searching ? L.label + " · " : "") + label, items, k === "evitar" ? "evitar" : "", i++);
+    });
+  });
+  document.getElementById("sections").innerHTML = html;
+  document.getElementById("hint").textContent = searching ? (total ? total + (total === 1 ? " resultado" : " resultados") + " en colección y wishlist" : "no hay nada con eso, ni en la colección ni en la wishlist") : "";
+  document.getElementById("sbox").classList.toggle("on", searching);
+  document.querySelectorAll("#tabs .f").forEach(b => b.setAttribute("aria-pressed", !searching && b.dataset.l === st.list ? "true" : "false"));
+  renderFilters();
+}
+
+function renderFilters(){
+  const pool = st.q.trim() ? D : D.filter(x => x.l === st.list);
+  const styles = ["todos", ...Array.from(new Set(pool.map(x => x.e))).sort((a,b)=>a.localeCompare(b,"es"))];
+  if (!styles.includes(st.style)) st.style = "todos";
+  document.getElementById("filters").innerHTML = styles.map(s => '<li><button type="button" class="f" data-s="'+esc(s)+'" aria-pressed="'+(s===st.style)+'">'+esc(s)+'</button></li>').join("");
+}
+
+document.getElementById("tabs").innerHTML = Object.entries(LISTS).map(([k,L]) =>
+  '<li><button type="button" class="f" data-l="'+k+'">'+L.label+'<span class="n">'+D.filter(x=>x.l===k).length+'</span></button></li>').join("");
+document.getElementById("tabs").addEventListener("click", ev => {
+  const b = ev.target.closest(".f"); if (!b) return;
+  st.list = b.dataset.l; st.q = ""; document.getElementById("q").value = ""; save(); render();
+});
+document.getElementById("filters").addEventListener("click", ev => {
+  const b = ev.target.closest(".f"); if (!b) return;
+  st.style = b.dataset.s; save(); render();
+});
+const q = document.getElementById("q");
+q.addEventListener("input", () => { st.q = q.value; render(); });
+q.addEventListener("keydown", ev => { if (ev.key === "Escape") { q.value = ""; st.q = ""; render(); } });
+document.getElementById("qx").addEventListener("click", () => { q.value = ""; st.q = ""; render(); q.focus(); });
+render();
+</script>

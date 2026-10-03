@@ -17,8 +17,13 @@ dead-wax/
 │   └── casos-especificos.md     ← firmas de autenticación puntuales, bootlegs conocidos, notas regionales
 ├── scripts/
 │   └── coleccion.py             ← CLI para leer/escribir la base de datos (sin dependencias, solo stdlib)
-└── data/
-    └── coleccion.db             ← SQLite con la colección: discos de `ana` y de `seba` (campo `owner`)
+├── data/
+│   └── coleccion.db             ← SQLite: colección (owned) y wishlist (prioridad) de `ana` y de `seba`
+└── curaduria/
+    ├── PENDIENTES.md            ← lo que quedó abierto en la última sesión
+    ├── vinilos/                 ← la página "vinilos" (colección + wishlist + buscador), generada desde la base
+    ├── feria-2026-09/           ← lista original del proveedor de la feria
+    └── javierfan-2026-09/       ← catálogo web de Javierfan y lookups de Discogs
 ```
 
 ## Probarlo a mano (sin Claude, para verificar que la base anda)

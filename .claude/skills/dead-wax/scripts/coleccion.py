@@ -10,6 +10,7 @@ Uso:
     python coleccion.py show <id>
     python coleccion.py update <id> --status owned [otras opciones]
     python coleccion.py update <id> --review "reseña personal de escucha"
+    python coleccion.py delete <id>
     python coleccion.py stats
 
 La base vive en data/coleccion.db (SQLite), relativa a este script.
@@ -43,6 +44,10 @@ CREATE TABLE IF NOT EXISTS discos (
     fecha_adquirido TEXT,
     notas TEXT,
     review TEXT,                -- reseña personal de escucha (sonido, impresiones)
+    prioridad TEXT,             -- wishlist: top | interesante | evitar (secciones de la página)
+    etiquetas TEXT,             -- marcas cortas separadas por coma, ej. "país de origen, falta el single"
+    resumen TEXT,               -- una línea para la página de vinilos (por qué está, cómo suena)
+    fuente TEXT,                -- de dónde salió, ej. "feria 2026-09", "javierfan"
     creado_en TEXT DEFAULT CURRENT_TIMESTAMP
 );
 """
@@ -51,13 +56,17 @@ CREATE TABLE IF NOT EXISTS discos (
 MIGRATIONS = [
     ("genero", "TEXT"),
     ("review", "TEXT"),
+    ("prioridad", "TEXT"),
+    ("etiquetas", "TEXT"),
+    ("resumen", "TEXT"),
+    ("fuente", "TEXT"),
 ]
 
 FIELDS = [
     "owner", "artista", "titulo", "pais", "sello", "catalogo", "anio", "genero",
     "prensado_notas", "dead_wax_matrix", "grading_disco", "grading_tapa",
     "status", "discogs_release_id", "precio", "fecha_adquirido", "notas",
-    "review",
+    "review", "prioridad", "etiquetas", "resumen", "fuente",
 ]
 
 
@@ -108,8 +117,9 @@ def cmd_search(args):
     conn = get_conn()
     q = f"%{args.texto}%"
     rows = conn.execute(
-        "SELECT * FROM discos WHERE artista LIKE ? OR titulo LIKE ? OR catalogo LIKE ? OR sello LIKE ?",
-        [q, q, q, q],
+        "SELECT * FROM discos WHERE artista LIKE ? OR titulo LIKE ? OR catalogo LIKE ? OR sello LIKE ? "
+        "OR genero LIKE ? OR pais LIKE ?",
+        [q] * 6,
     ).fetchall()
     _print_rows(rows)
 
@@ -155,6 +165,17 @@ def cmd_update(args):
     print(f"Actualizado id {args.id}.")
 
 
+def cmd_delete(args):
+    conn = get_conn()
+    r = conn.execute("SELECT artista, titulo FROM discos WHERE id = ?", [args.id]).fetchone()
+    if not r:
+        print("No existe ese id.")
+        return
+    conn.execute("DELETE FROM discos WHERE id = ?", [args.id])
+    conn.commit()
+    print(f"Borrado id {args.id}: {r['artista']} — {r['titulo']}")
+
+
 def cmd_stats(args):
     conn = get_conn()
     total = conn.execute("SELECT COUNT(*) FROM discos").fetchone()[0]
@@ -189,6 +210,10 @@ def build_parser():
     add_p.add_argument("--fecha-adquirido", dest="fecha_adquirido")
     add_p.add_argument("--notas")
     add_p.add_argument("--review")
+    add_p.add_argument("--prioridad", choices=["top", "interesante", "evitar"])
+    add_p.add_argument("--etiquetas")
+    add_p.add_argument("--resumen")
+    add_p.add_argument("--fuente")
     add_p.set_defaults(func=cmd_add)
 
     search_p = sub.add_parser("search")
@@ -213,6 +238,10 @@ def build_parser():
     for f in FIELDS:
         update_p.add_argument(f"--{f.replace('_', '-')}", dest=f)
     update_p.set_defaults(func=cmd_update)
+
+    delete_p = sub.add_parser("delete", help="borrar un registro (ej. un duplicado ya fusionado)")
+    delete_p.add_argument("id", type=int)
+    delete_p.set_defaults(func=cmd_delete)
 
     sub.add_parser("stats").set_defaults(func=cmd_stats)
 

@@ -74,7 +74,7 @@ Máximo 5-6 líneas. Nada de análisis extendido de matrix/red flags acá — si
 
 ## Manejo de la base de datos
 
-Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`, `stats`). Reglas:
+Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`, `show`, `update`, `delete`, `stats`). Reglas:
 
 - Todo disco que Ana confirme como comprado o ya tenido va con `status=owned`.
 - Todo disco evaluado pero no comprado va con `status=evaluado_no_comprado` (para no re-evaluar de cero si vuelve a aparecer).
@@ -85,6 +85,20 @@ Ver `scripts/coleccion.py` para el detalle de comandos (`add`, `search`, `list`,
 - **Campo `owner`**: la base guarda dos colecciones separadas, `ana` (default) y `seba` — comparten sesiones de escucha pero son colecciones distintas de cada uno. Nunca asumir que un disco es de Ana si no se aclara; si Ana menciona algo de Seba (o viceversa), usar `--owner seba` explícitamente. Al buscar o listar, tener en cuenta que puede haber resultados de ambos dueños.
 - **Datos faltantes (país/sello/catálogo)**: si al cargar un disco no hay foto de tapa/etiqueta con esos datos, cargarlo igual con lo que se sepa (status real: `owned` si ya está confirmado como propio, aunque falte identificar la edición exacta) y dejar esos campos vacíos. **No volver a pedir esa info en el momento** — se completa después, en rondas de repaso con Seba. Para armar esas rondas: `python3 scripts/coleccion.py list --incomplete` lista todo lo que tiene país, sello o catálogo vacío, de cualquier owner/status.
   - `status=pendiente` es solo para "no decidido si se compra" (afecta cómo lo lee la app: aparece en wantlist) — no usarlo para "ya lo tengo pero falta identificar la edición", eso es `owned` + campos vacíos.
+- **Wishlist (`--prioridad`)**: todo disco que Ana quiere o está mirando para comprar lleva `prioridad` = `top` (comprar), `interesante` (vale la pena, sin apuro o falta un dato) o `evitar` (red flag: bootleg, prensa floja, otra copia mejor). Sumar `--resumen` (una línea: por qué está, cómo suena, qué falta), `--etiquetas` (marcas cortas: "país de origen", "falta el single") y `--fuente` (dónde se vio: "feria 2026-09", "javierfan"). Cuando se compra: `--status owned` (la prioridad deja de importar). Los `owned` también llevan `--resumen`.
+- **Duplicados**: la clave es `(owner, artista, titulo)`. Antes de `add`, `search`; si aparece la misma copia dos veces, fusionar los datos en una ficha y `delete <id>` la otra.
+
+## Página "vinilos" (artifact: colección + wishlist + buscador)
+
+https://claude.ai/artifact/DVryBYPAcqAX3scZDRqmu5 — se genera **entera desde `coleccion.db`**, nunca se edita a mano. Después de cualquier cambio en la base que afecte un `owned` o un disco con `prioridad`:
+
+```
+cd curaduria/vinilos
+python3 mb.py && python3 covers.py   # solo si hay discos nuevos: busca y baja sus tapas (revisarlas a ojo)
+python3 build.py                     # regenera vinilos.html
+```
+
+y republicar `curaduria/vinilos/vinilos.html` con la tool Artifact pasando ese `url` (mismo link). Detalle de las tapas (proxy, simples vs. álbum) en `curaduria/vinilos/README.md`.
 
 ## Gustos de Ana y Seba (para curaduría)
 
@@ -97,7 +111,7 @@ Son muy amplios y buscan activamente descubrir cosas nuevas: al curar un catálo
 
 ## Trabajo en curso
 
-Antes de cualquier curaduría, compra o carga, leer `curaduria/PENDIENTES.md`: tiene el estado de la última sesión (elegidos sin confirmar, página de la feria, tapas pendientes).
+Antes de cualquier curaduría, compra o carga, leer `curaduria/PENDIENTES.md`: tiene el estado de la última sesión y lo que quedó abierto.
 
 ## Privacidad
 

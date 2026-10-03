@@ -121,7 +121,7 @@ def main():
 
     if skipped:
         print(
-            f"Omitidos {skipped} registros con status=evaluado_no_comprado "
+            f"Omitidos {skipped} registros con status evaluado_no_comprado o descubrimiento "
             "(no hay bucket equivalente en la app).",
             file=sys.stderr,
         )

@@ -43,7 +43,7 @@ window.DEADWAX_SEED = [
     "label": "Columbia",
     "year": "1992",
     "format": "LP",
-    "notes": "País: Europe · Catálogo: COL 472330 1 · Prensado: original European pressing\nGrading/precio aun no confirmado",
+    "notes": "País: Europa · Catálogo: COL 472330 1 · Prensado: original European pressing\nGrading/precio aun no confirmado",
     "owner": "yo"
   },
   {
@@ -207,7 +207,7 @@ window.DEADWAX_SEED = [
     "label": "Vertigo",
     "year": "1978",
     "format": "LP",
-    "notes": "País: Japón · Catálogo: BT-5155 · Prensado: Repress japonés 1978 (no la primera prensa japonesa ~1973-74 que tengo anotada como top en la guía, esa es otro catálogo): manufacturado y distribuido por Nippon Phonogram Co. Tokyo, impreso en Japón (JASRAC). Sin gatefold, con inner sheet. Obi no confirmado en la foto (no visible, no significa que falte).\nMío (Ana). Sticker de tienda japonesa de segunda mano en la tapa (RS-Y013-4A3J-3305-P74C), no es parte del release original.",
+    "notes": "País: Japón · Catálogo: BT-5155 · Prensado: Repress japonés 1978 (no la primera prensa japonesa ~1973-74 que tengo anotada como top en la guía, esa es otro catálogo): manufacturado y distribuido por Nippon Phonogram Co. Tokyo, impreso en Japón (JASRAC). Sin gatefold, con inner sheet. Obi no confirmado en la foto (no visible, no significa que falte).\nMío (Ana). Sticker de tienda japonesa de segunda mano en la tapa (RS-Y013-4A3J-3305-P74C), no es parte del release original. | Fusionado con la ficha vieja #80 (misma copia): Solo se vio tapa (círculo pequeño arriba a la izquierda, catálogo no legible), nunca llegó la foto de etiqueta pedida. Se comparó contra una prensa japonesa NEMS 1980 (VIP-8988 / SP18-5014 / B1-5155 WWA 005 II) vista en un post de Instagram de @londonrecordsar, vendida en $410.000 ARS NM con obi (esa variante ya está documentada en references/guia-completa.md, no es la copia de Ana). Falta la etiqueta de la copia de Ana para saber en qué punto de la jerarquía cae la suya.",
     "owner": "yo"
   },
   {
@@ -545,16 +545,6 @@ window.DEADWAX_SEED = [
     "notes": "Single de Push the Button (con Q-Tip). Sticker promo blanco en la tapa, texto no legible en la foto, podría ser copia promo. Falta catálogo y foto de etiqueta para cerrar."
   },
   {
-    "id": "dw-80",
-    "type": "wantlist",
-    "artist": "Black Sabbath",
-    "album": "Sabbath Bloody Sabbath (copia propia de Ana, edición sin confirmar)",
-    "label": "",
-    "year": "",
-    "format": "LP",
-    "notes": "Prensado: Solo se vio tapa (círculo pequeño arriba a la izquierda, catálogo no legible), nunca llegó la foto de etiqueta pedida.\nSe comparó contra una prensa japonesa NEMS 1980 (VIP-8988 / SP18-5014 / B1-5155 WWA 005 II) vista en un post de Instagram de @londonrecordsar, vendida en $410.000 ARS NM con obi (esa variante ya está documentada en references/guia-completa.md, no es la copia de Ana). Falta la etiqueta de la copia de Ana para saber en qué punto de la jerarquía cae la suya."
-  },
-  {
     "id": "dw-81",
     "type": "collection",
     "artist": "AC/DC",
@@ -586,5 +576,505 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: UK · Catálogo: VUST 17 · Grading: NM (impecable según vendedor) / EX · Prensado: Maxi 12\" UK original 1990. Lado B: Flower Child y Fear (del mismo álbum, Let Love Rule). Comprado en Javierfan (web).\nSegundo simple de Let Love Rule (1989).",
     "owner": "yo"
+  },
+  {
+    "id": "dw-84",
+    "type": "wantlist",
+    "artist": "Keith Jarrett",
+    "album": "The Köln Concert",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG · Prensado: 2 LPs"
+  },
+  {
+    "id": "dw-85",
+    "type": "wantlist",
+    "artist": "Charlie Haden / Jan Garbarek / Egberto Gismonti",
+    "album": "Folk Songs",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG / VG · Prensado: ECM"
+  },
+  {
+    "id": "dw-86",
+    "type": "wantlist",
+    "artist": "Yellow Magic Orchestra",
+    "album": "Public Pressure",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / VG+"
+  },
+  {
+    "id": "dw-87",
+    "type": "wantlist",
+    "artist": "Penguin Cafe Orchestra",
+    "album": "Penguin Cafe Orchestra",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG"
+  },
+  {
+    "id": "dw-88",
+    "type": "wantlist",
+    "artist": "Robert Fripp",
+    "album": "Exposure",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: USA · Grading: VG+ / VG+"
+  },
+  {
+    "id": "dw-89",
+    "type": "wantlist",
+    "artist": "U.K.",
+    "album": "U.K.",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG"
+  },
+  {
+    "id": "dw-90",
+    "type": "wantlist",
+    "artist": "Yes",
+    "album": "Relayer",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: USA · Grading: VG+ / VG+"
+  },
+  {
+    "id": "dw-91",
+    "type": "wantlist",
+    "artist": "Lou Reed",
+    "album": "Berlin",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG"
+  },
+  {
+    "id": "dw-92",
+    "type": "wantlist",
+    "artist": "Elvis Costello",
+    "album": "My Aim Is True",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: UK · Grading: VG+ / VG"
+  },
+  {
+    "id": "dw-93",
+    "type": "wantlist",
+    "artist": "Judas Priest",
+    "album": "Priest in the East",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG"
+  },
+  {
+    "id": "dw-94",
+    "type": "wantlist",
+    "artist": "Rainbow",
+    "album": "On Stage",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG+"
+  },
+  {
+    "id": "dw-95",
+    "type": "wantlist",
+    "artist": "Material",
+    "album": "Memory Serves",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG+"
+  },
+  {
+    "id": "dw-96",
+    "type": "wantlist",
+    "artist": "Gal Costa",
+    "album": "Gal Tropical",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG"
+  },
+  {
+    "id": "dw-97",
+    "type": "wantlist",
+    "artist": "Milton Nascimento",
+    "album": "Paixão e Fé",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Brasil · Grading: EX / G"
+  },
+  {
+    "id": "dw-98",
+    "type": "wantlist",
+    "artist": "Keith Jarrett",
+    "album": "Invocations / The Moth and the Flame",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / VG+ · Prensado: ECM · 2 LPs"
+  },
+  {
+    "id": "dw-99",
+    "type": "wantlist",
+    "artist": "Egberto Gismonti",
+    "album": "Solo",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / G+ · Prensado: promo"
+  },
+  {
+    "id": "dw-100",
+    "type": "wantlist",
+    "artist": "Duke Ellington & Count Basie",
+    "album": "First Time! The Count Meets the Duke",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / VG+"
+  },
+  {
+    "id": "dw-101",
+    "type": "wantlist",
+    "artist": "John Coltrane",
+    "album": "Coltranology Vol. 1",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG · Prensado: promo"
+  },
+  {
+    "id": "dw-102",
+    "type": "wantlist",
+    "artist": "John Coltrane",
+    "album": "Coltranology Vol. 2",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG · Prensado: promo"
+  },
+  {
+    "id": "dw-103",
+    "type": "wantlist",
+    "artist": "Genesis",
+    "album": "Selling England by the Pound",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG / VG+ · Prensado: promo"
+  },
+  {
+    "id": "dw-104",
+    "type": "wantlist",
+    "artist": "Genesis",
+    "album": "Foxtrot",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / G"
+  },
+  {
+    "id": "dw-105",
+    "type": "wantlist",
+    "artist": "Emerson, Lake & Palmer",
+    "album": "Tarkus",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG"
+  },
+  {
+    "id": "dw-106",
+    "type": "wantlist",
+    "artist": "Steve Hackett",
+    "album": "Voyage of the Acolyte",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG"
+  },
+  {
+    "id": "dw-107",
+    "type": "wantlist",
+    "artist": "Jon Anderson",
+    "album": "Olias of Sunhillow",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / EX"
+  },
+  {
+    "id": "dw-108",
+    "type": "wantlist",
+    "artist": "Bill Bruford & Patrick Moraz",
+    "album": "Music for Piano and Drums",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / EX"
+  },
+  {
+    "id": "dw-109",
+    "type": "wantlist",
+    "artist": "Jean-Michel Jarre",
+    "album": "Équinoxe",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón"
+  },
+  {
+    "id": "dw-110",
+    "type": "wantlist",
+    "artist": "Eberhard Schoener",
+    "album": "Video Magic",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: USA"
+  },
+  {
+    "id": "dw-111",
+    "type": "wantlist",
+    "artist": "Sex Pistols",
+    "album": "The Great Rock 'n' Roll Swindle",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / VG+ · Prensado: 2 LPs"
+  },
+  {
+    "id": "dw-112",
+    "type": "wantlist",
+    "artist": "Soft Cell",
+    "album": "Non-Stop Erotic Cabaret",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón"
+  },
+  {
+    "id": "dw-113",
+    "type": "wantlist",
+    "artist": "XTC",
+    "album": "Mummer",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / EX"
+  },
+  {
+    "id": "dw-114",
+    "type": "wantlist",
+    "artist": "Japan",
+    "album": "Obscure Alternatives",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / VG+"
+  },
+  {
+    "id": "dw-115",
+    "type": "wantlist",
+    "artist": "The Boomtown Rats",
+    "album": "A Tonic for the Troops",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "Grading: VG+ / VG+"
+  },
+  {
+    "id": "dw-116",
+    "type": "wantlist",
+    "artist": "The Jam",
+    "album": "Dig the New Breed",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Canadá · Grading: EX / EX"
+  },
+  {
+    "id": "dw-117",
+    "type": "wantlist",
+    "artist": "Deep Purple",
+    "album": "Burn",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón\nEn la misma feria había otra copia a $39.000 en G / G: no."
+  },
+  {
+    "id": "dw-118",
+    "type": "wantlist",
+    "artist": "Led Zeppelin",
+    "album": "Led Zeppelin II",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG+"
+  },
+  {
+    "id": "dw-119",
+    "type": "wantlist",
+    "artist": "Jimi Hendrix",
+    "album": "Jimi Plays Monterey",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG / VG+"
+  },
+  {
+    "id": "dw-120",
+    "type": "wantlist",
+    "artist": "Queen",
+    "album": "Queen I",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón"
+  },
+  {
+    "id": "dw-121",
+    "type": "wantlist",
+    "artist": "Aerosmith",
+    "album": "Draw the Line",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG"
+  },
+  {
+    "id": "dw-122",
+    "type": "wantlist",
+    "artist": "Tom Waits",
+    "album": "Franks Wild Years",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / EX"
+  },
+  {
+    "id": "dw-123",
+    "type": "wantlist",
+    "artist": "Bob Dylan",
+    "album": "John Wesley Harding",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / VG"
+  },
+  {
+    "id": "dw-124",
+    "type": "wantlist",
+    "artist": "Mercedes Sosa",
+    "album": "Hasta la Victoria · Mujeres Argentinas · Con Sabor a Mercedes Sosa",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG"
+  },
+  {
+    "id": "dw-125",
+    "type": "wantlist",
+    "artist": "Paco de Lucía",
+    "album": "Interpreta a Manuel de Falla",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / EX"
+  },
+  {
+    "id": "dw-130",
+    "type": "wantlist",
+    "artist": "David Bowie",
+    "album": "Station to Station",
+    "label": "RCA",
+    "year": "1976",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: APL1-1327 · Grading: EX++"
+  },
+  {
+    "id": "dw-131",
+    "type": "wantlist",
+    "artist": "Hawkwind",
+    "album": "Hall of the Mountain Grill",
+    "label": "United Artists",
+    "year": "1974",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: UAG 29672"
+  },
+  {
+    "id": "dw-132",
+    "type": "wantlist",
+    "artist": "Bob Marley & The Wailers",
+    "album": "Rastaman Vibration",
+    "label": "Island",
+    "year": "1976",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: ILPS 9383"
+  },
+  {
+    "id": "dw-133",
+    "type": "wantlist",
+    "artist": "Aerosmith",
+    "album": "Rocks",
+    "label": "CBS/Sony",
+    "year": "1976",
+    "format": "LP",
+    "notes": "País: Japón · Catálogo: 25AP 78"
+  },
+  {
+    "id": "dw-134",
+    "type": "wantlist",
+    "artist": "Hawkwind",
+    "album": "Doremi Fasol Latido",
+    "label": "United Artists",
+    "year": "1972",
+    "format": "LP",
+    "notes": "País: UK"
+  },
+  {
+    "id": "dw-135",
+    "type": "wantlist",
+    "artist": "Elvis Presley",
+    "album": "The Sun Sessions",
+    "label": "",
+    "year": "1976",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-136",
+    "type": "wantlist",
+    "artist": "Elvis Presley",
+    "album": "From Elvis in Memphis",
+    "label": "",
+    "year": "1969",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-137",
+    "type": "wantlist",
+    "artist": "Elvis Presley",
+    "album": "Elvis Presley",
+    "label": "",
+    "year": "1956",
+    "format": "LP",
+    "notes": ""
   }
 ];
