@@ -972,10 +972,10 @@ window.DEADWAX_SEED = [
     "type": "wantlist",
     "artist": "Tom Waits",
     "album": "Franks Wild Years",
-    "label": "",
+    "label": "Island / Polystar",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: EX / EX"
+    "notes": "País: Japón · Grading: EX / EX\n04/10: obi visto en foto, de época (Island 25th Anniversary, Polystar; cassette X28-2079, CD P33D-20043). Catálogo del LP no visible. Probable 1ra edición japonesa."
   },
   {
     "id": "dw-123",
@@ -1302,10 +1302,10 @@ window.DEADWAX_SEED = [
     "type": "wantlist",
     "artist": "Weather Report",
     "album": "Mr. Gone",
-    "label": "",
+    "label": "CBS/Sony",
     "year": "1978",
     "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+    "notes": "País: Japón · Catálogo: 25AP 1060 · Grading: VG+ / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición. 04/10: obi visto en foto: CBS/Sony 25AP 1060, ¥2.500, sello Master Sound. Probable 1ra edición japonesa 1978 (el catálogo coincide con la japonesa de época con obi e inserto). Falta etiqueta/dead wax."
   },
   {
     "id": "dw-162",
@@ -1426,5 +1426,15 @@ window.DEADWAX_SEED = [
     "year": "1982",
     "format": "LP",
     "notes": "País: Japón · Catálogo: 25AP 2380 · Grading: EX / EX\nProbable 1ra edición japonesa: obi CBS/Sony 25AP 2380 visto en foto (04/10), con la bajada de época 'subiendo en los charts de USA'. Falta ver etiqueta y dead wax. Hay un sello negro en el obi tapado por el sticker de precio (¿póster?)."
+  },
+  {
+    "id": "dw-176",
+    "type": "wantlist",
+    "artist": "ZZ Top",
+    "album": "Fandango!",
+    "label": "London (King Records)",
+    "year": "1975",
+    "format": "LP",
+    "notes": "País: Japón · Catálogo: GP 152 · Grading: VG+ / G\n04/10: tapa vista en foto con GP 152 y logo London ffrr. Probable 1ra edición japonesa 1975. Sin obi a la vista. Falta etiqueta/dead wax."
   }
 ];
