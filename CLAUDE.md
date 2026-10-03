@@ -31,7 +31,9 @@ The two do **not** share data live. `js/seed-data.js` is a generated snapshot of
 python3 scripts/export-coleccion-a-app.py   # rewrites js/seed-data.js from coleccion.db
 ```
 
-This is a one-way, one-time sync (DB → app). There's no app → DB path yet (see `ROADMAP.md`, Fase 4).
+This is a one-way, one-time sync (DB → app).
+
+The DB also feeds the **"vinilos" artifact** (collection + wishlist + search, `.claude/skills/dead-wax/curaduria/vinilos/`): `build.py` generates `vinilos.html` entirely from `coleccion.db` — never hand-edit it, and never keep a wishlist anywhere but the DB (`prioridad` column). There's no app → DB path yet (see `ROADMAP.md`, Fase 4).
 
 ## Commands
 
@@ -42,8 +44,9 @@ python3 .claude/skills/dead-wax/scripts/coleccion.py add --artista "..." --titul
 python3 .claude/skills/dead-wax/scripts/coleccion.py search "texto"
 python3 .claude/skills/dead-wax/scripts/coleccion.py stats
 
-# Regenerate the app's seed data after any DB change
-python3 scripts/export-coleccion-a-app.py
+# After any DB change: regenerate BOTH outputs
+python3 scripts/export-coleccion-a-app.py                    # js/seed-data.js (the app)
+python3 .claude/skills/dead-wax/curaduria/vinilos/build.py   # vinilos.html (the artifact; then republish it)
 
 # View the app — pure static, no build step
 open index.html   # or serve the directory with any static file server
