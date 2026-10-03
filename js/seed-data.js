@@ -1286,5 +1286,145 @@ window.DEADWAX_SEED = [
     "year": "1977",
     "format": "LP",
     "notes": "País: USA · Grading: NM / NM"
+  },
+  {
+    "id": "dw-160",
+    "type": "wantlist",
+    "artist": "Laurie Anderson",
+    "album": "Mister Heartbreak",
+    "label": "",
+    "year": "1984",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-161",
+    "type": "wantlist",
+    "artist": "Weather Report",
+    "album": "Mr. Gone",
+    "label": "",
+    "year": "1978",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-162",
+    "type": "wantlist",
+    "artist": "Chic",
+    "album": "Tongue in Chic",
+    "label": "",
+    "year": "1982",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / EX\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-163",
+    "type": "wantlist",
+    "artist": "King Crimson",
+    "album": "Earthbound",
+    "label": "",
+    "year": "1972",
+    "format": "LP",
+    "notes": "País: UK\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-164",
+    "type": "wantlist",
+    "artist": "David Sylvian",
+    "album": "Gone to Earth",
+    "label": "",
+    "year": "1986",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-165",
+    "type": "wantlist",
+    "artist": "Robert Fripp",
+    "album": "The League of Gentlemen",
+    "label": "",
+    "year": "1981",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-166",
+    "type": "wantlist",
+    "artist": "Allan Holdsworth",
+    "album": "Road Games",
+    "label": "",
+    "year": "1983",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-167",
+    "type": "wantlist",
+    "artist": "David Byrne",
+    "album": "Songs from The Catherine Wheel",
+    "label": "",
+    "year": "1981",
+    "format": "LP",
+    "notes": "País: USA · Grading: VG / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-168",
+    "type": "wantlist",
+    "artist": "Count Basie",
+    "album": "Basie at Birdland",
+    "label": "",
+    "year": "1961",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / EX\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-169",
+    "type": "wantlist",
+    "artist": "Synergy",
+    "album": "Cords",
+    "label": "",
+    "year": "1978",
+    "format": "LP",
+    "notes": "País: USA · Grading: VG+ / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-170",
+    "type": "wantlist",
+    "artist": "Banda Mel",
+    "album": "Prefixo de Verão",
+    "label": "",
+    "year": "1990",
+    "format": "LP",
+    "notes": "País: Brasil · Grading: EX / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-171",
+    "type": "wantlist",
+    "artist": "Pink Floyd",
+    "album": "Ummagumma",
+    "label": "",
+    "year": "1969",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-172",
+    "type": "wantlist",
+    "artist": "Devo",
+    "album": "Freedom of Choice",
+    "label": "",
+    "year": "1980",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-173",
+    "type": "wantlist",
+    "artist": "David Bowie",
+    "album": "\"Héros\" / V-2 Schneider (simple francés)",
+    "label": "",
+    "year": "1977",
+    "format": "LP",
+    "notes": "País: Francia · Grading: VG+ / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
   }
 ];
