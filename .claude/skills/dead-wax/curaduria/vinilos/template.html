@@ -55,6 +55,21 @@ ul.list{list-style:none;margin:0;padding:0}
 .rv::after{content:"”"}
 .pr{align-self:start;padding-top:1px;font-family:var(--mono);font-size:12px;color:var(--z400);font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
 .pr small{display:block;font-size:10px;color:var(--z600)}
+.card{border:1px solid var(--z800);border-radius:4px;padding:14px 14px 4px;margin:10px 0 14px}
+.ch{display:grid;grid-template-columns:64px minmax(0,1fr);gap:0 14px;align-items:center;padding-bottom:10px;border-bottom:1px solid var(--z800)}
+.cv.big{width:64px;height:64px}
+.ch .name{font-size:15px}
+ol.vers{list-style:none;margin:0;padding:0}
+.ver{display:grid;grid-template-columns:20px minmax(0,1fr) minmax(0,9rem);gap:0 12px;align-items:start;padding:10px 0;border-bottom:1px solid var(--z800)}
+.ver:last-child{border-bottom:0}
+.ver .n{font-family:var(--mono);font-size:12px;color:var(--z500);padding-top:1px}
+.ve{font-size:14px;line-height:1.35;color:var(--z100)}
+.tag{display:inline-block;margin-left:8px;font-family:var(--mono);font-size:10px;letter-spacing:.06em;color:var(--background);background:var(--z100);border-radius:2px;padding:0 5px;vertical-align:1px}
+.tag.no{background:none;color:var(--z100);border:1px solid var(--z500)}
+.ver.no .ve{text-decoration:line-through;text-decoration-color:var(--z600)}
+.vp{font-family:var(--mono);font-size:11px;line-height:1.5;color:var(--z400);text-align:right}
+.vp small{display:block;font-size:10px;color:var(--z500)}
+@media (max-width:480px){.ver{grid-template-columns:20px minmax(0,1fr)}.vp{grid-column:2;text-align:left;margin-top:4px}}
 .evitar .name{text-decoration:line-through;text-decoration-color:var(--z600)}
 .evitar .cv{opacity:.45}
 mark{background:none;color:var(--z100);text-decoration:underline;text-decoration-color:var(--z500);text-underline-offset:3px}
@@ -85,13 +100,13 @@ const COVERS = /*COVERS*/;
 const D = /*DATA*/;
 const LISTS = {
   coleccion: {label: "colección", secs: [["ana","ana"],["seba","seba"]], sec: x => x.o},
-  wishlist: {label: "wishlist", secs: [["iconico","icónicos"],["top","top tier"],["interesante","interesantes"],["evitar","red flags"]], sec: x => x.p},
+  wishlist: {label: "wishlist", secs: [["iconico","icónicos"],["top","top tier"],["interesante","interesantes"]], sec: x => x.p},
 };
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const fold = s => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 const fmt = n => "$" + n.toLocaleString("es-AR");
 const initials = a => a.replace(/^the /i,"").split(/[\s/&,()]+/).filter(Boolean).slice(0,2).map(w=>w[0]).join("");
-D.forEach(x => { x.hay = fold([x.a,x.d,x.pa,x.se,x.ca,x.y,x.g,x.e,x.w,x.r,x.fl,x.n,x.l==="coleccion"?"coleccion tengo":"wishlist quiero"].filter(Boolean).join(" ")); });
+D.forEach(x => { x.hay = fold([x.a,x.d,x.pa,x.se,x.ca,x.y,x.g,x.e,x.w,x.r,x.fl,x.n,x.l==="coleccion"?"coleccion tengo":"wishlist quiero",...(x.v||[]).map(v => [v.e,v.c,v.s,v.p,v.w].join(" "))].filter(Boolean).join(" ")); });
 
 const st = {list: "coleccion", style: "todos", q: ""};
 try {
@@ -128,6 +143,24 @@ function row(x){
     '</div><span class="pr">'+pr+'</span></li>';
 }
 
+// Ficha de un icónico: cabecera del disco + ranking de ediciones, una fila por versión.
+function card(x){
+  const key = x.a + " | " + x.d;
+  const cv = COVERS[key] ? '<img src="'+COVERS[key]+'" alt="" loading="lazy">' : esc(initials(x.a));
+  const vs = (x.v||[]).map((v,i) => {
+    const tag = v.m === "buscar" ? '<span class="tag">la que buscaría</span>' : v.m === "evitar" ? '<span class="tag no">evitar</span>' : "";
+    return '<li class="ver'+(v.m === "evitar" ? " no" : "")+'"><span class="n">'+(i+1)+'</span>'+
+      '<div class="tx"><span class="ve">'+hl(v.e)+tag+'</span>'+
+      (v.c ? '<span class="data">'+hl(v.c.toLowerCase())+'</span>' : "")+
+      (v.s ? '<span class="why">'+hl(v.s)+'</span>' : "")+'</div>'+
+      '<span class="vp">'+(v.p ? hl(v.p) : "")+(v.w ? '<small>'+hl(v.w)+'</small>' : "")+'</span></li>';
+  }).join("");
+  return '<li class="card"><div class="ch"><div class="cv big" aria-hidden="true">'+cv+'</div>'+
+    '<div class="tx"><span class="name"><span class="who">'+hl(x.a)+'</span> '+hl(x.d)+'</span>'+
+    '<span class="data">'+hl(x.e)+' · '+(x.v||[]).length+' versiones</span></div></div>'+
+    '<ol class="vers">'+vs+'</ol></li>';
+}
+
 function matches(x){
   if (st.style !== "todos" && x.e !== st.style) return false;
   if (!st.q) return true;
@@ -136,7 +169,7 @@ function matches(x){
 
 function section(label, items, cls, i){
   return '<section class="reveal '+(cls||"")+'" style="--d:'+(120+i*30)+'ms"><h2>'+esc(label)+' · '+String(items.length).padStart(2,"0")+'</h2>'+
-    '<ul class="list">'+(items.length ? items.map(row).join("") : '<li class="empty">nada de este estilo</li>')+'</ul></section>';
+    '<ul class="list">'+(items.length ? items.map(x => x.p === "iconico" && x.v ? card(x) : row(x)).join("") : '<li class="empty">nada de este estilo</li>')+'</ul></section>';
 }
 
 function render(){

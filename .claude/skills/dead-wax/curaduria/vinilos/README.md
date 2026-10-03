@@ -7,7 +7,7 @@ https://claude.ai/artifact/DVryBYPAcqAX3scZDRqmu5 (privado; Ana la comparte desd
 
 | Archivo | Qué es |
 |---|---|
-| `build.py` | Lee la base y arma `vinilos.html` (colección = `owned`; wishlist = discos con `prioridad`). |
+| `build.py` | Lee la base y arma `vinilos.html`: colección = `owned`; wishlist = `iconico` (fichas con el ranking de la tabla `versiones`), `top` e `interesante`. Los `evitar` no se muestran. |
 | `template.html` | La página sin datos. Estilo de anavare.la: fondo `#1c1c1a`, Switzer + Geist Mono, grises zinc, minúsculas. |
 | `fonts.css` | Las fuentes embebidas (la página no carga nada externo: tiene que ser liviana). |
 | `mb.py` → `mbids.json` | Busca en MusicBrainz el release-group de cada disco (solo los que faltan). |

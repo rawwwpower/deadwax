@@ -11,6 +11,8 @@ Uso:
     python coleccion.py update <id> --status owned [otras opciones]
     python coleccion.py update <id> --review "reseña personal de escucha"
     python coleccion.py delete <id>
+    python coleccion.py versiones <id>
+    python coleccion.py version-add <id> --orden 1 --edicion "..." [--sonido ... --marca buscar|evitar]
     python coleccion.py stats
 
 La base vive en data/coleccion.db (SQLite), relativa a este script.
@@ -49,6 +51,19 @@ CREATE TABLE IF NOT EXISTS discos (
     resumen TEXT,               -- una línea para la página de vinilos (por qué está, cómo suena)
     fuente TEXT,                -- de dónde salió, ej. "feria 2026-09", "javierfan"
     creado_en TEXT DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Ranking de ediciones de un disco icónico (una fila por versión, orden 1 = la mejor).
+CREATE TABLE IF NOT EXISTS versiones (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    disco_id INTEGER NOT NULL REFERENCES discos(id) ON DELETE CASCADE,
+    orden INTEGER NOT NULL,
+    edicion TEXT NOT NULL,      -- ej. "UK Vertigo swirl 1970"
+    catalogo TEXT,
+    sonido TEXT,                -- cómo suena, según reviews
+    precio TEXT,                -- referencia de precio (texto libre)
+    donde TEXT,                 -- dónde se vio, ej. "London Records $130.000"
+    marca TEXT                  -- buscar (la recomendada) | evitar | NULL
 );
 """
 
@@ -176,6 +191,26 @@ def cmd_delete(args):
     print(f"Borrado id {args.id}: {r['artista']} — {r['titulo']}")
 
 
+def cmd_versiones(args):
+    conn = get_conn()
+    rows = conn.execute("SELECT * FROM versiones WHERE disco_id = ? ORDER BY orden", [args.disco_id]).fetchall()
+    if not rows:
+        print("(sin versiones)")
+    for r in rows:
+        marca = f" [{r['marca']}]" if r['marca'] else ""
+        print(f"{r['orden']}. {r['edicion']} ({r['catalogo'] or '?'}){marca} — {r['sonido'] or ''} | {r['precio'] or ''} | {r['donde'] or ''}")
+
+
+def cmd_version_add(args):
+    conn = get_conn()
+    conn.execute(
+        "INSERT INTO versiones (disco_id, orden, edicion, catalogo, sonido, precio, donde, marca) VALUES (?,?,?,?,?,?,?,?)",
+        [args.disco_id, args.orden, args.edicion, args.catalogo, args.sonido, args.precio, args.donde, args.marca],
+    )
+    conn.commit()
+    print(f"Versión {args.orden} agregada al disco {args.disco_id}.")
+
+
 def cmd_stats(args):
     conn = get_conn()
     total = conn.execute("SELECT COUNT(*) FROM discos").fetchone()[0]
@@ -242,6 +277,21 @@ def build_parser():
     delete_p = sub.add_parser("delete", help="borrar un registro (ej. un duplicado ya fusionado)")
     delete_p.add_argument("id", type=int)
     delete_p.set_defaults(func=cmd_delete)
+
+    ver_p = sub.add_parser("versiones", help="ranking de ediciones de un disco icónico")
+    ver_p.add_argument("disco_id", type=int)
+    ver_p.set_defaults(func=cmd_versiones)
+
+    va_p = sub.add_parser("version-add", help="sumar una edición al ranking de un disco icónico")
+    va_p.add_argument("disco_id", type=int)
+    va_p.add_argument("--orden", type=int, required=True)
+    va_p.add_argument("--edicion", required=True)
+    va_p.add_argument("--catalogo")
+    va_p.add_argument("--sonido")
+    va_p.add_argument("--precio")
+    va_p.add_argument("--donde")
+    va_p.add_argument("--marca", choices=["buscar", "evitar"])
+    va_p.set_defaults(func=cmd_version_add)
 
     sub.add_parser("stats").set_defaults(func=cmd_stats)
 
