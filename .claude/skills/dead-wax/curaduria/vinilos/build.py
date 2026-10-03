@@ -3,7 +3,10 @@
 # cambio en la base y republicar el artifact con la tool Artifact (mismo url).
 #
 #   colección = status owned (ana y seba)
-#   wishlist  = discos con prioridad (top | interesante | evitar) que no son owned
+#   wishlist  = discos con prioridad iconico | top | interesante que no son owned.
+#               Los icónicos salen como ficha, con el ranking de ediciones de la tabla versiones.
+#               Los descartados (evitar) no se muestran: una edición a evitar de un icónico va
+#               como versión con marca 'evitar' dentro de su ficha.
 #
 # uso: python3 build.py
 import datetime, json, os, re, sqlite3
@@ -47,7 +50,7 @@ def key(r):
 def disc_rows(conn):
     return conn.execute(
         "SELECT * FROM discos WHERE status = 'owned' "
-        "OR (prioridad IN ('top', 'interesante', 'evitar') AND status != 'owned') "
+        "OR (prioridad IN ('iconico', 'top', 'interesante') AND status != 'owned') "
         "ORDER BY lower(artista), anio, lower(titulo)"
     ).fetchall()
 
@@ -79,7 +82,7 @@ def item(r):
         'l': 'coleccion' if owned else 'wishlist',
         'o': r['owner'],
         'p': r['prioridad'],
-        'a': r['artista'], 'd': r['titulo'],
+        'a': r['artista'], 'd': r['titulo'], 'or': r['origen'],
         'pa': r['pais'], 'se': r['sello'], 'ca': r['catalogo'], 'y': r['anio'],
         'g': grading(r), 'e': estilo(r['genero']),
         'ed': r['prensado_notas'] if not owned and r['fuente'] == 'feria 2026-09' else None,
@@ -92,11 +95,23 @@ def item(r):
     return {k: v for k, v in x.items() if v not in (None, '')}
 
 
+def versiones(conn, disco_id):
+    keys = {'edicion': 'e', 'catalogo': 'c', 'sonido': 's', 'precio': 'p', 'donde': 'w', 'marca': 'm',
+            'pais': 'pa', 'confirmar': 'k'}
+    rows = conn.execute('SELECT * FROM versiones WHERE disco_id = ? ORDER BY orden', [disco_id]).fetchall()
+    return [{k: r[col] for col, k in keys.items() if r[col]} for r in rows]
+
+
 def main():
     conn = sqlite3.connect(DB)
     conn.row_factory = sqlite3.Row
     rows = disc_rows(conn)
-    data = [item(r) for r in rows]
+    data = []
+    for r in rows:
+        x = item(r)
+        if r['prioridad'] == 'iconico' and r['status'] != 'owned':
+            x['v'] = versiones(conn, r['id'])
+        data.append(x)
     covers_all = json.load(open(os.path.join(HERE, 'covers.json')))
     covers = {k: v for k, v in covers_all.items() if k in {key(r) for r in rows}}
     tpl = open(os.path.join(HERE, 'template.html')).read()

@@ -36,6 +36,8 @@ Q = {
     "The Beatles | White Album": ("The Beatles", "The Beatles"),
     "Terence Trent D'Arby | Introducing the Hardline According to Terence Trent D'Arby": ("Terence Trent D'Arby", "Introducing the Hardline"),
     "Eurythmics | Sweet Dreams (Are Made of This)": ("Eurythmics", "Sweet Dreams (Are Made of This)"),
+    "AC/DC | Dirty Deeds Done Dirt Cheap (edición australiana)": ("AC/DC", "Dirty Deeds Done Dirt Cheap"),
+    "The Blackbyrds | City Life": ("The Blackbyrds", "City Life"),
 }
 
 # Por defecto se busca el álbum (si no, MusicBrainz a veces devuelve el simple homónimo y la tapa
