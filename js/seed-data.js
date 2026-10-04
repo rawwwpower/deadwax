@@ -1510,5 +1510,25 @@ window.DEADWAX_SEED = [
     "year": "1969",
     "format": "LP",
     "notes": ""
+  },
+  {
+    "id": "dw-184",
+    "type": "wantlist",
+    "artist": "Steely Dan",
+    "album": "Can't Buy a Thrill",
+    "label": "",
+    "year": "1972",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-185",
+    "type": "wantlist",
+    "artist": "Yellow Magic Orchestra",
+    "album": "Yellow Magic Orchestra",
+    "label": "",
+    "year": "1978",
+    "format": "LP",
+    "notes": "Ana ya tiene en la wishlist YMO Public Pressure (japonesa, feria). Alternativas si aparece otro: Solid State Survivor, BGM, Technodelic."
   }
 ];
