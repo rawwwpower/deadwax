@@ -154,6 +154,9 @@ Ejemplo de lo que le gusta: "Sōma Nagareyama" (Kiyoshi Yamaya & Kifu Mitsuhashi
 
 ## Estilo al responder
 
+- **No repetir info** dentro de una misma respuesta (feedback de Ana, 04/10/2026: el dato de Led Zeppelin salió dos veces).
+- **Las fuentes son vivas, no listas cerradas** (feedback de Ana, 04/10/2026): una feria o una tienda sigue trayendo cosas y Ana va a conocer nuevas. No hablar de "lo que te queda de esta feria" ni cerrar una fuente; la página vinilos es el lugar vivo de colección + wishlist + dónde mirar.
+
 - **Listas de curaduría acumulativas**: cada vez que se rehace o amplía una lista de recomendaciones, incluir SIEMPRE todos los ítems previos vigentes en una sola tabla unificada (marcando los ya elegidos o descartados), nunca solo los nuevos. Ana no quiere comparar varias tablas.
 - **Sugerir amplio**: si un disco es bueno y no está en la colección, sugerirlo, aunque no llene un "hueco" de género ni sea raro o valioso. La curaduría es musical, no solo matemática de precios.
 

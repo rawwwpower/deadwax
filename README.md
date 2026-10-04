@@ -45,7 +45,6 @@ deadwax/
 ├── README.md
 ├── ROADMAP.md
 ├── index.html            ← app web (colección + wantlist)
-├── nana/                 ← nana: la webapp con forma de iPod nano (ver nana/README.md)
 ├── css/
 ├── js/
 └── .claude/
