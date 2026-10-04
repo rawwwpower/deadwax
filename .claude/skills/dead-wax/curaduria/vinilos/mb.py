@@ -41,6 +41,8 @@ Q = {
     "David Byrne | Songs from The Catherine Wheel": ("David Byrne", "The Catherine Wheel"),
     "David Bowie | \"Héros\" / V-2 Schneider (simple francés)": ("David Bowie", "\"Heroes\""),
     "Count Basie | Basie at Birdland": ("Count Basie and His Orchestra", "Basie at Birdland"),
+    "Jon Hassell & Brian Eno | Fourth World, Vol. 1: Possible Musics": ("Jon Hassell", "Possible Musics"),
+    "Masabumi Kikuchi | Susto": ("菊地雅章", "Susto"),
 }
 
 # Por defecto se busca el álbum (si no, MusicBrainz a veces devuelve el simple homónimo y la tapa
@@ -59,6 +61,8 @@ TIPO = {
     "David Bowie | \"Héros\" / V-2 Schneider (simple francés)": 'single',
     "Allan Holdsworth | Road Games": 'ep',
     "Banda Mel | Prefixo de Verão": None,
+    "Jon Hassell & Brian Eno | Fourth World, Vol. 1: Possible Musics": None,
+    "Masabumi Kikuchi | Susto": None,
 }
 
 

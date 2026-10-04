@@ -1299,13 +1299,14 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-161",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "Weather Report",
     "album": "Mr. Gone",
     "label": "CBS/Sony",
     "year": "1978",
     "format": "LP",
-    "notes": "País: Japón · Catálogo: 25AP 1060 · Grading: VG+ / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición. 04/10: obi visto en foto: CBS/Sony 25AP 1060, ¥2.500, sello Master Sound. Probable 1ra edición japonesa 1978 (el catálogo coincide con la japonesa de época con obi e inserto). Falta etiqueta/dead wax."
+    "notes": "País: Japón · Catálogo: 25AP 1060 · Grading: VG+ / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición. 04/10: obi visto en foto: CBS/Sony 25AP 1060, ¥2.500, sello Master Sound. Probable 1ra edición japonesa 1978 (el catálogo coincide con la japonesa de época con obi e inserto). Falta etiqueta/dead wax. Comprado en la feria el 04/10. El obi detalla Master Sound: 1) master tape a 76 cm/s, 2) Crystal Lock mastering system, 3) Direct Plating Type II. Falta foto de etiqueta/dead wax para confirmar.",
+    "owner": "yo"
   },
   {
     "id": "dw-162",
@@ -1446,5 +1447,65 @@ window.DEADWAX_SEED = [
     "year": "1984",
     "format": "LP",
     "notes": "País: Japón\n04/10: tapa vista en foto, sticker 'NENA JAPAN $59.000' (en la lista: 'Nena ?' $59.000 sin grading; hay otra línea 'First America (99 Luftballons)' EX/VG+ $59.900: preguntar si son dos copias). Probable japonesa 1984. Falta etiqueta/catálogo."
+  },
+  {
+    "id": "dw-178",
+    "type": "wantlist",
+    "artist": "Weather Report",
+    "album": "Black Market",
+    "label": "",
+    "year": "1976",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-179",
+    "type": "wantlist",
+    "artist": "Herbie Hancock",
+    "album": "Sextant",
+    "label": "",
+    "year": "1973",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-180",
+    "type": "wantlist",
+    "artist": "Masabumi Kikuchi",
+    "album": "Susto",
+    "label": "",
+    "year": "1981",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-181",
+    "type": "wantlist",
+    "artist": "Wayne Shorter",
+    "album": "Native Dancer",
+    "label": "",
+    "year": "1975",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-182",
+    "type": "wantlist",
+    "artist": "Jon Hassell & Brian Eno",
+    "album": "Fourth World, Vol. 1: Possible Musics",
+    "label": "",
+    "year": "1980",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-183",
+    "type": "wantlist",
+    "artist": "Miles Davis",
+    "album": "In a Silent Way",
+    "label": "",
+    "year": "1969",
+    "format": "LP",
+    "notes": ""
   }
 ];
