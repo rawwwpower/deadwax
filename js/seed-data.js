@@ -929,13 +929,14 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-118",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "Led Zeppelin",
     "album": "Led Zeppelin II",
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG+"
+    "notes": "País: Japón · Grading: VG+ / VG+\nComprado en la feria el 04/10 (Japón VG+/VG+, $129.000). Falta identificar cuál japonesa: la de 1969 de Nippon Grammophon (etiqueta Atlantic azul/verde, sin póster) o una posterior de Warner-Pioneer. Mirar etiqueta, obi y si trae póster.",
+    "owner": "yo"
   },
   {
     "id": "dw-119",
@@ -1420,13 +1421,14 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-175",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "The Go-Go's",
     "album": "Vacation",
     "label": "CBS/Sony (I.R.S. en USA)",
     "year": "1982",
     "format": "LP",
-    "notes": "País: Japón · Catálogo: 25AP 2380 · Grading: EX / EX\nProbable 1ra edición japonesa: obi CBS/Sony 25AP 2380 visto en foto (04/10), con la bajada de época 'subiendo en los charts de USA'. Falta ver etiqueta y dead wax. Hay un sello negro en el obi tapado por el sticker de precio (¿póster?)."
+    "notes": "País: Japón · Catálogo: 25AP 2380 · Grading: EX / EX\nProbable 1ra edición japonesa: obi CBS/Sony 25AP 2380 visto en foto (04/10), con la bajada de época 'subiendo en los charts de USA'. Falta ver etiqueta y dead wax. Hay un sello negro en el obi tapado por el sticker de precio (¿póster?). Comprado en la feria el 04/10.",
+    "owner": "yo"
   },
   {
     "id": "dw-176",
@@ -1440,13 +1442,14 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-177",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "Nena",
     "album": "99 Luftballons (First America)",
     "label": "Epic/Sony",
     "year": "1984",
     "format": "LP",
-    "notes": "País: Japón\n04/10: tapa vista en foto, sticker 'NENA JAPAN $59.000' (en la lista: 'Nena ?' $59.000 sin grading; hay otra línea 'First America (99 Luftballons)' EX/VG+ $59.900: preguntar si son dos copias). Probable japonesa 1984. Falta etiqueta/catálogo."
+    "notes": "País: Japón\n04/10: tapa vista en foto, sticker 'NENA JAPAN $59.000' (en la lista: 'Nena ?' $59.000 sin grading; hay otra línea 'First America (99 Luftballons)' EX/VG+ $59.900: preguntar si son dos copias). Probable japonesa 1984. Falta etiqueta/catálogo. Comprado en la feria el 04/10. Falta saber cuál de las dos copias de la lista es (EX/VG+ $59.900 o sin grading $59.000) y foto de etiqueta/catálogo.",
+    "owner": "yo"
   },
   {
     "id": "dw-178",
