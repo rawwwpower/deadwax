@@ -1530,5 +1530,56 @@ window.DEADWAX_SEED = [
     "year": "1978",
     "format": "LP",
     "notes": "Ana ya tiene en la wishlist YMO Public Pressure (japonesa, feria). Alternativas si aparece otro: Solid State Survivor, BGM, Technodelic."
+  },
+  {
+    "id": "dw-186",
+    "type": "collection",
+    "artist": "Herbie Hancock",
+    "album": "Future Shock",
+    "label": "",
+    "year": "1983",
+    "format": "LP",
+    "notes": "",
+    "owner": "seba"
+  },
+  {
+    "id": "dw-187",
+    "type": "wantlist",
+    "artist": "Link Wray",
+    "album": "Link Wray",
+    "label": "",
+    "year": "1971",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-188",
+    "type": "wantlist",
+    "artist": "Herbie Hancock",
+    "album": "Sound-System",
+    "label": "",
+    "year": "1984",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-189",
+    "type": "wantlist",
+    "artist": "Björk",
+    "album": "Post",
+    "label": "",
+    "year": "1995",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-190",
+    "type": "wantlist",
+    "artist": "Björk",
+    "album": "Homogenic",
+    "label": "",
+    "year": "1997",
+    "format": "LP",
+    "notes": ""
   }
 ];
