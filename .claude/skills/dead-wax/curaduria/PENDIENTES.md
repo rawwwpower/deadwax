@@ -1,6 +1,6 @@
 # Curaduría en curso
 
-Estado al 04/10/2026, para retomar en una sesión nueva sin perder nada.
+Estado al 07/10/2026, para retomar en una sesión nueva sin perder nada.
 Leer esto antes de seguir con cualquier compra, carga a la base o la página de vinilos.
 
 ## Dónde vive cada cosa
@@ -39,6 +39,14 @@ Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **proto
   Space trae obi, y fotos de etiqueta/matrix de los AC/DC australianos. Las fotos de la tienda
   (acdn-us.mitiendanube.com) están bloqueadas por el proxy del sandbox: hay que pedírselas a Ana.
 - `coleccion.py list --incomplete` para la próxima ronda de repaso con Seba.
+- **Fotos de etiqueta y dead wax** para pasar a "confirmada": Mr. Gone (Master Sound), Led Zeppelin II japonés
+  (¿Nippon Grammophon 1969 o Warner-Pioneer?), Go-Go's Vacation (y qué dice el sello negro del obi), Nena
+  (¿cuál de las dos copias de la lista?) y Jaco (MOV 2010 o represión posterior).
+- **Penguin Cafe Orchestra**: la copia de la feria se vendió; buscar otra (japonesa 28MM 0065 o UK Editions EG 1981).
+- **"Listado de Gaby"** (04/10): no está en el repo. Se asumió que es la lista de la feria (copias repetidas del
+  mismo disco) y se respondió cuál copia conviene; si es otra lista, pedírsela a Ana.
+- Feria, 14 hallazgos nuevos (ids 160-173): todos "sin confirmar" (solo datos de la lista). Preguntar el estado
+  de King Crimson *Earthbound* (¿UK Island HELP 6?) y si Synergy *Cords* es el vinilo transparente.
 - Tapas que faltan (quedan con iniciales): Milton *Paixão e Fé*, Schoener *Video Magic*, Favio
   *Nazareno Cruz y el Lobo*, *Orange Mécanique*, Lennon *Shaved Fish*, Divine, Jack de Mello,
   Mister Sam, Elvis *Elvis Presley*, White Album y los bootlegs. No están (o no bien) en MusicBrainz.
@@ -54,3 +62,8 @@ Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **proto
 - 03-04/10: icónicos como fichas con ranking de versiones (país, cómo suena, cómo reconocerla); wishlist primero,
   chips de sección/estilo, lupa; las red flags ya no se muestran.
 - 04/10: error con *Music* (SKU = barcode compartido) → protocolo de identificación en SKILL.md y revisión de fichas.
+- 04/10: segunda pasada a la lista de la feria (el PDF = `feria-2026-09/lista-proveedor.txt`): 14 hallazgos nuevos
+  (jazz/fusión, funk, art pop, axé) + el bootleg de Gabriel como evitar; respuesta sobre las copias repetidas.
+- 04-07/10: compras de la feria a la colección (Mr. Gone, Led Zeppelin II, Go-Go's, Nena) y Jaco Pastorius (MOV).
+  Gustos nuevos en SKILL.md (fusión oscura/electrónica, Future Shock, Björk Debut; no Pink Floyd).
+  Wishlist de Seba (Steely Dan, YMO; la página marca "para seba"). nana sale de main: queda en `claude/nana-ipod`.

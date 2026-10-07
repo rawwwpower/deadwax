@@ -132,6 +132,10 @@ Son muy amplios y buscan activamente descubrir cosas nuevas: al curar un catálo
 - **Confirmado que les encanta** (green flag): library music italiana (Piero Umiliani) y jazz espiritual (Alice Coltrane). Buen norte para sugerir: Alessandro Alessandroni, Egisto Macchi, Cinevox, Pharoah Sanders, Strata-East.
 - **Icónicos de Ana** (pagaría lo que haga falta por la mejor versión): Black Sabbath (primer disco), Alice in Chains (*Facelift*, *MTV Unplugged*), Red Hot Chili Peppers (*Blood Sugar Sex Magik*), Massive Attack (*Mezzanine*), Moby (*Play*), The Cult (*Sonic Temple*), The Beatles (*White Album*), The Chemical Brothers (*Dig Your Own Hole*). Un disco que le interesa pero que no es favorito ni ya escuchado va a `interesante`, aunque sea muy bueno (ej. High Voltage australiano, Marley, Keith Jarrett, Milton): no menosprecia el disco, marca cuánto pagaría.
 - **Ana y el kraut/space rock**: el krautrock le gusta a los dos, no es "de Seba" (que un disco esté cargado a nombre de uno no define el gusto de ese uno). La que conoce Hawkwind es Ana; su favorito es *Doremi Fasol Latido* (1972). Buscado: UK original United Artists.
+- **Fusión oscura y electrónica: confirmado que le encanta** (04/10/2026, *Mr. Gone* de Weather Report: "entre jazz y electrónica, con algo oscuro, quiero más de esto"). Norte: Weather Report 1974-78, Zawinul, Hancock época Mwandishi/*Sextant*, Miles eléctrico, Masabumi Kikuchi *Susto*, Jon Hassell.
+- **También le encantaron** (04/10/2026, discos de Seba): Herbie Hancock *Future Shock* (electro-funk con Laswell) y Björk *Debut*. Quiere algo de Link Wray.
+- **Pink Floyd: Ana no es super fan** (04/10/2026). No sugerirlo por ser "esencial" o para llenar el lado space rock.
+- **Cómo priorizar una curaduría** (pedido de Ana, 04/10/2026): primero lo que le puede gustar musicalmente; precio, estado, rareza y "no lo tengo" vienen después. Ante la duda, preguntar por artistas puntuales antes de dejar algo afuera.
 - **Ya presente en la colección**: metal/hard rock, grunge, rock y punk argentino, bandas de sonido (Goblin, Clockwork Orange), post-punk/new wave, krautrock, disco/boogie brasilero.
 - **Huecos detectados (sep 2026)**: jazz clásico y fusión, soul/funk, MPB, reggae.
 
@@ -150,6 +154,9 @@ Antes de cualquier curaduría, compra o carga, leer `curaduria/PENDIENTES.md`: t
 Ejemplo de lo que le gusta: "Sōma Nagareyama" (Kiyoshi Yamaya & Kifu Mitsuhashi, 1976, serie Wamono) es una melodía folk tradicional de Fukushima (festival Sōma Nomaoi) montada sobre el groove de "Superstition" de Stevie Wonder (1972).
 
 ## Estilo al responder
+
+- **No repetir info** dentro de una misma respuesta (feedback de Ana, 04/10/2026: el dato de Led Zeppelin salió dos veces).
+- **Las fuentes son vivas, no listas cerradas** (feedback de Ana, 04/10/2026): una feria o una tienda sigue trayendo cosas y Ana va a conocer nuevas. No hablar de "lo que te queda de esta feria" ni cerrar una fuente; la página vinilos es el lugar vivo de colección + wishlist + dónde mirar.
 
 - **Listas de curaduría acumulativas**: cada vez que se rehace o amplía una lista de recomendaciones, incluir SIEMPRE todos los ítems previos vigentes en una sola tabla unificada (marcando los ya elegidos o descartados), nunca solo los nuevos. Ana no quiere comparar varias tablas.
 - **Sugerir amplio**: si un disco es bueno y no está en la colección, sugerirlo, aunque no llene un "hueco" de género ni sea raro o valioso. La curaduría es musical, no solo matemática de precios.

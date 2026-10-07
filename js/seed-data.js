@@ -625,7 +625,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG"
+    "notes": "País: Japón · Grading: VG+ / VG\nJaponesa de época: EG/Polydor 28MM 0065, con inserto (según una tienda, sin obi). Ojo: existe también el Mini Album (1983, 6 temas, vivos de Tokio 1982): confirmar por el tracklist que sea el LP de 1981 (Air à Danser, Telephone and Rubber Band, Numbers 1-4…)."
   },
   {
     "id": "dw-88",
@@ -929,13 +929,14 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-118",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "Led Zeppelin",
     "album": "Led Zeppelin II",
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG+"
+    "notes": "País: Japón · Grading: VG+ / VG+\nComprado en la feria el 04/10 (Japón VG+/VG+, $129.000). Falta identificar cuál japonesa: la de 1969 de Nippon Grammophon (etiqueta Atlantic azul/verde, sin póster) o una posterior de Warner-Pioneer. Mirar etiqueta, obi y si trae póster.",
+    "owner": "yo"
   },
   {
     "id": "dw-119",
@@ -972,10 +973,10 @@ window.DEADWAX_SEED = [
     "type": "wantlist",
     "artist": "Tom Waits",
     "album": "Franks Wild Years",
-    "label": "",
+    "label": "Island / Polystar",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: EX / EX"
+    "notes": "País: Japón · Grading: EX / EX\n04/10: obi visto en foto, de época (Island 25th Anniversary, Polystar; cassette X28-2079, CD P33D-20043). Catálogo del LP no visible. Probable 1ra edición japonesa."
   },
   {
     "id": "dw-123",
@@ -1286,5 +1287,310 @@ window.DEADWAX_SEED = [
     "year": "1977",
     "format": "LP",
     "notes": "País: USA · Grading: NM / NM"
+  },
+  {
+    "id": "dw-160",
+    "type": "wantlist",
+    "artist": "Laurie Anderson",
+    "album": "Mister Heartbreak",
+    "label": "",
+    "year": "1984",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-161",
+    "type": "collection",
+    "artist": "Weather Report",
+    "album": "Mr. Gone",
+    "label": "CBS/Sony",
+    "year": "1978",
+    "format": "LP",
+    "notes": "País: Japón · Catálogo: 25AP 1060 · Grading: VG+ / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición. 04/10: obi visto en foto: CBS/Sony 25AP 1060, ¥2.500, sello Master Sound. Probable 1ra edición japonesa 1978 (el catálogo coincide con la japonesa de época con obi e inserto). Falta etiqueta/dead wax. Comprado en la feria el 04/10. El obi detalla Master Sound: 1) master tape a 76 cm/s, 2) Crystal Lock mastering system, 3) Direct Plating Type II. Falta foto de etiqueta/dead wax para confirmar.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-162",
+    "type": "wantlist",
+    "artist": "Chic",
+    "album": "Tongue in Chic",
+    "label": "",
+    "year": "1982",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / EX\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-163",
+    "type": "wantlist",
+    "artist": "King Crimson",
+    "album": "Earthbound",
+    "label": "",
+    "year": "1972",
+    "format": "LP",
+    "notes": "País: UK\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-164",
+    "type": "wantlist",
+    "artist": "David Sylvian",
+    "album": "Gone to Earth",
+    "label": "",
+    "year": "1986",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-165",
+    "type": "wantlist",
+    "artist": "Robert Fripp",
+    "album": "The League of Gentlemen",
+    "label": "",
+    "year": "1981",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-166",
+    "type": "wantlist",
+    "artist": "Allan Holdsworth",
+    "album": "Road Games",
+    "label": "",
+    "year": "1983",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-167",
+    "type": "wantlist",
+    "artist": "David Byrne",
+    "album": "Songs from The Catherine Wheel",
+    "label": "",
+    "year": "1981",
+    "format": "LP",
+    "notes": "País: USA · Grading: VG / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-168",
+    "type": "wantlist",
+    "artist": "Count Basie",
+    "album": "Basie at Birdland",
+    "label": "",
+    "year": "1961",
+    "format": "LP",
+    "notes": "País: Japón · Grading: EX / EX\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-169",
+    "type": "wantlist",
+    "artist": "Synergy",
+    "album": "Cords",
+    "label": "",
+    "year": "1978",
+    "format": "LP",
+    "notes": "País: USA · Grading: VG+ / VG\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-170",
+    "type": "wantlist",
+    "artist": "Banda Mel",
+    "album": "Prefixo de Verão",
+    "label": "",
+    "year": "1990",
+    "format": "LP",
+    "notes": "País: Brasil · Grading: EX / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-172",
+    "type": "wantlist",
+    "artist": "Devo",
+    "album": "Freedom of Choice",
+    "label": "",
+    "year": "1980",
+    "format": "LP",
+    "notes": "País: Japón · Grading: VG+ / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-173",
+    "type": "wantlist",
+    "artist": "David Bowie",
+    "album": "\"Héros\" / V-2 Schneider (simple francés)",
+    "label": "",
+    "year": "1977",
+    "format": "LP",
+    "notes": "País: Francia · Grading: VG+ / VG+\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+  },
+  {
+    "id": "dw-175",
+    "type": "collection",
+    "artist": "The Go-Go's",
+    "album": "Vacation",
+    "label": "CBS/Sony (I.R.S. en USA)",
+    "year": "1982",
+    "format": "LP",
+    "notes": "País: Japón · Catálogo: 25AP 2380 · Grading: EX / EX\nProbable 1ra edición japonesa: obi CBS/Sony 25AP 2380 visto en foto (04/10), con la bajada de época 'subiendo en los charts de USA'. Falta ver etiqueta y dead wax. Hay un sello negro en el obi tapado por el sticker de precio (¿póster?). Comprado en la feria el 04/10.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-176",
+    "type": "wantlist",
+    "artist": "ZZ Top",
+    "album": "Fandango!",
+    "label": "London (King Records)",
+    "year": "1975",
+    "format": "LP",
+    "notes": "País: Japón · Catálogo: GP 152 · Grading: VG+ / G\n04/10: tapa vista en foto con GP 152 y logo London ffrr. Probable 1ra edición japonesa 1975. Sin obi a la vista. Falta etiqueta/dead wax."
+  },
+  {
+    "id": "dw-177",
+    "type": "collection",
+    "artist": "Nena",
+    "album": "99 Luftballons (First America)",
+    "label": "Epic/Sony",
+    "year": "1984",
+    "format": "LP",
+    "notes": "País: Japón\n04/10: tapa vista en foto, sticker 'NENA JAPAN $59.000' (en la lista: 'Nena ?' $59.000 sin grading; hay otra línea 'First America (99 Luftballons)' EX/VG+ $59.900: preguntar si son dos copias). Probable japonesa 1984. Falta etiqueta/catálogo. Comprado en la feria el 04/10. Falta saber cuál de las dos copias de la lista es (EX/VG+ $59.900 o sin grading $59.000) y foto de etiqueta/catálogo.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-178",
+    "type": "wantlist",
+    "artist": "Weather Report",
+    "album": "Black Market",
+    "label": "",
+    "year": "1976",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-179",
+    "type": "wantlist",
+    "artist": "Herbie Hancock",
+    "album": "Sextant",
+    "label": "",
+    "year": "1973",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-180",
+    "type": "wantlist",
+    "artist": "Masabumi Kikuchi",
+    "album": "Susto",
+    "label": "",
+    "year": "1981",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-181",
+    "type": "wantlist",
+    "artist": "Wayne Shorter",
+    "album": "Native Dancer",
+    "label": "",
+    "year": "1975",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-182",
+    "type": "wantlist",
+    "artist": "Jon Hassell & Brian Eno",
+    "album": "Fourth World, Vol. 1: Possible Musics",
+    "label": "",
+    "year": "1980",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-183",
+    "type": "wantlist",
+    "artist": "Miles Davis",
+    "album": "In a Silent Way",
+    "label": "",
+    "year": "1969",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-184",
+    "type": "wantlist",
+    "artist": "Steely Dan",
+    "album": "Can't Buy a Thrill",
+    "label": "",
+    "year": "1972",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-185",
+    "type": "wantlist",
+    "artist": "Yellow Magic Orchestra",
+    "album": "Yellow Magic Orchestra",
+    "label": "",
+    "year": "1978",
+    "format": "LP",
+    "notes": "Ana ya tiene en la wishlist YMO Public Pressure (japonesa, feria). Alternativas si aparece otro: Solid State Survivor, BGM, Technodelic."
+  },
+  {
+    "id": "dw-186",
+    "type": "collection",
+    "artist": "Herbie Hancock",
+    "album": "Future Shock",
+    "label": "",
+    "year": "1983",
+    "format": "LP",
+    "notes": "",
+    "owner": "seba"
+  },
+  {
+    "id": "dw-187",
+    "type": "wantlist",
+    "artist": "Link Wray",
+    "album": "Link Wray",
+    "label": "",
+    "year": "1971",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-188",
+    "type": "wantlist",
+    "artist": "Herbie Hancock",
+    "album": "Sound-System",
+    "label": "",
+    "year": "1984",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-189",
+    "type": "wantlist",
+    "artist": "Björk",
+    "album": "Post",
+    "label": "",
+    "year": "1995",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-190",
+    "type": "wantlist",
+    "artist": "Björk",
+    "album": "Homogenic",
+    "label": "",
+    "year": "1997",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-191",
+    "type": "collection",
+    "artist": "Jaco Pastorius",
+    "album": "Jaco Pastorius",
+    "label": "Music On Vinyl",
+    "year": "1976",
+    "format": "LP",
+    "notes": "País: Países Bajos · Catálogo: MOVLP136 · Prensado: Reedición 2010 de Music On Vinyl (180 g, hecha en Países Bajos), barcode 8713748980467. Visto en contratapa (foto 07/10).\nProbable: contratapa MOV 2010 vista; MOV a veces represa con la misma tapa, falta dead wax para la fecha exacta.",
+    "owner": "yo"
   }
 ];

@@ -45,3 +45,8 @@ Pendiente para que deje de ser una pieza separada del skill:
 - Integración de compra/venta automatizada, scraping de marketplaces, o
   cualquier cosa que dependa de credenciales de terceros — el skill asiste
   la decisión, Ana sigue comprando a mano.
+
+## nana (en pausa)
+
+Una prueba de webapp con forma de iPod nano 2005 (reproducir, reconocer, videos). Vive en la rama
+`claude/nana-ipod` y en https://claude.ai/artifact/FgBLCH8DMS3cbLAYpHn45d; no se mantiene al día con la base.

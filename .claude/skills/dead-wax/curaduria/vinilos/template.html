@@ -129,7 +129,7 @@ const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":
 const fold = s => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 const fmt = n => "$" + n.toLocaleString("es-AR");
 const initials = a => a.replace(/^the /i,"").split(/[\s/&,()]+/).filter(Boolean).slice(0,2).map(w=>w[0]).join("");
-D.forEach(x => { x.hay = fold([x.a,x.d,x.pa,x.se,x.ca,x.y,x.g,x.e,x.w,x.r,x.fl,x.n,x.l==="coleccion"?"coleccion tengo":"wishlist quiero",...(x.v||[]).map(v => [v.e,v.c,v.s,v.p,v.w,v.pa,v.k].join(" ")),x.or].filter(Boolean).join(" ")); });
+D.forEach(x => { x.hay = fold([x.a,x.d,x.pa,x.se,x.ca,x.y,x.g,x.e,x.w,x.r,x.fl,x.n,x.l==="coleccion"?"coleccion tengo":"wishlist quiero",x.o==="seba"?"seba":"",...(x.v||[]).map(v => [v.e,v.c,v.s,v.p,v.w,v.pa,v.k].join(" ")),x.or].filter(Boolean).join(" ")); });
 
 const st = {list: "wishlist", sec: "todos", style: "todos", q: ""};
 try {
@@ -155,7 +155,7 @@ function row(x){
   const cv = COVERS[key] ? '<img src="'+COVERS[key]+'" alt="" loading="lazy">' : esc(initials(x.a));
   const bits = [x.pa, x.ed, x.se, x.ca, x.y, x.g].filter(Boolean).map(v => hl(String(v).toLowerCase()));
   const flags = x.fl ? (bits.length ? ' · ' : '')+'<span class="fl">'+hl(x.fl)+'</span>' : "";
-  const own = x.l === "coleccion" && x.o === "seba" && st.q ? ' <span class="who">· de seba</span>' : "";
+  const own = x.o !== "seba" ? "" : x.l === "wishlist" ? ' <span class="who">· para seba</span>' : st.q ? ' <span class="who">· de seba</span>' : "";
   const pr = x.pr ? fmt(x.pr)+'<small>usd '+Math.round(x.pr/USD)+'</small>' : "";
   return '<li class="it"><div class="cv" aria-hidden="true">'+cv+'</div>'+
     '<div class="tx"><span class="name"><span class="who">'+hl(x.a)+'</span> '+hl(x.d)+own+'</span>'+
