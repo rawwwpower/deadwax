@@ -1581,5 +1581,16 @@ window.DEADWAX_SEED = [
     "year": "1997",
     "format": "LP",
     "notes": ""
+  },
+  {
+    "id": "dw-191",
+    "type": "collection",
+    "artist": "Jaco Pastorius",
+    "album": "Jaco Pastorius",
+    "label": "Music On Vinyl",
+    "year": "1976",
+    "format": "LP",
+    "notes": "País: Países Bajos · Catálogo: MOVLP136 · Prensado: Reedición 2010 de Music On Vinyl (180 g, hecha en Países Bajos), barcode 8713748980467. Visto en contratapa (foto 07/10).\nProbable: contratapa MOV 2010 vista; MOV a veces represa con la misma tapa, falta dead wax para la fecha exacta.",
+    "owner": "yo"
   }
 ];
