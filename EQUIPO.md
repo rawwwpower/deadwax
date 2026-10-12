@@ -16,6 +16,8 @@ Aprender a **mezclar vinilos** (DJ).
 |---|---|---|
 | Technics **SL-D3** (1978–80) | Restaurada a nuevo | Directa, B-FG servo (sin cuarzo), **totalmente automática**, pitch ±10 % con estroboscopio, 33/45, plato de aluminio de 312 mm. Brazo estático de 230 mm con fuerza de apoyo regulable de 0 a 2,5 g y antiskating. Wow & flutter de 0,03 % WRMS y rumble de −75 dB. Es para escuchar, no para mezclar (ver abajo). |
 | Cápsula **Sumiko Pearl** (MM, hecha en Japón) | Montada en la SL-D3 | Púa elíptica de 0,3×0,7 mil y cantiléver de aluminio. Salida de 4 mV, carga de 47 kΩ y 100–200 pF. Compliance de 12 cu y peso de 6 g. **Fuerza de apoyo: 2,0 g** (rango 1,5–2,0), con el antiskating en el mismo valor. Repuesto: aguja RS Pearl. Con el brazo de la SL-D3 la resonancia da ~10–11 Hz (estimado), que está en el rango ideal. |
+| Pre de phono **Lenco** | Funciona | Falta confirmar el modelo. |
+| Bafles **Technics** vintage | Restaurados | Falta confirmar el modelo (chapa de atrás) y con qué amplificador están conectados. |
 | Restaurador de confianza | — | "Excelente" según Ana. Hace que convenga comprar usado. |
 
 ## Plan: bandejas para mezclar (Technics SL-1200 / 1210)
