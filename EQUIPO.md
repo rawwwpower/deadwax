@@ -4,7 +4,7 @@ Lo que Ana tiene, lo que quiere armar y lo que se fue decidiendo. Claude es
 la ingeniera tech y de sonido del proyecto: leer esto antes de asesorar
 sobre equipo y actualizarlo cuando algo cambie.
 
-**Última actualización:** 2026-09-25
+**Última actualización:** 2026-10-12
 
 ## Objetivo
 
@@ -14,13 +14,16 @@ Aprender a **mezclar vinilos** (DJ).
 
 | Equipo | Estado | Notas |
 |---|---|---|
-| Technics "SL-3" vintage | Funciona | Falta confirmar el modelo exacto: mirar la chapa de atrás o abajo (¿SL-3?, ¿SL-Q3?, ¿SL-3200/3300?). Hay que ver si tiene pitch variable y brazo manual. Si es automática o de uso hogareño, sirve para escuchar pero no para mezclar. |
+| Technics **SL-D3** (1978–80) | Restaurada a nuevo | Directa, B-FG servo (sin cuarzo), **totalmente automática**, pitch ±10 % con estroboscopio, 33/45, plato de aluminio de 312 mm. Brazo estático de 230 mm con fuerza de apoyo regulable de 0 a 2,5 g y antiskating. Wow & flutter de 0,03 % WRMS y rumble de −75 dB. Es para escuchar, no para mezclar (ver abajo). |
+| Cápsula **Sumiko Pearl** (MM, hecha en Japón) | Montada en la SL-D3 | Púa elíptica de 0,3×0,7 mil y cantiléver de aluminio. Salida de 4 mV, carga de 47 kΩ y 100–200 pF. Compliance de 12 cu y peso de 6 g. **Fuerza de apoyo: 2,0 g** (rango 1,5–2,0), con el antiskating en el mismo valor. Repuesto: aguja RS Pearl. Con el brazo de la SL-D3 la resonancia da ~10–11 Hz (estimado), que está en el rango ideal. |
+| Pre de phono **Lenco** | Funciona | Falta confirmar el modelo. |
+| Bafles **Technics** vintage | Restaurados | Falta confirmar el modelo (chapa de atrás) y con qué amplificador están conectados. |
 | Restaurador de confianza | — | "Excelente" según Ana. Hace que convenga comprar usado. |
 
 ## Plan: bandejas para mezclar (Technics SL-1200 / 1210)
 
 Para mezclar hacen falta **dos bandejas iguales** con pitch (más un mixer de
-2 canales y dos cápsulas iguales). La SL-3 no reemplaza a una de las dos.
+2 canales y dos cápsulas iguales). La SL-D3 no reemplaza a una de las dos: es automática, tiene poco torque y no tiene cuarzo.
 
 ### Recomendación
 
