@@ -1598,10 +1598,10 @@ window.DEADWAX_SEED = [
     "type": "collection",
     "artist": "Massive Attack",
     "album": "Blue Lines",
-    "label": "",
-    "year": "",
+    "label": "Virgin / Circa / Wild Bunch (reedición 2016)",
+    "year": "2016",
     "format": "LP",
-    "notes": "Prensado: Reedición, edición exacta sin identificar (falta ver etiqueta/dead wax). Original: Wild Bunch / Circa, 1991.",
+    "notes": "País: Europa (Optimal Media, Alemania) · Catálogo: 5700960 · barcode 602557009606 · Prensado: Identificado por el barcode y el catálogo impresos en la tapa (foto de Ana, oct 2026): reedición europea de 2016, LP 180g, 9 temas, prensada en Optimal Media. Tapa de cartón mate, como la original. Falta ver el dead wax para confirmar el corte/matrix. Original: Wild Bunch / Circa WBRLP 1, UK 1991.",
     "owner": "yo"
   }
 ];
