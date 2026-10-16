@@ -1592,5 +1592,16 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: Países Bajos · Catálogo: MOVLP136 · Prensado: Reedición 2010 de Music On Vinyl (180 g, hecha en Países Bajos), barcode 8713748980467. Visto en contratapa (foto 07/10).\nProbable: contratapa MOV 2010 vista; MOV a veces represa con la misma tapa, falta dead wax para la fecha exacta.",
     "owner": "yo"
+  },
+  {
+    "id": "dw-192",
+    "type": "collection",
+    "artist": "Massive Attack",
+    "album": "Blue Lines",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "Prensado: Reedición, edición exacta sin identificar (falta ver etiqueta/dead wax). Original: Wild Bunch / Circa, 1991.",
+    "owner": "yo"
   }
 ];
