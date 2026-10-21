@@ -20,6 +20,10 @@ Cada vez que se cambia algo de un artifact publicado (por ejemplo la wishlist de
 
 **nana** (la webapp con forma de iPod nano, https://claude.ai/artifact/FgBLCH8DMS3cbLAYpHn45d) fue una prueba: vive en la rama `claude/nana-ipod`, no en `main`. No actualizarla ni republicarla cuando cambia la base; solo si Ana lo pide. El artifact de trabajo es **vinilos** (colección + wishlist).
 
+## El repo es público (decisión de Ana, 21/10/2026)
+
+Todo lo que se commitea lo puede ver cualquiera. Nunca escribir en archivos, commits ni PRs su email, apellido, dónde vive, lo que pagó por sus discos ni frases sobre el valor de la colección (detalle en "Privacidad" de `.claude/skills/dead-wax/SKILL.md`).
+
 ## What this repo is
 
 Two pieces sharing one SQLite database as source of truth:
