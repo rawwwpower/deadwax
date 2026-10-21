@@ -26,7 +26,7 @@ potencia que la del equipo de casa.
 | Bafles **Technics** vintage | Restaurados | Conectados al Lenco. Falta confirmar el modelo (chapa de atrás). |
 | TV **LG OLED** + DAC | Funciona | El audio de la TV va: salida óptica (Toslink) → DAC (a RCA, alimentado por USB) → **AUX** del Lenco. Nunca a PHONO. |
 | Auriculares **AKG MKII** | Funcionan | Falta confirmar el modelo exacto. |
-| **Teenage Engineering EP-133 K.O. II** (Champ Edition, 64 MB) | Funciona | Sampler. |
+| **Teenage Engineering EP-133 K.O. II** (Champ Edition, 64 MB) | Funciona | Sampler. Falta confirmar qué versión de OS tiene (para el audio por USB hace falta la 2.5 o más nueva; ver abajo). |
 | Mac M1 + Mac i7 2015 | Funcionan | La i7 se puede dedicar entera a esto. |
 | Restaurador de confianza | — | "Excelente" según Ana. Hace que convenga comprar usado. |
 
@@ -89,6 +89,33 @@ pitch de ±16 % y luces azules. Están buenas pero no hacen falta.
 - Cápsulas DJ ×2 (ej. Ortofon Concorde MkII / serie DJ).
 - Slipmats.
 - Auriculares cerrados (ver si alcanzan los AKG que ya tiene).
+
+## EP-133 K.O. II + Mac: samplear temas y pelis
+
+Próximo paso que eligió Ana (21/10/2026). Datos verificados en la web ese día
+(cobertura de prensa del update 2.5 y las guías de Teenage Engineering), no
+probados todavía en su equipo.
+
+- **OS 2.5 (24/06/2026; la 2.5.1 es del 03/07) agregó audio por USB**: el K.O. II
+  pasa a ser una interfaz de audio class compliant (estéreo, entrada y salida) y
+  puede samplear lo que le llega por USB. Con la 2.4 o anterior, el USB-C solo
+  sirve para datos, MIDI y carga. El update es gratis.
+- **Camino 1, en vivo por USB**: actualizar a 2.5.x, enchufar con un cable USB-C
+  **de datos** (no uno de solo carga) y sin hub. En la Mac: Ajustes del Sistema →
+  Sonido → Salida → EP-133. Lo que suene en la Mac (Spotify, YouTube, una peli en
+  QuickTime) entra al K.O. II para samplearlo. Ojo con el modo "SMP to USB MON"
+  (rutea el audio al revés). Falta confirmar en el equipo cómo se elige USB como
+  fuente de sampleo.
+- **Camino 2, archivo (el más preciso para cortes de pelis)**: recortar el pedazo
+  en la Mac (QuickTime o Audacity), exportarlo en WAV y pasarlo con el
+  **EP Sample Tool** (web, en Chrome, por USB). Sirve con cualquier OS.
+- **Camino 3, analógico**: salida de auriculares de la Mac → line in de 3,5 mm
+  del K.O. II. Funciona siempre.
+- **Samplear de vinilo**: la SL-D3 no puede ir directo al K.O. II, porque la
+  señal de phono necesita pre/RIAA. Sacarla ya amplificada a nivel de línea por
+  la salida de grabación (tape/rec out) del Lenco A600, si la tiene (falta
+  confirmar), y entrar al line in.
+- Sample rate de grabación: en los ajustes del sistema (SHIFT + ERASE).
 
 ## Catálogo para pinchar
 
