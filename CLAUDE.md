@@ -75,6 +75,7 @@ Every Claude session works on its own `claude/...` branch. In Sep 2026 seven of 
 
 - **Start from `main`**: at the beginning of a session, merge the latest `origin/main` into the session branch before changing anything.
 - **Close by opening a PR to `main`** whenever the session saved work (commit + push), and tell Ana it's waiting for her "Merge" click. A session's work isn't saved until it's in `main`.
+- **Hooks (`.claude/settings.json`, cloud sessions only)** automate both ends: `session-start.sh` merges `origin/main` at startup and prints what changed lately plus any `claude/*` branch with work not yet in `main`; `stop-guardar.sh` blocks ending a turn while there are uncommitted or unpushed changes. Ana chose (21/10/2026) to keep merging by hand: no auto-merge to `main`, she clicks "Merge" on each PR.
 - **`coleccion.db` is binary: git can't merge it.** On a conflict, never pick one side (records get lost). Merge row by row, keyed on `(owner, artista, titulo)`: union the columns and the rows, fill empty fields from the other side, and let `owned` win on `status`. Then regenerate `js/seed-data.js`.
 
 ## Environment note (this sandbox specifically)
