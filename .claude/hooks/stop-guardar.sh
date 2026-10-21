@@ -18,7 +18,8 @@ cd "${CLAUDE_PROJECT_DIR:-.}" || exit 0
 sucio=$(git status --porcelain 2>/dev/null)
 rama=$(git branch --show-current)
 if git rev-parse -q --verify "origin/$rama" >/dev/null; then
-  sin_push=$(git rev-list --count "origin/$rama..HEAD" 2>/dev/null || echo 0)
+  # Lo que ya está en main (traído por el hook de arranque) no es trabajo pendiente.
+  sin_push=$(git rev-list --count "origin/$rama..HEAD" --not origin/main 2>/dev/null || echo 0)
 else
   sin_push=$(git rev-list --count origin/main..HEAD 2>/dev/null || echo 0)
 fi
