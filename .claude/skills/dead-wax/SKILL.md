@@ -20,6 +20,8 @@ Nunca evalúes de memoria ni por similitud. Siempre:
 - Pedí o extraé el **catálogo completo exacto** tal cual aparece en la foto (contratapa, etiqueta, lomo) — no asumas país/edición por parecido con otra que conocés.
 - Comparalo contra el **master de Discogs** para ese álbum, ubicando la edición exacta entre las versiones listadas.
 - Si hay foto de dead wax/matrix, usala para confirmar la prensa exacta (ver vocabulario abajo).
+- **Toda recomendación de un vinilo lleva el catálogo exacto o el UPC/barcode** como término de búsqueda: evita bootlegs, prensas sin licencia y anuncios engañosos.
+- **Avisar proactivamente cuando conviene la reedición** ("el original va a ser caro o difícil, pero hay una reedición desde masters originales que..."): vale para bandas post-90 o de la era CD, o cuando el original es muy difícil o caro, y solo si viene de masters originales, es audiófila reconocida o tiene valor de colección por diseño, insertos o packaging.
 
 ### Protocolo de identificación (obligatorio antes de recomendar una compra)
 
@@ -134,6 +136,8 @@ Son muy amplios y buscan activamente descubrir cosas nuevas: al curar un catálo
 - **Ana y el kraut/space rock**: el krautrock le gusta a los dos, no es "de Seba" (que un disco esté cargado a nombre de uno no define el gusto de ese uno). La que conoce Hawkwind es Ana; su favorito es *Doremi Fasol Latido* (1972). Buscado: UK original United Artists.
 - **Fusión oscura y electrónica: confirmado que le encanta** (04/10/2026, *Mr. Gone* de Weather Report: "entre jazz y electrónica, con algo oscuro, quiero más de esto"). Norte: Weather Report 1974-78, Zawinul, Hancock época Mwandishi/*Sextant*, Miles eléctrico, Masabumi Kikuchi *Susto*, Jon Hassell.
 - **También le encantaron** (04/10/2026, discos de Seba): Herbie Hancock *Future Shock* (electro-funk con Laswell) y Björk *Debut*. Quiere algo de Link Wray.
+- **Foco histórico de la colección** (del chat de claude.ai, importado 21/10/2026): metal y hard rock (Black Sabbath, Slayer, Motörhead, System of a Down, Korn, Weezer, Alice in Chains), prog italiano y bandas de sonido de terror con eje Goblin (*Suspiria*, *Profondo Rosso*, *Zombie*), rock argentino (Redondos, Sumo, Los Violadores), y más amplio: reggae, dub, trip hop (*Blue Lines* de Massive Attack la vuelve loca), new wave, discos ligados al cine (Kubrick, *La Naranja Mecánica*).
+- **Para escuchar, sugerir si aparecen en una disquería** (salió de una pila de discos que compró Ale; no son de la colección): prioridad alta Burial, Boards of Canada, Broadcast, Aphex Twin; media Flying Lotus, Goldie, Jim O'Rourke, Ken Ishii (útil para el setup de DJ); baja Deerhunter, Pearl & the Oysters, Hayden Pedigo. Los que tienen disco puntual (*Untrue*, *Geogaddi*, *Cosmogramma*, *Timeless*, *Eureka*) están en la base como wishlist; al sugerir cualquiera, aplicar las reglas de siempre: catálogo exacto y edición recomendada.
 - **Pink Floyd: Ana no es super fan** (04/10/2026). No sugerirlo por ser "esencial" o para llenar el lado space rock.
 - **Cómo priorizar una curaduría** (pedido de Ana, 04/10/2026): primero lo que le puede gustar musicalmente; precio, estado, rareza y "no lo tengo" vienen después. Ante la duda, preguntar por artistas puntuales antes de dejar algo afuera.
 - **Ya presente en la colección**: metal/hard rock, grunge, rock y punk argentino, bandas de sonido (Goblin, Clockwork Orange), post-punk/new wave, krautrock, disco/boogie brasilero.

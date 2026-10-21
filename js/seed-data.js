@@ -1603,5 +1603,65 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: Europa (Optimal Media, Alemania) · Catálogo: 5700960 · barcode 602557009606 · Prensado: Identificado por el barcode y el catálogo impresos en la tapa (foto de Ana, oct 2026): reedición europea de 2016, LP 180g, 9 temas, prensada en Optimal Media. Tapa de cartón mate, como la original. Falta ver el dead wax para confirmar el corte/matrix. Original: Wild Bunch / Circa WBRLP 1, UK 1991.",
     "owner": "yo"
+  },
+  {
+    "id": "dw-193",
+    "type": "wantlist",
+    "artist": "Korn",
+    "album": "Korn",
+    "label": "Music On Vinyl",
+    "year": "1994",
+    "format": "LP",
+    "notes": "Catálogo: MOVLP1157 · barcode 8718469536375 · Prensado: reedición Music On Vinyl 2014"
+  },
+  {
+    "id": "dw-194",
+    "type": "wantlist",
+    "artist": "Burial",
+    "album": "Untrue",
+    "label": "",
+    "year": "2007",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-195",
+    "type": "wantlist",
+    "artist": "Boards of Canada",
+    "album": "Geogaddi",
+    "label": "",
+    "year": "2002",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-196",
+    "type": "wantlist",
+    "artist": "Flying Lotus",
+    "album": "Cosmogramma",
+    "label": "",
+    "year": "2010",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-197",
+    "type": "wantlist",
+    "artist": "Goldie",
+    "album": "Timeless",
+    "label": "",
+    "year": "1995",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-198",
+    "type": "wantlist",
+    "artist": "Jim O'Rourke",
+    "album": "Eureka",
+    "label": "",
+    "year": "1999",
+    "format": "LP",
+    "notes": ""
   }
 ];

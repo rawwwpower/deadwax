@@ -45,9 +45,15 @@ Jerarquía general aprendida hasta ahora (no es absoluta, varía por título y d
 - **Discogs — página de "Master"**: lista todas las versiones/ediciones de un álbum (país, sello, catálogo, año). Punto de partida obligado.
 - **Discogs — página de "Release"**: la ficha de una edición específica: catálogo, matrix/runout, notas, reseñas de compradores (a menudo mencionan calidad de sonido, defectos de prensada, comparaciones entre ediciones), estadísticas de "Have/Want" y precios de venta (low/median/high).
 - **Foros**: Steve Hoffman Music Forums, Vinyl Engine, foros de Discogs (grupos temáticos), Reddit (r/vinyl). Buenos para preguntas tipo "qué edición de X suena mejor" o "qué sellos evitar".
+- **Cómo buscar en Discogs**: catálogo + país + año (ej. "200 435-320 Bronze Germany 1979") rinde más que buscar por título. Una vez identificado, usar la URL directa `discogs.com/release/XXXXXXX`. Para precios, buscar catálogo + "Discogs sold" o "price statistics" funciona mejor que abrir la página directo. Referencia de precio: la mediana de ventas (low/median/high); pagar cerca del high requiere que el estado lo justifique.
+- **Test pressings**: casi nunca tienen ficha completa en Discogs. Usar etiqueta y tapa como referencia.
+- **MercadoLibre Argentina**: fuente local. A veces bloquea abrir productos directo: buscar por palabras clave.
+- **Disquerías** (Ana vive en zona norte de Buenos Aires): Jarana Records y Exiles Records (Palermo, cerca de Plaza Armenia), además de las que ya figuran en `curaduria/` (London Records, Javierfan, la feria).
 - **Popsike.com**: archivo de precios de subastas pasadas de eBay — útil para saber cuánto se pagó realmente por una edición específica.
 - **Tiendas especializadas en imports japoneses** (ej. rarerecords.net, records-from-japan.com): buena fuente de fotos reales de obis/insertos y descripciones detalladas de matrix.
 - **Blogs de coleccionistas** (ej. guías tipo "Best Pressing of X"): útiles para álbumes muy conocidos donde ya hay consenso armado sobre cuál edición es la mejor.
+
+**Compilados baratos y ediciones de club**: solo copias de escucha, no nivel colección.
 
 ## Chequeos físicos que no dependen de fotos externas
 
