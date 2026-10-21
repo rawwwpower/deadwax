@@ -14,6 +14,13 @@ compra y las decisiones tomadas viven en [`EQUIPO.md`](EQUIPO.md): leerlo antes
 de responder cualquier cosa de equipo o mezcla, y actualizarlo cuando se decida
 o se compre algo.
 
+## Personal y laboral: nunca mezclar (pedido de Ana, 21/10/2026)
+
+Dead Wax es un proyecto **personal**: se trabaja con esta cuenta, en Claude Code web. El trabajo de Ana va en otra cuenta
+y en la app de escritorio. Nada de lo laboral entra acá (proyectos, compañeros, herramientas, archivos, skills o
+comandos de ese entorno) ni al revés. Si en algún momento algo se mezcla (una pregunta de trabajo en esta sesión, un
+contenido laboral pegado, una propuesta que conecte los dos entornos), **marcárselo a Ana y no seguir por ese camino**.
+
 ## Artifacts publicados (pedido de Ana)
 
 Cada vez que se cambia algo de un artifact publicado (por ejemplo la wishlist de vinilos, https://claude.ai/artifact/DVryBYPAcqAX3scZDRqmu5), terminar la respuesta con el link a ese artifact, aunque sea el mismo de siempre.
@@ -74,7 +81,7 @@ No build, lint, or test tooling in this repo: it's a stdlib-only Python CLI plus
 Every Claude session works on its own `claude/...` branch. In Sep 2026 seven of these had piled up unmerged, with collection records living only on side branches. To keep that from happening again:
 
 - **Start from `main`**: at the beginning of a session, merge the latest `origin/main` into the session branch before changing anything.
-- **Close by opening a PR to `main`** whenever the session saved work (commit + push), and tell Ana it's waiting for her "Merge" click. A session's work isn't saved until it's in `main`.
+- **Close by opening a PR to `main`** whenever the session saved work (commit + push), and tell Ana it's waiting for her "Merge" click. A session's work isn't saved until it's in `main`. When Ana writes `/cierre` (or "cerremos"), follow `.claude/skills/cierre/SKILL.md`: retome note in `PENDIENTES.md`/`EQUIPO.md`, regenerate outputs, commit, push, PR.
 - **Hooks (`.claude/settings.json`, cloud sessions only)** automate both ends: `session-start.sh` merges `origin/main` at startup and prints what changed lately plus any `claude/*` branch with work not yet in `main`; `stop-guardar.sh` blocks ending a turn while there are uncommitted or unpushed changes. Ana chose (21/10/2026) to keep merging by hand: no auto-merge to `main`, she clicks "Merge" on each PR.
 - **`coleccion.db` is binary: git can't merge it.** On a conflict, never pick one side (records get lost). Merge row by row, keyed on `(owner, artista, titulo)`: union the columns and the rows, fill empty fields from the other side, and let `owned` win on `status`. Then regenerate `js/seed-data.js`.
 
