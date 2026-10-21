@@ -26,7 +26,7 @@ potencia que la del equipo de casa.
 | Bafles **Technics** vintage | Restaurados | Conectados al Lenco. Falta confirmar el modelo (chapa de atrás). |
 | TV **LG OLED** + DAC | Funciona | El audio de la TV va: salida óptica (Toslink) → DAC (a RCA, alimentado por USB) → **AUX** del Lenco. Nunca a PHONO. |
 | Auriculares **AKG MKII** | Funcionan | Falta confirmar el modelo exacto. |
-| **Teenage Engineering EP-133 K.O. II** (Champ Edition, 64 MB) | Funciona | Sampler. Tenía el OS 1.2.3 (visto en el updater el 21/10/2026); para el audio por USB hace falta la 2.5 o más nueva (ver abajo). |
+| **Teenage Engineering EP-133 K.O. II** (Champ Edition, 64 MB) | Funciona | Sampler. **OS 2.5.1** (actualizado desde la 1.2.3 el 21/10/2026): ya tiene audio por USB (ver abajo). |
 | Mac M1 + Mac i7 2015 | Funcionan | La i7 se puede dedicar entera a esto. |
 | Restaurador de confianza | — | "Excelente" según Ana. Hace que convenga comprar usado. |
 
@@ -133,9 +133,9 @@ Safari no tiene Web MIDI.
    Sample Tool lo ofrece.
 5. Si falla, probar con otro cable u otro puerto y arrancar de nuevo.
 
-Última versión vista el 21/10/2026: **2.5.1** (julio de 2026). El K.O. II de Ana
-estaba en la **1.2.3**: es un salto grande, así que antes de actualizar conviene
-hacer el backup con el EP Sample Tool.
+Última versión vista el 21/10/2026: **2.5.1** (julio de 2026). Ana actualizó ese
+mismo día de la 1.2.3 a la 2.5.1 sin problemas (no hizo backup porque no tenía
+nada grabado; si hay samples propios, conviene hacerlo con el EP Sample Tool).
 
 ## Catálogo para pinchar
 
