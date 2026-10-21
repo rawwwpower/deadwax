@@ -117,6 +117,23 @@ probados todavía en su equipo.
   confirmar), y entrar al line in.
 - Sample rate de grabación: en los ajustes del sistema (SHIFT + ERASE).
 
+### Actualizar el sistema (OS) del K.O. II
+
+Son dos herramientas web de Teenage Engineering, y las dos están en
+teenage.engineering/downloads/ep-133: el **updater** (actualiza el OS) y el
+**EP Sample Tool** (pasa samples). Las dos piden Chrome, Brave o Edge, porque
+Safari no tiene Web MIDI.
+
+1. Abrir el updater en Chrome, en la Mac.
+2. Enchufar el K.O. II directo a la Mac, con un cable USB-C de datos y sin hub.
+3. Prenderlo y aceptar el permiso de MIDI que pide el navegador.
+4. Tocar actualizar y esperar sin desenchufar. Actualizar no borra samples ni
+   proyectos (eso lo hace el format), pero conviene hacer un backup antes si el
+   Sample Tool lo ofrece.
+5. Si falla, probar con otro cable u otro puerto y arrancar de nuevo.
+
+Última versión vista el 21/10/2026: **2.5.1** (julio de 2026).
+
 ## Catálogo para pinchar
 
 Proyecto paralelo al setup: marcar qué temas de cada disco son los fuertes
