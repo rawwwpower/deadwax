@@ -54,7 +54,7 @@ window.DEADWAX_SEED = [
     "label": "Wormo",
     "year": "1986",
     "format": "LP",
-    "notes": "País: Argentina · Catálogo: SW-1014 · Grading: NM / NM · Prensado: first pressing; tapa serigrafiada, arte de Rocambole, etiqueta roja, insert original\nRecibido de regalo; pieza mas valiosa de la coleccion",
+    "notes": "País: Argentina · Catálogo: SW-1014 · Grading: NM / NM · Prensado: first pressing; tapa serigrafiada, arte de Rocambole, etiqueta roja, insert original\nRecibido de regalo.",
     "owner": "yo"
   },
   {
@@ -935,7 +935,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG+\nComprado en la feria el 04/10 (Japón VG+/VG+, $129.000). Falta identificar cuál japonesa: la de 1969 de Nippon Grammophon (etiqueta Atlantic azul/verde, sin póster) o una posterior de Warner-Pioneer. Mirar etiqueta, obi y si trae póster.",
+    "notes": "País: Japón · Grading: VG+ / VG+\nComprado en la feria el 04/10 (Japón VG+/VG+). Falta identificar cuál japonesa: la de 1969 de Nippon Grammophon (etiqueta Atlantic azul/verde, sin póster) o una posterior de Warner-Pioneer. Mirar etiqueta, obi y si trae póster.",
     "owner": "yo"
   },
   {
@@ -1448,7 +1448,7 @@ window.DEADWAX_SEED = [
     "label": "Epic/Sony",
     "year": "1984",
     "format": "LP",
-    "notes": "País: Japón\n04/10: tapa vista en foto, sticker 'NENA JAPAN $59.000' (en la lista: 'Nena ?' $59.000 sin grading; hay otra línea 'First America (99 Luftballons)' EX/VG+ $59.900: preguntar si son dos copias). Probable japonesa 1984. Falta etiqueta/catálogo. Comprado en la feria el 04/10. Falta saber cuál de las dos copias de la lista es (EX/VG+ $59.900 o sin grading $59.000) y foto de etiqueta/catálogo.",
+    "notes": "País: Japón\n04/10: tapa vista en foto, sticker NENA JAPAN. En la lista de la feria había dos líneas parecidas ('Nena ?' sin grading y 'First America (99 Luftballons)' EX/VG+): falta saber cuál de las dos copias es. Probable japonesa 1984. Comprado en la feria el 04/10. Falta foto de etiqueta/catálogo.",
     "owner": "yo"
   },
   {
