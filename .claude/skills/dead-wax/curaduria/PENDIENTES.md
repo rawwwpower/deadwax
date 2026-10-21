@@ -51,6 +51,13 @@ Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **proto
   *Nazareno Cruz y el Lobo*, *Orange Mécanique*, Lennon *Shaved Fish*, Divine, Jack de Mello,
   Mister Sam, Elvis *Elvis Presley*, White Album y los bootlegs. No están (o no bien) en MusicBrainz.
 
+- **Goblin**: búsqueda continua de buenas prensas, sobre todo Cinevox italianas originales (la *Suspiria* MDF 33/108
+  ya se evaluó y no se compró, id 13).
+- **Fundas exteriores para gatefold**: polipropileno de 3 a 4 mil, 325 mm o más, en MercadoLibre. El anuncio tiene que
+  decir "polipropileno" explícito (para evitar PVC). Referencias: MoFi, Sleeve City, Bags Unlimited (casi todo requiere
+  importar).
+- **Wishlist de escucha** (pila de Ale, 21/10, ids 194-198): elegir edición y catálogo de cada una cuando aparezcan.
+
 ## Hecho
 
 - 27/09: página de la feria con tapas embebidas.

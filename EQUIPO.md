@@ -4,11 +4,17 @@ Lo que Ana tiene, lo que quiere armar y lo que se fue decidiendo. Claude es
 la ingeniera tech y de sonido del proyecto: leer esto antes de asesorar
 sobre equipo y actualizarlo cuando algo cambie.
 
-**Última actualización:** 2026-10-12
+**Última actualización:** 2026-10-21
 
 ## Objetivo
 
-Aprender a **mezclar vinilos** (DJ).
+Aprender a **mezclar vinilos** (DJ) en vivo, sin descartar el sampleo. Enfoque
+artesanal y barato: aprovechar lo que ya tiene y priorizar la calidad de la
+mezcla y del sonido antes que gastar en equipo. Lo que más disfruta es buscar
+discos y encontrar temas para samplear.
+
+Plan con Seba: usar la bandeja en un evento más grande, donde haría falta más
+potencia que la del equipo de casa.
 
 ## Lo que tiene hoy
 
@@ -16,8 +22,12 @@ Aprender a **mezclar vinilos** (DJ).
 |---|---|---|
 | Technics **SL-D3** (1978–80) | Restaurada a nuevo | Directa, B-FG servo (sin cuarzo), **totalmente automática**, pitch ±10 % con estroboscopio, 33/45, plato de aluminio de 312 mm. Brazo estático de 230 mm con fuerza de apoyo regulable de 0 a 2,5 g y antiskating. Wow & flutter de 0,03 % WRMS y rumble de −75 dB. Es para escuchar, no para mezclar (ver abajo). |
 | Cápsula **Sumiko Pearl** (MM, hecha en Japón) | Montada en la SL-D3 | Púa elíptica de 0,3×0,7 mil y cantiléver de aluminio. Salida de 4 mV, carga de 47 kΩ y 100–200 pF. Compliance de 12 cu y peso de 6 g. **Fuerza de apoyo: 2,0 g** (rango 1,5–2,0), con el antiskating en el mismo valor. Repuesto: aguja RS Pearl. Con el brazo de la SL-D3 la resonancia da ~10–11 Hz (estimado), que está en el rango ideal. |
-| Pre de phono **Lenco** | Funciona | Falta confirmar el modelo. |
-| Bafles **Technics** vintage | Restaurados | Falta confirmar el modelo (chapa de atrás) y con qué amplificador están conectados. |
+| Amplificador **Lenco A600** | Restaurado | Integrado con entrada PHONO: la SL-D3 va ahí. |
+| Bafles **Technics** vintage | Restaurados | Conectados al Lenco. Falta confirmar el modelo (chapa de atrás). |
+| TV **LG OLED** + DAC | Funciona | El audio de la TV va: salida óptica (Toslink) → DAC (a RCA, alimentado por USB) → **AUX** del Lenco. Nunca a PHONO. |
+| Auriculares **AKG MKII** | Funcionan | Falta confirmar el modelo exacto. |
+| **Teenage Engineering EP-133 K.O. II** (Champ Edition, 64 MB) | Funciona | Sampler. |
+| Mac M1 + Mac i7 2015 | Funcionan | La i7 se puede dedicar entera a esto. |
 | Restaurador de confianza | — | "Excelente" según Ana. Hace que convenga comprar usado. |
 
 ## Plan: bandejas para mezclar (Technics SL-1200 / 1210)
@@ -78,7 +88,21 @@ pitch de ±16 % y luces azules. Están buenas pero no hacen falta.
 - Mixer de 2 canales.
 - Cápsulas DJ ×2 (ej. Ortofon Concorde MkII / serie DJ).
 - Slipmats.
-- Auriculares cerrados.
+- Auriculares cerrados (ver si alcanzan los AKG que ya tiene).
+
+## Catálogo para pinchar
+
+Proyecto paralelo al setup: marcar qué temas de cada disco son los fuertes
+para pinchar.
+
+- No usar la etiqueta "para fiesta" ni su emoji. Usar el alien 👽 (concepto
+  "de otro planeta").
+- La sensación de sonido se describe con partes del cuerpo humano, estilo
+  lámina antigua de anatomía.
+
+| Disco | Tema | Zona |
+|---|---|---|
+| Björk, *Debut* (UK, One Little Indian, TPLP31, 1993; copia de Seba) | 👽 "Violently Happy" | Pecho / caja torácica, por los bajos claros y profundos |
 
 ## Decisiones / compras
 
