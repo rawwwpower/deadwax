@@ -92,6 +92,17 @@ pitch de ±16 % y luces azules. Están buenas pero no hacen falta.
 
 ## EP-133 K.O. II + Mac: samplear temas y pelis
 
+### Retomar acá (22 oct 2026, cierre): primeros pasos con el K.O. II
+
+Ana actualizó el K.O. II de la 1.2.3 a la **2.5.1** y grabó su **primer sample** desde YouTube por USB en **B5**. Ya entiende:
+los 12 pads negros tocan sonidos (también `·` y `ENTER`); las letras A–D son 4 "cajas" que cambian lo que tienen los 12 pads
+(no son filas: existen las 48 combinaciones, ej. A4, B5); la lucecita sobre la letra dice dónde está; **MAIN** vuelve a casa
+(pantalla `1.1.1`); hay lugares vacíos de fábrica (B5 lo estaba); tocar letras y pads no cambia nada. Le costó: que las letras
+parecen filas por cómo están dibujadas, y perderse cuando tocaba varias cosas. Posible: en una prueba anterior, con SAMPLE
+prendido, tocó pads y pudo haber grabado pedacitos sueltos en algún lugar (no es grave). **Lo próximo (idea 4)**: grabar otro
+pedacito en B6 o recortarle el silencio del principio al sample de B5. Mapa de grupos propuesto, todavía no confirmado por Ana:
+A baterías, B bajos, C melodías, D voces y pelis.
+
 Próximo paso que eligió Ana (21/10/2026). Datos verificados en la web ese día
 (cobertura de prensa del update 2.5 y las guías de Teenage Engineering), no
 probados todavía en su equipo.
