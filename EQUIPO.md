@@ -104,8 +104,14 @@ probados todavía en su equipo.
   **de datos** (no uno de solo carga) y sin hub. En la Mac: Ajustes del Sistema →
   Sonido → Salida → EP-133. Lo que suene en la Mac (Spotify, YouTube, una peli en
   QuickTime) entra al K.O. II para samplearlo. Ojo con el modo "SMP to USB MON"
-  (rutea el audio al revés). Falta confirmar en el equipo cómo se elige USB como
-  fuente de sampleo.
+  (rutea el audio al revés).
+- **Probado por Ana el 22/10/2026 (funciona)**: con la salida de la Mac en
+  EP-133, el audio de YouTube solo se escucha en el K.O. II con **SAMPLE**
+  apretado (la pantalla dice **USB**: elige sola el USB como fuente). Flujo:
+  elegir grupo (A–D) → SAMPLE → play en YouTube → **mantener apretado un pad**
+  mientras dura el pedazo, soltar para cortar → MAIN para salir → tocar el pad.
+  Ojo: apretar una letra de grupo estando en SAMPLE saca del modo sample; elegir
+  el grupo antes. Primer sample: B5 (estaba vacío).
 - **Camino 2, archivo (el más preciso para cortes de pelis)**: recortar el pedazo
   en la Mac (QuickTime o Audacity), exportarlo en WAV y pasarlo con el
   **EP Sample Tool** (web, en Chrome, por USB). Sirve con cualquier OS.
