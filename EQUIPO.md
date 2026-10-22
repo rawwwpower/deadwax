@@ -26,7 +26,7 @@ potencia que la del equipo de casa.
 | Bafles **Technics** vintage | Restaurados | Conectados al Lenco. Falta confirmar el modelo (chapa de atrás). |
 | TV **LG OLED** + DAC | Funciona | El audio de la TV va: salida óptica (Toslink) → DAC (a RCA, alimentado por USB) → **AUX** del Lenco. Nunca a PHONO. |
 | Auriculares **AKG MKII** | Funcionan | Falta confirmar el modelo exacto. |
-| **Teenage Engineering EP-133 K.O. II** (Champ Edition, 64 MB) | Funciona | Sampler. Falta confirmar qué versión de OS tiene (para el audio por USB hace falta la 2.5 o más nueva; ver abajo). |
+| **Teenage Engineering EP-133 K.O. II** (Champ Edition, 64 MB) | Funciona | Sampler. **OS 2.5.1** (actualizado desde la 1.2.3 el 21/10/2026): ya tiene audio por USB (ver abajo). |
 | Mac M1 + Mac i7 2015 | Funcionan | La i7 se puede dedicar entera a esto. |
 | Restaurador de confianza | — | "Excelente" según Ana. Hace que convenga comprar usado. |
 
@@ -92,6 +92,17 @@ pitch de ±16 % y luces azules. Están buenas pero no hacen falta.
 
 ## EP-133 K.O. II + Mac: samplear temas y pelis
 
+### Retomar acá (22 oct 2026, cierre): primeros pasos con el K.O. II
+
+Ana actualizó el K.O. II de la 1.2.3 a la **2.5.1** y grabó su **primer sample** desde YouTube por USB en **B5**. Ya entiende:
+los 12 pads negros tocan sonidos (también `·` y `ENTER`); las letras A–D son 4 "cajas" que cambian lo que tienen los 12 pads
+(no son filas: existen las 48 combinaciones, ej. A4, B5); la lucecita sobre la letra dice dónde está; **MAIN** vuelve a casa
+(pantalla `1.1.1`); hay lugares vacíos de fábrica (B5 lo estaba); tocar letras y pads no cambia nada. Le costó: que las letras
+parecen filas por cómo están dibujadas, y perderse cuando tocaba varias cosas. Posible: en una prueba anterior, con SAMPLE
+prendido, tocó pads y pudo haber grabado pedacitos sueltos en algún lugar (no es grave). **Lo próximo (idea 4)**: grabar otro
+pedacito en B6 o recortarle el silencio del principio al sample de B5. Mapa de grupos propuesto, todavía no confirmado por Ana:
+A baterías, B bajos, C melodías, D voces y pelis.
+
 Próximo paso que eligió Ana (21/10/2026). Datos verificados en la web ese día
 (cobertura de prensa del update 2.5 y las guías de Teenage Engineering), no
 probados todavía en su equipo.
@@ -104,8 +115,14 @@ probados todavía en su equipo.
   **de datos** (no uno de solo carga) y sin hub. En la Mac: Ajustes del Sistema →
   Sonido → Salida → EP-133. Lo que suene en la Mac (Spotify, YouTube, una peli en
   QuickTime) entra al K.O. II para samplearlo. Ojo con el modo "SMP to USB MON"
-  (rutea el audio al revés). Falta confirmar en el equipo cómo se elige USB como
-  fuente de sampleo.
+  (rutea el audio al revés).
+- **Probado por Ana el 22/10/2026 (funciona)**: con la salida de la Mac en
+  EP-133, el audio de YouTube solo se escucha en el K.O. II con **SAMPLE**
+  apretado (la pantalla dice **USB**: elige sola el USB como fuente). Flujo:
+  elegir grupo (A–D) → SAMPLE → play en YouTube → **mantener apretado un pad**
+  mientras dura el pedazo, soltar para cortar → MAIN para salir → tocar el pad.
+  Ojo: apretar una letra de grupo estando en SAMPLE saca del modo sample; elegir
+  el grupo antes. Primer sample: B5 (estaba vacío).
 - **Camino 2, archivo (el más preciso para cortes de pelis)**: recortar el pedazo
   en la Mac (QuickTime o Audacity), exportarlo en WAV y pasarlo con el
   **EP Sample Tool** (web, en Chrome, por USB). Sirve con cualquier OS.
@@ -120,7 +137,8 @@ probados todavía en su equipo.
 ### Actualizar el sistema (OS) del K.O. II
 
 Son dos herramientas web de Teenage Engineering, y las dos están en
-teenage.engineering/downloads/ep-133: el **updater** (actualiza el OS) y el
+teenage.engineering/downloads/ep-133: el **updater** (actualiza el OS;
+la dirección directa es teenage.engineering/apps/update) y el
 **EP Sample Tool** (pasa samples). Las dos piden Chrome, Brave o Edge, porque
 Safari no tiene Web MIDI.
 
@@ -132,7 +150,9 @@ Safari no tiene Web MIDI.
    Sample Tool lo ofrece.
 5. Si falla, probar con otro cable u otro puerto y arrancar de nuevo.
 
-Última versión vista el 21/10/2026: **2.5.1** (julio de 2026).
+Última versión vista el 21/10/2026: **2.5.1** (julio de 2026). Ana actualizó ese
+mismo día de la 1.2.3 a la 2.5.1 sin problemas (no hizo backup porque no tenía
+nada grabado; si hay samples propios, conviene hacerlo con el EP Sample Tool).
 
 ## Catálogo para pinchar
 
