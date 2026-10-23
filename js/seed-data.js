@@ -218,7 +218,7 @@ window.DEADWAX_SEED = [
     "label": "Mute / Little Idiot",
     "year": "1999",
     "format": "LP",
-    "notes": "Prensado: Sonido: buscar prensa confirmada en Optimal Media (Alemania) — 2016 180g (Discogs r8465720) o 2022 140g (r24322403). EVITAR el 2022 180g STUMM172 manufacturado en Francia (r25028983): tiene reportes de distinto ingeniero de corte (KR vs AM) entre copias del mismo catálogo, o sea lotería incluso dentro de la misma edición. La copia 'Little Idiot 2022, 19 temas, sobre' que encontró Ana no está confirmada contra Discogs (el STUMM172 francés tiene 18 temas, no 19) — pedir foto/barcode antes de comprar.\nRechequeo 23/10: STUMM172 y el barcode 5016025311729 son los mismos en las reediciones de 2016 y 2022 (también en la francesa a evitar): se distinguen por 'Made in France' frente a Optimal Media/EU, no por el código."
+    "notes": "Prensado: Sonido: buscar prensa confirmada en Optimal Media (Alemania) — 2016 180g (Discogs r8465720) o 2022 140g (r24322403). La 2022 180g francesa (r25028983) suena bien según reseñas (rechequeo 23/10), con algunas copias con fallas de control de calidad; la del ingeniero de corte distinto no se pudo verificar. 2016 Optimal Media: matrix BF 03494-01 A1 AM. La copia 'Little Idiot 2022, 19 temas, sobre' que encontró Ana no está confirmada contra Discogs (el STUMM172 francés tiene 18 temas, no 19) — pedir foto/barcode antes de comprar.\nRechequeo 23/10: STUMM172 y el barcode 5016025311729 son los mismos en las reediciones de 2016 y 2022 (también en la francesa a evitar): se distinguen por 'Made in France' frente a Optimal Media/EU, no por el código."
   },
   {
     "id": "dw-25",
