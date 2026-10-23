@@ -47,8 +47,8 @@ Lo que no se identifica bien se recomienda mal: este paso va **antes** del vered
 ### Calidad primero, doble chequeo siempre (prioridad de Ana, 23/10/2026)
 
 1. **Doble chequeo antes de responder, no después de que Ana pregunte.** Todo dato que sostiene un veredicto (sonido, defectos, planta, ingeniero, matrix, peso) tiene que salir de una búsqueda hecha en esta respuesta, idealmente en dos fuentes (reseñas de Discogs, Steve Hoffman, Analog Planet, Tracking Angle, etc.). Lo que venga de la base, de otra sesión o de mi memoria es hipótesis: si no lo pude re-verificar, no va en el veredicto, va como "sin verificar". Nunca marcar `evitar` sin una fuente que lo sostenga hoy.
-2. **El veredicto (la primera línea y el emoji) es solo calidad:** cómo suena esa prensa, estado, autenticidad, defectos reportados. El precio **nunca** entra en la primera línea ni decide el emoji.
-3. **El precio va en un renglón aparte, al final**, como información (caro / razonable / barato con su referencia), sin convertirlo en recomendación de no comprar.
+2. **"Evitar" (y 🚩) es solo para calidad:** sonido, estado, autenticidad, defectos reportados. Un disco que suena bien nunca se presenta como malo o "a evitar" por su precio.
+3. **Decir "caro" sí, y claro** (Ana lo quiere saber): caro / razonable / barato con su referencia, pero como dato del precio, separado del juicio de calidad.
 
 ## Los tres criterios (resumen — detalle en `references/guia-completa.md`)
 
