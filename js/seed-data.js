@@ -1570,7 +1570,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1995",
     "format": "LP",
-    "notes": ""
+    "notes": "Ediciones LP (MusicBrainz, 22/10/2026; Discogs bloqueado): UK 1995 One Little Indian TPLP51 (y variante TPLP51L, citada como rosa limitada), barcode 5016958025212, runout reportado TLP51-A; UK 2008 TPLP51DMM 2LP DMM, barcode 5016958097516; reediciones 2015 (rosa MoMA 5000 copias y negra 180g), 2021-22, todas con barcode 5016958041618 compartido. El rosa NO prueba original: la 2015 MoMA también es rosa. Sin reviews de sonido comparativas encontradas."
   },
   {
     "id": "dw-190",
