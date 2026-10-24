@@ -1675,5 +1675,16 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: USA · Catálogo: S1E-13 ST · Prensado: Solo vista la tapa: 'S1E-13 ST X' arriba a la izquierda (catálogo de la estéreo de EE.UU.), arte de Robert McCall, 'MGM Records in association with Deutsche Grammophon', logo MGM del león. País por la tapa (probable). Año de prensa sin confirmar: MGM la reeditó varias veces; la etiqueta dice cuál es. Sticker de tienda '91-A' arriba a la derecha. Confianza: probable.\nFoto de tapa, 24/10/2026.",
     "owner": "yo"
+  },
+  {
+    "id": "dw-203",
+    "type": "collection",
+    "artist": "Almendra",
+    "album": "En Obras / 1",
+    "label": "Almendra Editora",
+    "year": "1980",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: ML-712 · Prensado: Etiqueta naranja con la almendra, ML-712 (G4RS-8516) lado 1, (P) 1980, 'Producido y distribuido por Almendra Editora', SADAIC, Industria Argentina. Primera edición argentina 1980 (ML-712 según ProgArchives; el vol. 2 es ML-713). Grabado en vivo en el estadio Obras Sanitarias en la vuelta de diciembre de 1979. Confianza: confirmada (etiqueta vista).\nFoto de etiqueta lado 1, 24/10/2026.",
+    "owner": "seba"
   }
 ];
