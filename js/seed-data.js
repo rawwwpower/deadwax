@@ -388,7 +388,7 @@ window.DEADWAX_SEED = [
     "label": "Atlantic / WEA Musik GmbH",
     "year": "1980",
     "format": "LP",
-    "notes": "País: Alemania · Catálogo: ATL/K 50735 (SD 16018) · Prensado: Ya documentado en mi guía (guia-completa.md): jerarquía de calidad conocida USA (mastering RL, Robert Ludwig) > UK primera prensa > Japón > Alemania (WEA). La alemana no es la cima absoluta pero tiene muy buena fama de manufactura — compra sólida, no la pieza de museo. Varias variantes de matrix dentro de la misma edición alemana, todas legítimas.\nVEREDICTO: compra sólida y segura.",
+    "notes": "País: Alemania · Catálogo: ATL 50735 (ST-A-804517) · Prensado: Foto de etiqueta lado 1 (24/10/2026): etiqueta Atlantic gris/plateada con la 'A' grande, LC 0121, ATL 50735 (ST-A-804517), (P) 1980 Leidseplein Presse B.V., Made in Germany by WEA Musik GmbH (texto del borde). Tiene el recuadro SACEM/SDRM (sociedad de derechos francesa): prensa alemana para el mercado francés (probable). ST-A-804517 es el número de master del lado 1 de Atlantic, el mismo de las prensas de EE.UU. Lo que la etiqueta no dice es si es la primera prensa de 1980 o una posterior: falta el dead wax completo de los dos lados. Jerarquía según guía: USA (RL) > UK primera > Japón > Alemania (WEA, muy buena manufactura). Confianza: confirmada para país y edición; variante exacta entre las alemanas sin confirmar. · Matrix: ATL 50735 A (lado 1, leído en foto)\nVEREDICTO: compra sólida y segura.",
     "owner": "yo"
   },
   {
