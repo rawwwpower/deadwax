@@ -559,10 +559,10 @@ window.DEADWAX_SEED = [
     "type": "collection",
     "artist": "AC/DC",
     "album": "Dirty Deeds Done Dirt Cheap",
-    "label": "Atlantic",
+    "label": "Atlantic / WEA Musik GmbH",
     "year": "1979",
     "format": "LP",
-    "notes": "País: Europa · Catálogo: ATL 50 323 · Grading: NM (impecable según vendedor) / NM (tapa e insert excelentes) · Prensado: Edición europea 1979 de la versión internacional (la primera es UK 1976, Atlantic K 50323; la australiana de Albert tiene otro tracklist). Comprado en Javierfan (web).\nCon Bon Scott. En EE.UU. recién salió en 1981 (Atlantic SD 16033), después de su muerte.",
+    "notes": "País: Alemania · Catálogo: ATL 50 323 · Grading: NM (impecable según vendedor) / NM (tapa e insert excelentes) · Prensado: Etiqueta verde/naranja Atlantic, LC 0121, 'Made in Germany by WEA Musik GmbH, a Warner Communications Company', ATL 50 323 (50 323-A), (P) 1976 Albert Productions. Versión internacional (lado 1 con Love at First Feel y Rocker), confirmada por etiqueta. El año 1979 viene del vendedor (Javierfan): la etiqueta no lo distingue de la primera alemana de 1976; para eso, matrix completo contra Discogs (bloqueado desde el sandbox). La primera internacional es UK 1976, Atlantic K 50323. Comprado en Javierfan (web). Confianza: confirmada para país y edición; año de prensa probable. · Matrix: WEA … 50 323 … (grabado a mano, lado 1; leído parcial en foto)\nCon Bon Scott. En EE.UU. recién salió en 1981 (Atlantic SD 16033), después de su muerte.",
     "owner": "yo"
   },
   {
