@@ -1807,5 +1807,15 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: Argentina · Catálogo: CBS 70.032 · Prensado: COPIA PROMO: la etiqueta dice 'Disco para demostración - Venta prohibida'. Etiqueta blanca con manchas amarillas, firma 'Charly García', lado A: No toquen, Zocacola, Fanky, No me verás en el subte, Ella es bailarina; CBS 70.032, Discos CBS S.A.I.C.F., Industria Argentina. La etiqueta no trae el título del disco: identificado por los temas (No me verás en el subte es de Cómo conseguir chicas, 1989, según La Nación). Catálogo no verificado online (Discogs bloqueado). Confianza: probable en el título; confirmada como promo argentina de CBS.\nFoto de etiqueta lado A, 24/10/2026.",
     "owner": "seba"
+  },
+  {
+    "id": "dw-215",
+    "type": "wantlist",
+    "artist": "Black Sabbath",
+    "album": "Vol. 4 (tapa gatefold 1ª tirada, sola)",
+    "label": "Vertigo",
+    "year": "1972",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: 6360 071 · Prensado: Cómo reconocerla: código de precio 'VO' en la contratapa; SIN duración de temas en el interior del gatefold (la 2ª tirada dice 'Deluxe' y trae duraciones); impresa por Howards Printers (Slough); librito de 4 páginas pegado. Funda interna: papel liso según una disquería (las fuentes no coinciden). Fuente: Rare Records Collector, Atlas Records, discografía sabbath.se.\nBuscar en Discogs/eBay: 'Black Sabbath Vol 4 6360 071 gatefold booklet' o 'sleeve only'."
   }
 ];
