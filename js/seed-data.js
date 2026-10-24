@@ -1719,5 +1719,49 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: Francia · Catálogo: G.U. LDXS 7 4394 (CM 340) · Prensado: Serie 'Le Nouveau Chansonnier International / Argentine'. Contratapa con los títulos en castellano y francés (Duerme negrito / Dors negrito...), impresa por 'Imp. ER-Typo-Offset, Vincennes'. Sticker de IBR (International Book & Record Distributors, Long Island City, NY): copia francesa importada a EE.UU. Año sin confirmar (Discogs bloqueado). Etiquetas no vistas. Confianza: probable.\nFotos de tapa y contratapa, 24/10/2026.",
     "owner": "seba"
+  },
+  {
+    "id": "dw-207",
+    "type": "collection",
+    "artist": "Ben E. King",
+    "album": "Stand By Me Forever",
+    "label": "Vinyl Passion",
+    "year": "2015",
+    "format": "LP",
+    "notes": "País: Europa · Catálogo: VP 80067 · barcode 8719039000463 · Prensado: Compilado de 20 grabaciones (solista y con The Drifters), © 2015 Sound Factory B.V., Made in the EU, 'Original recordings remastered', DMM cutting, 180 g según tiendas. Vinyl Passion está en la lista negra (guia-completa.md): sello de zona gris de copyright (masters vencidos en Europa), a veces con un CD como fuente. Hay una reedición posterior VPL80067 con otro barcode (8719039006502). Confianza: confirmada (contratapa vista).\nFoto de contratapa, 24/10/2026.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-208",
+    "type": "collection",
+    "artist": "Blondie",
+    "album": "Eat to the Beat",
+    "label": "Chrysalis",
+    "year": "1979",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: CDL 1225 · Prensado: Etiqueta Chrysalis crema y azul (degradé) con la mariposa, CDL 1225 / CDL 1225-A lado 1, (P)&(C) 1979 Chrysalis Records Ltd, EMI Music Publishing Ltd: edición UK. No se sabe si es primera prensa: falta el dead wax (Discogs bloqueado). Confianza: probable (etiqueta vista, prensa exacta sin confirmar).\nFoto de etiqueta lado 1, 24/10/2026.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-209",
+    "type": "collection",
+    "artist": "Babasónicos",
+    "album": "Jessico",
+    "label": "Sony Music",
+    "year": "2017",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: barcode 889854055318 · Prensado: Reedición en vinilo (el original es CD de 2001, Pop Art). Barcode 889854055318 = LP de Sony Music 2017, 180 g, según una publicación de eBay (una sola fuente). País de prensado no visto. Confianza: probable.\nFotos de tapa y contratapa, 24/10/2026.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-210",
+    "type": "collection",
+    "artist": "Babasónicos",
+    "album": "Trance Zomba",
+    "label": "Sony Music / Epic",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: barcode 888837498111 (leído en foto) · Prensado: Reedición en vinilo de Sony Music Entertainment Argentina (el original es de 1994, Sony/Epic). Sony relanzó Pasto, Trance Zomba y Dopádromo en vinilo hacia 2015 (entrevista en Los Andes, 06/2015). Año de esta edición y barcode a confirmar (leídos de la contratapa en foto, con un sticker encima). Confianza: probable.\nFotos de tapa y contratapa, 24/10/2026.",
+    "owner": "yo"
   }
 ];
