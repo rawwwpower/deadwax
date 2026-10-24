@@ -1728,7 +1728,7 @@ window.DEADWAX_SEED = [
     "label": "Vinyl Passion",
     "year": "2015",
     "format": "LP",
-    "notes": "País: Europa · Catálogo: VP 80067 · barcode 8719039000463 · Prensado: Compilado de 20 grabaciones (solista y con The Drifters), © 2015 Sound Factory B.V., Made in the EU, 'Original recordings remastered', DMM cutting, 180 g según tiendas. Vinyl Passion está en la lista negra (guia-completa.md): sello de zona gris de copyright (masters vencidos en Europa), a veces con un CD como fuente. Hay una reedición posterior VPL80067 con otro barcode (8719039006502). Confianza: confirmada (contratapa vista).\nFoto de contratapa, 24/10/2026.",
+    "notes": "País: Europa · Catálogo: VP 80067 · barcode 8719039000463 · Prensado: Compilado de 20 grabaciones (solista y con The Drifters), © 2015 Sound Factory B.V., Made in the EU, 'Original recordings remastered', DMM cutting, 180 g según tiendas. Vinyl Passion está en la lista negra (guia-completa.md): sello de zona gris de copyright (masters vencidos en Europa), a veces con un CD como fuente. Hay una reedición posterior VPL80067 con otro barcode (8719039006502). Confianza: confirmada (contratapa vista).\nFoto de contratapa, 24/10/2026. Fue un regalo.",
     "owner": "yo"
   },
   {
