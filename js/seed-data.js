@@ -141,7 +141,7 @@ window.DEADWAX_SEED = [
     "label": "Geffen/Legacy",
     "year": "2018",
     "format": "LP",
-    "notes": "UPC 190758655918",
+    "notes": "Catálogo: barcode 190758655918 · Prensado: Reedición 2018 (salida 12/10/2018 según HMV), vinilo de 140 g según una tienda. Discogs bloqueado desde el sandbox: falta ver si el barcode lo comparten prensas de EE.UU. y de Europa. Confianza: probable.\nUPC 190758655918",
     "owner": "seba"
   },
   {
