@@ -29,10 +29,10 @@ window.DEADWAX_SEED = [
     "type": "collection",
     "artist": "Black Sabbath",
     "album": "Vol. 4",
-    "label": "Vertigo",
+    "label": "Vertigo swirl",
     "year": "1972",
     "format": "LP",
-    "notes": "País: UK · Catálogo: 6360 071 · Grading: EX / EX · Prensado: Primera prensa UK (1972), confirmada por etiqueta y dead wax. Etiqueta blanca con el swirl chico y VERTIGO arriba del agujero, '6360 071.2', (P) 1972, sin 'Made in England' arriba del 33 1/3: eso es la primera tirada (la segunda agrega 'Made in England'), según Rare Records Collector. Matrix del lado 2: 2Y//1 con PECKO a mano, el de la primera tirada (la segunda es 2Y//2 sin PORKY/PECKO). Se ven rayitas finas superficiales cerca de la etiqueta en el lado 2 (fotos 24/10/2026). · Matrix: Lado 2: 6360 071 2Y//1 3 + PECKO grabado a mano (foto 24/10/2026). Lado 1 (debería decir 1Y//1 + PORKY) no fotografiado.\nDisco genuino, tapa es married copy (single sleeve, no el gatefold original con booklet)",
+    "notes": "País: UK · Catálogo: 6360 071 · Grading: EX / EX · Prensado: Primera prensa UK (1972), confirmada en los dos lados por etiqueta y dead wax. Etiqueta swirl: el lado A es el espiral completo con 'SIDE A'; el lado B lleva el swirl chico con VERTIGO arriba del agujero, '6360 071.2', (P) 1972 y sin 'Made in England' arriba del 33 1/3 (la segunda tirada lo agrega), según Rare Records Collector. Matrices 1Y//1 PORKY y 2Y//1 PECKO = primera tirada (la segunda es 1Y//2 y 2Y//2 sin PORKY/PECKO). Rayitas finas superficiales cerca de la etiqueta en el lado 2. · Matrix: Lado 1: 6360071 1Y//1 + PORKY grabado a mano. Lado 2: 6360 071 2Y//1 3 + PECKO grabado a mano. (Fotos 24/10/2026, los dos lados.)\nDisco genuino, tapa es married copy (single sleeve, no el gatefold original con booklet)",
     "owner": "yo"
   },
   {
