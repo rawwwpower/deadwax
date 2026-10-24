@@ -1763,5 +1763,38 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: Argentina · Catálogo: barcode 888837498111 (leído en foto) · Prensado: Reedición en vinilo de Sony Music Entertainment Argentina (el original es de 1994, Sony/Epic). Sony relanzó Pasto, Trance Zomba y Dopádromo en vinilo hacia 2015 (entrevista en Los Andes, 06/2015). Año de esta edición y barcode a confirmar (leídos de la contratapa en foto, con un sticker encima). Confianza: probable.\nFotos de tapa y contratapa, 24/10/2026.",
     "owner": "yo"
+  },
+  {
+    "id": "dw-211",
+    "type": "collection",
+    "artist": "The B-52's",
+    "album": "The B-52's",
+    "label": "Warner Bros.",
+    "year": "1979",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: BSK 3355 · Prensado: Etiqueta crema de Warner Bros. con el escudo, borde '3300 Warner Boulevard, Burbank, Made in U.S.A.', (P) 1979 Warner Bros. Records Inc., producido por Chris Blackwell for Island Records. Edición de EE.UU. de 1979 (país de origen). Primera prensa sin confirmar: falta el dead wax. Confianza: probable.\nFoto de etiqueta lado 1, 24/10/2026.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-212",
+    "type": "collection",
+    "artist": "Billy Cobham",
+    "album": "Shabazz",
+    "label": "Atlantic / Music Hall",
+    "year": "1976",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: 14.195 (MH-14.195/1) · Prensado: Licencia argentina: 'Producido y distribuido en Argentina por Discos Music-Hall', Serie Super Lujo, 'Mono/Estéreo compatible', (P) 1976, SADAIC-BIEM / AADI-CAPIF. Títulos en castellano ('Versión modificada'). El original es Atlantic SD 18139 (EE.UU., 1975), en vivo en Montreux y el Rainbow Theatre de Londres, julio de 1974. Confianza: confirmada (etiqueta vista).\nFoto de etiqueta lado 1, 24/10/2026.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-213",
+    "type": "collection",
+    "artist": "Billy Cobham",
+    "album": "Spectrum",
+    "label": "Atlantic",
+    "year": "1973",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: SD 7268 · Prensado: Etiqueta Atlantic verde y roja, 'Mfg. by Atlantic Recording Corp., 75 Rockefeller Plaza, N.Y.' (dirección de los 70), (P) 1973, matrix ST-A-732896 PR (PR = planta Presswell, Nueva Jersey). Edición de EE.UU. de época, del país de origen. Confianza: confirmada para país y época; primera prensa probable. · Matrix: ST-A-732896 (lado 2, en etiqueta y dead wax)\nFoto de etiqueta lado 2, 24/10/2026.",
+    "owner": "yo"
   }
 ];
