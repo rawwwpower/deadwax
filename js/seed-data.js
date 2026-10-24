@@ -1686,5 +1686,38 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: Argentina · Catálogo: ML-712 · Prensado: Etiqueta naranja con la almendra, ML-712 (G4RS-8516) lado 1, (P) 1980, 'Producido y distribuido por Almendra Editora', SADAIC, Industria Argentina. Primera edición argentina 1980 (ML-712 según ProgArchives; el vol. 2 es ML-713). Grabado en vivo en el estadio Obras Sanitarias en la vuelta de diciembre de 1979. Confianza: confirmada (etiqueta vista).\nFoto de etiqueta lado 1, 24/10/2026.",
     "owner": "seba"
+  },
+  {
+    "id": "dw-204",
+    "type": "collection",
+    "artist": "Atahualpa Yupanqui",
+    "album": "Preguntitas sobre Dios",
+    "label": "Le Chant du Monde",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Francia · Catálogo: G.U. LDX 7 4415 · Prensado: Serie 'Le Nouveau Chansonnier International / Argentine'. Solo vista la tapa frontal (catálogo en tapa y lomo). Año sin confirmar: no aparece en la tapa y no encontré el catálogo online (Discogs bloqueado). Confianza: probable.\nFotos de tapa, 24/10/2026.",
+    "owner": "seba"
+  },
+  {
+    "id": "dw-205",
+    "type": "collection",
+    "artist": "Atahualpa Yupanqui",
+    "album": "El payador perseguido",
+    "label": "Odeon",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: LDI-205 · Prensado: Seba tiene DOS copias (dos contratapas distintas: una con recuadro 'Precio Venta Público hasta $' y código de imprenta 8335; la otra sin recuadro). Tapa Odeon con logo 'LD Alta Fidelidad', contratapa 'Industrias Eléctricas y Musicales Odeón S.A.I.C.', impresa por Alpha S.A.I.C., Industria Argentina. 'Relato por milonga', canto y guitarra. Año de esta edición sin confirmar (no figura en la tapa; Discogs bloqueado). Etiquetas no vistas. Confianza: probable.\nFotos de tapa y contratapa de las dos copias, 24/10/2026.",
+    "owner": "seba"
+  },
+  {
+    "id": "dw-206",
+    "type": "collection",
+    "artist": "Atahualpa Yupanqui",
+    "album": "Campesino / Duerme negrito",
+    "label": "Le Chant du Monde",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Francia · Catálogo: G.U. LDXS 7 4394 (CM 340) · Prensado: Serie 'Le Nouveau Chansonnier International / Argentine'. Contratapa con los títulos en castellano y francés (Duerme negrito / Dors negrito...), impresa por 'Imp. ER-Typo-Offset, Vincennes'. Sticker de IBR (International Book & Record Distributors, Long Island City, NY): copia francesa importada a EE.UU. Año sin confirmar (Discogs bloqueado). Etiquetas no vistas. Confianza: probable.\nFotos de tapa y contratapa, 24/10/2026.",
+    "owner": "seba"
   }
 ];
