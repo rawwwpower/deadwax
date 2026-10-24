@@ -174,7 +174,7 @@ window.DEADWAX_SEED = [
     "label": "One Little Indian",
     "year": "1993",
     "format": "LP",
-    "notes": "País: UK · Catálogo: TPLP31 · Prensado: primera prensa confirmada por matrix · Matrix: TPLP31A1/B1 Mike's - The Exchange MPO",
+    "notes": "País: UK · Catálogo: TPLP31 · Prensado: Primera prensa UK 1993 confirmada por matrix. Fotos 24/10/2026: etiqueta plateada con el logo de Björk, Side Two TPLP31, 33 RPM, (P)&(C) 1993 Bapsi Ltd/One Little Independent; 'TPLP31 B1' grabado a mano en el dead wax del lado 2, coincide con lo anotado. · Matrix: TPLP31A1/B1 Mike's - The Exchange MPO",
     "owner": "seba"
   },
   {
@@ -1796,5 +1796,16 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: USA · Catálogo: SD 7268 · Prensado: Etiqueta Atlantic verde y roja, 'Mfg. by Atlantic Recording Corp., 75 Rockefeller Plaza, N.Y.' (dirección de los 70), (P) 1973, matrix ST-A-732896 PR (PR = planta Presswell, Nueva Jersey). Edición de EE.UU. de época, del país de origen. Confianza: confirmada para país y época; primera prensa probable. · Matrix: ST-A-732896 (lado 2, en etiqueta y dead wax)\nFoto de etiqueta lado 2, 24/10/2026.",
     "owner": "yo"
+  },
+  {
+    "id": "dw-214",
+    "type": "collection",
+    "artist": "Charly García",
+    "album": "Cómo conseguir chicas",
+    "label": "CBS",
+    "year": "1989",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: CBS 70.032 · Prensado: COPIA PROMO: la etiqueta dice 'Disco para demostración - Venta prohibida'. Etiqueta blanca con manchas amarillas, firma 'Charly García', lado A: No toquen, Zocacola, Fanky, No me verás en el subte, Ella es bailarina; CBS 70.032, Discos CBS S.A.I.C.F., Industria Argentina. La etiqueta no trae el título del disco: identificado por los temas (No me verás en el subte es de Cómo conseguir chicas, 1989, según La Nación). Catálogo no verificado online (Discogs bloqueado). Confianza: probable en el título; confirmada como promo argentina de CBS.\nFoto de etiqueta lado A, 24/10/2026.",
+    "owner": "seba"
   }
 ];
