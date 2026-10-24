@@ -1663,5 +1663,16 @@ window.DEADWAX_SEED = [
     "year": "1999",
     "format": "LP",
     "notes": ""
+  },
+  {
+    "id": "dw-201",
+    "type": "collection",
+    "artist": "Aerosmith",
+    "album": "Rocks",
+    "label": "CBS/Sony",
+    "year": "1976",
+    "format": "LP",
+    "notes": "País: Japón · Catálogo: 25AP 78 · Prensado: Etiqueta CBS/Sony blanca y naranja, (P) 1976 CBS Inc., aviso de derechos 'CBS/Sony Inc. Tokyo Japan'. Catálogo 25AP 78 = la japonesa de 1976 según tiendas (dutchvinyl la lista JP 1976). Discogs bloqueado: falta ver si hay represiones con el mismo catálogo. Obi: no visto. Confianza: probable (etiqueta y matrix vistos, año de prensa sin confirmar). · Matrix: 25AP-78A2 (lado A, estampado; leído en foto, primeros caracteres tapados)\nFotos de etiqueta lado A y dead wax, 24/10/2026.",
+    "owner": "seba"
   }
 ];
