@@ -1664,5 +1664,16 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: Japón · Catálogo: 25AP 78 · Prensado: Etiqueta CBS/Sony blanca y naranja, (P) 1976 CBS Inc., aviso de derechos 'CBS/Sony Inc. Tokyo Japan'. Primera prensa japonesa de 1976 (dato de Ana, 24/10/2026; coincide con las tiendas que listan 25AP 78 como JP 1976). Obi: no visto. · Matrix: 25AP-78A2 (lado A, estampado; leído en foto, primeros caracteres tapados)\nFotos de etiqueta lado A y dead wax, 24/10/2026.",
     "owner": "seba"
+  },
+  {
+    "id": "dw-202",
+    "type": "collection",
+    "artist": "Varios (OST)",
+    "album": "2001: A Space Odyssey",
+    "label": "MGM Records",
+    "year": "",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: S1E-13 ST · Prensado: Solo vista la tapa: 'S1E-13 ST X' arriba a la izquierda (catálogo de la estéreo de EE.UU.), arte de Robert McCall, 'MGM Records in association with Deutsche Grammophon', logo MGM del león. País por la tapa (probable). Año de prensa sin confirmar: MGM la reeditó varias veces; la etiqueta dice cuál es. Sticker de tienda '91-A' arriba a la derecha. Confianza: probable.\nFoto de tapa, 24/10/2026.",
+    "owner": "yo"
   }
 ];
