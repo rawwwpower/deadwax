@@ -29,10 +29,10 @@ window.DEADWAX_SEED = [
     "type": "collection",
     "artist": "Black Sabbath",
     "album": "Vol. 4",
-    "label": "Vertigo swirl",
+    "label": "Vertigo",
     "year": "1972",
     "format": "LP",
-    "notes": "País: UK · Catálogo: 6360 071 · Grading: EX / EX · Prensado: first pressing confirmada via PORKY/PECKO dead wax\nDisco genuino, tapa es married copy (single sleeve, no el gatefold original con booklet)",
+    "notes": "País: UK · Catálogo: 6360 071 · Grading: EX / EX · Prensado: Primera prensa UK (1972), confirmada por etiqueta y dead wax. Etiqueta blanca con el swirl chico y VERTIGO arriba del agujero, '6360 071.2', (P) 1972, sin 'Made in England' arriba del 33 1/3: eso es la primera tirada (la segunda agrega 'Made in England'), según Rare Records Collector. Matrix del lado 2: 2Y//1 con PECKO a mano, el de la primera tirada (la segunda es 2Y//2 sin PORKY/PECKO). Se ven rayitas finas superficiales cerca de la etiqueta en el lado 2 (fotos 24/10/2026). · Matrix: Lado 2: 6360 071 2Y//1 3 + PECKO grabado a mano (foto 24/10/2026). Lado 1 (debería decir 1Y//1 + PORKY) no fotografiado.\nDisco genuino, tapa es married copy (single sleeve, no el gatefold original con booklet)",
     "owner": "yo"
   },
   {
@@ -207,7 +207,7 @@ window.DEADWAX_SEED = [
     "label": "Vertigo",
     "year": "1978",
     "format": "LP",
-    "notes": "País: Japón · Catálogo: BT-5155 · Prensado: Repress japonés 1978 (no la primera prensa japonesa ~1973-74 que tengo anotada como top en la guía, esa es otro catálogo): manufacturado y distribuido por Nippon Phonogram Co. Tokyo, impreso en Japón (JASRAC). Sin gatefold, con inner sheet. Obi no confirmado en la foto (no visible, no significa que falte).\nMío (Ana). Sticker de tienda japonesa de segunda mano en la tapa (RS-Y013-4A3J-3305-P74C), no es parte del release original. | Fusionado con la ficha vieja #80 (misma copia): Solo se vio tapa (círculo pequeño arriba a la izquierda, catálogo no legible), nunca llegó la foto de etiqueta pedida. Se comparó contra una prensa japonesa NEMS 1980 (VIP-8988 / SP18-5014 / B1-5155 WWA 005 II) vista en un post de Instagram de @londonrecordsar, vendida en $410.000 ARS NM con obi (esa variante ya está documentada en references/guia-completa.md, no es la copia de Ana). Falta la etiqueta de la copia de Ana para saber en qué punto de la jerarquía cae la suya.",
+    "notes": "País: Japón · Catálogo: BT-5155 · Prensado: Repress japonés 1978 (no la primera prensa japonesa ~1973-74 que tengo anotada como top en la guía, esa es otro catálogo): manufacturado y distribuido por Nippon Phonogram Co. Tokyo, impreso en Japón (JASRAC). Sin gatefold, con inner sheet. Obi no confirmado en la foto (no visible, no significa que falte). Etiqueta vista 24/10/2026: ilustrada con el arte de la tapa (naves sobre el desierto), BT-5155 (WWA 005 B) lado 2, logo JASRAC, 'Manufactured by Nippon Phonogram Co. Ltd., Tokyo', swirl Vertigo abajo. Confianza: confirmada (etiqueta vista). · Matrix: No legible en foto.\nMío (Ana). Sticker de tienda japonesa de segunda mano en la tapa (RS-Y013-4A3J-3305-P74C), no es parte del release original. | Fusionado con la ficha vieja #80 (misma copia): Solo se vio tapa (círculo pequeño arriba a la izquierda, catálogo no legible), nunca llegó la foto de etiqueta pedida. Se comparó contra una prensa japonesa NEMS 1980 (VIP-8988 / SP18-5014 / B1-5155 WWA 005 II) vista en un post de Instagram de @londonrecordsar, vendida en $410.000 ARS NM con obi (esa variante ya está documentada en references/guia-completa.md, no es la copia de Ana). Falta la etiqueta de la copia de Ana para saber en qué punto de la jerarquía cae la suya.",
     "owner": "yo"
   },
   {
