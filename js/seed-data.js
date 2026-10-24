@@ -508,9 +508,9 @@ window.DEADWAX_SEED = [
     "artist": "Aerosmith",
     "album": "Toys in the Attic",
     "label": "Columbia",
-    "year": "1975",
+    "year": "2013",
     "format": "LP",
-    "notes": "País: USA · Catálogo: PC 33479 (RSD 2013 reissue) · Prensado: Reedición Record Store Day 2013, numerada, tirada de 5000, 180g HQ, masterizada de cintas analógicas originales por Ryan Smith en Sterling Sound. Runout debería decir STERLING RKS. No es la prensa original del 75 pese al label rojo estilo clásico Columbia.\nComprada por Seba.",
+    "notes": "País: USA · Catálogo: PC 33479 · Sony 88765486191 (RSD 2013) · Prensado: Reedición Record Store Day 2013 (Legacy/Columbia), 180 g, numerada: esta es la Nº 4303 (sello dorado en la contratapa). Tirada citada por tiendas: 5000 (Legacy no da el número). Masterizada de cintas analógicas originales por Ryan Smith en Sterling Sound; el runout debería decir STERLING RKS (falta verlo). Etiqueta roja estilo Columbia clásico, PC 33479 / BL 33479 (lado 2), (P) 1975 © 2013 Columbia Records, número Sony 88765486191 en el borde. Vista en foto 24/10/2026: confirmada como RSD 2013. No es la prensa original del 75.\nComprada por Seba.",
     "owner": "seba"
   },
   {
