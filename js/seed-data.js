@@ -1039,16 +1039,6 @@ window.DEADWAX_SEED = [
     "notes": "País: UK · Catálogo: ILPS 9383"
   },
   {
-    "id": "dw-133",
-    "type": "wantlist",
-    "artist": "Aerosmith",
-    "album": "Rocks",
-    "label": "CBS/Sony",
-    "year": "1976",
-    "format": "LP",
-    "notes": "País: Japón · Catálogo: 25AP 78\n | 03/10/2026: London Records tiene una japonesa EXC / EXC a $150.000: muy por encima de lo razonable."
-  },
-  {
     "id": "dw-134",
     "type": "wantlist",
     "artist": "Hawkwind",
