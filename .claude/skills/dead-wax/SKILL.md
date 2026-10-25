@@ -42,6 +42,14 @@ Lo que no se identifica bien se recomienda mal: este paso va **antes** del vered
 
 - **03-04/10/2026, Madonna *Music* en Maniac:** recomendé "la original del 2000" porque el SKU era el barcode 093624786511, y la ficha de la base decía "CONFIRMADA = original". Ese barcode lo comparten la original 2000, la azul 2018 y la negra 2020; la de Maniac era la 2020. Faltaron los pasos 2, 3 y 5. La misma falla estaba en las fichas de *Mezzanine* y *Facelift*, que se bajaron a "probable".
 
+- **23/10/2026, Moby *Play* (francesa 2022, STUMM172):** la marqué "evitar" repitiendo de una ficha vieja que había "distintos ingenieros de corte, lotería", sin verificarlo; al rechequear, las reseñas dicen que suena bien. Y el veredicto mezcló calidad con precio ("caro" como motivo de rechazo). Ana lo marcó como **prioridad**: ver "Calidad primero, doble chequeo siempre" abajo.
+
+### Calidad primero, doble chequeo siempre (prioridad de Ana, 23/10/2026)
+
+1. **Doble chequeo antes de responder, no después de que Ana pregunte.** Todo dato que sostiene un veredicto (sonido, defectos, planta, ingeniero, matrix, peso) tiene que salir de una búsqueda hecha en esta respuesta, idealmente en dos fuentes (reseñas de Discogs, Steve Hoffman, Analog Planet, Tracking Angle, etc.). Lo que venga de la base, de otra sesión o de mi memoria es hipótesis: si no lo pude re-verificar, no va en el veredicto, va como "sin verificar". Nunca marcar `evitar` sin una fuente que lo sostenga hoy.
+2. **"Evitar" (y 🚩) es solo para calidad:** sonido, estado, autenticidad, defectos reportados. Un disco que suena bien nunca se presenta como malo o "a evitar" por su precio.
+3. **Decir "caro" sí, y claro** (Ana lo quiere saber): caro / razonable / barato con su referencia, pero como dato del precio, separado del juicio de calidad.
+
 ## Los tres criterios (resumen — detalle en `references/guia-completa.md`)
 
 1. **¿Es de época o reedición?** Prensa contemporánea al lanzamiento > reedición moderna, salvo sello audiófilo reconocido (Analogue Productions, Speakers Corner, Sundazed, Classic Records, RhinOvinyl) sobre un original inconseguible o sonoramente superado.
@@ -173,7 +181,13 @@ Español argentino, informal, directo. Sin guiones largos (—); usar comas, dos
 
 **El status es contabilidad interna, no conversación.** Nunca preguntar "¿es tuyo o lo estás evaluando?" ni mencionar `status`/`pendiente`/`descubrimiento`/`owned` en la respuesta a Ana. El tiempo de Ana vale más que la prolijidad de la base: la lógica es traer la data primero, ella decide ownership después si quiere. Loguear en la base sigue siendo obligatorio (para no re-evaluar de cero), pero es trabajo silencioso de background, no algo que se le reporta ni se le pregunta. Solo pasa a `owned` cuando ella lo confirma explícitamente en algún momento futuro, sin que haga falta preguntarlo activamente.
 
-**El precio informa, no veta (pedido de Ana, 03/10/2026).** El foco de cada review es el sonido de esa prensa puntual: buscar reviews de sonido (Steve Hoffman, Tracking Angle, Analog Planet, comentarios de Discogs) y decir cómo suena frente a otras ediciones. El precio se dice siempre (caro / razonable / barato, con la referencia que lo justifica), pero nunca descarta un disco por sí solo: un disco imposible de conseguir que suena impecable pasa de "caro" a "aceptable". La palabra final es de Ana: sugerir, no prohibir. Reservar 🚩 para problemas de autenticidad, estado o sonido, no para precios altos.
+**El precio informa, no veta (pedido de Ana, 03/10/2026).** El foco de cada review es el sonido de esa prensa puntual: buscar reviews de sonido (Steve Hoffman, Tracking Angle, Analog Planet, comentarios de Discogs) y decir cómo suena frente a otras ediciones. El precio se dice siempre (caro / razonable / barato, con la referencia que lo justifica), pero nunca descarta un disco por sí solo: un disco imposible de conseguir que suena impecable pasa de "caro" a "aceptable". La palabra final es de Ana: sugerir, no prohibir. Reservar 🚩 para problemas de autenticidad, estado o sonido, no para precios altos. Ver también "Calidad primero, doble chequeo siempre".
+
+**Precio en clave argentina (pedido de Ana, 22/10/2026).** Ana compra en Argentina: un precio en pesos no se compara pelado contra Discogs o eBay en dólares. Siempre:
+- Convertir con la cotización del día (buscarla, no usar una vieja) y decir cuál se usó.
+- Comparar contra lo que costaría **traerlo**: precio + envío internacional + IVA 21% y percepciones si se paga con tarjeta (franquicia courier/postal de USD 400 FOB por envío, 5 por año, desde el Decreto 604/2026; re-verificar, cambia seguido). Un disco importado suele salir el doble de su precio de lista.
+- Rareza local vs. global: una prensa extranjera es más escasa acá que en su país (se paga ese plus), y una argentina se consigue acá pero puede valer más afuera. Para reventa, decir si el comprador está acá o afuera.
+- Los precios de eBay/Discogs que no son ventas cerradas se dicen como "pedidos", no como valor.
 
 **Cada respuesta abre con el veredicto (y su nivel de confianza), no con el trámite.** Lo primero que necesita saber Ana es si está ante una joya o no (auténtico, prensa top, pieza rara/deseable) o si es un disco sin mayor interés. Esa conclusión va primero, en una línea. Los datos de respaldo (catálogo, país, criterios) van después, para quien quiera el detalle, no antes.
 
