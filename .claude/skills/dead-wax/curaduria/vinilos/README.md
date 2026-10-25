@@ -7,7 +7,7 @@ https://claude.ai/artifact/DVryBYPAcqAX3scZDRqmu5 (privado; Ana la comparte desd
 
 | Archivo | Qué es |
 |---|---|
-| `build.py` | Lee la base y arma `vinilos.html`: colección = `owned`; wishlist = `iconico` (fichas con el ranking de la tabla `versiones`), `top` e `interesante`. Los `evitar` no se muestran. |
+| `build.py` | Lee la base y arma `vinilos.html`: colección = `owned`; wishlist = `iconico`, `top` e `interesante`. Los `evitar` no se muestran. Cada disco es una fila compacta que se despliega con todo lo investigado: ranking de la tabla `versiones` (cualquier prioridad), `prensado_notas`, matrix, `notas` y `fuente`. Al buscar, se abren solos los discos cuyo match está en ese detalle. |
 | `template.html` | La página sin datos. Estilo de anavare.la: fondo `#1c1c1a`, Switzer + Geist Mono, grises zinc, minúsculas. |
 | `fonts.css` | Las fuentes embebidas (la página no carga nada externo: tiene que ser liviana). |
 | `mb.py` → `mbids.json` | Busca en MusicBrainz el release-group de cada disco (solo los que faltan). |
@@ -24,6 +24,9 @@ python3 build.py
 Después, republicar `vinilos.html` con la tool Artifact pasando el `url` de arriba (si no, sale otro link).
 
 ## Tapas: cosas aprendidas
+
+- Si MusicBrainz no tiene la tapa, se puede recortar la foto de Ana a 88×88 (JPEG calidad 62, como hace
+  `covers.py`) y meterla en `covers.json` con la clave `"Artista | Título"`. `mbids.json` se guarda con `indent=0`.
 
 - **Revisar las tapas nuevas a ojo** (armar una hoja de contactos). `mb.py` busca el álbum por defecto,
   porque MusicBrainz a veces devuelve el simple homónimo y su tapa (pasó con Back in Black, Toxicity,

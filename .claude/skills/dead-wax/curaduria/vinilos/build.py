@@ -4,9 +4,10 @@
 #
 #   colección = status owned (ana y seba)
 #   wishlist  = discos con prioridad iconico | top | interesante que no son owned.
-#               Los icónicos salen como ficha, con el ranking de ediciones de la tabla versiones.
-#               Los descartados (evitar) no se muestran: una edición a evitar de un icónico va
-#               como versión con marca 'evitar' dentro de su ficha.
+#               Los descartados (evitar) no se muestran: una edición a evitar va como versión
+#               con marca 'evitar' dentro del disco.
+#   cada fila se despliega con todo lo investigado: ranking de la tabla versiones (cualquier
+#   prioridad), prensado_notas, notas, matrix y fuente.
 #
 # uso: python3 build.py
 import datetime, json, os, re, sqlite3
@@ -89,8 +90,10 @@ def item(r):
         'fl': r['etiquetas'],
         'w': r['resumen'], 'r': re.sub(r'^(Ana|Seba):\s*', '', r['review'] or ''),
         'pr': precio(r['precio']),
+        # detalle desplegable: todo lo investigado, para no perderlo en los chats
+        'pn': r['prensado_notas'], 'nt': r['notas'], 'fu': r['fuente'], 'mx': r['dead_wax_matrix'],
         # solo para el buscador, no se muestra
-        'n': ' '.join(filter(None, [r['genero'], r['notas'], r['prensado_notas'], r['fuente']])),
+        'n': r['genero'],
     }
     return {k: v for k, v in x.items() if v not in (None, '')}
 
@@ -109,8 +112,9 @@ def main():
     data = []
     for r in rows:
         x = item(r)
-        if r['prioridad'] == 'iconico' and r['status'] != 'owned':
-            x['v'] = versiones(conn, r['id'])
+        v = versiones(conn, r['id'])
+        if v:
+            x['v'] = v
         data.append(x)
     covers_all = json.load(open(os.path.join(HERE, 'covers.json')))
     covers = {k: v for k, v in covers_all.items() if k in {key(r) for r in rows}}
