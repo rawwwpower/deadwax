@@ -32,7 +32,7 @@ window.DEADWAX_SEED = [
     "label": "Vertigo swirl",
     "year": "1972",
     "format": "LP",
-    "notes": "País: UK · Catálogo: 6360 071 · Grading: EX / EX · Prensado: first pressing confirmada via PORKY/PECKO dead wax\nDisco genuino, tapa es married copy (single sleeve, no el gatefold original con booklet)",
+    "notes": "País: UK · Catálogo: 6360 071 · Grading: EX / EX · Prensado: Primera prensa UK (1972), confirmada en los dos lados por etiqueta y dead wax. Etiqueta swirl: el lado A es el espiral completo con 'SIDE A'; el lado B lleva el swirl chico con VERTIGO arriba del agujero, '6360 071.2', (P) 1972 y sin 'Made in England' arriba del 33 1/3 (la segunda tirada lo agrega), según Rare Records Collector. Matrices 1Y//1 PORKY y 2Y//1 PECKO = primera tirada (la segunda es 1Y//2 y 2Y//2 sin PORKY/PECKO). Rayitas finas superficiales cerca de la etiqueta en el lado 2. · Matrix: Lado 1: 6360071 1Y//1 + PORKY grabado a mano. Lado 2: 6360 071 2Y//1 3 + PECKO grabado a mano. (Fotos 24/10/2026, los dos lados.)\nDisco genuino, tapa es married copy (single sleeve, no el gatefold original con booklet)",
     "owner": "yo"
   },
   {
@@ -141,7 +141,7 @@ window.DEADWAX_SEED = [
     "label": "Geffen/Legacy",
     "year": "2018",
     "format": "LP",
-    "notes": "UPC 190758655918",
+    "notes": "Catálogo: barcode 190758655918 · Prensado: Reedición 2018 (salida 12/10/2018 según HMV), vinilo de 140 g según una tienda. Discogs bloqueado desde el sandbox: falta ver si el barcode lo comparten prensas de EE.UU. y de Europa. Confianza: probable.\nUPC 190758655918",
     "owner": "seba"
   },
   {
@@ -174,7 +174,7 @@ window.DEADWAX_SEED = [
     "label": "One Little Indian",
     "year": "1993",
     "format": "LP",
-    "notes": "País: UK · Catálogo: TPLP31 · Prensado: primera prensa confirmada por matrix · Matrix: TPLP31A1/B1 Mike's - The Exchange MPO",
+    "notes": "País: UK · Catálogo: TPLP31 · Prensado: Primera prensa UK 1993 confirmada por matrix. Fotos 24/10/2026: etiqueta plateada con el logo de Björk, Side Two TPLP31, 33 RPM, (P)&(C) 1993 Bapsi Ltd/One Little Independent; 'TPLP31 B1' grabado a mano en el dead wax del lado 2, coincide con lo anotado. · Matrix: TPLP31A1/B1 Mike's - The Exchange MPO",
     "owner": "seba"
   },
   {
@@ -207,7 +207,7 @@ window.DEADWAX_SEED = [
     "label": "Vertigo",
     "year": "1978",
     "format": "LP",
-    "notes": "País: Japón · Catálogo: BT-5155 · Prensado: Repress japonés 1978 (no la primera prensa japonesa ~1973-74 que tengo anotada como top en la guía, esa es otro catálogo): manufacturado y distribuido por Nippon Phonogram Co. Tokyo, impreso en Japón (JASRAC). Sin gatefold, con inner sheet. Obi no confirmado en la foto (no visible, no significa que falte).\nMío (Ana). Sticker de tienda japonesa de segunda mano en la tapa (RS-Y013-4A3J-3305-P74C), no es parte del release original. | Fusionado con la ficha vieja #80 (misma copia): Solo se vio tapa (círculo pequeño arriba a la izquierda, catálogo no legible), nunca llegó la foto de etiqueta pedida. Se comparó contra una prensa japonesa NEMS 1980 (VIP-8988 / SP18-5014 / B1-5155 WWA 005 II) vista en un post de Instagram de @londonrecordsar, vendida en $410.000 ARS NM con obi (esa variante ya está documentada en references/guia-completa.md, no es la copia de Ana). Falta la etiqueta de la copia de Ana para saber en qué punto de la jerarquía cae la suya.",
+    "notes": "País: Japón · Catálogo: BT-5155 · Prensado: Repress japonés 1978 (no la primera prensa japonesa ~1973-74 que tengo anotada como top en la guía, esa es otro catálogo): manufacturado y distribuido por Nippon Phonogram Co. Tokyo, impreso en Japón (JASRAC). Sin gatefold, con inner sheet. Obi no confirmado en la foto (no visible, no significa que falte). Etiqueta vista 24/10/2026: ilustrada con el arte de la tapa (naves sobre el desierto), BT-5155 (WWA 005 B) lado 2, logo JASRAC, 'Manufactured by Nippon Phonogram Co. Ltd., Tokyo', swirl Vertigo abajo. Confianza: confirmada (etiqueta vista). · Matrix: No legible en foto.\nMío (Ana). Sticker de tienda japonesa de segunda mano en la tapa (RS-Y013-4A3J-3305-P74C), no es parte del release original. | Fusionado con la ficha vieja #80 (misma copia): Solo se vio tapa (círculo pequeño arriba a la izquierda, catálogo no legible), nunca llegó la foto de etiqueta pedida. Se comparó contra una prensa japonesa NEMS 1980 (VIP-8988 / SP18-5014 / B1-5155 WWA 005 II) vista en un post de Instagram de @londonrecordsar, vendida en $410.000 ARS NM con obi (esa variante ya está documentada en references/guia-completa.md, no es la copia de Ana). Falta la etiqueta de la copia de Ana para saber en qué punto de la jerarquía cae la suya.",
     "owner": "yo"
   },
   {
@@ -388,7 +388,7 @@ window.DEADWAX_SEED = [
     "label": "Atlantic / WEA Musik GmbH",
     "year": "1980",
     "format": "LP",
-    "notes": "País: Alemania · Catálogo: ATL/K 50735 (SD 16018) · Prensado: Ya documentado en mi guía (guia-completa.md): jerarquía de calidad conocida USA (mastering RL, Robert Ludwig) > UK primera prensa > Japón > Alemania (WEA). La alemana no es la cima absoluta pero tiene muy buena fama de manufactura — compra sólida, no la pieza de museo. Varias variantes de matrix dentro de la misma edición alemana, todas legítimas.\nVEREDICTO: compra sólida y segura.",
+    "notes": "País: Alemania · Catálogo: ATL 50735 (ST-A-804517) · Prensado: Foto de etiqueta lado 1 (24/10/2026): etiqueta Atlantic gris/plateada con la 'A' grande, LC 0121, ATL 50735 (ST-A-804517), (P) 1980 Leidseplein Presse B.V., Made in Germany by WEA Musik GmbH (texto del borde). Tiene el recuadro SACEM/SDRM (sociedad de derechos francesa): prensa alemana para el mercado francés (probable). ST-A-804517 es el número de master del lado 1 de Atlantic, el mismo de las prensas de EE.UU. Lo que la etiqueta no dice es si es la primera prensa de 1980 o una posterior: falta el dead wax completo de los dos lados. Jerarquía según guía: USA (RL) > UK primera > Japón > Alemania (WEA, muy buena manufactura). Confianza: confirmada para país y edición; variante exacta entre las alemanas sin confirmar. · Matrix: ATL 50735 A (lado 1, leído en foto)\nVEREDICTO: compra sólida y segura.",
     "owner": "yo"
   },
   {
@@ -508,9 +508,9 @@ window.DEADWAX_SEED = [
     "artist": "Aerosmith",
     "album": "Toys in the Attic",
     "label": "Columbia",
-    "year": "1975",
+    "year": "2013",
     "format": "LP",
-    "notes": "País: USA · Catálogo: PC 33479 (RSD 2013 reissue) · Prensado: Reedición Record Store Day 2013, numerada, tirada de 5000, 180g HQ, masterizada de cintas analógicas originales por Ryan Smith en Sterling Sound. Runout debería decir STERLING RKS. No es la prensa original del 75 pese al label rojo estilo clásico Columbia.\nComprada por Seba.",
+    "notes": "País: USA · Catálogo: PC 33479 · Sony 88765486191 (RSD 2013) · Prensado: Reedición Record Store Day 2013 (Legacy/Columbia), 180 g, numerada: esta es la Nº 4303 (sello dorado en la contratapa). Tirada citada por tiendas: 5000 (Legacy no da el número). Masterizada de cintas analógicas originales por Ryan Smith en Sterling Sound; el runout debería decir STERLING RKS (falta verlo). Etiqueta roja estilo Columbia clásico, PC 33479 / BL 33479 (lado 2), (P) 1975 © 2013 Columbia Records, número Sony 88765486191 en el borde. Vista en foto 24/10/2026: confirmada como RSD 2013. No es la prensa original del 75.\nComprada por Seba.",
     "owner": "seba"
   },
   {
@@ -559,10 +559,10 @@ window.DEADWAX_SEED = [
     "type": "collection",
     "artist": "AC/DC",
     "album": "Dirty Deeds Done Dirt Cheap",
-    "label": "Atlantic",
+    "label": "Atlantic / WEA Musik GmbH",
     "year": "1979",
     "format": "LP",
-    "notes": "País: Europa · Catálogo: ATL 50 323 · Grading: NM (impecable según vendedor) / NM (tapa e insert excelentes) · Prensado: Edición europea 1979 de la versión internacional (la primera es UK 1976, Atlantic K 50323; la australiana de Albert tiene otro tracklist). Comprado en Javierfan (web).\nCon Bon Scott. En EE.UU. recién salió en 1981 (Atlantic SD 16033), después de su muerte.",
+    "notes": "País: Alemania · Catálogo: ATL 50 323 · Grading: NM (impecable según vendedor) / NM (tapa e insert excelentes) · Prensado: Etiqueta verde/naranja Atlantic, LC 0121, 'Made in Germany by WEA Musik GmbH, a Warner Communications Company', ATL 50 323 (50 323-A), (P) 1976 Albert Productions. Versión internacional (lado 1 con Love at First Feel y Rocker), confirmada por etiqueta. El año 1979 viene del vendedor (Javierfan): la etiqueta no lo distingue de la primera alemana de 1976; para eso, matrix completo contra Discogs (bloqueado desde el sandbox). La primera internacional es UK 1976, Atlantic K 50323. Comprado en Javierfan (web). Confianza: confirmada para país y edición; año de prensa probable. · Matrix: WEA … 50 323 … (grabado a mano, lado 1; leído parcial en foto)\nCon Bon Scott. En EE.UU. recién salió en 1981 (Atlantic SD 16033), después de su muerte.",
     "owner": "yo"
   },
   {
@@ -1037,16 +1037,6 @@ window.DEADWAX_SEED = [
     "year": "1976",
     "format": "LP",
     "notes": "País: UK · Catálogo: ILPS 9383"
-  },
-  {
-    "id": "dw-133",
-    "type": "wantlist",
-    "artist": "Aerosmith",
-    "album": "Rocks",
-    "label": "CBS/Sony",
-    "year": "1976",
-    "format": "LP",
-    "notes": "País: Japón · Catálogo: 25AP 78\n | 03/10/2026: London Records tiene una japonesa EXC / EXC a $150.000: muy por encima de lo razonable."
   },
   {
     "id": "dw-134",
@@ -1663,5 +1653,169 @@ window.DEADWAX_SEED = [
     "year": "1999",
     "format": "LP",
     "notes": ""
+  },
+  {
+    "id": "dw-201",
+    "type": "collection",
+    "artist": "Aerosmith",
+    "album": "Rocks",
+    "label": "CBS/Sony",
+    "year": "1976",
+    "format": "LP",
+    "notes": "País: Japón · Catálogo: 25AP 78 · Prensado: Etiqueta CBS/Sony blanca y naranja, (P) 1976 CBS Inc., aviso de derechos 'CBS/Sony Inc. Tokyo Japan'. Primera prensa japonesa de 1976 (dato de Ana, 24/10/2026; coincide con las tiendas que listan 25AP 78 como JP 1976). Obi: no visto. · Matrix: 25AP-78A2 (lado A, estampado; leído en foto, primeros caracteres tapados)\nFotos de etiqueta lado A y dead wax, 24/10/2026.",
+    "owner": "seba"
+  },
+  {
+    "id": "dw-202",
+    "type": "collection",
+    "artist": "Varios (OST)",
+    "album": "2001: A Space Odyssey",
+    "label": "MGM Records",
+    "year": "",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: S1E-13 ST · Prensado: Solo vista la tapa: 'S1E-13 ST X' arriba a la izquierda (catálogo de la estéreo de EE.UU.), arte de Robert McCall, 'MGM Records in association with Deutsche Grammophon', logo MGM del león. País por la tapa (probable). Año de prensa sin confirmar: MGM la reeditó varias veces; la etiqueta dice cuál es. Sticker de tienda '91-A' arriba a la derecha. Confianza: probable.\nFoto de tapa, 24/10/2026.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-203",
+    "type": "collection",
+    "artist": "Almendra",
+    "album": "En Obras / 1",
+    "label": "Almendra Editora",
+    "year": "1980",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: ML-712 · Prensado: Etiqueta naranja con la almendra, ML-712 (G4RS-8516) lado 1, (P) 1980, 'Producido y distribuido por Almendra Editora', SADAIC, Industria Argentina. Primera edición argentina 1980 (ML-712 según ProgArchives; el vol. 2 es ML-713). Grabado en vivo en el estadio Obras Sanitarias en la vuelta de diciembre de 1979. Confianza: confirmada (etiqueta vista).\nFoto de etiqueta lado 1, 24/10/2026.",
+    "owner": "seba"
+  },
+  {
+    "id": "dw-204",
+    "type": "collection",
+    "artist": "Atahualpa Yupanqui",
+    "album": "Preguntitas sobre Dios",
+    "label": "Le Chant du Monde",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Francia · Catálogo: G.U. LDX 7 4415 · Prensado: Serie 'Le Nouveau Chansonnier International / Argentine'. Solo vista la tapa frontal (catálogo en tapa y lomo). Año sin confirmar: no aparece en la tapa y no encontré el catálogo online (Discogs bloqueado). Confianza: probable.\nFotos de tapa, 24/10/2026.",
+    "owner": "seba"
+  },
+  {
+    "id": "dw-205",
+    "type": "collection",
+    "artist": "Atahualpa Yupanqui",
+    "album": "El payador perseguido",
+    "label": "Odeon",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: LDI-205 · Prensado: Seba tiene DOS copias (dos contratapas distintas: una con recuadro 'Precio Venta Público hasta $' y código de imprenta 8335; la otra sin recuadro). Tapa Odeon con logo 'LD Alta Fidelidad', contratapa 'Industrias Eléctricas y Musicales Odeón S.A.I.C.', impresa por Alpha S.A.I.C., Industria Argentina. 'Relato por milonga', canto y guitarra. Año de esta edición sin confirmar (no figura en la tapa; Discogs bloqueado). Etiquetas no vistas. Confianza: probable.\nFotos de tapa y contratapa de las dos copias, 24/10/2026.",
+    "owner": "seba"
+  },
+  {
+    "id": "dw-206",
+    "type": "collection",
+    "artist": "Atahualpa Yupanqui",
+    "album": "Campesino / Duerme negrito",
+    "label": "Le Chant du Monde",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Francia · Catálogo: G.U. LDXS 7 4394 (CM 340) · Prensado: Serie 'Le Nouveau Chansonnier International / Argentine'. Contratapa con los títulos en castellano y francés (Duerme negrito / Dors negrito...), impresa por 'Imp. ER-Typo-Offset, Vincennes'. Sticker de IBR (International Book & Record Distributors, Long Island City, NY): copia francesa importada a EE.UU. Año sin confirmar (Discogs bloqueado). Etiquetas no vistas. Confianza: probable.\nFotos de tapa y contratapa, 24/10/2026.",
+    "owner": "seba"
+  },
+  {
+    "id": "dw-207",
+    "type": "collection",
+    "artist": "Ben E. King",
+    "album": "Stand By Me Forever",
+    "label": "Vinyl Passion",
+    "year": "2015",
+    "format": "LP",
+    "notes": "País: Europa · Catálogo: VP 80067 · barcode 8719039000463 · Prensado: Compilado de 20 grabaciones (solista y con The Drifters), © 2015 Sound Factory B.V., Made in the EU, 'Original recordings remastered', DMM cutting, 180 g según tiendas. Vinyl Passion está en la lista negra (guia-completa.md): sello de zona gris de copyright (masters vencidos en Europa), a veces con un CD como fuente. Hay una reedición posterior VPL80067 con otro barcode (8719039006502). Confianza: confirmada (contratapa vista).\nFoto de contratapa, 24/10/2026. Fue un regalo.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-208",
+    "type": "collection",
+    "artist": "Blondie",
+    "album": "Eat to the Beat",
+    "label": "Chrysalis",
+    "year": "1979",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: CDL 1225 · Prensado: Etiqueta Chrysalis crema y azul (degradé) con la mariposa, CDL 1225 / CDL 1225-A lado 1, (P)&(C) 1979 Chrysalis Records Ltd, EMI Music Publishing Ltd: edición UK. No se sabe si es primera prensa: falta el dead wax (Discogs bloqueado). Confianza: probable (etiqueta vista, prensa exacta sin confirmar).\nFoto de etiqueta lado 1, 24/10/2026.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-209",
+    "type": "collection",
+    "artist": "Babasónicos",
+    "album": "Jessico",
+    "label": "Sony Music",
+    "year": "2017",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: barcode 889854055318 · Prensado: Reedición en vinilo (el original es CD de 2001, Pop Art). Barcode 889854055318 = LP de Sony Music 2017, 180 g, según una publicación de eBay (una sola fuente). País de prensado no visto. Confianza: probable.\nFotos de tapa y contratapa, 24/10/2026.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-210",
+    "type": "collection",
+    "artist": "Babasónicos",
+    "album": "Trance Zomba",
+    "label": "Sony Music / Epic",
+    "year": "",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: barcode 888837498111 (leído en foto) · Prensado: Reedición en vinilo de Sony Music Entertainment Argentina (el original es de 1994, Sony/Epic). Sony relanzó Pasto, Trance Zomba y Dopádromo en vinilo hacia 2015 (entrevista en Los Andes, 06/2015). Año de esta edición y barcode a confirmar (leídos de la contratapa en foto, con un sticker encima). Confianza: probable.\nFotos de tapa y contratapa, 24/10/2026.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-211",
+    "type": "collection",
+    "artist": "The B-52's",
+    "album": "The B-52's",
+    "label": "Warner Bros.",
+    "year": "1979",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: BSK 3355 · Prensado: Etiqueta crema de Warner Bros. con el escudo, borde '3300 Warner Boulevard, Burbank, Made in U.S.A.', (P) 1979 Warner Bros. Records Inc., producido por Chris Blackwell for Island Records. Edición de EE.UU. de 1979 (país de origen). Primera prensa sin confirmar: falta el dead wax. Confianza: probable.\nFoto de etiqueta lado 1, 24/10/2026.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-212",
+    "type": "collection",
+    "artist": "Billy Cobham",
+    "album": "Shabazz",
+    "label": "Atlantic / Music Hall",
+    "year": "1976",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: 14.195 (MH-14.195/1) · Prensado: Licencia argentina: 'Producido y distribuido en Argentina por Discos Music-Hall', Serie Super Lujo, 'Mono/Estéreo compatible', (P) 1976, SADAIC-BIEM / AADI-CAPIF. Títulos en castellano ('Versión modificada'). El original es Atlantic SD 18139 (EE.UU., 1975), en vivo en Montreux y el Rainbow Theatre de Londres, julio de 1974. Confianza: confirmada (etiqueta vista).\nFoto de etiqueta lado 1, 24/10/2026.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-213",
+    "type": "collection",
+    "artist": "Billy Cobham",
+    "album": "Spectrum",
+    "label": "Atlantic",
+    "year": "1973",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: SD 7268 · Prensado: Etiqueta Atlantic verde y roja, 'Mfg. by Atlantic Recording Corp., 75 Rockefeller Plaza, N.Y.' (dirección de los 70), (P) 1973, matrix ST-A-732896 PR (PR = planta Presswell, Nueva Jersey). Edición de EE.UU. de época, del país de origen. Confianza: confirmada para país y época; primera prensa probable. · Matrix: ST-A-732896 (lado 2, en etiqueta y dead wax)\nFoto de etiqueta lado 2, 24/10/2026.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-214",
+    "type": "collection",
+    "artist": "Charly García",
+    "album": "Cómo conseguir chicas",
+    "label": "CBS",
+    "year": "1989",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: CBS 70.032 · Prensado: COPIA PROMO: la etiqueta dice 'Disco para demostración - Venta prohibida'. Etiqueta blanca con manchas amarillas, firma 'Charly García', lado A: No toquen, Zocacola, Fanky, No me verás en el subte, Ella es bailarina; CBS 70.032, Discos CBS S.A.I.C.F., Industria Argentina. La etiqueta no trae el título del disco: identificado por los temas (No me verás en el subte es de Cómo conseguir chicas, 1989, según La Nación). Catálogo no verificado online (Discogs bloqueado). Confianza: probable en el título; confirmada como promo argentina de CBS.\nFoto de etiqueta lado A, 24/10/2026.",
+    "owner": "seba"
+  },
+  {
+    "id": "dw-215",
+    "type": "wantlist",
+    "artist": "Black Sabbath",
+    "album": "Vol. 4 (tapa gatefold 1ª tirada, sola)",
+    "label": "Vertigo",
+    "year": "1972",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: 6360 071 · Prensado: Cómo reconocerla: código de precio 'VO' en la contratapa; SIN duración de temas en el interior del gatefold (la 2ª tirada dice 'Deluxe' y trae duraciones); impresa por Howards Printers (Slough); librito de 4 páginas pegado. Funda interna: papel liso según una disquería (las fuentes no coinciden). Fuente: Rare Records Collector, Atlas Records, discografía sabbath.se.\nBuscar en Discogs/eBay: 'Black Sabbath Vol 4 6360 071 gatefold booklet' o 'sleeve only'."
   }
 ];

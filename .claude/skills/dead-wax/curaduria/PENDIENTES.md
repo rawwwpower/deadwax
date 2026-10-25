@@ -3,6 +3,27 @@
 Estado al 07/10/2026, para retomar en una sesión nueva sin perder nada.
 Leer esto antes de seguir con cualquier compra, carga a la base o la página de vinilos.
 
+## Retomar acá (24 oct 2026, cierre): ronda de fotos para completar la colección de Ana y Seba
+
+Ana manda fotos de etiqueta, tapa o dead wax y voy identificando y cargando cada disco. Lo mínimo que alcanza: la etiqueta
+del lado A (catálogo, sello, "Made in"), o esos tres datos escritos; el dead wax solo para confirmar primeras prensas. Cada
+foto se resuelve con ficha corta + dato curioso buscado, carga silenciosa en la base, `build.py` y republicar vinilos.
+Si MusicBrainz no tiene la tapa, recorto la foto de Ana a 88 px y la meto en **`curaduria/vinilos/covers.json`** (así
+quedaron 2001, los tres de Yupanqui y Ben E. King); al tocar **`mbids.json`** a mano, guardarlo con `indent=0`.
+Nuevos (ids **201-214**): Seba: Rocks JP 25AP 78 primera prensa 1976, Almendra *En Obras / 1* ML-712, Yupanqui
+(*Preguntitas sobre Dios* y *Campesino* Le Chant du Monde, *El payador perseguido* Odeon LDI-205 en dos copias, una sola
+ficha), Charly *Cómo conseguir chicas* promo CBS 70.032 (título deducido por los temas, falta foto de tapa). Ana: 2001
+MGM S1E-13 ST (falta etiqueta para el año), Ben E. King Vinyl Passion (lista negra, fue un regalo), Blondie *Eat to the
+Beat* UK CDL 1225, Babasónicos *Jessico* y *Trance Zomba* (reediciones Sony), B-52's BSK 3355, Cobham *Spectrum* SD 7268
+(de ahí sale el sample de Safe from Harm) y *Shabazz* licencia Music Hall. Confirmados con foto: **Vol. 4 (id 3) primera
+prensa UK en los dos lados** (1Y//1 PORKY, 2Y//1 PECKO), Dirty Deeds (id 81, alemán WEA), Back in Black (id 41, alemán WEA
+con SACEM), Toys in the Attic de Seba (id 57, RSD 2013 Nº 4303), Sabbath Bloody Sabbath (id 23), Debut de Seba (id 20).
+Toxicity de Seba (id 17): barcode, reedición 2018. Decidido: el *Rocks* sale de la wishlist de Ana (Seba ya lo tiene,
+id 133 queda como evaluado); nueva en wishlist **id 215, tapa gatefold 1ª tirada para el Vol. 4** (código "VO", sin
+duraciones adentro, librito de 4 páginas pegado), prioridad interesante. Abierto (Ana/Seba, fotos): lado B del Rocks,
+etiquetas de Yupanqui y del 2001, tapa del Charly, Master of Reality y Future Shock de Seba, Led Zeppelin II y Nena de
+Ana, Electronic Bach. `coleccion.py list --incomplete` lista el resto.
+
 ## Dónde vive cada cosa
 
 - **Todo disco (tenido o querido) está en `data/coleccion.db`.** Colección = `status=owned`; wishlist =
@@ -30,10 +51,9 @@ Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **proto
   *Blood Sugar Sex Magik*, *Mezzanine* (año de la reedición de Maniac a confirmar: el barcode 602537540433 es de
   2013, 2017 o 2023), *Play*, *Sonic Temple*, *White Album* (la US SWBO-101 es "evitar") y *Dig Your Own Hole*.
 
-- **AC/DC · Back in Black** (owned, id 41): confirmar cuál de las 8 variantes alemanas, con foto de
-  etiqueta y dead wax.
+- **AC/DC · Back in Black** (owned, id 41): etiqueta vista el 24/10/2026 (alemana WEA con recuadro SACEM). Para saber
+  cuál de las 8 variantes alemanas es, falta el dead wax completo de los dos lados.
 - **Walter Carlos · Electronic Bach** (owned, id 51): falta la edición (país, sello, catálogo).
-- **Aerosmith · Rocks** (wishlist): falta precio y si tiene obi.
 - **London Records** (londonrecords.com.ar, 03/10): preguntar al vendedor el catálogo de Led Zeppelin IV
   (¿P-8166A?), qué es el T-Wave "color azul", qué edición es el Blood Sugar Sex Magik "limitado", si Hot
   Space trae obi, y fotos de etiqueta/matrix de los AC/DC australianos. Las fotos de la tienda
