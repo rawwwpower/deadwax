@@ -4,7 +4,7 @@ Lo que Ana tiene, lo que quiere armar y lo que se fue decidiendo. Claude es
 la ingeniera tech y de sonido del proyecto: leer esto antes de asesorar
 sobre equipo y actualizarlo cuando algo cambie.
 
-**Última actualización:** 2026-10-21
+**Última actualización:** 2026-10-26
 
 ## Objetivo
 
@@ -22,7 +22,7 @@ potencia que la del equipo de casa.
 |---|---|---|
 | Technics **SL-D3** (1978–80) | Restaurada a nuevo | Directa, B-FG servo (sin cuarzo), **totalmente automática**, pitch ±10 % con estroboscopio, 33/45, plato de aluminio de 312 mm. Brazo estático de 230 mm con fuerza de apoyo regulable de 0 a 2,5 g y antiskating. Wow & flutter de 0,03 % WRMS y rumble de −75 dB. Es para escuchar, no para mezclar (ver abajo). |
 | Cápsula **Sumiko Pearl** (MM, hecha en Japón) | Montada en la SL-D3 | Púa elíptica de 0,3×0,7 mil y cantiléver de aluminio. Salida de 4 mV, carga de 47 kΩ y 100–200 pF. Compliance de 12 cu y peso de 6 g. **Fuerza de apoyo: 2,0 g** (rango 1,5–2,0), con el antiskating en el mismo valor. Repuesto: aguja RS Pearl. Con el brazo de la SL-D3 la resonancia da ~10–11 Hz (estimado), que está en el rango ideal. |
-| Amplificador **Lenco A600** | Restaurado | Integrado con entrada PHONO: la SL-D3 va ahí. |
+| Amplificador **Lenco A600** (1978) | Restaurado | Integrado de fines de los 70, hecho en Corea por un fabricante OEM y vendido con la marca suiza (según hifi-wiki). 2×60 W en 8 Ω y 2×120 W en 4 Ω. Ecualizador gráfico de 5 bandas (40 Hz, 250 Hz, 1 kHz, 5 kHz y 15 kHz, ±10 dB), vúmetros, loudness, mono/stereo y salidas de bafles A/B. Entradas: PHONO 1 y 2, TUNER, AUX 1 y 2, TAPE 1 y 2 (con monitor y dubbing). La SL-D3 va en PHONO. Tiene **REC out de TAPE 2 en el frente** (confirmado con foto, 26/10/2026). |
 | Bafles **Technics** vintage | Restaurados | Conectados al Lenco. Falta confirmar el modelo (chapa de atrás). |
 | TV **LG OLED** + DAC | Funciona | El audio de la TV va: salida óptica (Toslink) → DAC (a RCA, alimentado por USB) → **AUX** del Lenco. Nunca a PHONO. |
 | Auriculares **AKG MKII** | Funcionan | Falta confirmar el modelo exacto. |
@@ -130,8 +130,8 @@ probados todavía en su equipo.
   del K.O. II. Funciona siempre.
 - **Samplear de vinilo**: la SL-D3 no puede ir directo al K.O. II, porque la
   señal de phono necesita pre/RIAA. Sacarla ya amplificada a nivel de línea por
-  la salida de grabación (tape/rec out) del Lenco A600, si la tiene (falta
-  confirmar), y entrar al line in.
+  la salida de grabación del Lenco A600 (los RCA **REC** de TAPE 2, en el
+  frente; confirmado con foto el 26/10/2026) y entrar al line in.
 - Sample rate de grabación: en los ajustes del sistema (SHIFT + ERASE).
 
 ### Actualizar el sistema (OS) del K.O. II
