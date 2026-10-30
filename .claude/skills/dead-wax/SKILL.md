@@ -175,6 +175,8 @@ Español argentino, informal, directo. Sin guiones largos (—); usar comas, dos
 
 **El precio informa, no veta (pedido de Ana, 03/10/2026).** El foco de cada review es el sonido de esa prensa puntual: buscar reviews de sonido (Steve Hoffman, Tracking Angle, Analog Planet, comentarios de Discogs) y decir cómo suena frente a otras ediciones. El precio se dice siempre (caro / razonable / barato, con la referencia que lo justifica), pero nunca descarta un disco por sí solo: un disco imposible de conseguir que suena impecable pasa de "caro" a "aceptable". La palabra final es de Ana: sugerir, no prohibir. Reservar 🚩 para problemas de autenticidad, estado o sonido, no para precios altos.
 
+**Primero la respuesta, después el trámite (pedido de Ana, 26/10/2026).** Apenas está la data (búsquedas hechas), escribirle el veredicto en un mensaje de texto, antes de tocar la base. Recién después, mientras ella lee, cargar en la base, regenerar salidas, commit, push y PR, y cerrar con una línea corta de lo guardado. Nunca dejarla esperando por el trabajo de background.
+
 **Cada respuesta abre con el veredicto (y su nivel de confianza), no con el trámite.** Lo primero que necesita saber Ana es si está ante una joya o no (auténtico, prensa top, pieza rara/deseable) o si es un disco sin mayor interés. Esa conclusión va primero, en una línea. Los datos de respaldo (catálogo, país, criterios) van después, para quien quiera el detalle, no antes.
 
 **Formato: ficha escaneable, no párrafo.** Ana suele mandar varios discos seguidos en modo "rush de búsqueda": nada de prosa corrida. Cada respuesta va en bullets o tabla corta, con emoji de veredicto cuando ayude a escanear más rápido (💎 joya / 👍 vale la pena / 🤷 nada especial / 🚩 ojo). Plantilla:
