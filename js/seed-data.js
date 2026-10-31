@@ -258,7 +258,7 @@ window.DEADWAX_SEED = [
     "label": "Circa / Virgin (reedición 2023)",
     "year": "2023",
     "format": "LP",
-    "notes": "País: Alemania · Catálogo: barcode 602537540433 · Prensado: PROBABLE (solo por barcode/SKU de Maniac, sin ver etiqueta ni dead wax): reedición, 180g, cortada en Metropolis Mastering (mismo estudio que el original 1998). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK tiene fama de ser 'el' sonido de referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: vale la pena, comprar. Si aparece el original 1998 en buen estado sería el tope absoluto."
+    "notes": "País: Alemania · Catálogo: barcode 602537540433 · Prensado: PROBABLE: reedición Virgin/Circa 2LP 180 g, barcode 602537540433 (compartido por 2013, 2017 y 2023). 31/10/2026: copia sellada vista en disquería con sticker 'Made in Germany' y 'Printed in the EU' en contratapa (barcode no legible en la foto). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK es la referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: vale la pena, comprar. Si aparece el original 1998 en buen estado sería el tope absoluto."
   },
   {
     "id": "dw-29",
