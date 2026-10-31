@@ -1826,6 +1826,6 @@ window.DEADWAX_SEED = [
     "label": "Maverick / Warner Bros.",
     "year": "2003",
     "format": "LP",
-    "notes": "País: Alemania (impreso en tapa) · Catálogo: 9362-48439-1 / barcode 0 9362-48439-1 7 · Prensado: 2LP gatefold (31/10/2026). Contratapa y lomo sin logo Rhino ni mención 180g: solo Maverick + WB + LC 01485, '© ℗ 2003 Warner Bros. Records Inc.', 'An AOL Time Warner Company', 'Made in Germany by Warner Music Manufacturing Europe'. Lomo: solo '9362-48439-1'. Etiqueta también 2003/AOL Time Warner. Dead wax lado A estampado 'B380030-01 A1'. Mastering Tim Young (Metropolis). Mismo barcode/cat. en represiones (2012 Maverick, 2016 Rhino 180g): todo apunta a la 2003, falta cruzar el matrix en Discogs. · Matrix: B380030-01 A1 (estampado, lado A)"
+    "notes": "País: Alemania (Optimal Media) · Catálogo: 9362-48439-1 / barcode 0 9362-48439-1 7 · Prensado: 2LP gatefold (31/10/2026). Contratapa y lomo sin logo Rhino ni mención 180g: solo Maverick + WB + LC 01485, '© ℗ 2003 Warner Bros. Records Inc.', 'An AOL Time Warner Company', 'Made in Germany by Warner Music Manufacturing Europe'. Lomo: solo '9362-48439-1'. Etiqueta también 2003/AOL Time Warner. Dead wax lado A estampado 'B380030-01 A1'. Mastering Tim Young (Metropolis). Mismo barcode/cat. en represiones (2012 Maverick, 2016 Rhino 180g): todo apunta a la 2003, falta cruzar el matrix en Discogs. · Matrix: B380030-01 A1 (estampado, lado A). Discogs 292216 lista A2/B2/C2/D2 + etched '1-48439-A FDS-I' (Future Disc): A1 sería otra lámina del mismo trabajo 2003, variante no listada ahí."
   }
 ];
