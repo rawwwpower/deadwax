@@ -42,6 +42,12 @@ Lo que no se identifica bien se recomienda mal: este paso va **antes** del vered
 
 - **03-04/10/2026, Madonna *Music* en Maniac:** recomendé "la original del 2000" porque el SKU era el barcode 093624786511, y la ficha de la base decía "CONFIRMADA = original". Ese barcode lo comparten la original 2000, la azul 2018 y la negra 2020; la de Maniac era la 2020. Faltaron los pasos 2, 3 y 5. La misma falla estaba en las fichas de *Mezzanine* y *Facelift*, que se bajaron a "probable".
 
+- **31/10/2026, Monkey Records:**
+  - La ficha de *Facelift* listaba una "Music On Vinyl 2010, prensa excelente" que no aparece en ningún listado: era un dato sin fuente. Nunca sumar una versión al ranking sin un listado o un release que pruebe que existe.
+  - Esa misma ficha nombraba solo a Bellman cuando el remaster es de Ludwig y el corte de Bellman: anotar las dos etapas (quién masterizó y quién cortó).
+  - Casi recomiendo un *Ziggy* "half speed" que por barcode era la reedición común: cruzar siempre el título de la tienda contra el barcode.
+  - Corregí fichas y republiqué la página sin consultar, y Ana no entendió qué había cambiado. Ver la regla "Hablar antes de corregir" en "Estilo al responder".
+
 ## Los tres criterios (resumen — detalle en `references/guia-completa.md`)
 
 1. **¿Es de época o reedición?** Prensa contemporánea al lanzamiento > reedición moderna, salvo sello audiófilo reconocido (Analogue Productions, Speakers Corner, Sundazed, Classic Records, RhinOvinyl) sobre un original inconseguible o sonoramente superado.
@@ -54,7 +60,7 @@ Lo que no se identifica bien se recomienda mal: este paso va **antes** del vered
 
 Tapa simple donde debería ser gatefold, sin datos de fabricación/distribuidora impresos, catálogo de tapa que no coincide con el de etiqueta → sospechar reedición trucha/bootleg.
 
-Lista negra: DOL, Doxy, ZYX, Vinyl Lovers, Simply Vinyl, Abraxas, Tapestry, ABKCO (en algunas reediciones), Friday Music (variable), Get Back, Vinyl Magic, Lilith, Akarma, Not Now Music, Vinyl Passion.
+Lista negra: DOL, Doxy, ZYX, Vinyl Lovers, Simply Vinyl, Abraxas, Tapestry, ABKCO (en algunas reediciones), Friday Music (variable), Get Back, The Vinyl Champ (bootlegs "unofficial" de vivos), Vinyl Magic, Lilith, Akarma, Not Now Music, Vinyl Passion.
 
 Mobile Fidelity (MoFi): buena fama pero con el antecedente del escándalo 2022 (paso digital DSD en discos vendidos como "all-analog").
 
@@ -165,6 +171,7 @@ Ejemplo de lo que le gusta: "Sōma Nagareyama" (Kiyoshi Yamaya & Kifu Mitsuhashi
 
 - **Listas de curaduría acumulativas**: cada vez que se rehace o amplía una lista de recomendaciones, incluir SIEMPRE todos los ítems previos vigentes en una sola tabla unificada (marcando los ya elegidos o descartados), nunca solo los nuevos. Ana no quiere comparar varias tablas.
 - **Enseñar equipo de a una idea por vez** (pedido de Ana, 22/10/2026, aprendiendo el K.O. II): un solo paso por mensaje, esperar su "sí" o "entendido" antes de seguir, preguntas de sí o no para ubicarla. Varios pasos juntos la pierden. Explicar con analogías simples (las letras como "cajas") y no inventar nombres sin aclarar de dónde salen.
+- **Hablar antes de corregir** (pedido de Ana, 31/10/2026): si al revisar algo aparece un error o un dato nuevo en una ficha que ya existe (versiones, resumen, wishlist), primero contárselo por el chat en dos líneas y esperar su ok; recién ahí tocar la base y la página. Una carga que ella pide ("sumalo", "lo compré") se hace directo, como siempre.
 - **Sugerir amplio**: si un disco es bueno y no está en la colección, sugerirlo, aunque no llene un "hueco" de género ni sea raro o valioso. La curaduría es musical, no solo matemática de precios.
 
 Español argentino, informal, directo. Sin guiones largos (—); usar comas, dos puntos o paréntesis. Veredictos claros, no hedgeados. Raw/Ana suele mandar fotos con poco texto: extraer e interpretar los detalles relevantes de la foto de forma autónoma.
