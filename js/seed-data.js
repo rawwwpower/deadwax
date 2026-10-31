@@ -1831,12 +1831,13 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-217",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "Alice in Chains",
     "album": "Alice in Chains (vinilo blanco)",
     "label": "Columbia (copia)",
     "year": "1995",
     "format": "LP",
-    "notes": "Catálogo: C2 67248 / AL-BL 67437 · Prensado: 2LP vinilo blanco, etiquetas estilo '360 Sound' (negra lado 1, verde lado 2) con 'Printed in U.S.A.'. La original US 1995 (Columbia C2 67248) tiene runout etched 'PAL 67437-1A RB Precision'. En Discogs hay prensas 'Unofficial Release' con el mismo catálogo, una blanca con runout '48114-A1'. Falta foto del dead wax para decidir."
+    "notes": "Catálogo: C2 67248 / AL-BL 67437 · Prensado: 2LP vinilo blanco, etiquetas estilo '360 Sound' (negra lado 1, verde lado 2) con 'Printed in U.S.A.'. La original US 1995 (Columbia C2 67248) tiene runout etched 'PAL 67437-1A RB Precision'. En Discogs hay prensas 'Unofficial Release' con el mismo catálogo, una blanca con runout '48114-A1'. Falta foto del dead wax para decidir.",
+    "owner": "yo"
   }
 ];
