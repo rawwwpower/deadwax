@@ -1560,7 +1560,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1995",
     "format": "LP",
-    "notes": ""
+    "notes": "Prensado: 31/10/2026 vista sellada en disquería: TPLP51, barcode 5016958041618, Made in EU, contratapa dice 'One Little Independent' (nombre del sello desde 2020) → reedición post-2020. El mismo cat./barcode lo usan reedición 2015 y posteriores; original 1995 One Little Indian TPLP51."
   },
   {
     "id": "dw-190",
