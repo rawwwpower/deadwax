@@ -1817,5 +1817,15 @@ window.DEADWAX_SEED = [
     "year": "1972",
     "format": "LP",
     "notes": "País: UK · Catálogo: 6360 071 · Prensado: Cómo reconocerla: código de precio 'VO' en la contratapa; SIN duración de temas en el interior del gatefold (la 2ª tirada dice 'Deluxe' y trae duraciones); impresa por Howards Printers (Slough); librito de 4 páginas pegado. Funda interna: papel liso según una disquería (las fuentes no coinciden). Fuente: Rare Records Collector, Atlas Records, discografía sabbath.se.\nBuscar en Discogs/eBay: 'Black Sabbath Vol 4 6360 071 gatefold booklet' o 'sleeve only'."
+  },
+  {
+    "id": "dw-216",
+    "type": "wantlist",
+    "artist": "Madonna",
+    "album": "American Life",
+    "label": "Maverick / Warner Bros.",
+    "year": "2003",
+    "format": "LP",
+    "notes": "País: Alemania (impreso en tapa) · Catálogo: 9362-48439-1 / barcode 0 9362-48439-1 7 · Prensado: 2LP gatefold sellado visto en tienda (31/10/2026). Contratapa: '© ℗ 2003 Warner Bros. Records Inc.', 'An AOL Time Warner Company', 'Made in Germany by Warner Music Manufacturing Europe'. Mastering Tim Young (Metropolis, Londres). Mismo barcode/catálogo en original 2003 y represiones (se citan 2012 Maverick y 2016 Rhino 180g): sin confirmar cuál es. Sellado = hipótesis por defecto reedición. Para distinguir: sticker Rhino/180g en el shrink, peso del disco, dead wax (ver Discogs)."
   }
 ];
