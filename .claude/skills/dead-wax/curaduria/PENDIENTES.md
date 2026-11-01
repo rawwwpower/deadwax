@@ -37,6 +37,9 @@ Ana, Electronic Bach. `coleccion.py list --incomplete` lista el resto.
 - Fuentes crudas: `feria-2026-09/lista-proveedor.txt` (561 ítems de la feria) y
   `javierfan-2026-09/catalogo-web.json` (catálogo de la web con stock; en MercadoLibre, JAVIERFAN1,
   los mismos discos salen ~8-12% más caros: comprar por la web).
+- **Monkey Records** (monkey-records.com, 31/10/2026): todo nuevo, fuerte en metal, prog y grunge, algo de jazz. El stock
+  completo con barcode sale de su API (`/wp-json/wc/store/v1/products?per_page=100&page=N`). Lo evaluado está en la base
+  con `fuente` "Monkey Records 2026-10"; lo aprendido de sus ediciones, en `references/casos-especificos.md`.
 
 ## Antes de cualquier recomendación
 

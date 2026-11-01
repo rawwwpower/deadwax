@@ -44,6 +44,12 @@ Lo que no se identifica bien se recomienda mal: este paso va **antes** del vered
 
 - **23/10/2026, Moby *Play* (francesa 2022, STUMM172):** la marqué "evitar" repitiendo de una ficha vieja que había "distintos ingenieros de corte, lotería", sin verificarlo; al rechequear, las reseñas dicen que suena bien. Y el veredicto mezcló calidad con precio ("caro" como motivo de rechazo). Ana lo marcó como **prioridad**: ver "Calidad primero, doble chequeo siempre" abajo.
 
+- **31/10/2026, Monkey Records:**
+  - La ficha de *Facelift* listaba una "Music On Vinyl 2010, prensa excelente" que no aparece en ningún listado: era un dato sin fuente. Nunca sumar una versión al ranking sin un listado o un release que pruebe que existe.
+  - Esa misma ficha nombraba solo a Bellman cuando el remaster es de Ludwig y el corte de Bellman: anotar las dos etapas (quién masterizó y quién cortó).
+  - Casi recomiendo un *Ziggy* "half speed" que por barcode era la reedición común: cruzar siempre el título de la tienda contra el barcode.
+  - Corregí fichas y republiqué la página sin consultar, y Ana no entendió qué había cambiado. Ver la regla "Hablar antes de corregir" en "Estilo al responder".
+
 ### Calidad primero, doble chequeo siempre (prioridad de Ana, 23/10/2026)
 
 1. **Doble chequeo antes de responder, no después de que Ana pregunte.** Todo dato que sostiene un veredicto (sonido, defectos, planta, ingeniero, matrix, peso) tiene que salir de una búsqueda hecha en esta respuesta, idealmente en dos fuentes (reseñas de Discogs, Steve Hoffman, Analog Planet, Tracking Angle, etc.). Lo que venga de la base, de otra sesión o de mi memoria es hipótesis: si no lo pude re-verificar, no va en el veredicto, va como "sin verificar". Nunca marcar `evitar` sin una fuente que lo sostenga hoy.
@@ -62,7 +68,7 @@ Lo que no se identifica bien se recomienda mal: este paso va **antes** del vered
 
 Tapa simple donde debería ser gatefold, sin datos de fabricación/distribuidora impresos, catálogo de tapa que no coincide con el de etiqueta → sospechar reedición trucha/bootleg.
 
-Lista negra: DOL, Doxy, ZYX, Vinyl Lovers, Simply Vinyl, Abraxas, Tapestry, ABKCO (en algunas reediciones), Friday Music (variable), Get Back, Vinyl Magic, Lilith, Akarma, Not Now Music, Vinyl Passion.
+Lista negra: DOL, Doxy, ZYX, Vinyl Lovers, Simply Vinyl, Abraxas, Tapestry, ABKCO (en algunas reediciones), Friday Music (variable), Get Back, The Vinyl Champ (bootlegs "unofficial" de vivos), Vinyl Magic, Lilith, Akarma, Not Now Music, Vinyl Passion.
 
 Mobile Fidelity (MoFi): buena fama pero con el antecedente del escándalo 2022 (paso digital DSD en discos vendidos como "all-analog").
 
@@ -174,6 +180,7 @@ Ejemplo de lo que le gusta: "Sōma Nagareyama" (Kiyoshi Yamaya & Kifu Mitsuhashi
 
 - **Listas de curaduría acumulativas**: cada vez que se rehace o amplía una lista de recomendaciones, incluir SIEMPRE todos los ítems previos vigentes en una sola tabla unificada (marcando los ya elegidos o descartados), nunca solo los nuevos. Ana no quiere comparar varias tablas.
 - **Enseñar equipo de a una idea por vez** (pedido de Ana, 22/10/2026, aprendiendo el K.O. II): un solo paso por mensaje, esperar su "sí" o "entendido" antes de seguir, preguntas de sí o no para ubicarla. Varios pasos juntos la pierden. Explicar con analogías simples (las letras como "cajas") y no inventar nombres sin aclarar de dónde salen.
+- **Hablar antes de corregir** (pedido de Ana, 31/10/2026): si al revisar algo aparece un error o un dato nuevo en una ficha que ya existe (versiones, resumen, wishlist), primero contárselo por el chat en dos líneas y esperar su ok; recién ahí tocar la base y la página. Una carga que ella pide ("sumalo", "lo compré") se hace directo, como siempre.
 - **Sugerir amplio**: si un disco es bueno y no está en la colección, sugerirlo, aunque no llene un "hueco" de género ni sea raro o valioso. La curaduría es musical, no solo matemática de precios.
 
 Español argentino, informal, directo. Sin guiones largos (—); usar comas, dos puntos o paréntesis. Veredictos claros, no hedgeados. Raw/Ana suele mandar fotos con poco texto: extraer e interpretar los detalles relevantes de la foto de forma autónoma.

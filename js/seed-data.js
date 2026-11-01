@@ -1817,5 +1817,15 @@ window.DEADWAX_SEED = [
     "year": "1972",
     "format": "LP",
     "notes": "País: UK · Catálogo: 6360 071 · Prensado: Cómo reconocerla: código de precio 'VO' en la contratapa; SIN duración de temas en el interior del gatefold (la 2ª tirada dice 'Deluxe' y trae duraciones); impresa por Howards Printers (Slough); librito de 4 páginas pegado. Funda interna: papel liso según una disquería (las fuentes no coinciden). Fuente: Rare Records Collector, Atlas Records, discografía sabbath.se.\nBuscar en Discogs/eBay: 'Black Sabbath Vol 4 6360 071 gatefold booklet' o 'sleeve only'."
+  },
+  {
+    "id": "dw-230",
+    "type": "wantlist",
+    "artist": "Stone Temple Pilots",
+    "album": "Core",
+    "label": "Analogue Productions (Atlantic 75)",
+    "year": "2024",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: AAPA 028-45 · barcode 753088752872\n1LP 180 g 2020: remaster 2017 de Tom Baker, prensado en Optimal; sin reviews de sonido. La definitiva según Sound & Vision: Analogue Productions 2024, 2LP 45 rpm, Ryan K. Smith (Sterling) de la cinta master, QRP."
   }
 ];
