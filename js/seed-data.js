@@ -1817,5 +1817,16 @@ window.DEADWAX_SEED = [
     "year": "1972",
     "format": "LP",
     "notes": "País: UK · Catálogo: 6360 071 · Prensado: Cómo reconocerla: código de precio 'VO' en la contratapa; SIN duración de temas en el interior del gatefold (la 2ª tirada dice 'Deluxe' y trae duraciones); impresa por Howards Printers (Slough); librito de 4 páginas pegado. Funda interna: papel liso según una disquería (las fuentes no coinciden). Fuente: Rare Records Collector, Atlas Records, discografía sabbath.se.\nBuscar en Discogs/eBay: 'Black Sabbath Vol 4 6360 071 gatefold booklet' o 'sleeve only'."
+  },
+  {
+    "id": "dw-216",
+    "type": "collection",
+    "artist": "Faith No More",
+    "album": "The Real Thing",
+    "label": "",
+    "year": "1989",
+    "format": "LP",
+    "notes": "Primer disco con Mike Patton en voz (reemplazó a Chuck Mosley). Edición sin identificar: falta ver etiqueta y dead wax.",
+    "owner": "yo"
   }
 ];
