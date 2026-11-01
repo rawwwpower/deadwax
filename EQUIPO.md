@@ -4,7 +4,7 @@ Lo que Ana tiene, lo que quiere armar y lo que se fue decidiendo. Claude es
 la ingeniera tech y de sonido del proyecto: leer esto antes de asesorar
 sobre equipo y actualizarlo cuando algo cambie.
 
-**Última actualización:** 2026-10-21
+**Última actualización:** 2026-10-27
 
 ## Objetivo
 
@@ -82,6 +82,18 @@ pitch de ±16 % y luces azules. Están buenas pero no hacen falta.
   unidad o por par.
 - Con restaurador propio conviene mirar las "para reparar" y las que
   están sin service. Pagar menos y restaurar.
+
+### MK2 como patrimonio: valor desde 1979 (consultado 2026-10-27)
+
+- Lanzamiento 1979: ~990 DM (~€506, hifi-wiki), unos €1.300 de hoy. Nueva en UK
+  1989 ~£300 y en USA 1997-98 ~US$450 (recuerdos de foros, no verificados).
+- Hoy, usada: mediana €755 en Europa (HifiShark, 687 publicaciones), US$600-900
+  en USA. Argentina: ARS 1,87-2,5 M (ML, sept. 2026), 50-70 % arriba de afuera.
+- Lectura: el que la compró nueva perdió valor real. Desde que se discontinuó
+  (2010), el usado sube por encima de la inflación. El techo lo pone la MK7 nueva.
+  Riesgo local: el sobreprecio argentino. Comprar "para reparar" + restaurador
+  protege mejor el valor.
+- Falta: ventas cerradas (eBay sold) y una serie de precios año por año.
 
 ### El resto del set (pendiente de definir)
 
