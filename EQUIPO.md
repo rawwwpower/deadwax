@@ -4,11 +4,7 @@ Lo que Ana tiene, lo que quiere armar y lo que se fue decidiendo. Claude es
 la ingeniera tech y de sonido del proyecto: leer esto antes de asesorar
 sobre equipo y actualizarlo cuando algo cambie.
 
-<<<<<<< ours
 **Última actualización:** 2026-10-27
-=======
-**Última actualización:** 2026-10-26
->>>>>>> theirs
 
 ## Objetivo
 

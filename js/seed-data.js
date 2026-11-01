@@ -258,7 +258,7 @@ window.DEADWAX_SEED = [
     "label": "Circa / Virgin (reedición 2023)",
     "year": "2023",
     "format": "LP",
-    "notes": "País: Alemania · Catálogo: barcode 602537540433 · Prensado: PROBABLE (solo por barcode/SKU de Maniac, sin ver etiqueta ni dead wax): reedición, 180g, cortada en Metropolis Mastering (mismo estudio que el original 1998). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK tiene fama de ser 'el' sonido de referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: comprar la reedición (barcode 602537540433, 2LP 180 g) a vendedor local; las tiradas comparten barcode. Rechequeo 23/10: la de 2013 tiene el corte de laca en Abbey Road (no en Metropolis; Tim Young/Metropolis es el remaster). Original 1998 UK = tope a largo plazo."
+    "notes": "País: Alemania · Catálogo: barcode 602537540433 · Prensado: PROBABLE: reedición Virgin/Circa 2LP 180 g, barcode 602537540433 (compartido por 2013, 2017 y 2023). 31/10/2026: copia sellada vista en disquería con sticker 'Made in Germany' y 'Printed in the EU' en contratapa (barcode no legible en la foto). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK es la referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: comprar la reedición (barcode 602537540433, 2LP 180 g) a vendedor local; las tiradas comparten barcode. Rechequeo 23/10: la de 2013 tiene el corte de laca en Abbey Road (no en Metropolis; Tim Young/Metropolis es el remaster). Original 1998 UK = tope a largo plazo."
   },
   {
     "id": "dw-29",
@@ -1560,7 +1560,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1995",
     "format": "LP",
-    "notes": "Ediciones LP (MusicBrainz, 22/10/2026; Discogs bloqueado): UK 1995 One Little Indian TPLP51 (y variante TPLP51L, citada como rosa limitada), barcode 5016958025212, runout reportado TLP51-A; UK 2008 TPLP51DMM 2LP DMM, barcode 5016958097516; reediciones 2015 (rosa MoMA 5000 copias y negra 180g), 2021-22, todas con barcode 5016958041618 compartido. El rosa NO prueba original: la 2015 MoMA también es rosa. Sin reviews de sonido comparativas encontradas."
+    "notes": "Prensado: 31/10/2026 vista sellada en disquería: TPLP51, barcode 5016958041618, Made in EU, contratapa dice 'One Little Independent' (nombre del sello desde 2020) → reedición post-2020. El mismo cat./barcode lo usan reedición 2015 y posteriores; original 1995 One Little Indian TPLP51.\nEdiciones LP (MusicBrainz, 22/10/2026; Discogs bloqueado): UK 1995 One Little Indian TPLP51 (y variante TPLP51L, citada como rosa limitada), barcode 5016958025212, runout reportado TLP51-A; UK 2008 TPLP51DMM 2LP DMM, barcode 5016958097516; reediciones 2015 (rosa MoMA 5000 copias y negra 180g), 2021-22, todas con barcode 5016958041618 compartido. El rosa NO prueba original: la 2015 MoMA también es rosa. Sin reviews de sonido comparativas encontradas."
   },
   {
     "id": "dw-190",
@@ -1819,7 +1819,7 @@ window.DEADWAX_SEED = [
     "notes": "País: UK · Catálogo: 6360 071 · Prensado: Cómo reconocerla: código de precio 'VO' en la contratapa; SIN duración de temas en el interior del gatefold (la 2ª tirada dice 'Deluxe' y trae duraciones); impresa por Howards Printers (Slough); librito de 4 páginas pegado. Funda interna: papel liso según una disquería (las fuentes no coinciden). Fuente: Rare Records Collector, Atlas Records, discografía sabbath.se.\nBuscar en Discogs/eBay: 'Black Sabbath Vol 4 6360 071 gatefold booklet' o 'sleeve only'."
   },
   {
-    "id": "dw-230",
+    "id": "dw-239",
     "type": "wantlist",
     "artist": "Stone Temple Pilots",
     "album": "Core",
@@ -1827,5 +1827,48 @@ window.DEADWAX_SEED = [
     "year": "2024",
     "format": "LP",
     "notes": "País: USA · Catálogo: AAPA 028-45 · barcode 753088752872\n1LP 180 g 2020: remaster 2017 de Tom Baker, prensado en Optimal; sin reviews de sonido. La definitiva según Sound & Vision: Analogue Productions 2024, 2LP 45 rpm, Ryan K. Smith (Sterling) de la cinta master, QRP."
+  },
+  {
+    "id": "dw-243",
+    "type": "wantlist",
+    "artist": "Alice in Chains",
+    "album": "Alice in Chains (Tripod)",
+    "label": "Columbia",
+    "year": "1995",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: C2 67248 (barcode 0 7464-67248-1 1) · Prensado: SIN CONFIRMAR (contratapa vista en disquería 31/10/2026, en bolsa): barcode/catálogo de la original US 1995 2LP gatefold, pero hay bootleg 'Tripod' con el mismo cat. C267248 (vinilo marmolado verde/negro y violeta). Reedición 30 aniv. 2026 tiene otro UPC (198028486910), así que no es esa. Falta ver vinilo, etiquetas y dead wax.\nVEREDICTO: si es la original 1995 negra, joya; si es vinilo de color, bootleg."
+  },
+  {
+    "id": "dw-244",
+    "type": "collection",
+    "artist": "Madonna",
+    "album": "American Life",
+    "label": "Maverick / Warner Bros.",
+    "year": "2003",
+    "format": "LP",
+    "notes": "País: Alemania (Optimal Media) · Catálogo: 9362-48439-1 / barcode 0 9362-48439-1 7 · Prensado: 2LP gatefold (31/10/2026). Contratapa y lomo sin logo Rhino ni mención 180g: solo Maverick + WB + LC 01485, '© ℗ 2003 Warner Bros. Records Inc.', 'An AOL Time Warner Company', 'Made in Germany by Warner Music Manufacturing Europe'. Lomo: solo '9362-48439-1'. Etiqueta también 2003/AOL Time Warner. Dead wax lado A estampado 'B380030-01 A1'. Mastering Tim Young (Metropolis). Mismo barcode/cat. en represiones (2012 Maverick, 2016 Rhino 180g): todo apunta a la 2003, falta cruzar el matrix en Discogs. · Matrix: B380030-01 A1 (estampado, lado A). Discogs 292216 lista A2/B2/C2/D2 + etched '1-48439-A FDS-I' (Future Disc): A1 sería otra lámina del mismo trabajo 2003, variante no listada ahí.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-245",
+    "type": "collection",
+    "artist": "Alice in Chains",
+    "album": "Alice in Chains (vinilo blanco)",
+    "label": "Columbia (copia)",
+    "year": "1995",
+    "format": "LP",
+    "notes": "País: Europa (no oficial) · Catálogo: C2 67248 / AL-BL 67437 / barcode 0 7464-67248-1 1 · Prensado: 2LP vinilo blanco, etiquetas estilo '360 Sound' (negra lado 1, verde lado 2) con 'Printed in U.S.A.'. La original US 1995 (Columbia C2 67248) tiene runout etched 'PAL 67437-1A RB Precision'. En Discogs hay prensas 'Unofficial Release' con el mismo catálogo, una blanca con runout '48114-A1'. Falta foto del dead wax para decidir. · Matrix: 48114-B (lado B); Discogs 12586806 lista 48114-A1 a 48114-D1\nDiscogs 12586806 (probable): 'Unofficial European Import', vinilo blanco. Comentarios: disco plano y pesado, superficie silenciosa; uno critica el mastering (batería chata, bajo embarrado). Fuente probable CD, no verificado.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-246",
+    "type": "collection",
+    "artist": "Faith No More",
+    "album": "The Real Thing",
+    "label": "",
+    "year": "1989",
+    "format": "LP",
+    "notes": "Primer disco con Mike Patton en voz (reemplazó a Chuck Mosley). Edición sin identificar: falta ver etiqueta y dead wax.",
+    "owner": "yo"
   }
 ];
