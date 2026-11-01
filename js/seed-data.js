@@ -218,7 +218,7 @@ window.DEADWAX_SEED = [
     "label": "Mute / Little Idiot",
     "year": "1999",
     "format": "LP",
-    "notes": "Prensado: Sonido: buscar prensa confirmada en Optimal Media (Alemania) — 2016 180g (Discogs r8465720) o 2022 140g (r24322403). EVITAR el 2022 180g STUMM172 manufacturado en Francia (r25028983): tiene reportes de distinto ingeniero de corte (KR vs AM) entre copias del mismo catálogo, o sea lotería incluso dentro de la misma edición. La copia 'Little Idiot 2022, 19 temas, sobre' que encontró Ana no está confirmada contra Discogs (el STUMM172 francés tiene 18 temas, no 19) — pedir foto/barcode antes de comprar.\nÉpoca: original 1999 UK Mute / US Rave New World-V2, no evaluado en detalle todavía."
+    "notes": "Prensado: Sonido: buscar prensa confirmada en Optimal Media (Alemania) — 2016 180g (Discogs r8465720) o 2022 140g (r24322403). La 2022 180g francesa (r25028983) suena bien según reseñas (rechequeo 23/10), con algunas copias con fallas de control de calidad; la del ingeniero de corte distinto no se pudo verificar. 2016 Optimal Media: matrix BF 03494-01 A1 AM. La copia 'Little Idiot 2022, 19 temas, sobre' que encontró Ana no está confirmada contra Discogs (el STUMM172 francés tiene 18 temas, no 19) — pedir foto/barcode antes de comprar.\nRechequeo 23/10: STUMM172 y el barcode 5016025311729 son los mismos en las reediciones de 2016 y 2022 (también en la francesa a evitar): se distinguen por 'Made in France' frente a Optimal Media/EU, no por el código."
   },
   {
     "id": "dw-25",
@@ -258,7 +258,7 @@ window.DEADWAX_SEED = [
     "label": "Circa / Virgin (reedición 2023)",
     "year": "2023",
     "format": "LP",
-    "notes": "País: Alemania · Catálogo: barcode 602537540433 · Prensado: PROBABLE (solo por barcode/SKU de Maniac, sin ver etiqueta ni dead wax): reedición, 180g, cortada en Metropolis Mastering (mismo estudio que el original 1998). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK tiene fama de ser 'el' sonido de referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: vale la pena, comprar. Si aparece el original 1998 en buen estado sería el tope absoluto."
+    "notes": "País: Alemania · Catálogo: barcode 602537540433 · Prensado: PROBABLE (solo por barcode/SKU de Maniac, sin ver etiqueta ni dead wax): reedición, 180g, cortada en Metropolis Mastering (mismo estudio que el original 1998). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK tiene fama de ser 'el' sonido de referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: comprar la reedición (barcode 602537540433, 2LP 180 g) a vendedor local; las tiradas comparten barcode. Rechequeo 23/10: la de 2013 tiene el corte de laca en Abbey Road (no en Metropolis; Tim Young/Metropolis es el remaster). Original 1998 UK = tope a largo plazo."
   },
   {
     "id": "dw-29",
@@ -1560,7 +1560,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1995",
     "format": "LP",
-    "notes": ""
+    "notes": "Ediciones LP (MusicBrainz, 22/10/2026; Discogs bloqueado): UK 1995 One Little Indian TPLP51 (y variante TPLP51L, citada como rosa limitada), barcode 5016958025212, runout reportado TLP51-A; UK 2008 TPLP51DMM 2LP DMM, barcode 5016958097516; reediciones 2015 (rosa MoMA 5000 copias y negra 180g), 2021-22, todas con barcode 5016958041618 compartido. El rosa NO prueba original: la 2015 MoMA también es rosa. Sin reviews de sonido comparativas encontradas."
   },
   {
     "id": "dw-190",
