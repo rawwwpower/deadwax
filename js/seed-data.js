@@ -2060,15 +2060,5 @@ window.DEADWAX_SEED = [
     "year": "1989",
     "format": "LP",
     "notes": "País: USA\nVisto en Fear of Musik: 12\" promo USA 1989 con gold stamp, tapa EX-, disco EX+. Extended Remix, Instrumental, 12\" Remix de 8:17 y Bushfire. $60.000 transferencia (~USD 37)."
-  },
-  {
-    "id": "dw-271",
-    "type": "wantlist",
-    "artist": "Gang of Four",
-    "album": "Entertainment!",
-    "label": "EMI",
-    "year": "1979",
-    "format": "LP",
-    "notes": "País: UK · Catálogo: EMC 3313 (a confirmar)\nVisto en Fear of Musik: LP UK 1979 (país de origen; por año sería la primera prensa, confirmar con dead wax), con sobre interno original. Tapa entre VG y VG+ sin aberturas, disco EX- sin fritura (un ruido leve al final de A3). $165.000 transferencia (~USD 103)."
   }
 ];
