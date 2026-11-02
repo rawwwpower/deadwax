@@ -1930,5 +1930,15 @@ window.DEADWAX_SEED = [
     "year": "2000",
     "format": "LP",
     "notes": "País: USA\nVisto en Fear of Musik: 12\" USA 2000 con hype sticker, disco EX-. Seis remixes: Rodney Jerkins, Music Breakdown, Ospina's Crossover, Jack D. Elliot Club Mix (6:24), Riprock 'n' Alex G. y Ospina's Deep Edit. $68.953 transferencia (~USD 43)."
+  },
+  {
+    "id": "dw-253",
+    "type": "wantlist",
+    "artist": "Marilyn Manson",
+    "album": "Personal Jesus (12\" remixes)",
+    "label": "Interscope",
+    "year": "2004",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" USA 2004 con hype sticker, disco EX. Versión del álbum, Rude Photo Motor Remix y su dub/instrumental. $120.000 transferencia (~USD 75)."
   }
 ];
