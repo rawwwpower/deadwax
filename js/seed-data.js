@@ -1920,5 +1920,15 @@ window.DEADWAX_SEED = [
     "year": "1998",
     "format": "LP",
     "notes": "País: USA\nVisto en Fear of Musik: 12\" USA 1998, tapa VG+ con notch cut, disco strong VG+ (los tres temas suenan excelente). Lado B: Always Read the Label y Tweakers Delight. $79.562 transferencia (~USD 50)."
+  },
+  {
+    "id": "dw-252",
+    "type": "wantlist",
+    "artist": "Britney Spears",
+    "album": "Oops!... I Did It Again (12\" remixes)",
+    "label": "Jive",
+    "year": "2000",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" USA 2000 con hype sticker, disco EX-. Seis remixes: Rodney Jerkins, Music Breakdown, Ospina's Crossover, Jack D. Elliot Club Mix (6:24), Riprock 'n' Alex G. y Ospina's Deep Edit. $68.953 transferencia (~USD 43)."
   }
 ];
