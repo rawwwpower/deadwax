@@ -2060,5 +2060,15 @@ window.DEADWAX_SEED = [
     "year": "1989",
     "format": "LP",
     "notes": "País: USA\nVisto en Fear of Musik: 12\" promo USA 1989 con gold stamp, tapa EX-, disco EX+. Extended Remix, Instrumental, 12\" Remix de 8:17 y Bushfire. $60.000 transferencia (~USD 37)."
+  },
+  {
+    "id": "dw-283",
+    "type": "wantlist",
+    "artist": "Bronski Beat",
+    "album": "The Age of Consent",
+    "label": "MCA",
+    "year": "1984",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: LP promo USA 1984 con sobre interno, tapa VG+, disco strong VG+ casi EX. $84.000 transferencia (~USD 53). El original de origen es UK (Forbidden Fruit/London)."
   }
 ];
