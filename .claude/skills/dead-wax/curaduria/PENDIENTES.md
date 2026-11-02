@@ -24,6 +24,17 @@ duraciones adentro, librito de 4 páginas pegado), prioridad interesante. Abiert
 etiquetas de Yupanqui y del 2001, tapa del Charly, Master of Reality y Future Shock de Seba, Led Zeppelin II y Nena de
 Ana, Electronic Bach. `coleccion.py list --incomplete` lista el resto.
 
+## Para escuchar (Ana)
+
+Discos que Ana dijo que va a escuchar. Cuando vuelva, preguntarle qué le parecieron, anotar su opinión en `review` y sacarlos de esta lista. Si algo no le gustó, preguntar si sale de la wishlist. **Regla (pedido de Ana, 02/11/2026):** cada vez que diga "después escucho" o deje algo para más tarde, anotarlo acá con su link.
+
+- **Desde el 02/11/2026, veta goth y post-punk, de Fear of Musik.** Orden sugerido:
+  - [Sisters of Mercy, *The Reptile House E.P.*](https://fearofmusik.com.ar/rock/post-punk-goth/the-sisters-of-mercy-reptile-house-ep-vinilo-12-uk-1983-insert-goth): está en la wishlist; empezar por *Kiss the Carpet*.
+  - [Bauhaus, *Kick in the Eye*](https://fearofmusik.com.ar/rock/post-punk-goth/bauhaus-kick-in-the-eye-satori-vinilo-12-uk-1981-goth)
+  - [Killing Joke, *Requiem*](https://fearofmusik.com.ar/rock/post-punk-goth/killing-joke-requiem-vinilo-12-uk-1980-post-punk)
+  - [The Mission, *God's Own Medicine*](https://fearofmusik.com.ar/rock/post-punk-goth/the-mission-uk-gods-own-medicine-vinilo-lp-promo-usa-1987-goth-rock)
+  - [Alien Sex Fiend, *Ignore the Machine*](https://fearofmusik.com.ar/industrial-electro-ebm/alien-sex-fiend-ignore-the-machine-vinilo-12-uk-1984-industrial-goth): el más raro, dejarlo para el final.
+
 ## Dónde vive cada cosa
 
 - **Todo disco (tenido o querido) está en `data/coleccion.db`.** Colección = `status=owned`; wishlist =
