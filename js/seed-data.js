@@ -1970,5 +1970,15 @@ window.DEADWAX_SEED = [
     "year": "1992",
     "format": "LP",
     "notes": "País: USA\nVisto en Fear of Musik: 12\" USA 1992, tapa VG+ con notch cut, disco EX-/EX. Original Mix, Techno Underworld Remix, Millenium Mix, Celestial Bodies Mix y Ruff in the Jungle Bizness. $100.000 transferencia (~USD 62)."
+  },
+  {
+    "id": "dw-262",
+    "type": "wantlist",
+    "artist": "ZZ Top",
+    "album": "Tres Hombres",
+    "label": "",
+    "year": "1975",
+    "format": "LP",
+    "notes": "País: Argentina\nVisto en Fear of Musik: LP Argentina 1975 (licencia local, no la de origen USA London 1973), con sobre interno original. Tapa VG (3 cm de borde superior casi abierto, frente muy bien), disco strong VG+ casi EX; según la tienda, sonido muy limpio para una argentina de los 70. $62.793 transferencia (~USD 39)."
   }
 ];
