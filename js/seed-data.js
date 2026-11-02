@@ -1910,5 +1910,15 @@ window.DEADWAX_SEED = [
     "year": "",
     "format": "LP",
     "notes": "País: USA\nVisto en Fear of Musik (anunciado como USA 1999): 12\" con versión del álbum, tres remixes (Epic, Extreme, Jazzy Jim) e instrumental. Tapa EX-, disco EX. $86.753 transferencia (~USD 54)."
+  },
+  {
+    "id": "dw-251",
+    "type": "wantlist",
+    "artist": "Fatboy Slim",
+    "album": "The Rockafeller Skank (12\")",
+    "label": "Astralwerks / Skint",
+    "year": "1998",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" USA 1998, tapa VG+ con notch cut, disco strong VG+ (los tres temas suenan excelente). Lado B: Always Read the Label y Tweakers Delight. $79.562 transferencia (~USD 50)."
   }
 ];
