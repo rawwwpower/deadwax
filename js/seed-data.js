@@ -2050,5 +2050,15 @@ window.DEADWAX_SEED = [
     "year": "1981",
     "format": "LP",
     "notes": "País: Japón\nVisto en Fear of Musik: LP japonés 1981 con obi e insert en muy buen estado, tapa VG+, disco strong VG+ casi EX. $135.001 transferencia (~USD 84)."
+  },
+  {
+    "id": "dw-270",
+    "type": "wantlist",
+    "artist": "The B-52's",
+    "album": "Roam (12\" promo)",
+    "label": "Reprise",
+    "year": "1989",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" promo USA 1989 con gold stamp, tapa EX-, disco EX+. Extended Remix, Instrumental, 12\" Remix de 8:17 y Bushfire. $60.000 transferencia (~USD 37)."
   }
 ];
