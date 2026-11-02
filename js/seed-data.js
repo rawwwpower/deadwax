@@ -2000,5 +2000,15 @@ window.DEADWAX_SEED = [
     "year": "1967",
     "format": "LP",
     "notes": "País: USA · Catálogo: LSP-3766 (stereo, a confirmar)\nVisto en Fear of Musik: original USA 1967 en estéreo, prensado en la planta de RCA en Rockaway, con el celofán original. Tapa VG+, disco EX- o mejor. $142.021 transferencia (~USD 89). Al 02/11 figuraba sin stock (vendido). Buscar otra copia de la original USA 1967."
+  },
+  {
+    "id": "dw-265",
+    "type": "wantlist",
+    "artist": "Sex Pistols",
+    "album": "Never Mind the Bollocks, Here's the Sex Pistols",
+    "label": "Warner Bros.",
+    "year": "1988",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: represión USA 1988 (no la original UK Virgin 1977 ni la USA Warner 1977), con insert. Tapa VG con desgaste de bordes y ringwear, disco VG+. $110.685 transferencia (~USD 69): caro para una represión con la tapa VG. Para colección conviene la UK Virgin 1977."
   }
 ];
