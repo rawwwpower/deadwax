@@ -76,7 +76,7 @@ para mezclar. Siempre de 220-240 V.
 **MK2 vs MK3 (investigado 02/11/2026, pedido de Ana).** Nunca se recomendó evitar la MK3: solo se avisó lo del voltaje
 (son japonesas, 100 V), y el restaurador de Ana las adapta, así que no es problema. Los vendedores confunden MK3, MK3D y M3D:
 identificarlas por lo que tienen, no por el nombre del aviso. ¿El pitch hace clic en 0? Es MK2 o MK3. ¿Hay botón de reset y no
-hay clic? Es MK3D o M3D. ¿RCA dorados de fábrica? Es japonesa (MK3 o MK3D). Mirar también la chapa de voltaje de abajo.
+hay clic? Es MK3D o M3D. ¿RCA dorados de fábrica? Es japonesa (MK3 o MK3D). Mirar también la chapa de voltaje de abajo. **Fechar por número de serie:** el primer dígito es el último número del año (en los seriales nuevos, una letra A-L da el mes: A = enero). En una MK3 (fabricada de 1989 a ~1997) un 0 solo puede ser 1990. Para certeza, Panasonic informa mes y año si se le pasa el serial.
 
 1200 = plateada, 1210 = negra: son la misma máquina. Las M3D y MK5G tienen
 pitch de ±16 % y luces azules. Están buenas pero no hacen falta.
