@@ -2019,6 +2019,36 @@ window.DEADWAX_SEED = [
     "label": "Red Star Records",
     "year": "1980",
     "format": "LP",
-    "notes": "País: USA · Catálogo: RED 800 (probable, confirmar con foto de etiqueta) · Prensado: PROBABLE: la tienda lo titula 'Martin Rev Alan Vega LP USA 1980 + Flexi', pero el LP de 1980 'Suicide: Alan Vega and Martin Rev' (2º disco, prod. Ric Ocasek; US Antilles/ZE AN-7080, UK Island/ZE ILPS 7007) NO tiene Ghost Rider ni trae flexi. El flexi de 9\" '23 Minutes in Bruxelles' (en vivo en Bruselas, 16/07/1978; trae Ghost Rider y Frankie Teardrop) venía con Red Star RED 800, la reedición USA 1980 del DEBUT de 1977 (que sí abre con Ghost Rider). Original del debut: Red Star RS 1 (USA, dic. 1977). Confirmar con foto de etiqueta (RED 800) y del flexi.\nVisto en Fear of Musik: tapa strong VG+, disco VG+ casi sin fritura (algún click en A5 y B1), con el flexi de 9\" de edición limitada. $150.000 transferencia (~USD 94). Oficial: Red Star era el sello de la banda (Marty Thau)."
+    "notes": "País: USA · Catálogo: RED 800 (probable, confirmar con foto de etiqueta) · Prensado: PROBABLE: la tienda lo titula 'Martin Rev Alan Vega LP USA 1980 + Flexi', pero el LP de 1980 'Suicide: Alan Vega and Martin Rev' (2º disco, prod. Ric Ocasek; US Antilles/ZE AN-7080, UK Island/ZE ILPS 7007) NO tiene Ghost Rider ni trae flexi. El flexi de 9\" '23 Minutes in Bruxelles' (en vivo en Bruselas, 16/07/1978; trae Ghost Rider y Frankie Teardrop) venía con Red Star RED 800, la reedición USA 1980 del DEBUT de 1977 (que sí abre con Ghost Rider). Original del debut: Red Star RS 1 (USA, dic. 1977). Confirmar con foto de etiqueta (RED 800) y del flexi.\nVisto en Fear of Musik: tapa strong VG+, disco VG+ casi sin fritura (algún click en A5 y B1), con el flexi de 9\" de edición limitada. $150.000 transferencia (~USD 94). Oficial: Red Star era el sello de la banda (Marty Thau). SONIDO (búsqueda 02/11, sin reseñas de esta prensa puntual): la reedición Red Star 1980 trae otra tapa y 3 temas extra (I Remember, Keep Your Dreams, 96 Tears; Discogs r1491198). El disco de estudio es lo-fi a propósito (órgano barato y caja de ritmos, grabado en pocos días): no esperar un sonido audiófilo. El flexi es un cassette grabado entre el público por Howard Thompson, con el público abucheando: crudo, vale por el documento. La original RS 1 de 1977 (corte de George Piros, según un comentario de Discogs) es la más buscada; la roja de Mute 2019 tiene buenas reseñas."
+  },
+  {
+    "id": "dw-267",
+    "type": "wantlist",
+    "artist": "Nirvana",
+    "album": "In Utero (ORG 2010)",
+    "label": "Original Recordings Group / DGC",
+    "year": "2010",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: reedición ORG 2010 desde master analógico (Discogs r5357382 según la tienda), 180 g, tapa y disco strong VG+. $224.000 transferencia (~USD 140). ORG tenía los derechos en Norteamérica de Nevermind, In Utero y Unplugged; su Nevermind (corte de Bernie Grundman, prensado en RTI) tiene muy buenas reseñas, pero NO encontré quién masterizó este In Utero ni reseñas de su sonido: sin verificar. Caro."
+  },
+  {
+    "id": "dw-268",
+    "type": "wantlist",
+    "artist": "Nirvana",
+    "album": "Smells Like Teen Spirit (12\" promo)",
+    "label": "DGC",
+    "year": "1991",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" promo USA 1991, tapa genérica original con hype sticker, versión del LP en los dos lados. Disco VG+ con una ondulación que según la tienda no afecta (probado a 1,5 g), sin clicks. $224.000 transferencia (~USD 140). Pieza de colección; precio de mercado sin verificar."
+  },
+  {
+    "id": "dw-269",
+    "type": "wantlist",
+    "artist": "Ryuichi Sakamoto",
+    "album": "Left Handed Dream",
+    "label": "",
+    "year": "1981",
+    "format": "LP",
+    "notes": "País: Japón\nVisto en Fear of Musik: LP japonés 1981 con obi e insert en muy buen estado, tapa VG+, disco strong VG+ casi EX. $135.001 transferencia (~USD 84)."
   }
 ];
