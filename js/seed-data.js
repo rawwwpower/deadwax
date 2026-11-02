@@ -1940,5 +1940,15 @@ window.DEADWAX_SEED = [
     "year": "2004",
     "format": "LP",
     "notes": "País: USA\nVisto en Fear of Musik: 12\" USA 2004 con hype sticker, disco EX. Versión del álbum, Rude Photo Motor Remix y su dub/instrumental. $120.000 transferencia (~USD 75)."
+  },
+  {
+    "id": "dw-254",
+    "type": "wantlist",
+    "artist": "The Sisters of Mercy",
+    "album": "The Reptile House E.P.",
+    "label": "Merciful Release",
+    "year": "1983",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: MR 023 (a confirmar)\nVisto en Fear of Musik: 12\" UK 1983 con insert, tapa VG+ (raspón en contratapa), disco VG+. $80.000 transferencia (~USD 50). Para saber si es la primera prensa o una represión del mismo sello, pedir foto del dead wax."
   }
 ];
