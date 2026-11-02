@@ -2070,5 +2070,15 @@ window.DEADWAX_SEED = [
     "year": "1984",
     "format": "LP",
     "notes": "País: USA\nVisto en Fear of Musik: LP promo USA 1984 con sobre interno, tapa VG+, disco strong VG+ casi EX. $84.000 transferencia (~USD 53). El original de origen es UK (Forbidden Fruit/London)."
+  },
+  {
+    "id": "dw-297",
+    "type": "wantlist",
+    "artist": "The Prodigy",
+    "album": "Breathe (12\" advance promo)",
+    "label": "Mute / XL",
+    "year": "1996",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" advance (promo de adelanto) USA 1996, tapa genérica blanca, disco EX- o mejor. Solo el edit de 4:00, repetido en los dos lados: el surco ancho a 12\" suena muy abierto. $82.500 transferencia (~USD 52). Sin otras versiones: más pieza de colección que herramienta de mezcla."
   }
 ];
