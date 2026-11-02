@@ -449,7 +449,7 @@ window.DEADWAX_SEED = [
     "label": "XL-Recordings (licencia Intercord Ton GmbH)",
     "year": "1992",
     "format": "LP",
-    "notes": "País: Alemania · Prensado: Confirmado con contratapa: XL-Recordings 1992, 'Made in Germany', distribuido por Intercord Ton GmbH. Contemporánea al lanzamiento original UK dic. 1991 (#2 UK charts). Tracklist: Everybody in the Place (Fairground Remix), Crazy Man / G-Force (Energy Flow), Rip Up the Sound System. Valor lógico: mediana ~US$10-17 en ediciones comparables, no pagar más de US$15-20 salvo mint.\nVEREDICTO: buena compra, de época, licencia legítima en buena planta."
+    "notes": "País: Alemania · Prensado: Confirmado con contratapa: XL-Recordings 1992, 'Made in Germany', distribuido por Intercord Ton GmbH. Contemporánea al lanzamiento original UK dic. 1991 (#2 UK charts). Tracklist: Everybody in the Place (Fairground Remix), Crazy Man / G-Force (Energy Flow), Rip Up the Sound System. Valor lógico: mediana ~US$10-17 en ediciones comparables, no pagar más de US$15-20 salvo mint.\nVEREDICTO: buena compra, de época, licencia legítima en buena planta. Visto en Fear of Musik 02/11/2026 otro release: 12\" USA 1992 Charly / Everybody in the Place (4 mezclas), tapa VG+, disco EX, $95.003 (~USD 59). No es la alemana de la ficha; caro para el tope de USD 15-20."
   },
   {
     "id": "dw-48",
@@ -521,7 +521,7 @@ window.DEADWAX_SEED = [
     "label": "Maverick / Warner Bros.",
     "year": "2000",
     "format": "LP",
-    "notes": "Prensado: Tapa del SINGLE 'Music' (arte vaquero/heno), no la del álbum completo. Reusada en varios formatos (12', CD single) internacionalmente.\nFalta contratapa/lomo o etiqueta para confirmar catálogo y edición exacta (US/UK/promo)."
+    "notes": "Prensado: Tapa del SINGLE 'Music' (arte vaquero/heno), no la del álbum completo. Reusada en varios formatos (12', CD single) internacionalmente.\nFalta contratapa/lomo o etiqueta para confirmar catálogo y edición exacta (US/UK/promo). Visto en Fear of Musik 02/11/2026: 12\" promo USA 2000, 45 rpm, Album Version de los dos lados, tapa genérica, disco EX-, $63.650 transferencia (~USD 40)."
   },
   {
     "id": "dw-67",
@@ -635,7 +635,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: USA · Grading: VG+ / VG+"
+    "notes": "País: USA · Grading: VG+ / VG+\nVisto en Fear of Musik 02/11/2026: USA 1979 (Polydor), tapa VG con corner cut y residuo de sticker, disco strong VG+, sobre interno original. $59.649 transferencia (~USD 37). Referencia: selladas de 1979 en eBay a USD 33-35."
   },
   {
     "id": "dw-89",
@@ -966,7 +966,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG"
+    "notes": "País: Japón · Grading: VG+ / VG\nVisto en Fear of Musik 02/11/2026: USA 1977 con sobre interno y cupón, tapa VG+, disco strong VG+, $70.003 (~USD 44)."
   },
   {
     "id": "dw-122",
@@ -1096,7 +1096,7 @@ window.DEADWAX_SEED = [
     "label": "Illegal / I.R.S.",
     "year": "1979",
     "format": "LP",
-    "notes": "País: USA · Catálogo: SP 501 · Grading: NM / VG+ · Prensado: EP de 5 temas, prensa USA de época (Terre Haute). La UK salió en Illegal ILS 12013. Insert original."
+    "notes": "País: USA · Catálogo: SP 501 · Grading: NM / VG+ · Prensado: EP de 5 temas, prensa USA de época (Terre Haute). La UK salió en Illegal ILS 12013. Insert original.\nVisto en Fear of Musik 02/11/2026: USA 1979, tapa strong VG+, disco EX, $165.000 transferencia (~USD 103). Caro: una NM se vendió en eBay a £23."
   },
   {
     "id": "dw-140",
@@ -1317,7 +1317,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1972",
     "format": "LP",
-    "notes": "País: UK\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+    "notes": "País: UK\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición. Visto en Fear of Musik 02/11/2026: España 1980 (no la UK Island HELP 6), VG+/VG+ strong, $44.244 (~USD 28)."
   },
   {
     "id": "dw-164",
@@ -1499,7 +1499,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1969",
     "format": "LP",
-    "notes": ""
+    "notes": "Visto en Fear of Musik 02/11/2026: reedición 180 g 2015, disco EX o mejor, $68.173 (~USD 43)."
   },
   {
     "id": "dw-184",
@@ -1870,5 +1870,215 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "Primer disco con Mike Patton en voz (reemplazó a Chuck Mosley). Edición sin identificar: falta ver etiqueta y dead wax.",
     "owner": "yo"
+  },
+  {
+    "id": "dw-247",
+    "type": "wantlist",
+    "artist": "Coolio feat. L.V.",
+    "album": "Gangsta's Paradise (12\" promo)",
+    "label": "Tommy Boy / MCA",
+    "year": "1995",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" promo USA 1995, tapa genérica negra, disco strong VG+ (casi EX), la versión popular de los dos lados. $99.190 transferencia (~USD 62)."
+  },
+  {
+    "id": "dw-248",
+    "type": "wantlist",
+    "artist": "Eminem",
+    "album": "Lose Yourself (12\" promo)",
+    "label": "Shady / Interscope",
+    "year": "2002",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" promo USA 2002 con hype sticker, disco strong VG+. Trae clean, album, instrumental y a cappella: herramienta de DJ (la a cappella sirve para mezclar encima de otros beats). $75.591 transferencia (~USD 47)."
+  },
+  {
+    "id": "dw-249",
+    "type": "wantlist",
+    "artist": "Beastie Boys",
+    "album": "Licensed to Ill",
+    "label": "",
+    "year": "1986",
+    "format": "LP",
+    "notes": "País: Argentina\nVisto en Fear of Musik: LP Argentina 1986 (licencia local, no la de origen USA Def Jam), tapa VG+ con el borde inferior despegándose, disco VG+ que suena excelente. $75.004 transferencia (~USD 47). Al 02/11 figuraba sin stock."
+  },
+  {
+    "id": "dw-250",
+    "type": "wantlist",
+    "artist": "Crazy Town",
+    "album": "Butterfly (12\")",
+    "label": "Columbia",
+    "year": "",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik (anunciado como USA 1999): 12\" con versión del álbum, tres remixes (Epic, Extreme, Jazzy Jim) e instrumental. Tapa EX-, disco EX. $86.753 transferencia (~USD 54)."
+  },
+  {
+    "id": "dw-251",
+    "type": "wantlist",
+    "artist": "Fatboy Slim",
+    "album": "The Rockafeller Skank (12\")",
+    "label": "Astralwerks / Skint",
+    "year": "1998",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" USA 1998, tapa VG+ con notch cut, disco strong VG+ (los tres temas suenan excelente). Lado B: Always Read the Label y Tweakers Delight. $79.562 transferencia (~USD 50)."
+  },
+  {
+    "id": "dw-252",
+    "type": "wantlist",
+    "artist": "Britney Spears",
+    "album": "Oops!... I Did It Again (12\" remixes)",
+    "label": "Jive",
+    "year": "2000",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" USA 2000 con hype sticker, disco EX-. Seis remixes: Rodney Jerkins, Music Breakdown, Ospina's Crossover, Jack D. Elliot Club Mix (6:24), Riprock 'n' Alex G. y Ospina's Deep Edit. $68.953 transferencia (~USD 43)."
+  },
+  {
+    "id": "dw-253",
+    "type": "wantlist",
+    "artist": "Marilyn Manson",
+    "album": "Personal Jesus (12\" remixes)",
+    "label": "Interscope",
+    "year": "2004",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" USA 2004 con hype sticker, disco EX. Versión del álbum, Rude Photo Motor Remix y su dub/instrumental. $120.000 transferencia (~USD 75)."
+  },
+  {
+    "id": "dw-254",
+    "type": "wantlist",
+    "artist": "The Sisters of Mercy",
+    "album": "The Reptile House E.P.",
+    "label": "Merciful Release",
+    "year": "1983",
+    "format": "LP",
+    "notes": "País: UK · Catálogo: MR 023 (a confirmar)\nVisto en Fear of Musik: 12\" UK 1983 con insert, tapa VG+ (raspón en contratapa), disco VG+. $80.000 transferencia (~USD 50). Para saber si es la primera prensa o una represión del mismo sello, pedir foto del dead wax."
+  },
+  {
+    "id": "dw-260",
+    "type": "wantlist",
+    "artist": "Primus",
+    "album": "Frizzle Fry",
+    "label": "Caroline Records",
+    "year": "1990",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: LP USA 1990 Caroline con sobre interno original, tapa strong VG+, disco VG+. $200.000 transferencia (~USD 125). Al 02/11 figuraba sin stock (vendido). Buscar otra copia de la original Caroline 1990."
+  },
+  {
+    "id": "dw-261",
+    "type": "wantlist",
+    "artist": "The Prodigy",
+    "album": "Out of Space (12\")",
+    "label": "Elektra",
+    "year": "1992",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" USA 1992, tapa VG+ con notch cut, disco EX-/EX. Original Mix, Techno Underworld Remix, Millenium Mix, Celestial Bodies Mix y Ruff in the Jungle Bizness. $100.000 transferencia (~USD 62)."
+  },
+  {
+    "id": "dw-262",
+    "type": "wantlist",
+    "artist": "ZZ Top",
+    "album": "Tres Hombres",
+    "label": "",
+    "year": "1975",
+    "format": "LP",
+    "notes": "País: Argentina\nVisto en Fear of Musik: LP Argentina 1975 (licencia local, no la de origen USA London 1973), con sobre interno original. Tapa VG (3 cm de borde superior casi abierto, frente muy bien), disco strong VG+ casi EX; según la tienda, sonido muy limpio para una argentina de los 70. $62.793 transferencia (~USD 39)."
+  },
+  {
+    "id": "dw-263",
+    "type": "wantlist",
+    "artist": "The Doors",
+    "album": "The Doors",
+    "label": "",
+    "year": "1998",
+    "format": "LP",
+    "notes": "País: Alemania\nVisto en Fear of Musik: reedición alemana 1998 de 180 g (Discogs r6422202 según la tienda), tapa VG+ con funda plástica pegada adentro, disco EX-; la tienda dice que el prensado y el sonido son excelentes. $74.000 transferencia (~USD 46). No es la original Elektra 1967: es para escuchar. Sin verificar quién la masterizó. En la misma tienda hay simples originales USA de 1967-68 entre $30.000 y $62.600 (Light My Fire / The Crystal Ship, Love Me Two Times, People Are Strange con tapa, Touch Me)."
+  },
+  {
+    "id": "dw-264",
+    "type": "wantlist",
+    "artist": "Jefferson Airplane",
+    "album": "Surrealistic Pillow",
+    "label": "RCA Victor",
+    "year": "1967",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: LSP-3766 (stereo, a confirmar)\nVisto en Fear of Musik: original USA 1967 en estéreo, prensado en la planta de RCA en Rockaway, con el celofán original. Tapa VG+, disco EX- o mejor. $142.021 transferencia (~USD 89). Al 02/11 figuraba sin stock (vendido). Buscar otra copia de la original USA 1967."
+  },
+  {
+    "id": "dw-265",
+    "type": "wantlist",
+    "artist": "Sex Pistols",
+    "album": "Never Mind the Bollocks, Here's the Sex Pistols",
+    "label": "Warner Bros.",
+    "year": "1988",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: represión USA 1988 (no la original UK Virgin 1977 ni la USA Warner 1977), con insert. Tapa VG con desgaste de bordes y ringwear, disco VG+. $110.685 transferencia (~USD 69): caro para una represión con la tapa VG. Para colección conviene la UK Virgin 1977."
+  },
+  {
+    "id": "dw-266",
+    "type": "wantlist",
+    "artist": "Suicide",
+    "album": "Suicide (debut, reedición 1980 con flexi 23 Minutes in Bruxelles)",
+    "label": "Red Star Records",
+    "year": "1980",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: RED 800 (probable, confirmar con foto de etiqueta) · Prensado: PROBABLE: la tienda lo titula 'Martin Rev Alan Vega LP USA 1980 + Flexi', pero el LP de 1980 'Suicide: Alan Vega and Martin Rev' (2º disco, prod. Ric Ocasek; US Antilles/ZE AN-7080, UK Island/ZE ILPS 7007) NO tiene Ghost Rider ni trae flexi. El flexi de 9\" '23 Minutes in Bruxelles' (en vivo en Bruselas, 16/07/1978; trae Ghost Rider y Frankie Teardrop) venía con Red Star RED 800, la reedición USA 1980 del DEBUT de 1977 (que sí abre con Ghost Rider). Original del debut: Red Star RS 1 (USA, dic. 1977). Confirmar con foto de etiqueta (RED 800) y del flexi.\nVisto en Fear of Musik: tapa strong VG+, disco VG+ casi sin fritura (algún click en A5 y B1), con el flexi de 9\" de edición limitada. $150.000 transferencia (~USD 94). Oficial: Red Star era el sello de la banda (Marty Thau). SONIDO (búsqueda 02/11, sin reseñas de esta prensa puntual): la reedición Red Star 1980 trae otra tapa y 3 temas extra (I Remember, Keep Your Dreams, 96 Tears; Discogs r1491198). El disco de estudio es lo-fi a propósito (órgano barato y caja de ritmos, grabado en pocos días): no esperar un sonido audiófilo. El flexi es un cassette grabado entre el público por Howard Thompson, con el público abucheando: crudo, vale por el documento. La original RS 1 de 1977 (corte de George Piros, según un comentario de Discogs) es la más buscada; la roja de Mute 2019 tiene buenas reseñas."
+  },
+  {
+    "id": "dw-267",
+    "type": "wantlist",
+    "artist": "Nirvana",
+    "album": "In Utero (ORG 2010)",
+    "label": "Original Recordings Group / DGC",
+    "year": "2010",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: reedición ORG 2010 desde master analógico (Discogs r5357382 según la tienda), 180 g, tapa y disco strong VG+. $224.000 transferencia (~USD 140). ORG tenía los derechos en Norteamérica de Nevermind, In Utero y Unplugged; su Nevermind (corte de Bernie Grundman, prensado en RTI) tiene muy buenas reseñas, pero NO encontré quién masterizó este In Utero ni reseñas de su sonido: sin verificar. Caro."
+  },
+  {
+    "id": "dw-268",
+    "type": "wantlist",
+    "artist": "Nirvana",
+    "album": "Smells Like Teen Spirit (12\" promo)",
+    "label": "DGC",
+    "year": "1991",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" promo USA 1991, tapa genérica original con hype sticker, versión del LP en los dos lados. Disco VG+ con una ondulación que según la tienda no afecta (probado a 1,5 g), sin clicks. $224.000 transferencia (~USD 140). Pieza de colección; precio de mercado sin verificar."
+  },
+  {
+    "id": "dw-269",
+    "type": "wantlist",
+    "artist": "Ryuichi Sakamoto",
+    "album": "Left Handed Dream",
+    "label": "",
+    "year": "1981",
+    "format": "LP",
+    "notes": "País: Japón\nVisto en Fear of Musik: LP japonés 1981 con obi e insert en muy buen estado, tapa VG+, disco strong VG+ casi EX. $135.001 transferencia (~USD 84)."
+  },
+  {
+    "id": "dw-270",
+    "type": "wantlist",
+    "artist": "The B-52's",
+    "album": "Roam (12\" promo)",
+    "label": "Reprise",
+    "year": "1989",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" promo USA 1989 con gold stamp, tapa EX-, disco EX+. Extended Remix, Instrumental, 12\" Remix de 8:17 y Bushfire. $60.000 transferencia (~USD 37)."
+  },
+  {
+    "id": "dw-283",
+    "type": "wantlist",
+    "artist": "Bronski Beat",
+    "album": "The Age of Consent",
+    "label": "MCA",
+    "year": "1984",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: LP promo USA 1984 con sobre interno, tapa VG+, disco strong VG+ casi EX. $84.000 transferencia (~USD 53). El original de origen es UK (Forbidden Fruit/London)."
+  },
+  {
+    "id": "dw-297",
+    "type": "wantlist",
+    "artist": "The Prodigy",
+    "album": "Breathe (12\" advance promo)",
+    "label": "Mute / XL",
+    "year": "1996",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" advance (promo de adelanto) USA 1996, tapa genérica blanca, disco EX- o mejor. Solo el edit de 4:00, repetido en los dos lados: el surco ancho a 12\" suena muy abierto. $82.500 transferencia (~USD 52). Sin otras versiones: más pieza de colección que herramienta de mezcla."
   }
 ];

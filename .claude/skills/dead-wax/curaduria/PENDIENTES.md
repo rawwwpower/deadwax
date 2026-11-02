@@ -24,6 +24,19 @@ duraciones adentro, librito de 4 páginas pegado), prioridad interesante. Abiert
 etiquetas de Yupanqui y del 2001, tapa del Charly, Master of Reality y Future Shock de Seba, Led Zeppelin II y Nena de
 Ana, Electronic Bach. `coleccion.py list --incomplete` lista el resto.
 
+## Para escuchar (Ana)
+
+**Tags rápidos de Ana (02/11/2026)** al pasar un link: `+` = me gusta / lo conozco (wishlist, etiqueta *referencia de gusto*); `?` = guardar para escuchar (etiqueta `para escuchar`, pestaña de la página); `-` = no me gusta / descartar. Link sin tag: preguntar.
+
+Discos que Ana dijo que va a escuchar. Cuando vuelva, preguntarle qué le parecieron, anotar su opinión en `review` y sacarlos de esta lista. Si algo no le gustó, preguntar si sale de la wishlist. **Regla (pedido de Ana, 02/11/2026):** cada vez que diga "después escucho" o deje algo para más tarde, cargarlo en la base con la etiqueta `para escuchar` (y el link de la tienda en `fuente`): aparece en la pestaña **para escuchar** de la página vinilos, con links a la tienda y a YouTube. Si no está para comprar, va con `status=descubrimiento`; al escucharlo, sacarle la etiqueta y decidir (wishlist o nada).
+
+- **Desde el 02/11/2026, veta goth y post-punk, de Fear of Musik.** Orden sugerido:
+  - [Sisters of Mercy, *The Reptile House E.P.*](https://fearofmusik.com.ar/rock/post-punk-goth/the-sisters-of-mercy-reptile-house-ep-vinilo-12-uk-1983-insert-goth): está en la wishlist; empezar por *Kiss the Carpet*.
+  - [Bauhaus, *Kick in the Eye*](https://fearofmusik.com.ar/rock/post-punk-goth/bauhaus-kick-in-the-eye-satori-vinilo-12-uk-1981-goth)
+  - [Killing Joke, *Requiem*](https://fearofmusik.com.ar/rock/post-punk-goth/killing-joke-requiem-vinilo-12-uk-1980-post-punk)
+  - [The Mission, *God's Own Medicine*](https://fearofmusik.com.ar/rock/post-punk-goth/the-mission-uk-gods-own-medicine-vinilo-lp-promo-usa-1987-goth-rock)
+  - [Alien Sex Fiend, *Ignore the Machine*](https://fearofmusik.com.ar/industrial-electro-ebm/alien-sex-fiend-ignore-the-machine-vinilo-12-uk-1984-industrial-goth): el más raro, dejarlo para el final.
+
 ## Dónde vive cada cosa
 
 - **Todo disco (tenido o querido) está en `data/coleccion.db`.** Colección = `status=owned`; wishlist =
@@ -48,6 +61,7 @@ Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **proto
 
 ## Abierto
 
+- **Gusto de Ana, ronda Fear of Musik (02/11/2026):** Ana pasa discos que le llaman la atención o conoce, para que conozca su gusto. Se cargan en la wishlist como `interesante` con la etiqueta "referencia de gusto". Señal nueva: maxis de hip hop de los '90 y 2000 con historia de sampleo (Coolio *Gangsta's Paradise*, Eminem *Lose Yourself*, Crazy Town *Butterfly*) , el rap rock con samples de rock (Beastie Boys *Licensed to Ill*), big beat y rave con samples (Rockafeller Skank, Prodigy *Out of Space*), Primus ("me gusta mucho"), los Doors ("me gustan") y pop mainstream en maxis de remixes (Britney *Oops!*). Tenerlo en cuenta en las búsquedas, junto con los maxis largos para mezclar. **Ana avisó que su gusto es mucho más amplio y curioso que lo que muestra la colección:** no recomendar solo por artistas o géneros que ya tiene; buscar por conexiones (samples, productores, historias, cruces de género) y animarse a sugerir cosas fuera de lo esperable. Al recomendar discos de una tienda, **poner el link a cada uno** (pedido de Ana, 02/11) para que los vea rápido.
 - **Madonna · Music** (wishlist, #26): en Maniac hay dos reediciones (negra 2020, barcode 093624786511, y azul 2026,
   081227924034), con el mismo master: elegir por precio. La original 2000 hay que buscarla usada y confirmarla por dead wax.
 - **Icónicos** (9, con ranking de versiones en la tabla `versiones`): Black Sabbath, AIC *Facelift* y *MTV Unplugged*,

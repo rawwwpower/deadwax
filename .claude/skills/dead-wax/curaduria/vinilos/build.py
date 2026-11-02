@@ -4,6 +4,8 @@
 #
 #   colección = status owned (ana y seba)
 #   wishlist  = discos con prioridad iconico | top | interesante que no son owned.
+#   para escuchar = discos con etiqueta "para escuchar" (Ana los escucha antes de decidir);
+#               muestran link a la tienda (primera URL de fuente) y búsqueda en YouTube.
 #               Los descartados (evitar) no se muestran: una edición a evitar va como versión
 #               con marca 'evitar' dentro del disco.
 #   cada fila se despliega con todo lo investigado: ranking de la tabla versiones (cualquier
@@ -52,6 +54,7 @@ def disc_rows(conn):
     return conn.execute(
         "SELECT * FROM discos WHERE status = 'owned' "
         "OR (prioridad IN ('iconico', 'top', 'interesante') AND status != 'owned') "
+        "OR (etiquetas LIKE '%para escuchar%' AND status != 'owned') "
         "ORDER BY lower(artista), anio, lower(titulo)"
     ).fetchall()
 
@@ -79,8 +82,12 @@ def grading(r):
 
 def item(r):
     owned = r['status'] == 'owned'
+    # "para escuchar": discos que Ana va a escuchar antes de decidir (etiqueta en la base)
+    escuchar = not owned and 'para escuchar' in (r['etiquetas'] or '')
+    url = re.search(r'https?://\S+', r['fuente'] or '')
     x = {
-        'l': 'coleccion' if owned else 'wishlist',
+        'l': 'coleccion' if owned else 'escuchar' if escuchar else 'wishlist',
+        'u': url.group(0).rstrip('.,);') if url else None,
         'o': r['owner'],
         'p': r['prioridad'],
         'a': r['artista'], 'd': r['titulo'], 'or': r['origen'],
@@ -126,9 +133,9 @@ def main():
               .replace('/*USD*/', str(USD))
               .replace('/*FECHA*/', datetime.date.today().strftime('%d/%m/%Y')))
     open(os.path.join(HERE, 'vinilos.html'), 'w').write(out)
-    n = {l: sum(1 for x in data if x['l'] == l) for l in ('coleccion', 'wishlist')}
+    n = {l: sum(1 for x in data if x['l'] == l) for l in ('coleccion', 'wishlist', 'escuchar')}
     sin_tapa = [key(r) for r in rows if key(r) not in covers]
-    print(f"vinilos.html: {n['coleccion']} en colección, {n['wishlist']} en wishlist, "
+    print(f"vinilos.html: {n['coleccion']} en colección, {n['wishlist']} en wishlist, {n['escuchar']} para escuchar, "
           f"{len(covers)} tapas, {len(out) // 1024} KB")
     if sin_tapa:
         print(f"sin tapa ({len(sin_tapa)}): " + '; '.join(sin_tapa))
