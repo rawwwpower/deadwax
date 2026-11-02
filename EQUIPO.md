@@ -4,7 +4,7 @@ Lo que Ana tiene, lo que quiere armar y lo que se fue decidiendo. Claude es
 la ingeniera tech y de sonido del proyecto: leer esto antes de asesorar
 sobre equipo y actualizarlo cuando algo cambie.
 
-**Última actualización:** 2026-10-27
+**Última actualización:** 2026-11-02
 
 ## Objetivo
 
@@ -50,6 +50,27 @@ Para mezclar hacen falta **dos bandejas iguales** con pitch (más un mixer de
    restaurador bueno no hacen falta.
 4. Evitar para mezclar: GR, G y GAE, que son modelos hi-fi. Son hermosas,
    pero no están pensadas para DJ.
+
+### Las versiones (MK) de la serie clásica (consultado 2026-11-02)
+
+Las fuentes no coinciden en algunos años (se ven ±1). Ninguna tiene "MK" que cambie el sonido de fondo:
+es la misma máquina, refinada.
+
+| Modelo | Año | Qué cambió | Para Ana |
+|---|---|---|---|
+| SL-1200 (original) | 1972 | Hi-fi, pitch giratorio | Solo pieza histórica |
+| **MK2** | 1979 | Pitch deslizante ±8 %, cuarzo, aislación: el estándar DJ | Clásica, la más fácil de conseguir y de reparar |
+| MK3 / MK3D | 1989 / 1997 | Detalles, acabado negro mate; la D saca el "clic" del cero y suma botón de reset | Casi todas son de Japón (100 V, transformador) |
+| MK4 | 1997 | 78 rpm y cables RCA desmontables; pensada para hi-fi | Solo Japón y Asia (100 V); no la mejor para mezclar |
+| **MK5** | 2002 | Antiskating de 0-6 g (antes 0-3), ajuste de altura del brazo más fácil, reset del pitch, luz blanca | La mejor relación calidad/precio de las clásicas |
+| MK5G | 2002 | Pitch ±16 % y luces azules | Lujo, no hace falta |
+| **MK6** | 2007-08 | Mejor amortiguación, montaje del brazo, cableado y precisión del pitch | La última y más refinada de la serie clásica (discontinuada en 2010) |
+| MK7 | 2019 | Nueva generación: motor sin núcleo, reversa, cables desmontables | Nueva, con garantía; más cara |
+
+**Decisión sugerida (02/11/2026), a confirmar por Ana:** para mezclar con la mejor calidad, **un par de MK5 o MK6**
+(la MK6 solo si el precio está cerca de la MK5: los cambios son menores). Para coleccionismo, una **MK2 temprana hecha en
+Japón con caja y papeles**, o las ediciones limitadas (doradas de aniversario, la GAE de 2016), que son más para mirar que
+para mezclar. Siempre de 220-240 V.
 
 1200 = plateada, 1210 = negra: son la misma máquina. Las M3D y MK5G tienen
 pitch de ±16 % y luces azules. Están buenas pero no hacen falta.
