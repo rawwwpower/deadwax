@@ -2010,5 +2010,15 @@ window.DEADWAX_SEED = [
     "year": "1988",
     "format": "LP",
     "notes": "País: USA\nVisto en Fear of Musik: represión USA 1988 (no la original UK Virgin 1977 ni la USA Warner 1977), con insert. Tapa VG con desgaste de bordes y ringwear, disco VG+. $110.685 transferencia (~USD 69): caro para una represión con la tapa VG. Para colección conviene la UK Virgin 1977."
+  },
+  {
+    "id": "dw-266",
+    "type": "wantlist",
+    "artist": "Suicide",
+    "album": "Suicide (debut, reedición 1980 con flexi 23 Minutes in Bruxelles)",
+    "label": "Red Star Records",
+    "year": "1980",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: RED 800 (probable, confirmar con foto de etiqueta) · Prensado: PROBABLE: la tienda lo titula 'Martin Rev Alan Vega LP USA 1980 + Flexi', pero el LP de 1980 'Suicide: Alan Vega and Martin Rev' (2º disco, prod. Ric Ocasek; US Antilles/ZE AN-7080, UK Island/ZE ILPS 7007) NO tiene Ghost Rider ni trae flexi. El flexi de 9\" '23 Minutes in Bruxelles' (en vivo en Bruselas, 16/07/1978; trae Ghost Rider y Frankie Teardrop) venía con Red Star RED 800, la reedición USA 1980 del DEBUT de 1977 (que sí abre con Ghost Rider). Original del debut: Red Star RS 1 (USA, dic. 1977). Confirmar con foto de etiqueta (RED 800) y del flexi.\nVisto en Fear of Musik: tapa strong VG+, disco VG+ casi sin fritura (algún click en A5 y B1), con el flexi de 9\" de edición limitada. $150.000 transferencia (~USD 94). Oficial: Red Star era el sello de la banda (Marty Thau)."
   }
 ];
