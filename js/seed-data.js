@@ -1890,5 +1890,25 @@ window.DEADWAX_SEED = [
     "year": "2002",
     "format": "LP",
     "notes": "País: USA\nVisto en Fear of Musik: 12\" promo USA 2002 con hype sticker, disco strong VG+. Trae clean, album, instrumental y a cappella: herramienta de DJ (la a cappella sirve para mezclar encima de otros beats). $75.591 transferencia (~USD 47)."
+  },
+  {
+    "id": "dw-249",
+    "type": "wantlist",
+    "artist": "Beastie Boys",
+    "album": "Licensed to Ill",
+    "label": "",
+    "year": "1986",
+    "format": "LP",
+    "notes": "País: Argentina\nVisto en Fear of Musik: LP Argentina 1986 (licencia local, no la de origen USA Def Jam), tapa VG+ con el borde inferior despegándose, disco VG+ que suena excelente. $75.004 transferencia (~USD 47). Al 02/11 figuraba sin stock."
+  },
+  {
+    "id": "dw-250",
+    "type": "wantlist",
+    "artist": "Crazy Town",
+    "album": "Butterfly (12\")",
+    "label": "Columbia",
+    "year": "",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik (anunciado como USA 1999): 12\" con versión del álbum, tres remixes (Epic, Extreme, Jazzy Jim) e instrumental. Tapa EX-, disco EX. $86.753 transferencia (~USD 54)."
   }
 ];

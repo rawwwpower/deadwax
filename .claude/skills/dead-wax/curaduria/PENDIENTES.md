@@ -48,7 +48,7 @@ Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **proto
 
 ## Abierto
 
-- **Gusto de Ana, ronda Fear of Musik (02/11/2026):** Ana pasa discos que le llaman la atención o conoce, para que conozca su gusto. Se cargan en la wishlist como `interesante` con la etiqueta "referencia de gusto". Señal nueva: maxis de hip hop de los '90 y 2000 con historia de sampleo (Coolio *Gangsta's Paradise*, Eminem *Lose Yourself* con instrumental y a cappella). Tenerlo en cuenta en las búsquedas, junto con los maxis largos para mezclar.
+- **Gusto de Ana, ronda Fear of Musik (02/11/2026):** Ana pasa discos que le llaman la atención o conoce, para que conozca su gusto. Se cargan en la wishlist como `interesante` con la etiqueta "referencia de gusto". Señal nueva: maxis de hip hop de los '90 y 2000 con historia de sampleo (Coolio *Gangsta's Paradise*, Eminem *Lose Yourself*, Crazy Town *Butterfly*) y el rap rock con samples de rock (Beastie Boys *Licensed to Ill*). Tenerlo en cuenta en las búsquedas, junto con los maxis largos para mezclar.
 - **Madonna · Music** (wishlist, #26): en Maniac hay dos reediciones (negra 2020, barcode 093624786511, y azul 2026,
   081227924034), con el mismo master: elegir por precio. La original 2000 hay que buscarla usada y confirmarla por dead wax.
 - **Icónicos** (9, con ranking de versiones en la tabla `versiones`): Black Sabbath, AIC *Facelift* y *MTV Unplugged*,
