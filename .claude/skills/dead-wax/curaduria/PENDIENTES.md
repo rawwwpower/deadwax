@@ -26,6 +26,8 @@ Ana, Electronic Bach. `coleccion.py list --incomplete` lista el resto.
 
 ## Para escuchar (Ana)
 
+**Tags rápidos de Ana (02/11/2026)** al pasar un link: `+` = me gusta / lo conozco (wishlist, etiqueta *referencia de gusto*); `?` = guardar para escuchar (etiqueta `para escuchar`, pestaña de la página); `-` = no me gusta / descartar. Link sin tag: preguntar.
+
 Discos que Ana dijo que va a escuchar. Cuando vuelva, preguntarle qué le parecieron, anotar su opinión en `review` y sacarlos de esta lista. Si algo no le gustó, preguntar si sale de la wishlist. **Regla (pedido de Ana, 02/11/2026):** cada vez que diga "después escucho" o deje algo para más tarde, cargarlo en la base con la etiqueta `para escuchar` (y el link de la tienda en `fuente`): aparece en la pestaña **para escuchar** de la página vinilos, con links a la tienda y a YouTube. Si no está para comprar, va con `status=descubrimiento`; al escucharlo, sacarle la etiqueta y decidir (wishlist o nada).
 
 - **Desde el 02/11/2026, veta goth y post-punk, de Fear of Musik.** Orden sugerido:
