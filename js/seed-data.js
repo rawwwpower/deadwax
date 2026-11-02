@@ -449,7 +449,7 @@ window.DEADWAX_SEED = [
     "label": "XL-Recordings (licencia Intercord Ton GmbH)",
     "year": "1992",
     "format": "LP",
-    "notes": "País: Alemania · Prensado: Confirmado con contratapa: XL-Recordings 1992, 'Made in Germany', distribuido por Intercord Ton GmbH. Contemporánea al lanzamiento original UK dic. 1991 (#2 UK charts). Tracklist: Everybody in the Place (Fairground Remix), Crazy Man / G-Force (Energy Flow), Rip Up the Sound System. Valor lógico: mediana ~US$10-17 en ediciones comparables, no pagar más de US$15-20 salvo mint.\nVEREDICTO: buena compra, de época, licencia legítima en buena planta."
+    "notes": "País: Alemania · Prensado: Confirmado con contratapa: XL-Recordings 1992, 'Made in Germany', distribuido por Intercord Ton GmbH. Contemporánea al lanzamiento original UK dic. 1991 (#2 UK charts). Tracklist: Everybody in the Place (Fairground Remix), Crazy Man / G-Force (Energy Flow), Rip Up the Sound System. Valor lógico: mediana ~US$10-17 en ediciones comparables, no pagar más de US$15-20 salvo mint.\nVEREDICTO: buena compra, de época, licencia legítima en buena planta. Visto en Fear of Musik 02/11/2026 otro release: 12\" USA 1992 Charly / Everybody in the Place (4 mezclas), tapa VG+, disco EX, $95.003 (~USD 59). No es la alemana de la ficha; caro para el tope de USD 15-20."
   },
   {
     "id": "dw-48",
@@ -521,7 +521,7 @@ window.DEADWAX_SEED = [
     "label": "Maverick / Warner Bros.",
     "year": "2000",
     "format": "LP",
-    "notes": "Prensado: Tapa del SINGLE 'Music' (arte vaquero/heno), no la del álbum completo. Reusada en varios formatos (12', CD single) internacionalmente.\nFalta contratapa/lomo o etiqueta para confirmar catálogo y edición exacta (US/UK/promo)."
+    "notes": "Prensado: Tapa del SINGLE 'Music' (arte vaquero/heno), no la del álbum completo. Reusada en varios formatos (12', CD single) internacionalmente.\nFalta contratapa/lomo o etiqueta para confirmar catálogo y edición exacta (US/UK/promo). Visto en Fear of Musik 02/11/2026: 12\" promo USA 2000, 45 rpm, Album Version de los dos lados, tapa genérica, disco EX-, $63.650 transferencia (~USD 40)."
   },
   {
     "id": "dw-67",
@@ -635,7 +635,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: USA · Grading: VG+ / VG+"
+    "notes": "País: USA · Grading: VG+ / VG+\nVisto en Fear of Musik 02/11/2026: USA 1979 (Polydor), tapa VG con corner cut y residuo de sticker, disco strong VG+, sobre interno original. $59.649 transferencia (~USD 37). Referencia: selladas de 1979 en eBay a USD 33-35."
   },
   {
     "id": "dw-89",
@@ -966,7 +966,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG"
+    "notes": "País: Japón · Grading: VG+ / VG\nVisto en Fear of Musik 02/11/2026: USA 1977 con sobre interno y cupón, tapa VG+, disco strong VG+, $70.003 (~USD 44)."
   },
   {
     "id": "dw-122",
@@ -1096,7 +1096,7 @@ window.DEADWAX_SEED = [
     "label": "Illegal / I.R.S.",
     "year": "1979",
     "format": "LP",
-    "notes": "País: USA · Catálogo: SP 501 · Grading: NM / VG+ · Prensado: EP de 5 temas, prensa USA de época (Terre Haute). La UK salió en Illegal ILS 12013. Insert original."
+    "notes": "País: USA · Catálogo: SP 501 · Grading: NM / VG+ · Prensado: EP de 5 temas, prensa USA de época (Terre Haute). La UK salió en Illegal ILS 12013. Insert original.\nVisto en Fear of Musik 02/11/2026: USA 1979, tapa strong VG+, disco EX, $165.000 transferencia (~USD 103). Caro: una NM se vendió en eBay a £23."
   },
   {
     "id": "dw-140",
@@ -1317,7 +1317,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1972",
     "format": "LP",
-    "notes": "País: UK\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición."
+    "notes": "País: UK\nSin confirmar: solo los datos de la lista de la feria (país, grading, precio). Falta ver etiqueta/obi para ubicar la edición. Visto en Fear of Musik 02/11/2026: España 1980 (no la UK Island HELP 6), VG+/VG+ strong, $44.244 (~USD 28)."
   },
   {
     "id": "dw-164",
@@ -1499,7 +1499,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1969",
     "format": "LP",
-    "notes": ""
+    "notes": "Visto en Fear of Musik 02/11/2026: reedición 180 g 2015, disco EX o mejor, $68.173 (~USD 43)."
   },
   {
     "id": "dw-184",
