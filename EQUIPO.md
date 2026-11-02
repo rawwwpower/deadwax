@@ -75,6 +75,16 @@ para mezclar. Siempre de 220-240 V.
 1200 = plateada, 1210 = negra: son la misma máquina. Las M3D y MK5G tienen
 pitch de ±16 % y luces azules. Están buenas pero no hacen falta.
 
+### ¿Tienen que ser iguales? (pregunta de Ana, 02/11/2026)
+
+No es obligatorio. Ana quiere mezclar con Seba o un amigo, cada uno con su bandeja, y eso se puede. Lo que tiene que
+tener **cada** bandeja: control de pitch (±8 % alcanza), tracción directa con buen torque (que arranque rápido y que
+se pueda frenar el plato con la mano), velocidad estable y **brazo manual** (las automáticas como la SL-D3 levantan o
+vuelven el brazo solas y no van). Mezclar con bandejas distintas es más difícil al principio: el pitch tiene otra
+escala y otro tacto, y el arranque o el frenado se sienten distintos. El par igual es más cómodo para aprender y es lo
+estándar en clubes. Las diferencias de volumen entre cápsulas se emparejan con la ganancia (trim) del mixer.
+Bandejas de otras marcas que cumplen: Pioneer PLX-1000, Reloop RP-7000 MK2, Audio-Technica AT-LP140XP.
+
 ### Qué revisar al comprar una usada (en Argentina, 220 V / 50 Hz)
 
 - **Voltaje:** tiene que ser europea o de 220–240 V. Las japonesas (100 V)
