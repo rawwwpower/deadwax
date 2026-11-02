@@ -60,7 +60,8 @@ es la misma máquina, refinada.
 |---|---|---|---|
 | SL-1200 (original) | 1972 | Hi-fi, pitch giratorio | Solo pieza histórica |
 | **MK2** | 1979 | Pitch deslizante ±8 %, cuarzo, aislación: el estándar DJ | Clásica, la más fácil de conseguir y de reparar |
-| MK3 / MK3D | 1989 / 1997 | Detalles, acabado negro mate; la D saca el "clic" del cero y suma botón de reset | Casi todas son de Japón (100 V, transformador) |
+| MK3 | 1989 | Igual a la MK2 por dentro (mismo motor y brazo): RCA dorados, logo dorado atrás, negro mate. Solo Japón | Rareza para coleccionar; para mezclar, igual que una MK2 |
+| MK3D / M3D | 1997 | Sin el "clic" del cero (Technics dice que mejora la precisión cerca de 0), botón de reset del pitch, interruptor hundido, otro color de estrobo. MK3D = japonesa negra con RCA dorados; 1200M3D plateada / 1210M3D negra = exportación | **Muy buena para mezclar**: tiene lo esencial de la MK5 y suele salir más barata |
 | MK4 | 1997 | 78 rpm y cables RCA desmontables; pensada para hi-fi | Solo Japón y Asia (100 V); no la mejor para mezclar |
 | **MK5** | 2002 | Antiskating de 0-6 g (antes 0-3), ajuste de altura del brazo más fácil, reset del pitch, luz blanca | La mejor relación calidad/precio de las clásicas |
 | MK5G | 2002 | Pitch ±16 % y luces azules | Lujo, no hace falta |
@@ -71,6 +72,11 @@ es la misma máquina, refinada.
 (la MK6 solo si el precio está cerca de la MK5: los cambios son menores). Para coleccionismo, una **MK2 temprana hecha en
 Japón con caja y papeles**, o las ediciones limitadas (doradas de aniversario, la GAE de 2016), que son más para mirar que
 para mezclar. Siempre de 220-240 V.
+
+**MK2 vs MK3 (investigado 02/11/2026, pedido de Ana).** Nunca se recomendó evitar la MK3: solo se avisó lo del voltaje
+(son japonesas, 100 V), y el restaurador de Ana las adapta, así que no es problema. Los vendedores confunden MK3, MK3D y M3D:
+identificarlas por lo que tienen, no por el nombre del aviso. ¿El pitch hace clic en 0? Es MK2 o MK3. ¿Hay botón de reset y no
+hay clic? Es MK3D o M3D. ¿RCA dorados de fábrica? Es japonesa (MK3 o MK3D). Mirar también la chapa de voltaje de abajo.
 
 1200 = plateada, 1210 = negra: son la misma máquina. Las M3D y MK5G tienen
 pitch de ±16 % y luces azules. Están buenas pero no hacen falta.
