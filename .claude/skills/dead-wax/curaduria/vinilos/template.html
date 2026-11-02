@@ -70,6 +70,9 @@ ul.list{list-style:none;margin:0;padding:0}
 .chip:focus-visible{outline:1px solid var(--z500);outline-offset:2px}
 .chip .cn{color:var(--z500);font-size:10px}
 #secs .chip{font-size:12px}
+.lk{font-family:var(--mono);font-size:10px;letter-spacing:.06em;margin-top:3px}
+.lk a{color:var(--z400);text-decoration:underline;text-decoration-color:var(--z600);text-underline-offset:3px}
+.lk a:hover{color:var(--z100)}
 .chk{font-size:12px;line-height:1.45;color:var(--z400);margin-top:4px;padding-left:8px;border-left:1px solid var(--z800)}
 .chk b{font-family:var(--mono);font-weight:400;font-size:10px;letter-spacing:.06em;color:var(--z500);margin-right:4px}
 details.dd>summary{list-style:none;cursor:pointer;border-radius:2px}
@@ -107,7 +110,7 @@ mark{background:none;color:var(--z100);text-decoration:underline;text-decoration
 
 <main>
   <header class="top reveal">
-    <div class="ttl"><h1>vinilos</h1><p>colección y wishlist</p></div>
+    <div class="ttl"><h1>vinilos</h1><p>colección, wishlist y para escuchar</p></div>
     <div class="sbox" id="sbox">
       <input type="search" id="q" placeholder="buscar en todo…" autocomplete="off" aria-label="Buscar en la colección y la wishlist" tabindex="-1">
       <button type="button" class="ico" id="qbtn" aria-label="Buscar" aria-expanded="false" title="Buscar (/)">
@@ -133,6 +136,7 @@ const D = /*DATA*/;
 const LISTS = {
   wishlist: {label: "wishlist", secs: [["iconico","icónicos"],["top","top tier"],["interesante","interesantes"]], sec: x => x.p},
   coleccion: {label: "colección", secs: [["ana","ana"],["seba","seba"]], sec: x => x.o},
+  escuchar: {label: "para escuchar", secs: [["escuchar","para escuchar"]], sec: x => "escuchar"},
 };
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const fold = s => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
@@ -140,7 +144,7 @@ const fmt = n => "$" + n.toLocaleString("es-AR");
 const initials = a => a.replace(/^the /i,"").split(/[\s/&,()]+/).filter(Boolean).slice(0,2).map(w=>w[0]).join("");
 D.forEach(x => {
   x.det = fold([x.pn,x.nt,x.fu,x.mx,...(x.v||[]).map(v => [v.e,v.c,v.s,v.p,v.w,v.pa,v.k].join(" "))].filter(Boolean).join(" "));
-  x.hay = fold([x.a,x.d,x.pa,x.se,x.ca,x.y,x.g,x.e,x.w,x.r,x.fl,x.n,x.l==="coleccion"?"coleccion tengo":"wishlist quiero",x.o==="seba"?"seba":"",x.or].filter(Boolean).join(" ")) + " " + x.det;
+  x.hay = fold([x.a,x.d,x.pa,x.se,x.ca,x.y,x.g,x.e,x.w,x.r,x.fl,x.n,x.l==="coleccion"?"coleccion tengo":x.l==="escuchar"?"escuchar":"wishlist quiero",x.o==="seba"?"seba":"",x.or].filter(Boolean).join(" ")) + " " + x.det;
 });
 
 const st = {list: "wishlist", sec: "todos", style: "todos", q: ""};
@@ -177,6 +181,13 @@ function vers(x){
 }
 
 // Un disco: fila compacta; si hay algo investigado, se despliega con todo el detalle.
+// links rápidos (pedido de Ana): la tienda donde se vio y, para escuchar, una búsqueda en YouTube
+function lnk(x){
+  const yt = x.l === "escuchar" ? '<a href="https://www.youtube.com/results?search_query='+encodeURIComponent(x.a+" "+x.d.replace(/\(.*?\)/g,""))+'" target="_blank" rel="noopener">youtube</a>' : "";
+  const sh = x.u ? '<a href="'+esc(x.u)+'" target="_blank" rel="noopener">tienda</a>' : "";
+  return yt || sh ? '<span class="lk">'+[sh, yt].filter(Boolean).join(" · ")+'</span>' : "";
+}
+
 function disc(x){
   const key = x.a + " | " + x.d;
   const cv = COVERS[key] ? '<img src="'+COVERS[key]+'" alt="" loading="lazy">' : esc(initials(x.a));
@@ -192,7 +203,7 @@ function disc(x){
     '<div class="tx"><span class="name"><span class="who">'+hl(x.a)+'</span> '+hl(x.d)+own+'</span>'+
     (bits.length || flags ? '<span class="data">'+bits.join(" · ")+flags+'</span>' : "")+
     (x.w ? '<span class="why'+(det ? ' cl' : '')+'">'+hl(x.w)+'</span>' : "")+
-    (x.r ? '<span class="rv">'+hl(x.r)+'</span>' : "")+
+    (x.r ? '<span class="rv">'+hl(x.r)+'</span>' : "")+lnk(x)+
     '</div><span class="pr">'+pr+(det ? '<span class="chev">'+(nv ? 'versiones' : 'detalle')+'</span>' : '')+'</span>';
   if (!det) return '<li class="it">'+body+'</li>';
   // al buscar, se abren solo los discos cuyo match está escondido en el detalle
@@ -215,7 +226,7 @@ function section(label, items, i){
 const searching = () => st.q.trim() !== "";
 
 function render(){
-  const lists = searching() ? ["wishlist","coleccion"] : [st.list];
+  const lists = searching() ? ["wishlist","escuchar","coleccion"] : [st.list];
   let html = "", i = 0, total = 0;
   lists.forEach(l => {
     const L = LISTS[l];
@@ -228,7 +239,7 @@ function render(){
     });
   });
   document.getElementById("sections").innerHTML = html;
-  document.getElementById("hint").textContent = searching() ? (total ? total + (total === 1 ? " resultado" : " resultados") + " en wishlist y colección" : "no hay nada con eso, ni en la wishlist ni en la colección") : "";
+  document.getElementById("hint").textContent = searching() ? (total ? total + (total === 1 ? " resultado" : " resultados") + " en las listas" : "no hay nada con eso en ninguna lista") : "";
   document.querySelectorAll("#tabs .f").forEach(b => b.setAttribute("aria-pressed", !searching() && b.dataset.l === st.list ? "true" : "false"));
   renderChips();
 }
@@ -251,7 +262,7 @@ function renderChips(){
   document.getElementById("filters").innerHTML = styles.map(s => chip("data-s", s, s === "todos" ? "todos los estilos" : s, s === st.style)).join("");
 }
 
-document.getElementById("tabs").innerHTML = ["wishlist","coleccion"].map(k =>
+document.getElementById("tabs").innerHTML = ["wishlist","escuchar","coleccion"].map(k =>
   '<li><button type="button" class="f" data-l="'+k+'">'+LISTS[k].label+'<span class="n">'+D.filter(x=>x.l===k).length+'</span></button></li>').join("");
 document.getElementById("tabs").addEventListener("click", ev => {
   const b = ev.target.closest(".f"); if (!b) return;

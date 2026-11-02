@@ -1950,5 +1950,25 @@ window.DEADWAX_SEED = [
     "year": "1983",
     "format": "LP",
     "notes": "País: UK · Catálogo: MR 023 (a confirmar)\nVisto en Fear of Musik: 12\" UK 1983 con insert, tapa VG+ (raspón en contratapa), disco VG+. $80.000 transferencia (~USD 50). Para saber si es la primera prensa o una represión del mismo sello, pedir foto del dead wax."
+  },
+  {
+    "id": "dw-260",
+    "type": "wantlist",
+    "artist": "Primus",
+    "album": "Frizzle Fry",
+    "label": "Caroline Records",
+    "year": "1990",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: LP USA 1990 Caroline con sobre interno original, tapa strong VG+, disco VG+. $200.000 transferencia (~USD 125). Al 02/11 figuraba sin stock (vendido). Buscar otra copia de la original Caroline 1990."
+  },
+  {
+    "id": "dw-261",
+    "type": "wantlist",
+    "artist": "The Prodigy",
+    "album": "Out of Space (12\")",
+    "label": "Elektra",
+    "year": "1992",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" USA 1992, tapa VG+ con notch cut, disco EX-/EX. Original Mix, Techno Underworld Remix, Millenium Mix, Celestial Bodies Mix y Ruff in the Jungle Bizness. $100.000 transferencia (~USD 62)."
   }
 ];
