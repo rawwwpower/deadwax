@@ -1990,5 +1990,15 @@ window.DEADWAX_SEED = [
     "year": "1998",
     "format": "LP",
     "notes": "País: Alemania\nVisto en Fear of Musik: reedición alemana 1998 de 180 g (Discogs r6422202 según la tienda), tapa VG+ con funda plástica pegada adentro, disco EX-; la tienda dice que el prensado y el sonido son excelentes. $74.000 transferencia (~USD 46). No es la original Elektra 1967: es para escuchar. Sin verificar quién la masterizó. En la misma tienda hay simples originales USA de 1967-68 entre $30.000 y $62.600 (Light My Fire / The Crystal Ship, Love Me Two Times, People Are Strange con tapa, Touch Me)."
+  },
+  {
+    "id": "dw-264",
+    "type": "wantlist",
+    "artist": "Jefferson Airplane",
+    "album": "Surrealistic Pillow",
+    "label": "RCA Victor",
+    "year": "1967",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: LSP-3766 (stereo, a confirmar)\nVisto en Fear of Musik: original USA 1967 en estéreo, prensado en la planta de RCA en Rockaway, con el celofán original. Tapa VG+, disco EX- o mejor. $142.021 transferencia (~USD 89). Al 02/11 figuraba sin stock (vendido). Buscar otra copia de la original USA 1967."
   }
 ];
