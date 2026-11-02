@@ -1870,5 +1870,25 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "Primer disco con Mike Patton en voz (reemplazó a Chuck Mosley). Edición sin identificar: falta ver etiqueta y dead wax.",
     "owner": "yo"
+  },
+  {
+    "id": "dw-247",
+    "type": "wantlist",
+    "artist": "Coolio feat. L.V.",
+    "album": "Gangsta's Paradise (12\" promo)",
+    "label": "Tommy Boy / MCA",
+    "year": "1995",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" promo USA 1995, tapa genérica negra, disco strong VG+ (casi EX), la versión popular de los dos lados. $99.190 transferencia (~USD 62)."
+  },
+  {
+    "id": "dw-248",
+    "type": "wantlist",
+    "artist": "Eminem",
+    "album": "Lose Yourself (12\" promo)",
+    "label": "Shady / Interscope",
+    "year": "2002",
+    "format": "LP",
+    "notes": "País: USA\nVisto en Fear of Musik: 12\" promo USA 2002 con hype sticker, disco strong VG+. Trae clean, album, instrumental y a cappella: herramienta de DJ (la a cappella sirve para mezclar encima de otros beats). $75.591 transferencia (~USD 47)."
   }
 ];
