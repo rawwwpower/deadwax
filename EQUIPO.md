@@ -99,6 +99,12 @@ Bandejas de otras marcas que cumplen: Pioneer PLX-1000, Reloop RP-7000 MK2, Audi
 
 ### Qué revisar al comprar una usada (en Argentina, 220 V / 50 Hz)
 
+- **Decisión de Ana (03/11/2026): fabricada en Japón sí o sí.** Vale para
+  cualquier mercado: las de exportación hechas en Japón (220-240 V, chapa "M3D",
+  MK2 europeas, etc.) también sirven. Lo que no quiere es que esté fabricada en
+  otro país (vio MK5 que dicen Malasia). Pedir siempre foto de la etiqueta de
+  abajo y buscar "Made in Japan"; ni el nombre de la chapa ni el voltaje alcanzan.
+
 - **Voltaje:** ideal europea o de 220–240 V. Las japonesas (100 V) y las de
   EE.UU. (120 V) no son impedimento: el restaurador de Ana las adapta. Sirve
   para pelear el precio.
