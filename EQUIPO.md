@@ -4,7 +4,7 @@ Lo que Ana tiene, lo que quiere armar y lo que se fue decidiendo. Claude es
 la ingeniera tech y de sonido del proyecto: leer esto antes de asesorar
 sobre equipo y actualizarlo cuando algo cambie.
 
-**Última actualización:** 2026-10-27
+**Última actualización:** 2026-11-03
 
 ## Objetivo
 
@@ -51,8 +51,21 @@ Para mezclar hacen falta **dos bandejas iguales** con pitch (más un mixer de
 4. Evitar para mezclar: GR, G y GAE, que son modelos hi-fi. Son hermosas,
    pero no están pensadas para DJ.
 
-1200 = plateada, 1210 = negra: son la misma máquina. Las M3D y MK5G tienen
+1200 = plateada, 1210 = negra: son la misma máquina. Las MK5G / M5G tienen
 pitch de ±16 % y luces azules. Están buenas pero no hacen falta.
+
+**MK3D / M3D (1997–2002):** fue la primera con botón de **reset** del pitch y
+sin el "clic" del cero; pitch ±8 %. Es casi una MK5 (a la MK5 le mejoraron el
+ajuste de altura del brazo, el antiskating y los pies), así que para mezclar
+sirve igual de bien. Ojo con el nombre de la chapa: "SL-1200**MK3D**" suele ser
+la versión japonesa (**100 V**, necesita transformador acá); la de exportación
+europea dice "SL-1200**M3D**" / "SL-1210M3D" (230 V). Confirmar siempre con la
+etiqueta de atrás.
+
+- Vista el 03/11/2026: SL-1200MK3D plateada, con tapa acrílica y slipmat, a
+  **ARS 2,2 M** (una unidad). Precio en el rango de una MK2 (ver abajo): justo,
+  no ganga. Pendiente preguntarle al vendedor: voltaje (etiqueta de atrás), si
+  incluye cápsula, service hecho y estado del pitch y del brazo.
 
 ### Qué revisar al comprar una usada (en Argentina, 220 V / 50 Hz)
 
