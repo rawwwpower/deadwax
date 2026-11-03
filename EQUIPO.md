@@ -51,26 +51,57 @@ Para mezclar hacen falta **dos bandejas iguales** con pitch (más un mixer de
 4. Evitar para mezclar: GR, G y GAE, que son modelos hi-fi. Son hermosas,
    pero no están pensadas para DJ.
 
+### Las versiones (MK) de la serie clásica (consultado 2026-11-02)
+
+Las fuentes no coinciden en algunos años (se ven ±1). Ninguna tiene "MK" que cambie el sonido de fondo:
+es la misma máquina, refinada.
+
+| Modelo | Año | Qué cambió | Para Ana |
+|---|---|---|---|
+| SL-1200 (original) | 1972 | Hi-fi, pitch giratorio | Solo pieza histórica |
+| **MK2** | 1979 | Pitch deslizante ±8 %, cuarzo, aislación: el estándar DJ | Clásica, la más fácil de conseguir y de reparar |
+| MK3 | 1989 | Igual a la MK2 por dentro (mismo motor y brazo): RCA dorados, logo dorado atrás, negro mate. Solo Japón | Rareza para coleccionar; para mezclar, igual que una MK2 |
+| MK3D / M3D | 1997 | Sin el "clic" del cero (Technics dice que mejora la precisión cerca de 0), botón de reset del pitch, interruptor hundido, otro color de estrobo. MK3D = japonesa negra con RCA dorados; 1200M3D plateada / 1210M3D negra = exportación | **Muy buena para mezclar**: tiene lo esencial de la MK5 y suele salir más barata |
+| MK4 | 1997 | 78 rpm y cables RCA desmontables; pensada para hi-fi | Solo Japón y Asia (100 V); no la mejor para mezclar |
+| **MK5** | 2002 | Antiskating de 0-6 g (antes 0-3), ajuste de altura del brazo más fácil, reset del pitch, luz blanca | La mejor relación calidad/precio de las clásicas |
+| MK5G | 2002 | Pitch ±16 % y luces azules | Lujo, no hace falta |
+| **MK6** | 2007-08 | Mejor amortiguación, montaje del brazo, cableado y precisión del pitch | La última y más refinada de la serie clásica (discontinuada en 2010) |
+| MK7 | 2019 | Nueva generación: motor sin núcleo, reversa, cables desmontables | Nueva, con garantía; más cara |
+
+**Decisión sugerida (02/11/2026), a confirmar por Ana:** para mezclar con la mejor calidad, **un par de MK5 o MK6**
+(la MK6 solo si el precio está cerca de la MK5: los cambios son menores). Para coleccionismo, una **MK2 temprana hecha en
+Japón con caja y papeles**, o las ediciones limitadas (doradas de aniversario, la GAE de 2016), que son más para mirar que
+para mezclar. Mejor de 220-240 V; si es de 100 V el restaurador la adapta (sirve para pelear precio).
+
+**MK2 vs MK3 (investigado 02/11/2026, pedido de Ana).** Nunca se recomendó evitar la MK3: solo se avisó lo del voltaje
+(son japonesas, 100 V), y el restaurador de Ana las adapta, así que no es problema. Los vendedores confunden MK3, MK3D y M3D:
+identificarlas por lo que tienen, no por el nombre del aviso. ¿El pitch hace clic en 0? Es MK2 o MK3. ¿Hay botón de reset y no
+hay clic? Es MK3D o M3D. ¿RCA dorados de fábrica? Es japonesa (MK3 o MK3D). Mirar también la chapa de voltaje de abajo. **Fechar por número de serie:** el primer dígito es el último número del año (en los seriales nuevos, una letra A-L da el mes: A = enero). En una MK3 (fabricada de 1989 a ~1997) un 0 solo puede ser 1990. Para certeza, Panasonic informa mes y año si se le pasa el serial.
+
 1200 = plateada, 1210 = negra: son la misma máquina. Las MK5G / M5G tienen
-pitch de ±16 % y luces azules. Están buenas pero no hacen falta.
+pitch de ±16 % y luces azules (la M3D no: es ±8 %). Están buenas pero no hacen falta.
 
-**MK3D / M3D (1997–2002):** fue la primera con botón de **reset** del pitch y
-sin el "clic" del cero; pitch ±8 %. Es casi una MK5 (a la MK5 le mejoraron el
-ajuste de altura del brazo, el antiskating y los pies), así que para mezclar
-sirve igual de bien. Ojo con el nombre de la chapa: "SL-1200**MK3D**" suele ser
-la versión japonesa (**100 V**, necesita transformador acá); la de exportación
-europea dice "SL-1200**M3D**" / "SL-1210M3D" (230 V). Confirmar siempre con la
-etiqueta de atrás.
+- **Vista el 03/11/2026:** SL-1200MK3D plateada (dice "MK3D" en la chapa), con tapa
+  acrílica y slipmat, a **ARS 2,2 M** una unidad. En el rango de una MK2: justo, no
+  ganga. Si es de 100 V, usarlo para pelear el precio (el restaurador la adapta, no
+  es impedimento). Preguntar: foto de la etiqueta de abajo (voltaje y serial), si
+  incluye cápsula, service hecho, estado del pitch y del brazo.
 
-- Vista el 03/11/2026: SL-1200MK3D plateada, con tapa acrílica y slipmat, a
-  **ARS 2,2 M** (una unidad). Precio en el rango de una MK2 (ver abajo): justo,
-  no ganga. Pendiente preguntarle al vendedor: voltaje (etiqueta de atrás), si
-  incluye cápsula, service hecho y estado del pitch y del brazo.
+### ¿Tienen que ser iguales? (pregunta de Ana, 02/11/2026)
+
+No es obligatorio. Ana quiere mezclar con Seba o un amigo, cada uno con su bandeja, y eso se puede. Lo que tiene que
+tener **cada** bandeja: control de pitch (±8 % alcanza), tracción directa con buen torque (que arranque rápido y que
+se pueda frenar el plato con la mano), velocidad estable y **brazo manual** (las automáticas como la SL-D3 levantan o
+vuelven el brazo solas y no van). Mezclar con bandejas distintas es más difícil al principio: el pitch tiene otra
+escala y otro tacto, y el arranque o el frenado se sienten distintos. El par igual es más cómodo para aprender y es lo
+estándar en clubes. Las diferencias de volumen entre cápsulas se emparejan con la ganancia (trim) del mixer.
+Bandejas de otras marcas que cumplen: Pioneer PLX-1000, Reloop RP-7000 MK2, Audio-Technica AT-LP140XP.
 
 ### Qué revisar al comprar una usada (en Argentina, 220 V / 50 Hz)
 
-- **Voltaje:** tiene que ser europea o de 220–240 V. Las japonesas (100 V)
-  y las de EE.UU. (120 V) necesitan transformador.
+- **Voltaje:** ideal europea o de 220–240 V. Las japonesas (100 V) y las de
+  EE.UU. (120 V) no son impedimento: el restaurador de Ana las adapta. Sirve
+  para pelear el precio.
 - **Estroboscopio:** las de 60 Hz (EE.UU. y Japón este) muestran mal los
   puntos con la red de 50 Hz. La velocidad está bien (va por cuarzo), pero
   la referencia visual queda engañosa.
