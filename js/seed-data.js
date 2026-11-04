@@ -2080,5 +2080,16 @@ window.DEADWAX_SEED = [
     "year": "1996",
     "format": "LP",
     "notes": "País: USA\nVisto en Fear of Musik: 12\" advance (promo de adelanto) USA 1996, tapa genérica blanca, disco EX- o mejor. Solo el edit de 4:00, repetido en los dos lados: el surco ancho a 12\" suena muy abierto. $82.500 transferencia (~USD 52). Sin otras versiones: más pieza de colección que herramienta de mezcla."
+  },
+  {
+    "id": "dw-299",
+    "type": "collection",
+    "artist": "The Chemical Brothers",
+    "album": "Come With Us",
+    "label": "Virgin / Freestyle Dust",
+    "year": "2002",
+    "format": "LP",
+    "notes": "País: UE (Países Bajos/Universal) · Catálogo: XDUSTLP5 · Prensado: Barcode 724381168219 y cat. XDUSTLP5, los mismos que la original UK 2002 (Virgin), que reusan la 2016 (180 g negro, gatefold, cat. alt. 8116821) y la 2023 (UMC, 180 g; un anuncio la da amarilla de 140 g). Esta copia: la letra chica de la contratapa dice 'Universal International Music B.V., Gerrit Van Der Veenlaan 4, Baarn, Netherlands' y 'Printed in the E.U.', y Universal compró Virgin/EMI recién en 2012-13, así que es una reedición (confianza: probable). Para distinguir 2016 de 2023: color del vinilo, sticker 180g/EMI/UMC y matrix en Discogs. La original 2002 no menciona a Universal.\nIdentificado 04/11/2026 por fotos de la contratapa (sin etiqueta ni dead wax). Sin reseñas de sonido que comparen las ediciones (búsqueda 04/11/2026). Datos: Star Guitar samplea 'Starman' de Bowie; The Test (voz de Richard Ashcroft) samplea 'Pielgrzym' (1972) de Czesław Niemen. Fuentes: rarevinyl, store.thechemicalbrothers.com, factmag 2016, whatrecords (2023), Wikipedia.",
+    "owner": "seba"
   }
 ];
