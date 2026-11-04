@@ -175,6 +175,12 @@ SAMPLE/CHOP, FX/OUTPUT, TIMING/CORRECT, ERASE/SYSTEM. Perillas: blanca arriba = 
 GAIN, negra = BPM/Y. Al lado de los pads hay parámetros impresos (LEVEL, PITCH, TIME, LPF, HPF, →FX,
 ATK, REL, PAN, TUNE, VEL, MOD). Regla que le dimos: **"Arriba solo, abajo con SHIFT"**.
 
+**Logrado (04/11/2026): B6 en loop como base**, con el secuenciador. Regla: **"RECORD + PLAY graba,
+PLAY solo toca y para"**. Pasos: B → mantener RECORD + PLAY (arranca el metrónomo) → tocar el pad 6
+una vez → PLAY para → PLAY de nuevo suena en loop y se toca encima. Ana grabó una segunda vez sin
+querer (RECORD + PLAY de nuevo), así que el patrón puede tener toques de más. Lo próximo: tocar
+encima del loop y, cuando quiera, aprender a borrar o rehacer el patrón.
+
 ### Retomar acá (22 oct 2026, cierre): primeros pasos con el K.O. II
 
 Ana actualizó el K.O. II de la 1.2.3 a la **2.5.1** y grabó su **primer sample** desde YouTube por USB en **B5**. Ya entiende:
