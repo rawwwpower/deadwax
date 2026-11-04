@@ -169,6 +169,12 @@ LOOP ahí) y la **Y** es PAN. B6 quedó en KEY; el PAN puede haber quedado corri
 una foto del K.O. de arriba o una captura de la guía (sección loop, 10.5) **antes**
 de darle pasos. Le costó: muchos pasos y palabras nuevas juntos; ir de a uno.
 
+Foto del K.O. de Ana (04/11/2026), para guiarla con lo que tiene impreso: botones dobles con la
+palabra de arriba (sola) y la de abajo en gris (con SHIFT): SOUND/EDIT, MAIN/COMMIT, TEMPO/LOOP,
+SAMPLE/CHOP, FX/OUTPUT, TIMING/CORRECT, ERASE/SYSTEM. Perillas: blanca arriba = VOLUME, naranja =
+GAIN, negra = BPM/Y. Al lado de los pads hay parámetros impresos (LEVEL, PITCH, TIME, LPF, HPF, →FX,
+ATK, REL, PAN, TUNE, VEL, MOD). Regla que le dimos: **"Arriba solo, abajo con SHIFT"**.
+
 ### Retomar acá (22 oct 2026, cierre): primeros pasos con el K.O. II
 
 Ana actualizó el K.O. II de la 1.2.3 a la **2.5.1** y grabó su **primer sample** desde YouTube por USB en **B5**. Ya entiende:
