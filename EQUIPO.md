@@ -154,6 +154,13 @@ Bandejas de otras marcas que cumplen: Pioneer PLX-1000, Reloop RP-7000 MK2, Audi
 
 ## EP-133 K.O. II + Mac: samplear temas y pelis
 
+### Retomar acá (04 nov 2026): regla para grabar
+
+Ana retomó el K.O. II. Regla que le enseñamos para recordar el orden:
+**"Dónde → Grabo → Escucho"**: 1) letra (A–D) = dónde va; 2) SAMPLE + mantener el
+pad mientras suena = grabo; 3) MAIN y tocar el pad = escucho. Lo próximo sigue
+siendo grabar en B6. Al enseñarle, solo el cómo (ver CLAUDE.md).
+
 ### Retomar acá (22 oct 2026, cierre): primeros pasos con el K.O. II
 
 Ana actualizó el K.O. II de la 1.2.3 a la **2.5.1** y grabó su **primer sample** desde YouTube por USB en **B5**. Ya entiende:
