@@ -161,6 +161,14 @@ Ana retomó el K.O. II. Regla que le enseñamos para recordar el orden:
 pad mientras suena = grabo; 3) MAIN y tocar el pad = escucho. Lo próximo sigue
 siendo grabar en B6. Al enseñarle, solo el cómo (ver CLAUDE.md).
 
+Probado ese día en su equipo: A1 y B5 suenan. **SHIFT + SOUND** abre la edición del
+sonido (pantalla `SND ONE`); la perilla **X** cambia el modo (ONE / KEY / LEG, sin
+LOOP ahí) y la **Y** es PAN. B6 quedó en KEY; el PAN puede haber quedado corrido
+(volverlo a 0). **Falta**: encontrar dónde está el loop. La guía oficial
+(teenage.engineering) no se pudo abrir desde la sesión; la próxima vez, pedirle a Ana
+una foto del K.O. de arriba o una captura de la guía (sección loop, 10.5) **antes**
+de darle pasos. Le costó: muchos pasos y palabras nuevas juntos; ir de a uno.
+
 ### Retomar acá (22 oct 2026, cierre): primeros pasos con el K.O. II
 
 Ana actualizó el K.O. II de la 1.2.3 a la **2.5.1** y grabó su **primer sample** desde YouTube por USB en **B5**. Ya entiende:
