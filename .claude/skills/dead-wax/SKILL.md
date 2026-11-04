@@ -146,7 +146,7 @@ python3 mb.py && python3 covers.py   # solo si hay discos nuevos: busca y baja s
 python3 build.py                     # regenera vinilos.html
 ```
 
-y republicar `curaduria/vinilos/vinilos.html` con la tool Artifact pasando ese `url` (mismo link). Detalle de las tapas (proxy, simples vs. álbum) en `curaduria/vinilos/README.md`.
+y commitear `vinilos.html`. **No republicar el artifact** (pedido de Ana, 04/11/2026): queda congelado; solo se publica si ella lo pide. Las respuestas van por chat. Detalle de las tapas (proxy, simples vs. álbum) en `curaduria/vinilos/README.md`.
 
 ## Gustos de Ana y Seba (para curaduría)
 

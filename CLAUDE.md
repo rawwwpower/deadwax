@@ -23,7 +23,7 @@ contenido laboral pegado, una propuesta que conecte los dos entornos), **marcár
 
 ## Artifacts publicados (pedido de Ana)
 
-Cada vez que se cambia algo de un artifact publicado (por ejemplo la wishlist de vinilos, https://claude.ai/artifact/DVryBYPAcqAX3scZDRqmu5), terminar la respuesta con el link a ese artifact, aunque sea el mismo de siempre.
+**No publicar ni republicar artifacts** (pedido de Ana, 04/11/2026: "el artifact se está descontrolando, no tiene sentido"). Todo se guarda solo en GitHub (commit, push, PR) y se le contesta a Ana por el chat. Se sigue regenerando `vinilos.html` con `build.py` para que quede en el repo, pero no se sube. Solo volver a publicar si Ana lo pide explícitamente. (Artifact vinilos, congelado: https://claude.ai/artifact/DVryBYPAcqAX3scZDRqmu5)
 
 **nana** (la webapp con forma de iPod nano, https://claude.ai/artifact/FgBLCH8DMS3cbLAYpHn45d) fue una prueba: vive en la rama `claude/nana-ipod`, no en `main`. No actualizarla ni republicarla cuando cambia la base; solo si Ana lo pide. El artifact de trabajo es **vinilos** (colección + wishlist).
 
@@ -60,7 +60,7 @@ python3 .claude/skills/dead-wax/scripts/coleccion.py stats
 
 # After any DB change: regenerate BOTH outputs
 python3 scripts/export-coleccion-a-app.py                    # js/seed-data.js (the app)
-python3 .claude/skills/dead-wax/curaduria/vinilos/build.py   # vinilos.html (the artifact; then republish it)
+python3 .claude/skills/dead-wax/curaduria/vinilos/build.py   # vinilos.html (kept in the repo; do NOT republish the artifact, see above)
 
 # View the app — pure static, no build step
 open index.html   # or serve the directory with any static file server

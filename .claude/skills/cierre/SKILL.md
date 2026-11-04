@@ -45,7 +45,7 @@ Si cambió `data/coleccion.db` en esta sesión:
 python3 scripts/export-coleccion-a-app.py
 python3 .claude/skills/dead-wax/curaduria/vinilos/build.py
 ```
-y republicá `vinilos.html` en el artifact de siempre (https://claude.ai/artifact/DVryBYPAcqAX3scZDRqmu5).
+y commiteá `vinilos.html` (no republicar el artifact: pedido de Ana, 04/11/2026).
 
 ## 5. Privacidad (el repo es público)
 
@@ -66,7 +66,7 @@ pila o el de la tienda.
 Corta, sin repetir todo lo guardado:
 - Tres viñetas como máximo: qué quedó guardado y dónde, qué quedó abierto y para quién, y el commit + link del PR (o que
   no hubo).
-- Si se republicó un artifact, su link (regla de `CLAUDE.md`).
+- No hay link de artifact: ya no se republica (regla de `CLAUDE.md`).
 - Después, en un bloque de código aparte, la frase para abrir la próxima sesión, lista para pegar, por ejemplo:
   `Retomemos Dead Wax: leé "Retomar acá (21 oct 2026, cierre)" en .claude/skills/dead-wax/curaduria/PENDIENTES.md y seguimos con <lo próximo>.`
 
