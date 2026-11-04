@@ -56,6 +56,10 @@ Lo que no se identifica bien se recomienda mal: este paso va **antes** del vered
 2. **"Evitar" (y 🚩) es solo para calidad:** sonido, estado, autenticidad, defectos reportados. Un disco que suena bien nunca se presenta como malo o "a evitar" por su precio.
 3. **Decir "caro" sí, y claro** (Ana lo quiere saber): caro / razonable / barato con su referencia, pero como dato del precio, separado del juicio de calidad.
 
+## Orden de prioridad de Ana (04/11/2026)
+
+**1º la primera edición** (original de época, país de origen), **2º la que mejor suene** de las que se puedan conseguir. Todo veredicto y ranking de versiones sigue ese orden: primero decir dónde está la primera edición y cómo reconocerla, y recién después, si no se consigue o no conviene, la mejor alternativa por sonido. Una reedición bien reseñada es "buena para escuchar", nunca "la que hay que tener".
+
 ## Los tres criterios (resumen — detalle en `references/guia-completa.md`)
 
 1. **¿Es de época o reedición?** Prensa contemporánea al lanzamiento > reedición moderna, salvo sello audiófilo reconocido (Analogue Productions, Speakers Corner, Sundazed, Classic Records, RhinOvinyl) sobre un original inconseguible o sonoramente superado.
