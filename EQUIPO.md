@@ -181,6 +181,15 @@ una vez → PLAY para → PLAY de nuevo suena en loop y se toca encima. Ana grab
 querer (RECORD + PLAY de nuevo), así que el patrón puede tener toques de más. Lo próximo: tocar
 encima del loop y, cuando quiera, aprender a borrar o rehacer el patrón.
 
+Después aprendió a **limpiar el disco** (el patrón; en pantalla parpadea **PTN**) y regrabar solo B6:
+parar con PLAY → mantener **ERASE + B** hasta que parpadee PTN (borra el patrón de esa caja; los
+samples quedan). Lo que le funcionó al final fue **ERASE + MAIN** unos segundos (borra todas las cajas
+de la escena). Al regrabar: RECORD + PLAY → **esperar a que el número se mueva** → pad 6. Fuentes de
+estos pasos: ep133.joeyh.org, teenagemanual.com/ep-133/erase y la guía oficial en PDF (B&H). La
+analogía que le sirvió: **el K.O. es como un disco** (PLAY gira, el número es dónde está la púa, el
+loop es un locked groove, los pads son una pandereta en la mano). Caja A = baterías de fábrica para
+tocar encima. Pendiente: cómo volver a 1.1.1 (SHIFT + PLAY no lo hace).
+
 ### Retomar acá (22 oct 2026, cierre): primeros pasos con el K.O. II
 
 Ana actualizó el K.O. II de la 1.2.3 a la **2.5.1** y grabó su **primer sample** desde YouTube por USB en **B5**. Ya entiende:
