@@ -154,7 +154,16 @@ Bandejas de otras marcas que cumplen: Pioneer PLX-1000, Reloop RP-7000 MK2, Audi
 
 ## EP-133 K.O. II + Mac: samplear temas y pelis
 
-### Retomar acá (04 nov 2026): regla para grabar
+### Retomar acá (04 nov 2026, cierre): B6 en loop como base
+
+Ana logró su objetivo del día: **B6 sonando en loop con el secuenciador** (RECORD + PLAY, esperar que el número se mueva, pad 6)
+y tocar encima con la caja **A** (baterías de fábrica). Aprendió a limpiar el patrón con **ERASE + MAIN**. Lo próximo: tocar
+encima del loop, grabar más samples propios (B7 en adelante) y averiguar cómo volver a `1.1.1`. Abierto para Claude: confirmar
+con la guía oficial (no se abre desde la sesión; pedirle a Ana una captura) cómo volver al principio del patrón y si
+ERASE + B solo borra el patrón de B. B6 quedó en modo **KEY** y su PAN quizás corrido: revisarlo de oído con auriculares.
+Cómo enseñarle: un paso por mensaje, esperar su respuesta, analogías con discos (le sirvió "el K.O. es como un disco").
+
+Notas de la sesión (04 nov 2026): regla para grabar
 
 Ana retomó el K.O. II. Regla que le enseñamos para recordar el orden:
 **"Dónde → Grabo → Escucho"**: 1) letra (A–D) = dónde va; 2) SAMPLE + mantener el
@@ -164,7 +173,7 @@ siendo grabar en B6. Al enseñarle, solo el cómo (ver CLAUDE.md).
 Probado ese día en su equipo: A1 y B5 suenan. **SHIFT + SOUND** abre la edición del
 sonido (pantalla `SND ONE`); la perilla **X** cambia el modo (ONE / KEY / LEG, sin
 LOOP ahí) y la **Y** es PAN. B6 quedó en KEY; el PAN puede haber quedado corrido
-(volverlo a 0). **Falta**: encontrar dónde está el loop. La guía oficial
+(volverlo a 0). El loop de sonido no se encontró; se resolvió con el secuenciador (abajo). La guía oficial
 (teenage.engineering) no se pudo abrir desde la sesión; la próxima vez, pedirle a Ana
 una foto del K.O. de arriba o una captura de la guía (sección loop, 10.5) **antes**
 de darle pasos. Le costó: muchos pasos y palabras nuevas juntos; ir de a uno.

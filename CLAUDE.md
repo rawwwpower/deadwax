@@ -18,7 +18,10 @@ o se compre algo.
 forma más fácil de aprender y recordar. No mencionar cómo *no* hacerlo ni los
 errores posibles: la confunde. Pasos cortos y numerados, una regla para recordar
 (una frase o palabras clave), y enseñar las buenas prácticas del equipo de forma
-didáctica, como hábitos.
+didáctica, como hábitos. **Un paso por mensaje** y esperar su respuesta antes del
+siguiente; si se pierde, volver a un solo paso. Le sirven las analogías con discos
+("el K.O. es como un disco") y que mande foto del equipo antes de guiarla. Si no
+sé un botón con certeza, decirlo y buscarlo antes de hacerla probar a ciegas.
 
 ## Personal y laboral: nunca mezclar (pedido de Ana, 21/10/2026)
 
