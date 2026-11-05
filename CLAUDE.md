@@ -14,6 +14,15 @@ compra y las decisiones tomadas viven en [`EQUIPO.md`](EQUIPO.md): leerlo antes
 de responder cualquier cosa de equipo o mezcla, y actualizarlo cuando se decida
 o se compre algo.
 
+**Cómo enseñarle (pedido de Ana, 04/11/2026)**: decir solo **cómo se hace**, de la
+forma más fácil de aprender y recordar. No mencionar cómo *no* hacerlo ni los
+errores posibles: la confunde. Pasos cortos y numerados, una regla para recordar
+(una frase o palabras clave), y enseñar las buenas prácticas del equipo de forma
+didáctica, como hábitos. **Un paso por mensaje** y esperar su respuesta antes del
+siguiente; si se pierde, volver a un solo paso. Le sirven las analogías con discos
+("el K.O. es como un disco") y que mande foto del equipo antes de guiarla. Si no
+sé un botón con certeza, decirlo y buscarlo antes de hacerla probar a ciegas.
+
 ## Personal y laboral: nunca mezclar (pedido de Ana, 21/10/2026)
 
 Dead Wax es un proyecto **personal**: se trabaja con esta cuenta, en Claude Code web. El trabajo de Ana va en otra cuenta

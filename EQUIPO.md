@@ -154,6 +154,51 @@ Bandejas de otras marcas que cumplen: Pioneer PLX-1000, Reloop RP-7000 MK2, Audi
 
 ## EP-133 K.O. II + Mac: samplear temas y pelis
 
+### Retomar acá (04 nov 2026, cierre): B6 en loop como base
+
+Ana logró su objetivo del día: **B6 sonando en loop con el secuenciador** (RECORD + PLAY, esperar que el número se mueva, pad 6)
+y tocar encima con la caja **A** (baterías de fábrica). Aprendió a limpiar el patrón con **ERASE + MAIN**. Lo próximo: tocar
+encima del loop, grabar más samples propios (B7 en adelante) y averiguar cómo volver a `1.1.1`. Abierto para Claude: confirmar
+con la guía oficial (no se abre desde la sesión; pedirle a Ana una captura) cómo volver al principio del patrón y si
+ERASE + B solo borra el patrón de B. B6 quedó en modo **KEY** y su PAN quizás corrido: revisarlo de oído con auriculares.
+Cómo enseñarle: un paso por mensaje, esperar su respuesta, analogías con discos (le sirvió "el K.O. es como un disco").
+
+Notas de la sesión (04 nov 2026): regla para grabar
+
+Ana retomó el K.O. II. Regla que le enseñamos para recordar el orden:
+**"Dónde → Grabo → Escucho"**: 1) letra (A–D) = dónde va; 2) SAMPLE + mantener el
+pad mientras suena = grabo; 3) MAIN y tocar el pad = escucho. Lo próximo sigue
+siendo grabar en B6. Al enseñarle, solo el cómo (ver CLAUDE.md).
+
+Probado ese día en su equipo: A1 y B5 suenan. **SHIFT + SOUND** abre la edición del
+sonido (pantalla `SND ONE`); la perilla **X** cambia el modo (ONE / KEY / LEG, sin
+LOOP ahí) y la **Y** es PAN. B6 quedó en KEY; el PAN puede haber quedado corrido
+(volverlo a 0). El loop de sonido no se encontró; se resolvió con el secuenciador (abajo). La guía oficial
+(teenage.engineering) no se pudo abrir desde la sesión; la próxima vez, pedirle a Ana
+una foto del K.O. de arriba o una captura de la guía (sección loop, 10.5) **antes**
+de darle pasos. Le costó: muchos pasos y palabras nuevas juntos; ir de a uno.
+
+Foto del K.O. de Ana (04/11/2026), para guiarla con lo que tiene impreso: botones dobles con la
+palabra de arriba (sola) y la de abajo en gris (con SHIFT): SOUND/EDIT, MAIN/COMMIT, TEMPO/LOOP,
+SAMPLE/CHOP, FX/OUTPUT, TIMING/CORRECT, ERASE/SYSTEM. Perillas: blanca arriba = VOLUME, naranja =
+GAIN, negra = BPM/Y. Al lado de los pads hay parámetros impresos (LEVEL, PITCH, TIME, LPF, HPF, →FX,
+ATK, REL, PAN, TUNE, VEL, MOD). Regla que le dimos: **"Arriba solo, abajo con SHIFT"**.
+
+**Logrado (04/11/2026): B6 en loop como base**, con el secuenciador. Regla: **"RECORD + PLAY graba,
+PLAY solo toca y para"**. Pasos: B → mantener RECORD + PLAY (arranca el metrónomo) → tocar el pad 6
+una vez → PLAY para → PLAY de nuevo suena en loop y se toca encima. Ana grabó una segunda vez sin
+querer (RECORD + PLAY de nuevo), así que el patrón puede tener toques de más. Lo próximo: tocar
+encima del loop y, cuando quiera, aprender a borrar o rehacer el patrón.
+
+Después aprendió a **limpiar el disco** (el patrón; en pantalla parpadea **PTN**) y regrabar solo B6:
+parar con PLAY → mantener **ERASE + B** hasta que parpadee PTN (borra el patrón de esa caja; los
+samples quedan). Lo que le funcionó al final fue **ERASE + MAIN** unos segundos (borra todas las cajas
+de la escena). Al regrabar: RECORD + PLAY → **esperar a que el número se mueva** → pad 6. Fuentes de
+estos pasos: ep133.joeyh.org, teenagemanual.com/ep-133/erase y la guía oficial en PDF (B&H). La
+analogía que le sirvió: **el K.O. es como un disco** (PLAY gira, el número es dónde está la púa, el
+loop es un locked groove, los pads son una pandereta en la mano). Caja A = baterías de fábrica para
+tocar encima. Pendiente: cómo volver a 1.1.1 (SHIFT + PLAY no lo hace).
+
 ### Retomar acá (22 oct 2026, cierre): primeros pasos con el K.O. II
 
 Ana actualizó el K.O. II de la 1.2.3 a la **2.5.1** y grabó su **primer sample** desde YouTube por USB en **B5**. Ya entiende:
