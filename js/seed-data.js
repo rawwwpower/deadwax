@@ -2080,5 +2080,16 @@ window.DEADWAX_SEED = [
     "year": "1996",
     "format": "LP",
     "notes": "País: USA\nVisto en Fear of Musik: 12\" advance (promo de adelanto) USA 1996, tapa genérica blanca, disco EX- o mejor. Solo el edit de 4:00, repetido en los dos lados: el surco ancho a 12\" suena muy abierto. $82.500 transferencia (~USD 52). Sin otras versiones: más pieza de colección que herramienta de mezcla."
+  },
+  {
+    "id": "dw-299",
+    "type": "collection",
+    "artist": "The Chemical Brothers",
+    "album": "Come With Us",
+    "label": "Virgin / Freestyle Dust",
+    "year": "2016",
+    "format": "LP",
+    "notes": "País: UE (Países Bajos/Universal) · Catálogo: XDUSTLP5 · Prensado: Barcode 724381168219 y cat. XDUSTLP5, los mismos que la original UK 2002 (Virgin), que reusan la 2016 europea (negro, Discogs la fecha 21/10/2016, alt. 8116821), la 2017 USA Astralwerks (de color, numerada) y la 2023 (amarilla, 140 g). Esta copia: vinilo negro; la contratapa nombra a 'Universal International Music B.V., Baarn' (Universal se quedó con Virgin/EMI en 2012-13). Las etiquetas (blanca con logo, y roja con el splash) repiten el texto de Virgin 2002 ('Made in the E.U.', 7243 8 11682 1 9 / 7243 8 11684 1 7, XDUSTLP5-C/D), así que no sirven para fechar. Conclusión: 2016 europea (confianza: probable; falta leer la matrix del dead wax). Corte acreditado a 'Mike's' en Discogs, igual que en 2017 y 2023.\nIdentificado 04/11/2026 por fotos de la contratapa y de las etiquetas C/D (sin dead wax). Sonido (comentarios de Discogs, búsqueda 04/11/2026): la 2016 europea, fuerte, nítida y con buena dinámica, sin clicks; un oyente elogia los medios. Quejas puntuales: a uno 'The Test' le sonó muy mal, y otra copia trae ruido entre temas y manchitas en los surcos de entrada/salida. La 2023 amarilla está dividida (apagada para uno, fuerte para otro); la 2017 USA, limpia y dinámica. Datos: Star Guitar samplea 'Starman' de Bowie; The Test (voz de Richard Ashcroft) samplea 'Pielgrzym' (1972) de Czesław Niemen. Fuentes: discogs master 25283, foro de Steve Hoffman (hilo 638943, no se pudo abrir), store.thechemicalbrothers.com, factmag 2016, Wikipedia.",
+    "owner": "seba"
   }
 ];

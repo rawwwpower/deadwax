@@ -56,6 +56,12 @@ Lo que no se identifica bien se recomienda mal: este paso va **antes** del vered
 2. **"Evitar" (y 🚩) es solo para calidad:** sonido, estado, autenticidad, defectos reportados. Un disco que suena bien nunca se presenta como malo o "a evitar" por su precio.
 3. **Decir "caro" sí, y claro** (Ana lo quiere saber): caro / razonable / barato con su referencia, pero como dato del precio, separado del juicio de calidad.
 
+## Orden de prioridad de Ana (04/11/2026)
+
+**1º la primera edición** (original de época, país de origen), **2º la que mejor suene** de las que se puedan conseguir. Todo veredicto y ranking de versiones sigue ese orden: primero decir dónde está la primera edición y cómo reconocerla, y recién después, si no se consigue o no conviene, la mejor alternativa por sonido. Una reedición bien reseñada es "buena para escuchar", nunca "la que hay que tener".
+
+**No repetir como lora que no es la primera edición** (Ana, 04/11/2026): si ella ya dijo que sabe que es reedición, no volver a marcarlo. Ir directo a lo que pregunta (cómo suena, de qué master viene, qué ediciones hay) y a los datos curiosos, que es lo que espera. Ejemplo que le encantó: el runout "serenity now!" de la original de *Come With Us* (es fan de *Seinfeld*). Los runouts y etchings con mensajes son buena fuente de datos curiosos.
+
 ## Los tres criterios (resumen — detalle en `references/guia-completa.md`)
 
 1. **¿Es de época o reedición?** Prensa contemporánea al lanzamiento > reedición moderna, salvo sello audiófilo reconocido (Analogue Productions, Speakers Corner, Sundazed, Classic Records, RhinOvinyl) sobre un original inconseguible o sonoramente superado.
@@ -140,7 +146,7 @@ python3 mb.py && python3 covers.py   # solo si hay discos nuevos: busca y baja s
 python3 build.py                     # regenera vinilos.html
 ```
 
-y republicar `curaduria/vinilos/vinilos.html` con la tool Artifact pasando ese `url` (mismo link). Detalle de las tapas (proxy, simples vs. álbum) en `curaduria/vinilos/README.md`.
+y commitear `vinilos.html`. **No republicar el artifact** (pedido de Ana, 04/11/2026): queda congelado; solo se publica si ella lo pide. Las respuestas van por chat. Detalle de las tapas (proxy, simples vs. álbum) en `curaduria/vinilos/README.md`.
 
 ## Gustos de Ana y Seba (para curaduría)
 
