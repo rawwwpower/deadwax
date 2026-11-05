@@ -1,6 +1,6 @@
 ---
 name: cierre
-description: Cierre de sesión de Dead Wax. Anota el punto de retome en curaduria/PENDIENTES.md (o EQUIPO.md si fue de equipo/mezcla), guarda lo que tiene que sobrevivir entre sesiones, regenera las salidas si cambió la base, commitea, pushea, deja el PR a main listo y le devuelve a Ana la frase para abrir la próxima. Usar cuando Ana escribe /cierre, "cerremos", "cierro acá", "seguimos en otra sesión" o similar.
+description: Cierre de sesión de Dead Wax. Anota el punto de retome en curaduria/PENDIENTES.md (equipo, mezcla e instrumentos van en el repo musica), guarda lo que tiene que sobrevivir entre sesiones, regenera las salidas si cambió la base, commitea, pushea, deja el PR a main listo y le devuelve a Ana la frase para abrir la próxima. Usar cuando Ana escribe /cierre, "cerremos", "cierro acá", "seguimos en otra sesión" o similar.
 ---
 
 # /cierre
@@ -26,7 +26,7 @@ Si la sesión no tuvo nada para guardar, decilo en una línea y no toques archiv
   `## Retomar acá (<d mmm aaaa>, <momento>): <de qué se trata, corto>` y un párrafo denso (≈120 caracteres por línea) con lo
   decidido, las rutas/ids en **negrita con backticks**, lo descartado y lo abierto. Si un ítem de "Abierto" se resolvió,
   sacalo o actualizalo ahí mismo. No reescribas ni borres las otras secciones.
-- **Equipo y mezcla:** lo mismo en `EQUIPO.md` (decisiones, compras, lo que falta probar).
+- **Equipo, mezcla o instrumentos:** no van acá; van en el repo `musica` (avisarle a Ana si quedó algo de eso).
 - **App / skill / repo:** si quedó trabajo de código a medias, `ROADMAP.md` o una línea en PENDIENTES.md.
 
 ## 3. Lo que tiene que sobrevivir (el "contexto compartido" de este proyecto)

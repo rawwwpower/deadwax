@@ -135,4 +135,4 @@ Segunda pasada (la buena, después de la corrección de Ana):
   (jazz/fusión, funk, art pop, axé) + el bootleg de Gabriel como evitar; respuesta sobre las copias repetidas.
 - 04-07/10: compras de la feria a la colección (Mr. Gone, Led Zeppelin II, Go-Go's, Nena) y Jaco Pastorius (MOV).
   Gustos nuevos en SKILL.md (fusión oscura/electrónica, Future Shock, Björk Debut; no Pink Floyd).
-  Wishlist de Seba (Steely Dan, YMO; la página marca "para seba"). nana sale de main: queda en `claude/nana-ipod`.
+  Wishlist de Seba (Steely Dan, YMO; la página marca "para seba"). nana se mudó al repo `musica` (05/11).

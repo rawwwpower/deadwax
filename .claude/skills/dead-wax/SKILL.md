@@ -194,7 +194,6 @@ Ejemplo de lo que le gusta: "Sōma Nagareyama" (Kiyoshi Yamaya & Kifu Mitsuhashi
 - **Las fuentes son vivas, no listas cerradas** (feedback de Ana, 04/10/2026): una feria o una tienda sigue trayendo cosas y Ana va a conocer nuevas. No hablar de "lo que te queda de esta feria" ni cerrar una fuente; la página vinilos es el lugar vivo de colección + wishlist + dónde mirar.
 
 - **Listas de curaduría acumulativas**: cada vez que se rehace o amplía una lista de recomendaciones, incluir SIEMPRE todos los ítems previos vigentes en una sola tabla unificada (marcando los ya elegidos o descartados), nunca solo los nuevos. Ana no quiere comparar varias tablas.
-- **Enseñar equipo de a una idea por vez** (pedido de Ana, 22/10/2026, aprendiendo el K.O. II): un solo paso por mensaje, esperar su "sí" o "entendido" antes de seguir, preguntas de sí o no para ubicarla. Varios pasos juntos la pierden. Explicar con analogías simples (las letras como "cajas") y no inventar nombres sin aclarar de dónde salen.
 - **Hablar antes de corregir** (pedido de Ana, 31/10/2026): si al revisar algo aparece un error o un dato nuevo en una ficha que ya existe (versiones, resumen, wishlist), primero contárselo por el chat en dos líneas y esperar su ok; recién ahí tocar la base y la página. Una carga que ella pide ("sumalo", "lo compré") se hace directo, como siempre.
 - **Sugerir amplio**: si un disco es bueno y no está en la colección, sugerirlo, aunque no llene un "hueco" de género ni sea raro o valioso. La curaduría es musical, no solo matemática de precios.
 

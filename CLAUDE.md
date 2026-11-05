@@ -4,24 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Rol de Claude en este proyecto (pedido explícito de Ana)
 
-Ana quiere que Claude sea **su ingeniera tech y de sonido**, no solo asistente
-del catálogo: además de programar la app/skill, asesorar sobre equipo (bandejas,
-cápsulas, mixer, pre, parlantes), calidad de audio de prensados y técnica.
-Hablarle en castellano rioplatense.
+Dead Wax es **solo discos**: colección, wishlist, evaluar prensados y curaduría. Claude, además de programar la
+app/skill, asesora sobre calidad de audio de prensados. Hablarle en castellano rioplatense.
 
-Ana **quiere aprender a mezclar vinilos** (DJ). Su equipo actual, el plan de
-compra y las decisiones tomadas viven en [`EQUIPO.md`](EQUIPO.md): leerlo antes
-de responder cualquier cosa de equipo o mezcla, y actualizarlo cuando se decida
-o se compre algo.
-
-**Cómo enseñarle (pedido de Ana, 04/11/2026)**: decir solo **cómo se hace**, de la
-forma más fácil de aprender y recordar. No mencionar cómo *no* hacerlo ni los
-errores posibles: la confunde. Pasos cortos y numerados, una regla para recordar
-(una frase o palabras clave), y enseñar las buenas prácticas del equipo de forma
-didáctica, como hábitos. **Un paso por mensaje** y esperar su respuesta antes del
-siguiente; si se pierde, volver a un solo paso. Le sirven las analogías con discos
-("el K.O. es como un disco") y que mande foto del equipo antes de guiarla. Si no
-sé un botón con certeza, decirlo y buscarlo antes de hacerla probar a ciegas.
+**Equipo, mezcla (DJ), instrumentos (K.O. II) y nana viven en el repo [`musica`](https://github.com/rawwwpower/musica)**
+(mudados el 05/11/2026), con sus reglas de cómo enseñarle. Si en una sesión de Dead Wax Ana pregunta por eso, decirle
+que va en `musica` (o sumar ese repo a la sesión). Para opinar cómo suena un prensado alcanza con saber que escucha en
+una Technics SL-D3 con cápsula Sumiko Pearl (MM, elíptica), por el phono de un integrado Lenco A600.
 
 ## Personal y laboral: nunca mezclar (pedido de Ana, 21/10/2026)
 
@@ -34,7 +23,7 @@ contenido laboral pegado, una propuesta que conecte los dos entornos), **marcár
 
 **No publicar ni republicar artifacts** (pedido de Ana, 04/11/2026: "el artifact se está descontrolando, no tiene sentido"). Todo se guarda solo en GitHub (commit, push, PR) y se le contesta a Ana por el chat. Se sigue regenerando `vinilos.html` con `build.py` para que quede en el repo, pero no se sube. Solo volver a publicar si Ana lo pide explícitamente. (Artifact vinilos, congelado: https://claude.ai/artifact/DVryBYPAcqAX3scZDRqmu5)
 
-**nana** (la webapp con forma de iPod nano, https://claude.ai/artifact/FgBLCH8DMS3cbLAYpHn45d) fue una prueba: vive en la rama `claude/nana-ipod`, no en `main`. No actualizarla ni republicarla cuando cambia la base; solo si Ana lo pide. El artifact de trabajo es **vinilos** (colección + wishlist).
+**nana** (la webapp con forma de iPod nano) se mudó al repo `musica` (05/11/2026); la rama `claude/nana-ipod` quedó vieja y Ana puede borrarla desde GitHub. El artifact de trabajo es **vinilos** (colección + wishlist).
 
 ## El repo es público (decisión de Ana, 21/10/2026)
 
@@ -90,7 +79,7 @@ No build, lint, or test tooling in this repo: it's a stdlib-only Python CLI plus
 Every Claude session works on its own `claude/...` branch. In Sep 2026 seven of these had piled up unmerged, with collection records living only on side branches. To keep that from happening again:
 
 - **Start from `main`**: at the beginning of a session, merge the latest `origin/main` into the session branch before changing anything.
-- **Close by opening a PR to `main`** whenever the session saved work (commit + push), and tell Ana it's waiting for her "Merge" click. A session's work isn't saved until it's in `main`. When Ana writes `/cierre` (or "cerremos"), follow `.claude/skills/cierre/SKILL.md`: retome note in `PENDIENTES.md`/`EQUIPO.md`, regenerate outputs, commit, push, PR.
+- **Close by opening a PR to `main`** whenever the session saved work (commit + push), and tell Ana it's waiting for her "Merge" click. A session's work isn't saved until it's in `main`. When Ana writes `/cierre` (or "cerremos"), follow `.claude/skills/cierre/SKILL.md`: retome note in `PENDIENTES.md`, regenerate outputs, commit, push, PR.
 - **Hooks (`.claude/settings.json`, cloud sessions only)** automate both ends: `session-start.sh` merges `origin/main` at startup and prints what changed lately plus any `claude/*` branch with work not yet in `main`; `stop-guardar.sh` blocks ending a turn while there are uncommitted or unpushed changes. Ana chose (21/10/2026) to keep merging by hand: no auto-merge to `main`, she clicks "Merge" on each PR.
 - **`coleccion.db` is binary: git can't merge it.** On a conflict, never pick one side (records get lost). Merge row by row, keyed on `(owner, artista, titulo)`: union the columns and the rows, fill empty fields from the other side, and let `owned` win on `status`. Then regenerate `js/seed-data.js`.
 
