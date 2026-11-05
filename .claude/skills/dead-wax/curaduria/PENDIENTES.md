@@ -61,16 +61,15 @@ Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **proto
 
 ## Curaduría Muzik Saved My Life (05/11/2026, abierta: esperando qué le interesa a Ana)
 
-Tienda de CABA (muziksavedmylife.com, WooCommerce: el catálogo entero sale de `/wp-json/wc/store/v1/products?per_page=100&page=N`, 2217 ítems, 2143 en stock). Fuerte en 12" de synth-pop/house/Depeche/Madonna. Precios en ARS al 05/11/2026; no encontré el dólar del día.
-- 💎 Herbie Hancock *Rockit* 12" Japón 1983 CBS/Sony 12AP 2695 con obi, NM/NM, $119.395 (afuera ~USD 13-14: caro).
-- 👍 Quincy Jones *The Dude* USA 1981 A&M SP-3721 original (Grundman/Swedien), NM/NM, $93.811. "Ai No Corrida" es cover de Chaz Jankel (1980).
-- 👍 Chas Jankel *Glad To Know You* 12" Francia 1982 AMS 12-9214, con tapa, NM/EX, $102.339 (relación con id 292).
-- 👍 Grace Jones *Slave To The Rhythm* 12" USA 1985 V 56012, NM/NM, $65.412.
-- 👍 Horace Andy *Midnight Scorchers* On-U 2022 ONULP153 naranja, nuevo, $69.580 (dub de *Midnight Rocker*, Sherwood).
-- 👍 Rhythm & Sound *w/ The Artists* Burial Mix BMLP-2 represión 2026, nuevo, $108.353 (original 2004).
-- 👍 *Virtual Dreams II* Music From Memory MFM072 2024, $101.970 · *Congo Funk!* Analog Africa AALP 098 2024, EX/NM, $126.605.
-- 🤔 Aquelarre *Brumas* SE-489 (la tienda dice MICSA 1977; el original es Talent 1974: mirar la etiqueta), VG+, $110.779 · Pastoral *Pastoral* Cabal LPC-5007 1973 original, VG+, $42.202 · Gang of Four *Solid Gold* USA 1981 BSK 3565, NM/EX, $84.403.
-- 🤷 The Cult *Sonic Temple* Brasil 1989 EMI 068 427007-1, EX/EX, $94.250 (de época pero licencia; el ranking dice US Sire) · Beatles *Álbum Blanco* reedición argentina numerada 9119/20, $211.008 (pasar).
+Tienda de CABA (muziksavedmylife.com, WooCommerce: el catálogo entero sale de `/wp-json/wc/store/v1/products?per_page=100&page=N`, 2217 ítems, 2143 en stock; la descripción trae Sello/Catálogo/Formato/País/Año/Disco/Tapa, así que se puede filtrar por "Reissue"). Fuerte en 12" de synth-pop/house/Depeche/Madonna. Precios ARS al 05/11/2026.
+
+Segunda pasada (la buena, después de la corrección de Ana):
+- 💎 Cocteau Twins *Victorialand* Japón 1986 Virgin/4AD 25VB-1092, NM/NM, $328.821 (caro, sin referencia chequeada) · New Order *Thieves Like Us* 12" Japón 1984 Factory YW-7420-AX, NM/EX, $112.098.
+- 👍 Cocteau Twins *Head Over Heels* Francia 1983 New Rose ROSE 25, NM/NM, $112.098 · Siouxsie *Candyman* 12" UK 1986 SHEX 10, NM/NM, $74.732 · Gang of Four *Solid Gold* USA 1981 BSK 3565, NM/EX, $84.403 · Dusty Springfield *Dusty in Memphis* USA 1969 SD 8214, NM/NM, $168.806 (original no audiófilo; la que mejor suena es Analogue Productions 45 rpm) · Nina Hagen Band *Unbehagen* 1979 CBS 84159, NM/NM, $42.202.
+- Oportunidades baratas (maxis de época): Moskwa TV *Tekno Talk* 1985 $32.355 · White Door *Kings of the Orient* Clay 1982 $43.608 · Gary Clail/On-U *Escape* 1991 $44.312 · George Kranz *Trommeltanz* 1983 $46.334 · DAF *Voulez Vous Coucher Avec Moi* 1986 $55.390 · Art of Noise *Paranoimia* UK 1986 $59.786 · A Split-Second *Take This and Shove It* 1987 $97.222.
+- Metal japonés de época: Ozzy *Bark at the Moon* 30AP 2731 $106.295 · Tygers of Pan Tang *The Cage* VIM-6285 $104.625.
+- Primera pasada, vigente pero tibia para Ana: Quincy Jones *The Dude* USA 1981 SP-3721 $93.811 · Chas Jankel 12" Francia 1982 $102.339 · Grace Jones *Slave to the Rhythm* 12" USA 1985 $65.412 (Ana busca *Warm Leatherette*, id 31) · Horace Andy *Midnight Scorchers* · Rhythm & Sound *w/ The Artists* · *Virtual Dreams II* · *Congo Funk!* · Pastoral 1973.
+- Descartados por Ana: *Rockit* (ya está *Future Shock* en casa), *Sonic Temple* Brasil (tiene la US de época, id 34 owned), *Álbum Blanco* argentino, Aquelarre.
 
 ## Abierto
 
