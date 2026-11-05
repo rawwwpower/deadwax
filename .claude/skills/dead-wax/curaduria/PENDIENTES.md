@@ -59,6 +59,19 @@ Discos que Ana dijo que va a escuchar. Cuando vuelva, preguntarle qué le pareci
 Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **protocolo de identificación**
 (niveles de confianza confirmada / probable / sin confirmar). Lo que dice la base es hipótesis hasta verificarlo.
 
+## Curaduría Muzik Saved My Life (05/11/2026, abierta: esperando qué le interesa a Ana)
+
+Tienda de CABA (muziksavedmylife.com, WooCommerce: el catálogo entero sale de `/wp-json/wc/store/v1/products?per_page=100&page=N`, 2217 ítems, 2143 en stock). Fuerte en 12" de synth-pop/house/Depeche/Madonna. Precios en ARS al 05/11/2026; no encontré el dólar del día.
+- 💎 Herbie Hancock *Rockit* 12" Japón 1983 CBS/Sony 12AP 2695 con obi, NM/NM, $119.395 (afuera ~USD 13-14: caro).
+- 👍 Quincy Jones *The Dude* USA 1981 A&M SP-3721 original (Grundman/Swedien), NM/NM, $93.811. "Ai No Corrida" es cover de Chaz Jankel (1980).
+- 👍 Chas Jankel *Glad To Know You* 12" Francia 1982 AMS 12-9214, con tapa, NM/EX, $102.339 (relación con id 292).
+- 👍 Grace Jones *Slave To The Rhythm* 12" USA 1985 V 56012, NM/NM, $65.412.
+- 👍 Horace Andy *Midnight Scorchers* On-U 2022 ONULP153 naranja, nuevo, $69.580 (dub de *Midnight Rocker*, Sherwood).
+- 👍 Rhythm & Sound *w/ The Artists* Burial Mix BMLP-2 represión 2026, nuevo, $108.353 (original 2004).
+- 👍 *Virtual Dreams II* Music From Memory MFM072 2024, $101.970 · *Congo Funk!* Analog Africa AALP 098 2024, EX/NM, $126.605.
+- 🤔 Aquelarre *Brumas* SE-489 (la tienda dice MICSA 1977; el original es Talent 1974: mirar la etiqueta), VG+, $110.779 · Pastoral *Pastoral* Cabal LPC-5007 1973 original, VG+, $42.202 · Gang of Four *Solid Gold* USA 1981 BSK 3565, NM/EX, $84.403.
+- 🤷 The Cult *Sonic Temple* Brasil 1989 EMI 068 427007-1, EX/EX, $94.250 (de época pero licencia; el ranking dice US Sire) · Beatles *Álbum Blanco* reedición argentina numerada 9119/20, $211.008 (pasar).
+
 ## Abierto
 
 - **Gusto de Ana, ronda Fear of Musik (02/11/2026):** Ana pasa discos que le llaman la atención o conoce, para que conozca su gusto. Se cargan en la wishlist como `interesante` con la etiqueta "referencia de gusto". Señal nueva: maxis de hip hop de los '90 y 2000 con historia de sampleo (Coolio *Gangsta's Paradise*, Eminem *Lose Yourself*, Crazy Town *Butterfly*) , el rap rock con samples de rock (Beastie Boys *Licensed to Ill*), big beat y rave con samples (Rockafeller Skank, Prodigy *Out of Space*), Primus ("me gusta mucho"), los Doors ("me gustan") y pop mainstream en maxis de remixes (Britney *Oops!*). Tenerlo en cuenta en las búsquedas, junto con los maxis largos para mezclar. **Ana avisó que su gusto es mucho más amplio y curioso que lo que muestra la colección:** no recomendar solo por artistas o géneros que ya tiene; buscar por conexiones (samples, productores, historias, cruces de género) y animarse a sugerir cosas fuera de lo esperable. Al recomendar discos de una tienda, **poner el link a cada uno** (pedido de Ana, 02/11) para que los vea rápido.
