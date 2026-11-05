@@ -23,7 +23,7 @@ if git fetch -q origin 2>/dev/null; then
 
   # Ramas claude/* con trabajo que todavía no llegó a main (PR sin mergear).
   sueltas=""
-  for b in $(git branch -r --format='%(refname:short)' | grep '^origin/claude/' | grep -v '^origin/claude/nana-ipod$'); do
+  for b in $(git branch -r --format='%(refname:short)' | grep '^origin/claude/'); do
     n=$(git rev-list --count origin/main.."$b" 2>/dev/null || echo 0)
     [ "$n" -gt 0 ] && sueltas="$sueltas $b($n)"
   done
@@ -41,6 +41,6 @@ git log origin/main --no-merges -8 --format='- %ad %s' --date=format:'%d/%m' 2>/
 
 echo
 echo "### Para retomar"
-echo "- Equipo y mezcla: EQUIPO.md · Curaduría y compras abiertas: .claude/skills/dead-wax/curaduria/PENDIENTES.md"
+echo "- Curaduría y compras abiertas: .claude/skills/dead-wax/curaduria/PENDIENTES.md · Equipo, mezcla e instrumentos: repo musica"
 echo "- Al guardar trabajo: commit + push y PR a main (Ana aprieta Merge). El hook de Stop avisa si quedó algo sin guardar."
 exit 0
