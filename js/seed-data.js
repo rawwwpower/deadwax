@@ -2092,5 +2092,76 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: UE (Países Bajos/Universal) · Catálogo: XDUSTLP5 · Prensado: Barcode 724381168219 y cat. XDUSTLP5, los mismos que la original UK 2002 (Virgin), que reusan la 2016 europea (negro, Discogs la fecha 21/10/2016, alt. 8116821), la 2017 USA Astralwerks (de color, numerada) y la 2023 (amarilla, 140 g). Esta copia: vinilo negro; la contratapa nombra a 'Universal International Music B.V., Baarn' (Universal se quedó con Virgin/EMI en 2012-13). Las etiquetas (blanca con logo, y roja con el splash) repiten el texto de Virgin 2002 ('Made in the E.U.', 7243 8 11682 1 9 / 7243 8 11684 1 7, XDUSTLP5-C/D), así que no sirven para fechar. Conclusión: 2016 europea (confianza: probable; falta leer la matrix del dead wax). Corte acreditado a 'Mike's' en Discogs, igual que en 2017 y 2023.\nIdentificado 04/11/2026 por fotos de la contratapa y de las etiquetas C/D (sin dead wax). Sonido (comentarios de Discogs, búsqueda 04/11/2026): la 2016 europea, fuerte, nítida y con buena dinámica, sin clicks; un oyente elogia los medios. Quejas puntuales: a uno 'The Test' le sonó muy mal, y otra copia trae ruido entre temas y manchitas en los surcos de entrada/salida. La 2023 amarilla está dividida (apagada para uno, fuerte para otro); la 2017 USA, limpia y dinámica. Datos: Star Guitar samplea 'Starman' de Bowie; The Test (voz de Richard Ashcroft) samplea 'Pielgrzym' (1972) de Czesław Niemen. Fuentes: discogs master 25283, foro de Steve Hoffman (hilo 638943, no se pudo abrir), store.thechemicalbrothers.com, factmag 2016, Wikipedia.",
     "owner": "seba"
+  },
+  {
+    "id": "dw-300",
+    "type": "collection",
+    "artist": "Funkadelic",
+    "album": "Maggot Brain",
+    "label": "",
+    "year": "1971",
+    "format": "LP",
+    "notes": "Dato: el solo de Eddie Hazel en el tema 'Maggot Brain' salió en una sola toma; George Clinton le pidió que tocara como si le acabaran de decir que su madre había muerto (Wikipedia 'Maggot Brain (instrumental)'; Far Out Magazine). Hazel murió en 1992 y el tema sonó en su funeral. Cargado el 05/11/2026 a partir del panorama de Spotify.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-301",
+    "type": "wantlist",
+    "artist": "Cymande",
+    "album": "Cymande",
+    "label": "",
+    "year": "1972",
+    "format": "LP",
+    "notes": "Debut de 1972; en USA salió por Janus Records (Wikipedia, Amoeba). Dato: 'Bra' la samplearon Gang Starr ('Movin' On', 1988) y De La Soul ('Change in Speak', 3 Feet High and Rising, 1989); 'Dove' es la base de 'The Score' de los Fugees (1996), un uso sin autorización que terminó en un acuerdo (Wikipedia 'Cymande'; grammy.com). La edición UK original y su sello quedan sin verificar."
+  },
+  {
+    "id": "dw-302",
+    "type": "wantlist",
+    "artist": "Shuggie Otis",
+    "album": "Freedom Flight",
+    "label": "Epic",
+    "year": "1971",
+    "format": "LP",
+    "notes": "Dato: trae la versión original de 'Strawberry Letter 23', que Shuggie escribió para una novia que le mandaba cartas en papel perfumado de frutilla. Los Brothers Johnson la llevaron al nº 1 R&B en 1977 con producción de Quincy Jones; el solo de guitarra lo recreó Lee Ritenour (Wikipedia 'Freedom Flight'; Soultracks)."
+  },
+  {
+    "id": "dw-303",
+    "type": "wantlist",
+    "artist": "Kyuss",
+    "album": "Wretch",
+    "label": "",
+    "year": "1991",
+    "format": "LP",
+    "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography')."
+  },
+  {
+    "id": "dw-304",
+    "type": "wantlist",
+    "artist": "Kyuss",
+    "album": "Blues for the Red Sun",
+    "label": "",
+    "year": "1992",
+    "format": "LP",
+    "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography')."
+  },
+  {
+    "id": "dw-305",
+    "type": "wantlist",
+    "artist": "Kyuss",
+    "album": "Welcome to Sky Valley",
+    "label": "",
+    "year": "1994",
+    "format": "LP",
+    "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography')."
+  },
+  {
+    "id": "dw-306",
+    "type": "wantlist",
+    "artist": "Kyuss",
+    "album": "...And the Circus Leaves Town",
+    "label": "",
+    "year": "1995",
+    "format": "LP",
+    "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography')."
   }
 ];

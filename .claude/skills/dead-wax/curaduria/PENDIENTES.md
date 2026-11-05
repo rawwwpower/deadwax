@@ -3,6 +3,13 @@
 Estado al 07/10/2026, para retomar en una sesión nueva sin perder nada.
 Leer esto antes de seguir con cualquier compra, carga a la base o la página de vinilos.
 
+## Retomar acá (5 nov 2026): panorama de Spotify
+
+Ana pasó el export de sus playlists de Spotify. Lo que quedó está en `references/panorama-spotify.md`, que es contexto
+para recomendar y no una wishlist. Se cargaron: *Maggot Brain* (owned, edición sin identificar, id 300), y como `top`
+*Cymande* (301), *Freedom Flight* (302) y los cuatro discos de estudio de Kyuss (303-306). Abierto: relevar la primera
+edición de cada uno (`versiones`). Mezcla con BPM y tonalidad: por ahora no, solo si Ana lo pide.
+
 ## Retomar acá (24 oct 2026, cierre): ronda de fotos para completar la colección de Ana y Seba
 
 Ana manda fotos de etiqueta, tapa o dead wax y voy identificando y cargando cada disco. Lo mínimo que alcanza: la etiqueta
