@@ -312,13 +312,14 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-34",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "The Cult",
     "album": "Sonic Temple",
     "label": "Sire",
     "year": "1989",
     "format": "LP",
-    "notes": "País: USA · Catálogo: 1-25871 · Prensado: Original US Sire, masterizada por Sterling Sound en DMM. Reviews: 'hot pressing, soundstage fantástico, claridad y separación' — descripta como mejor que la reedición 2019 del 30 aniversario. El catálogo UK de origen (Beggars Banquet BEGA 98) en realidad se imprimió en Alemania Occidental, dato curioso.\nVEREDICTO: vale la pena, buena compra para sonido."
+    "notes": "País: USA · Catálogo: 1-25871 · Prensado: Original US Sire, masterizada por Sterling Sound en DMM. Reviews: 'hot pressing, soundstage fantástico, claridad y separación' — descripta como mejor que la reedición 2019 del 30 aniversario. El catálogo UK de origen (Beggars Banquet BEGA 98) en realidad se imprimió en Alemania Occidental, dato curioso.\nVEREDICTO: vale la pena, buena compra para sonido.",
+    "owner": "yo"
   },
   {
     "id": "dw-35",
