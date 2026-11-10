@@ -10,7 +10,7 @@ app/skill, asesora sobre calidad de audio de prensados. Hablarle en castellano r
 **Equipo, mezcla (DJ), instrumentos (K.O. II) y nana viven en el repo [`musica`](https://github.com/rawwwpower/musica)**
 (mudados el 05/11/2026), con sus reglas de cómo enseñarle. Si en una sesión de Dead Wax Ana pregunta por eso, decirle
 que va en `musica` (o sumar ese repo a la sesión). Para opinar cómo suena un prensado alcanza con saber que escucha en
-una Technics SL-D3 con cápsula Sumiko Pearl (MM, elíptica), por el phono de un integrado Lenco A600.
+una Technics SL-1700 MK2 con cápsula Sumiko Pearl (MM, elíptica), por el phono de un integrado Lenco A600.
 
 ## Personal y laboral: nunca mezclar (pedido de Ana, 21/10/2026)
 
