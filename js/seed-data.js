@@ -2183,5 +2183,35 @@ window.DEADWAX_SEED = [
     "year": "1981",
     "format": "LP",
     "notes": "Recomendado porque a Ana le encanta Technodelic. Ediciones sin relevar todavía."
+  },
+  {
+    "id": "dw-317",
+    "type": "wantlist",
+    "artist": "Soul II Soul",
+    "album": "Club Classics Vol. One",
+    "label": "",
+    "year": "1989",
+    "format": "LP",
+    "notes": "Bajo de sound system + soul: junta sus tres gustos. Nellee Hooper, nexo con Massive Attack. Apuntar a la británica original (10 Records)."
+  },
+  {
+    "id": "dw-318",
+    "type": "wantlist",
+    "artist": "Mark Stewart",
+    "album": "As the Veneer of Democracy Starts to Fade",
+    "label": "",
+    "year": "1985",
+    "format": "LP",
+    "notes": "On-U Sound con Tackhead; Stewart (The Pop Group, Bristol), tío oscuro de Massive Attack. Conecta con Technodelic por lo oscuro."
+  },
+  {
+    "id": "dw-319",
+    "type": "wantlist",
+    "artist": "African Head Charge",
+    "album": "My Life in a Hole in the Ground",
+    "label": "",
+    "year": "1981",
+    "format": "LP",
+    "notes": "On-U Sound, Adrian Sherwood. Dub psicodélico y percusivo."
   }
 ];
