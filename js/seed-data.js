@@ -2163,5 +2163,55 @@ window.DEADWAX_SEED = [
     "year": "1995",
     "format": "LP",
     "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography')."
+  },
+  {
+    "id": "dw-307",
+    "type": "wantlist",
+    "artist": "Ryuichi Sakamoto",
+    "album": "B-2 Unit",
+    "label": "",
+    "year": "1980",
+    "format": "LP",
+    "notes": "Salió de buscar algo en la línea de Technodelic (YMO); también es el puente con Blue Lines y Homework por el dub y el linaje electro (Bambaataa la pasaba). Ediciones sin relevar todavía."
+  },
+  {
+    "id": "dw-308",
+    "type": "wantlist",
+    "artist": "Yellow Magic Orchestra",
+    "album": "BGM",
+    "label": "",
+    "year": "1981",
+    "format": "LP",
+    "notes": "Recomendado porque a Ana le encanta Technodelic. Ediciones sin relevar todavía."
+  },
+  {
+    "id": "dw-317",
+    "type": "wantlist",
+    "artist": "Soul II Soul",
+    "album": "Club Classics Vol. One",
+    "label": "",
+    "year": "1989",
+    "format": "LP",
+    "notes": "Bajo de sound system + soul: junta sus tres gustos. Nellee Hooper, nexo con Massive Attack. Apuntar a la británica original (10 Records)."
+  },
+  {
+    "id": "dw-318",
+    "type": "wantlist",
+    "artist": "Mark Stewart",
+    "album": "As the Veneer of Democracy Starts to Fade",
+    "label": "",
+    "year": "1985",
+    "format": "LP",
+    "notes": "On-U Sound con Tackhead; Stewart (The Pop Group, Bristol), tío oscuro de Massive Attack. Conecta con Technodelic por lo oscuro."
+  },
+  {
+    "id": "dw-319",
+    "type": "wantlist",
+    "artist": "African Head Charge",
+    "album": "My Life in a Hole in the Ground",
+    "label": "",
+    "year": "1981",
+    "format": "LP",
+    "notes": "On-U Sound, Adrian Sherwood. Dub psicodélico y percusivo."
   }
 ];
