@@ -103,6 +103,9 @@ Precios ARS al 11/11/2026.
 - Otros por su gusto: Badalamenti *Music From Twin Peaks* 2020 ($84.000) · NIN *The Fragile* Definitive 2017
   ($96.000) · Tool *Undertow* 2025 ($80.000) · Primus *Sailing the Seas of Cheese* 2022 (**nuevo mix estéreo, no el
   original**, $79.000) · Fela Kuti *Zombie* 2022 ($80.000).
+- Segunda ronda (11/11): a Ana le interesaron *Exit Planet Dust*, *Bustin' + Dronin'*, *SAW 85-92* y BoC *Inferno* (wishlist
+  con ranking, ids 324 y 331-333). Larks consigue discos a pedido: sugeridos Leftfield, The Orb, Underworld, Global
+  Communication, BoC *Music Has the Right…*, Autechre *Amber* (descubrimientos 334-344, con Harmonia, Dots and Loops y Surrender en stock).
 - Sin stock pero para vigilar: Seefeel *Quique*, Thievery Corporation *Radio Retaliation*, Tricky, Kraftwerk *The Man-Machine*.
 - 🚩 *The Velvet Underground & Nico* de "Vinyl Lovers" (2008): sello europeo de dominio público, no oficial.
 

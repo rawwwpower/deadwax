@@ -2227,6 +2227,16 @@ window.DEADWAX_SEED = [
     "owner": "yo"
   },
   {
+    "id": "dw-324",
+    "type": "wantlist",
+    "artist": "Blur",
+    "album": "Bustin' + Dronin'",
+    "label": "",
+    "year": "1998",
+    "format": "LP",
+    "notes": "Remixes de Blur en clave dub/experimental. En Larks: RSD 2022 Parlophone (0190296345111), usado EX con obi, $68.000 (11/11/2026). Ana lo va a escuchar."
+  },
+  {
     "id": "dw-325",
     "type": "wantlist",
     "artist": "Fela Kuti",
@@ -2285,5 +2295,35 @@ window.DEADWAX_SEED = [
     "year": "1993",
     "format": "LP",
     "notes": "Discogs 11/11/2026. Sin comparación de sonido directa encontrada."
+  },
+  {
+    "id": "dw-331",
+    "type": "wantlist",
+    "artist": "The Chemical Brothers",
+    "album": "Exit Planet Dust",
+    "label": "",
+    "year": "1995",
+    "format": "LP",
+    "notes": "Discogs 11/11/2026. Sonido sin reseñas verificadas."
+  },
+  {
+    "id": "dw-332",
+    "type": "wantlist",
+    "artist": "Aphex Twin",
+    "album": "Selected Ambient Works 85-92",
+    "label": "",
+    "year": "1992",
+    "format": "LP",
+    "notes": "Discogs 11/11/2026."
+  },
+  {
+    "id": "dw-333",
+    "type": "wantlist",
+    "artist": "Boards of Canada",
+    "album": "Inferno",
+    "label": "",
+    "year": "2026",
+    "format": "LP",
+    "notes": ""
   }
 ];
