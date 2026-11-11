@@ -2336,5 +2336,15 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "",
     "owner": "yo"
+  },
+  {
+    "id": "dw-341",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "dubnobasswithmyheadman",
+    "label": "",
+    "year": "1994",
+    "format": "LP",
+    "notes": "Techno hipnótico de los 90, primo de los Chemical. Para pedir a Larks."
   }
 ];
