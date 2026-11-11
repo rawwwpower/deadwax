@@ -59,6 +59,7 @@ python3 .claude/skills/dead-wax/scripts/coleccion.py stats
 # After any DB change: regenerate BOTH outputs
 python3 scripts/export-coleccion-a-app.py                    # js/seed-data.js (the app)
 python3 .claude/skills/dead-wax/curaduria/vinilos/build.py   # vinilos.html (kept in the repo; do NOT republish the artifact, see above)
+python3 scripts/export-tidal.py                              # exports/tidal/*.csv (colección / quiero) para importar en Tidal
 
 # View the app — pure static, no build step
 open index.html   # or serve the directory with any static file server

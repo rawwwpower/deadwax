@@ -252,13 +252,14 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-28",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "Massive Attack",
     "album": "Mezzanine",
-    "label": "Circa / Virgin (reedición 2023)",
-    "year": "2023",
+    "label": "",
+    "year": "",
     "format": "LP",
-    "notes": "País: Alemania · Catálogo: barcode 602537540433 · Prensado: PROBABLE: reedición Virgin/Circa 2LP 180 g, barcode 602537540433 (compartido por 2013, 2017 y 2023). 31/10/2026: copia sellada vista en disquería con sticker 'Made in Germany' y 'Printed in the EU' en contratapa (barcode no legible en la foto). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK es la referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: comprar la reedición (barcode 602537540433, 2LP 180 g) a vendedor local; las tiradas comparten barcode. Rechequeo 23/10: la de 2013 tiene el corte de laca en Abbey Road (no en Metropolis; Tim Young/Metropolis es el remaster). Original 1998 UK = tope a largo plazo."
+    "notes": "Prensado: PROBABLE: reedición Virgin/Circa 2LP 180 g, barcode 602537540433 (compartido por 2013, 2017 y 2023). 31/10/2026: copia sellada vista en disquería con sticker 'Made in Germany' y 'Printed in the EU' en contratapa (barcode no legible en la foto). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK es la referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: comprar la reedición (barcode 602537540433, 2LP 180 g) a vendedor local; las tiradas comparten barcode. Rechequeo 23/10: la de 2013 tiene el corte de laca en Abbey Road (no en Metropolis; Tim Young/Metropolis es el remaster). Original 1998 UK = tope a largo plazo.",
+    "owner": "yo"
   },
   {
     "id": "dw-29",
@@ -2213,5 +2214,187 @@ window.DEADWAX_SEED = [
     "year": "1981",
     "format": "LP",
     "notes": "On-U Sound, Adrian Sherwood. Dub psicodélico y percusivo."
+  },
+  {
+    "id": "dw-323",
+    "type": "collection",
+    "artist": "Portishead",
+    "album": "Dummy",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-324",
+    "type": "wantlist",
+    "artist": "Blur",
+    "album": "Bustin' + Dronin'",
+    "label": "",
+    "year": "1998",
+    "format": "LP",
+    "notes": "Remixes de Blur en clave dub/experimental. En Larks: RSD 2022 Parlophone (0190296345111), usado EX con obi, $68.000 (11/11/2026). Ana lo va a escuchar."
+  },
+  {
+    "id": "dw-325",
+    "type": "wantlist",
+    "artist": "Fela Kuti",
+    "album": "Zombie",
+    "label": "",
+    "year": "1977",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-326",
+    "type": "wantlist",
+    "artist": "Nine Inch Nails",
+    "album": "The Fragile",
+    "label": "",
+    "year": "1999",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-327",
+    "type": "wantlist",
+    "artist": "Angelo Badalamenti",
+    "album": "Music From Twin Peaks",
+    "label": "",
+    "year": "1990",
+    "format": "LP",
+    "notes": "Discogs 11/11/2026: no hubo LP estadounidense en 1990; el vinilo original es europeo. Sonido: ninguna comparación directa encontrada; dealers dicen que la Warner/Rhino 2017 suena mejor que la Death Waltz 2016 (rumor, sin verificar)."
+  },
+  {
+    "id": "dw-328",
+    "type": "wantlist",
+    "artist": "Nine Inch Nails",
+    "album": "The Downward Spiral",
+    "label": "",
+    "year": "1994",
+    "format": "LP",
+    "notes": "Discogs 11/11/2026. Sin comparación de sonido 1994 vs 2017 verificada."
+  },
+  {
+    "id": "dw-329",
+    "type": "wantlist",
+    "artist": "Primus",
+    "album": "Sailing the Seas of Cheese",
+    "label": "",
+    "year": "1991",
+    "format": "LP",
+    "notes": "Discogs 11/11/2026. Sin comparación de sonido directa encontrada: reseñas dicen que la mezcla 2013 es 'más en la cara' y que no le quita nada a la original."
+  },
+  {
+    "id": "dw-330",
+    "type": "wantlist",
+    "artist": "Primus",
+    "album": "Pork Soda",
+    "label": "",
+    "year": "1993",
+    "format": "LP",
+    "notes": "Discogs 11/11/2026. Sin comparación de sonido directa encontrada."
+  },
+  {
+    "id": "dw-331",
+    "type": "wantlist",
+    "artist": "The Chemical Brothers",
+    "album": "Exit Planet Dust",
+    "label": "",
+    "year": "1995",
+    "format": "LP",
+    "notes": "Discogs 11/11/2026. Sonido sin reseñas verificadas."
+  },
+  {
+    "id": "dw-332",
+    "type": "wantlist",
+    "artist": "Aphex Twin",
+    "album": "Selected Ambient Works 85-92",
+    "label": "",
+    "year": "1992",
+    "format": "LP",
+    "notes": "Discogs 11/11/2026."
+  },
+  {
+    "id": "dw-333",
+    "type": "wantlist",
+    "artist": "Boards of Canada",
+    "album": "Inferno",
+    "label": "",
+    "year": "2026",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-335",
+    "type": "collection",
+    "artist": "Stereolab",
+    "album": "Dots and Loops",
+    "label": "",
+    "year": "1997",
+    "format": "LP",
+    "notes": "",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-341",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "dubnobasswithmyheadman",
+    "label": "",
+    "year": "1994",
+    "format": "LP",
+    "notes": "Techno hipnótico de los 90, primo de los Chemical. Para pedir a Larks."
+  },
+  {
+    "id": "dw-345",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Second Toughest in the Infants",
+    "label": "",
+    "year": "1996",
+    "format": "LP",
+    "notes": "Para el recital: el disco que muchos señalan como su mejor (Juanita, Pearl's Girl)."
+  },
+  {
+    "id": "dw-346",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Beaucoup Fish",
+    "label": "",
+    "year": "1999",
+    "format": "LP",
+    "notes": "Para el recital: King of Snake y Push Upstairs, clásicos en vivo."
+  },
+  {
+    "id": "dw-347",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Born Slippy .NUXX (12\")",
+    "label": "",
+    "year": "1995",
+    "format": "LP",
+    "notes": "El himno de Trainspotting; no está en ningún disco de estudio original. Infaltable en vivo."
+  },
+  {
+    "id": "dw-348",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Rez / Cowgirl (12\")",
+    "label": "",
+    "year": "1993",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-349",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Dark & Long (12\")",
+    "label": "",
+    "year": "1994",
+    "format": "LP",
+    "notes": ""
   }
 ];

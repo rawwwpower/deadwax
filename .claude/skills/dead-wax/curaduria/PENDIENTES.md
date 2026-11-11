@@ -84,6 +84,31 @@ Segunda pasada (la buena, después de la corrección de Ana):
 - Primera pasada, vigente pero tibia para Ana: Quincy Jones *The Dude* USA 1981 SP-3721 $93.811 · Chas Jankel 12" Francia 1982 $102.339 · Grace Jones *Slave to the Rhythm* 12" USA 1985 $65.412 (Ana busca *Warm Leatherette*, id 31) · Horace Andy *Midnight Scorchers* · Rhythm & Sound *w/ The Artists* · *Virtual Dreams II* · *Congo Funk!* · Pastoral 1973.
 - Descartados por Ana: *Rockit* (ya está *Future Shock* en casa), *Sonic Temple* Brasil (tiene la US de época, id 34 owned), *Álbum Blanco* argentino, Aquelarre.
 
+## Curaduría Larks Records (11/11/2026, abierta: esperando qué le interesa a Ana)
+
+Tienda virtual de La Plata (larksrecords.com.ar, sin `www`). Es una SPA: el catálogo lo trae el navegador desde
+`mdfbxfzikkvxtzvnfngs.supabase.co` (habilitado en el entorno el 11/11). Se lee abriendo la página con Playwright y
+mirando las respuestas que recibe el navegador; cada ficha `/discos/<id>` trae país, año, sello, barcode y link a Discogs.
+157 discos, 78 en stock, **casi todo reedición nueva sellada** (indie, post-rock, krautrock, trip hop, electrónica 90s).
+Precios ARS al 11/11/2026.
+
+- Respuesta de Ana (11/11): *Mezzanine* y *Dummy* ya son suyos (reediciones; va a pasar cuáles). Le interesan Blur (lo
+  escucha), Twin Peaks, NIN (primero *The Downward Spiral*), Fela (a ella y a Seba) y Primus *Sailing* + *Pork Soda* con el
+  mejor sonido: todos cargados con ranking de versiones (ids 324-330).
+- **Play** (icónico, id 24): la francesa 2022 (r25028983, #4 del ranking, reportes de QC), $110.000: caro para la #4.
+- Electrónica/trip hop: Boards of Canada *Inferno* 2026 (primera edición, $96.000) · Aphex Twin *SAW 85-92* 2021
+  remaster Metropolis ($96.000) · Chemical Brothers *Exit Planet Dust* 2017, cortado de los lacquers originales por Mike
+  Marsh ($85.000) · Massive Attack *Protection* EU 2016 ($76.000) · Portishead *Dummy* 2014 ($85.000) · Blur
+  *Bustin' + Dronin'* (remixes dub, RSD 2022, usado EX con obi, $68.000).
+- Otros por su gusto: Badalamenti *Music From Twin Peaks* 2020 ($84.000) · NIN *The Fragile* Definitive 2017
+  ($96.000) · Tool *Undertow* 2025 ($80.000) · Primus *Sailing the Seas of Cheese* 2022 (**nuevo mix estéreo, no el
+  original**, $79.000) · Fela Kuti *Zombie* 2022 ($80.000).
+- Segunda ronda (11/11): a Ana le interesaron *Exit Planet Dust*, *Bustin' + Dronin'*, *SAW 85-92* y BoC *Inferno* (wishlist
+  con ranking, ids 324 y 331-333). Larks consigue discos a pedido: sugeridos Leftfield, The Orb, Underworld, Global
+  Communication, BoC *Music Has the Right…*, Autechre *Amber* (descubrimientos 334-344, con Harmonia, Dots and Loops y Surrender en stock).
+- Sin stock pero para vigilar: Seefeel *Quique*, Thievery Corporation *Radio Retaliation*, Tricky, Kraftwerk *The Man-Machine*.
+- 🚩 *The Velvet Underground & Nico* de "Vinyl Lovers" (2008): sello europeo de dominio público, no oficial.
+
 ## Abierto
 
 - **Gusto de Ana, ronda Fear of Musik (02/11/2026):** Ana pasa discos que le llaman la atención o conoce, para que conozca su gusto. Se cargan en la wishlist como `interesante` con la etiqueta "referencia de gusto". Señal nueva: maxis de hip hop de los '90 y 2000 con historia de sampleo (Coolio *Gangsta's Paradise*, Eminem *Lose Yourself*, Crazy Town *Butterfly*) , el rap rock con samples de rock (Beastie Boys *Licensed to Ill*), big beat y rave con samples (Rockafeller Skank, Prodigy *Out of Space*), Primus ("me gusta mucho"), los Doors ("me gustan") y pop mainstream en maxis de remixes (Britney *Oops!*). Tenerlo en cuenta en las búsquedas, junto con los maxis largos para mezclar. **Ana avisó que su gusto es mucho más amplio y curioso que lo que muestra la colección:** no recomendar solo por artistas o géneros que ya tiene; buscar por conexiones (samples, productores, historias, cruces de género) y animarse a sugerir cosas fuera de lo esperable. Al recomendar discos de una tienda, **poner el link a cada uno** (pedido de Ana, 02/11) para que los vea rápido.
