@@ -92,8 +92,9 @@ mirando las respuestas que recibe el navegador; cada ficha `/discos/<id>` trae p
 157 discos, 78 en stock, **casi todo reedición nueva sellada** (indie, post-rock, krautrock, trip hop, electrónica 90s).
 Precios ARS al 11/11/2026.
 
-- **Mezzanine** (icónico, id 28): EU 2023 Virgin, barcode 602537540433 (Discogs r29588590), $96.000. Es la #2 "buscar"
-  del ranking; Larks la da como 2023 (probable, falta ver la etiqueta).
+- Respuesta de Ana (11/11): *Mezzanine* y *Dummy* ya son suyos (reediciones; va a pasar cuáles). Le interesan Blur (lo
+  escucha), Twin Peaks, NIN (primero *The Downward Spiral*), Fela (a ella y a Seba) y Primus *Sailing* + *Pork Soda* con el
+  mejor sonido: todos cargados con ranking de versiones (ids 324-330).
 - **Play** (icónico, id 24): la francesa 2022 (r25028983, #4 del ranking, reportes de QC), $110.000: caro para la #4.
 - Electrónica/trip hop: Boards of Canada *Inferno* 2026 (primera edición, $96.000) · Aphex Twin *SAW 85-92* 2021
   remaster Metropolis ($96.000) · Chemical Brothers *Exit Planet Dust* 2017, cortado de los lacquers originales por Mike
