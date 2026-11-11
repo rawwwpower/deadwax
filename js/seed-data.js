@@ -2325,5 +2325,16 @@ window.DEADWAX_SEED = [
     "year": "2026",
     "format": "LP",
     "notes": ""
+  },
+  {
+    "id": "dw-335",
+    "type": "collection",
+    "artist": "Stereolab",
+    "album": "Dots and Loops",
+    "label": "",
+    "year": "1997",
+    "format": "LP",
+    "notes": "",
+    "owner": "yo"
   }
 ];
