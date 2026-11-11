@@ -2346,5 +2346,55 @@ window.DEADWAX_SEED = [
     "year": "1994",
     "format": "LP",
     "notes": "Techno hipnótico de los 90, primo de los Chemical. Para pedir a Larks."
+  },
+  {
+    "id": "dw-345",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Second Toughest in the Infants",
+    "label": "",
+    "year": "1996",
+    "format": "LP",
+    "notes": "Para el recital: el disco que muchos señalan como su mejor (Juanita, Pearl's Girl)."
+  },
+  {
+    "id": "dw-346",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Beaucoup Fish",
+    "label": "",
+    "year": "1999",
+    "format": "LP",
+    "notes": "Para el recital: King of Snake y Push Upstairs, clásicos en vivo."
+  },
+  {
+    "id": "dw-347",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Born Slippy .NUXX (12\")",
+    "label": "",
+    "year": "1995",
+    "format": "LP",
+    "notes": "El himno de Trainspotting; no está en ningún disco de estudio original. Infaltable en vivo."
+  },
+  {
+    "id": "dw-348",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Rez / Cowgirl (12\")",
+    "label": "",
+    "year": "1993",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-349",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Dark & Long (12\")",
+    "label": "",
+    "year": "1994",
+    "format": "LP",
+    "notes": ""
   }
 ];
