@@ -2163,5 +2163,25 @@ window.DEADWAX_SEED = [
     "year": "1995",
     "format": "LP",
     "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography')."
+  },
+  {
+    "id": "dw-307",
+    "type": "wantlist",
+    "artist": "Ryuichi Sakamoto",
+    "album": "B-2 Unit",
+    "label": "",
+    "year": "1980",
+    "format": "LP",
+    "notes": "Salió de buscar algo en la línea de Technodelic (YMO); también es el puente con Blue Lines y Homework por el dub y el linaje electro (Bambaataa la pasaba). Ediciones sin relevar todavía."
+  },
+  {
+    "id": "dw-308",
+    "type": "wantlist",
+    "artist": "Yellow Magic Orchestra",
+    "album": "BGM",
+    "label": "",
+    "year": "1981",
+    "format": "LP",
+    "notes": "Recomendado porque a Ana le encanta Technodelic. Ediciones sin relevar todavía."
   }
 ];
