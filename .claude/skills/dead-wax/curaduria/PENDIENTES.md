@@ -66,6 +66,18 @@ Discos que Ana dijo que va a escuchar. Cuando vuelva, preguntarle qué le pareci
 Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **protocolo de identificación**
 (niveles de confianza confirmada / probable / sin confirmar). Lo que dice la base es hipótesis hasta verificarlo.
 
+## Lista de compra consolidada (12/11/2026, stock rechequeado)
+
+En orden: 1) *Colores Santos* checa, Exit $49.492 transferencia (pedir contratapa; alternativa Lado B $47.000) · 2) Gorillaz 2026 Larks /discos/206 $90.000 · 3) *Exit Planet Dust* 2017 Larks /discos/215 $85.000 · 4) Thievery Larks /discos/322 $82.000 (subió de $80.000) · 5) Daft Punk *Discovery* 2023 Larks /discos/283 $92.000 · 6) Kyuss *Circus* Lado B $74.200 (barcode 081227958794) · 7) *Endtroducing* half-speed solo si cuesta menos de $100.000 · 8) *Goats Head Soup* Lado B $81.000 · 9) Björk *Homogenic* Exit $105.292 · 10) *Cool Struttin'* Lado B $80.000 · 11) Morphine Larks /discos/221 $80.000 · 12) Aphex *SAW* Larks /discos/3 $96.000 · 13) ATCQ Larks /discos/299 $90.000 · 14) BoC *Inferno* Larks /discos/292 $96.000 (caro). Cuando Ana confirme compras: pasar a owned y vaciar precio.
+
+## Curaduría Lado B y Exit Music Records (12/11/2026, abierta: esperando qué elige Ana)
+
+Criterio de Ana: calidad de sonido de la edición contra el precio en Argentina (dólar 1.650; traerlo = Discogs más barato + USD 30 de envío + IVA 21%, +30% de percepción con tarjeta en pesos). Las dos tiendas venden casi todo nuevo (reediciones). Lado B (ladobmusica.com.ar, WooCommerce; las categorías `/categoria-producto/musica/<genero>/vinilo-<genero>/` traen stock y precio; no publica barcode ni edición) es más barata que Exit (exitmusicrecords.com.ar, Tiendanube, usar sin "www"; el listado `/productos/?page=N` trae el barcode como SKU y 10% de descuento por transferencia). Larks sigue más barata que las dos.
+- 💎 *Colores Santos*: Lado B $47.000 · Exit $49.500 por transferencia (barcode 888430041912, el título dice 180 g). Falta foto de la contratapa para confirmar que sea la checa.
+- 👍 Kyuss *Circus* Lado B $74.200 (pedir barcode: oficial 081227958794; truchas 0812279587942 / 075596181112) · Sonny Clark *Cool Struttin'* Blue Note Classic (Kevin Gray, AAA) Lado B $80.000 · Stones *Goats Head Soup* Lado B $81.000 · Björk *Homogenic* Exit $105.300. (12/11: Ana ya tiene *Post*, *Facelift*, *Mezzanine* y *The Fat of the Land*.)
+- Precio justo: Lou Reed *Berlin* Lado B $92.400 · Bowie *Station to Station* Lado B $91.000. Caros: *Play*, *Endtroducing* (más de $100k), *Cosmogramma*, *Sextant* (MOV), *Licensed to Ill*.
+- 🚩 Exit: LPs de transmisiones de radio, productos con SKU inventado, Madonna *Music* con barcode compartido. Lado B: "Edición Nacional" (prensas locales) y jazz de $50.000 "Vinyl Colored" (probable dominio público, sin verificar).
+
 ## Curaduría Muzik Saved My Life (05/11/2026, abierta: esperando qué le interesa a Ana)
 
 Tienda de CABA (muziksavedmylife.com, WooCommerce: el catálogo entero sale de `/wp-json/wc/store/v1/products?per_page=100&page=N`, 2217 ítems, 2143 en stock; la descripción trae Sello/Catálogo/Formato/País/Año/Disco/Tapa, así que se puede filtrar por "Reissue"). Fuerte en 12" de synth-pop/house/Depeche/Madonna. Precios ARS al 05/11/2026.
