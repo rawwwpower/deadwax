@@ -2258,5 +2258,15 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: USA · Prensado: Comprado 12/11/2026. Grand Royal de los 90 según Ana (tapa con logo Grand Royal, desgaste de época); falta mirar la contratapa para distinguir 1996 (primera) de 1998 (© 1998). Descartada la 2017 Capitol (602557727920). Referencia de tiradas: 1996 Grand Royal (salida inicial vía fan club francés); 1998 Grand Royal US; 2017 Capitol 180g Made in EU.\nBúsqueda 12/11/2026. Compila instrumentales de Check Your Head e Ill Communication + temas nuevos. Título/tapa: homenaje a Perrey & Kingsley (Vanguard 1966). 'Groove Holmes' homenajea al organista Richard 'Groove' Holmes (m. 1991). Fuentes: Wikipedia, uDiscover, Trouser Press, All About Jazz.",
     "owner": "yo"
+  },
+  {
+    "id": "dw-361",
+    "type": "wantlist",
+    "artist": "Deee-Lite",
+    "album": "World Clique",
+    "label": "Elektra",
+    "year": "1990",
+    "format": "LP",
+    "notes": "Catálogo: 60957-1 · Prensado: Primera edición: US Elektra 60957-1 (agosto 1990, país de origen). Otras de época: Alemania 7559-60957-1, UK EKT77, México ST-E-60957. Reediciones: Music On Vinyl 2015 (10 temas), box 2LP 45 rpm UltraDisc One-Step 2026 (2.000 numeradas). Cómo reconocer la primera: Elektra US con catálogo 60957-1 en lomo/etiqueta, año 1990.\nPedido de Ana 12/11/2026 tras ver el maxi Groove Is in the Heart en Apolo Records (Europa 1990, VG+, ARS 79900). Invitados: Bootsy Collins, Q-Tip, Fred Wesley, Maceo Parker; Groove Is in the Heart samplea a Herbie Hancock. Fuentes: Wikipedia, rarevinyl, soundstation.dk, audiosoundmusic."
   }
 ];
