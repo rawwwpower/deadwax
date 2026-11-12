@@ -252,23 +252,25 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-28",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "Massive Attack",
     "album": "Mezzanine",
     "label": "Circa / Virgin (reedición 2023)",
     "year": "2023",
     "format": "LP",
-    "notes": "País: Alemania · Catálogo: barcode 602537540433 · Prensado: PROBABLE: reedición Virgin/Circa 2LP 180 g, barcode 602537540433 (compartido por 2013, 2017 y 2023). 31/10/2026: copia sellada vista en disquería con sticker 'Made in Germany' y 'Printed in the EU' en contratapa (barcode no legible en la foto). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK es la referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: comprar la reedición (barcode 602537540433, 2LP 180 g) a vendedor local; las tiradas comparten barcode. Rechequeo 23/10: la de 2013 tiene el corte de laca en Abbey Road (no en Metropolis; Tim Young/Metropolis es el remaster). Original 1998 UK = tope a largo plazo. | 12/11 Lado B $135.000 (2LP): caro frente a traerla (Discogs 29588590 desde USD 21)."
+    "notes": "Prensado: PROBABLE: reedición Virgin/Circa 2LP 180 g, barcode 602537540433 (compartido por 2013, 2017 y 2023). 31/10/2026: copia sellada vista en disquería con sticker 'Made in Germany' y 'Printed in the EU' en contratapa (barcode no legible en la foto). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK es la referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: comprar la reedición (barcode 602537540433, 2LP 180 g) a vendedor local; las tiradas comparten barcode. Rechequeo 23/10: la de 2013 tiene el corte de laca en Abbey Road (no en Metropolis; Tim Young/Metropolis es el remaster). Original 1998 UK = tope a largo plazo. | 12/11 Lado B $135.000 (2LP): caro frente a traerla (Discogs 29588590 desde USD 21). | 12/11/2026 Ana confirma que lo tiene; edición sin identificar (antes evaluada: país Alemania, cat. barcode 602537540433, sello Circa / Virgin (reedición 2023)).",
+    "owner": "yo"
   },
   {
     "id": "dw-29",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "Alice In Chains",
     "album": "Facelift",
     "label": "Sony Legacy (reedición 2020)",
     "year": "2020",
     "format": "LP",
-    "notes": "Catálogo: barcode 194397838619 · Prensado: PROBABLE (barcode 194397838619 verificado: corresponde a una sola edición, Legacy 2020; falta ver etiqueta/dead wax): reedición estándar 30 aniversario 2020 (NO el box deluxe, ese es otro SKU). Cortada por Chris Bellman, remasterizada en Gateway Mastering (estudio de Bob Ludwig). Reviews muy buenas: profundidad, silenciosa, buenos agudos.\nVEREDICTO: vale la pena, comprar. Original 1990 Columbia no evaluado en detalle (grunge de los 90, no una era audiófila de referencia). | 12/11 Lado B $102.400 (2LP, sin barcode) y Exit $152.991 (barcode 194397838619). Ojo con truchas: barcode 889853749317. Discogs 16841046 desde USD 21."
+    "notes": "Prensado: PROBABLE (barcode 194397838619 verificado: corresponde a una sola edición, Legacy 2020; falta ver etiqueta/dead wax): reedición estándar 30 aniversario 2020 (NO el box deluxe, ese es otro SKU). Cortada por Chris Bellman, remasterizada en Gateway Mastering (estudio de Bob Ludwig). Reviews muy buenas: profundidad, silenciosa, buenos agudos.\nVEREDICTO: vale la pena, comprar. Original 1990 Columbia no evaluado en detalle (grunge de los 90, no una era audiófila de referencia). | 12/11 Lado B $102.400 (2LP, sin barcode) y Exit $152.991 (barcode 194397838619). Ojo con truchas: barcode 889853749317. Discogs 16841046 desde USD 21. | 12/11/2026 Ana confirma que lo tiene; edición sin identificar (antes evaluada: país None, cat. barcode 194397838619, sello Sony Legacy (reedición 2020)).",
+    "owner": "yo"
   },
   {
     "id": "dw-30",
@@ -1555,13 +1557,14 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-189",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "Björk",
     "album": "Post",
     "label": "",
     "year": "1995",
     "format": "LP",
-    "notes": "Prensado: 31/10/2026 vista sellada en disquería: TPLP51, barcode 5016958041618, Made in EU, contratapa dice 'One Little Independent' (nombre del sello desde 2020) → reedición post-2020. El mismo cat./barcode lo usan reedición 2015 y posteriores; original 1995 One Little Indian TPLP51.\nEdiciones LP (MusicBrainz, 22/10/2026; Discogs bloqueado): UK 1995 One Little Indian TPLP51 (y variante TPLP51L, citada como rosa limitada), barcode 5016958025212, runout reportado TLP51-A; UK 2008 TPLP51DMM 2LP DMM, barcode 5016958097516; reediciones 2015 (rosa MoMA 5000 copias y negra 180g), 2021-22, todas con barcode 5016958041618 compartido. El rosa NO prueba original: la 2015 MoMA también es rosa. Sin reviews de sonido comparativas encontradas. | 12/11 Lado B $99.700 y Exit $116.991 (barcode 5016958041618 = TPLP51 reedición estándar; Discogs 26232848 desde USD 24). Lado B es la opción: USD 60 contra 65 traída."
+    "notes": "Prensado: 31/10/2026 vista sellada en disquería: TPLP51, barcode 5016958041618, Made in EU, contratapa dice 'One Little Independent' (nombre del sello desde 2020) → reedición post-2020. El mismo cat./barcode lo usan reedición 2015 y posteriores; original 1995 One Little Indian TPLP51.\nEdiciones LP (MusicBrainz, 22/10/2026; Discogs bloqueado): UK 1995 One Little Indian TPLP51 (y variante TPLP51L, citada como rosa limitada), barcode 5016958025212, runout reportado TLP51-A; UK 2008 TPLP51DMM 2LP DMM, barcode 5016958097516; reediciones 2015 (rosa MoMA 5000 copias y negra 180g), 2021-22, todas con barcode 5016958041618 compartido. El rosa NO prueba original: la 2015 MoMA también es rosa. Sin reviews de sonido comparativas encontradas. | 12/11 Lado B $99.700 y Exit $116.991 (barcode 5016958041618 = TPLP51 reedición estándar; Discogs 26232848 desde USD 24). Lado B es la opción: USD 60 contra 65 traída. | 12/11/2026 Ana confirma que lo tiene; edición sin identificar.",
+    "owner": "yo"
   },
   {
     "id": "dw-190",
@@ -1818,6 +1821,17 @@ window.DEADWAX_SEED = [
     "year": "1972",
     "format": "LP",
     "notes": "País: UK · Catálogo: 6360 071 · Prensado: Cómo reconocerla: código de precio 'VO' en la contratapa; SIN duración de temas en el interior del gatefold (la 2ª tirada dice 'Deluxe' y trae duraciones); impresa por Howards Printers (Slough); librito de 4 páginas pegado. Funda interna: papel liso según una disquería (las fuentes no coinciden). Fuente: Rare Records Collector, Atlas Records, discografía sabbath.se.\nBuscar en Discogs/eBay: 'Black Sabbath Vol 4 6360 071 gatefold booklet' o 'sleeve only'."
+  },
+  {
+    "id": "dw-223",
+    "type": "collection",
+    "artist": "The Prodigy",
+    "album": "The Fat of the Land",
+    "label": "XL Recordings",
+    "year": "",
+    "format": "LP",
+    "notes": "Prensado: PROBABLE (contratapa vista sellada en disquería, 31/10/2026): represión US moderna, 'Made in USA' en créditos, barcode US de XL (634904...). Original 1997 UK XLLP 121. Sin reviews de sonido de esta prensa.\n23/10, ML (CINEMAMUSICRECORDS): nuevo e importado = reedición negra XLLP121 (2012, 2018, 2020…; mismo catálogo y barcode que la original 1997). Rechequeo 23/10 (reseñas de Discogs): las UK negras de 2018 y 2020 son las mejor reseñadas (silenciosas, buena dinámica); la US 2012, nivel alto; la 25 aniversario plateada (XL121LP2, Optimal Media, barcode 634904212117) es limpia, sin remaster declarado, y no apareció en Argentina; la original 1997 (Damont) tiene reportes de saltos en C/D. Los 180 g del anuncio no están verificados. 31/10, Monkey Records (fotos de Ana, sin dead wax): cómo distinguir la original: mismo catálogo y etiqueta '© XL-Recordings 1997' en la original y en todas las represiones (2006, 2016 US, 2020 UK, 2022 Optimal). Original 1997: dead wax con 'DAMONT' y 'MIKE'S - THE EXCHANGE' (corte de Mike Marsh). Represiones: matrix 'B666911'. 31/10, disquería: copia sellada US moderna (ver prensado_notas). VEREDICTO: reedición estándar, para escuchar; sin valor de colección. | 12/11/2026 Ana confirma que lo tiene; edición sin identificar (antes evaluada: país UK/EU/USA (tres copias vistas, ninguna confirmada), cat. XLLP 121 (barcode 634904012113), sello XL Recordings).",
+    "owner": "yo"
   },
   {
     "id": "dw-239",
