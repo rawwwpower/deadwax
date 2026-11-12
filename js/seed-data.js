@@ -2213,5 +2213,15 @@ window.DEADWAX_SEED = [
     "year": "1981",
     "format": "LP",
     "notes": "On-U Sound, Adrian Sherwood. Dub psicodélico y percusivo."
+  },
+  {
+    "id": "dw-323",
+    "type": "wantlist",
+    "artist": "Cerati / Melero",
+    "album": "Colores Santos",
+    "label": "Columbia",
+    "year": "1992",
+    "format": "LP",
+    "notes": "País: Argentina · Catálogo: 70185 / 1-470.085 · Prensado: Original AR 1992: Columbia 70185 / 1-470.085, Sony Music Entertainment (Argentina) S.A., sin barcode. Promo AR 1992: 70185 (Discogs 12334332). Prensas de época también en Colombia (COL 14470085) y Venezuela (1.21.1269). Reediciones 180 g con el mismo cat. 88843004191 / barcode 888430041912: AR 2015 GZ Media (dice 'Vinyl made in Czech Republic', runout etched 113207E1/A, Discogs 7064137), MX 2016 y CO 2017 (prensa checa), AR 2019 reprensado local (sin leyenda checa, runout '88843004191 -A- -LvC-', Discogs 22705724, crédito Mastered By Mike Fuller).\nInvestigación 12/11/2026 vía API de Discogs (master 342419). Sonido: reseñas de usuarios en Discogs positivas para 2015 y 2019 (prensa limpia; algo de sibilancia en el último tema del lado B, 2015). Original 1992: sin reseñas de sonido encontradas; un reviewer dice que es difícil en buen estado. Precios más bajos en venta (no ventas cerradas) 12/11/2026: AR 1992 USD 85, promo USD 270, CO 1992 USD 170, VE 1992 USD 145, 2015 USD 30, 2019 USD 52. Dato: el nombre de Dynamo (Soda Stereo) salió de un comentario de Melero sobre el dínamo de una bicicleta en estas sesiones; el disco inauguró los estudios Supersónico (Rolling Stone AR)."
   }
 ];
