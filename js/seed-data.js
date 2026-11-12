@@ -2256,7 +2256,7 @@ window.DEADWAX_SEED = [
     "label": "Grand Royal",
     "year": "1996",
     "format": "LP",
-    "notes": "País: USA · Prensado: Comprado 12/11/2026. Grand Royal de los 90 según Ana (tapa con logo Grand Royal, desgaste de época); falta mirar la contratapa para distinguir 1996 (primera) de 1998 (© 1998). Descartada la 2017 Capitol (602557727920). Referencia de tiradas: 1996 Grand Royal (salida inicial vía fan club francés); 1998 Grand Royal US; 2017 Capitol 180g Made in EU.\nBúsqueda 12/11/2026. Compila instrumentales de Check Your Head e Ill Communication + temas nuevos. Título/tapa: homenaje a Perrey & Kingsley (Vanguard 1966). 'Groove Holmes' homenajea al organista Richard 'Groove' Holmes (m. 1991). Fuentes: Wikipedia, uDiscover, Trouser Press, All About Jazz.",
+    "notes": "País: USA · Prensado: Comprado 12/11/2026. Represión Grand Royal US de 1998 según Ana ('creo que es 98', mirando la contratapa; sin foto: probable). Primera tirada: 1996 Grand Royal (salida inicial vía fan club francés). Descartada la 2017 Capitol 180g (602557727920, Made in EU). Para confirmar del todo: catálogo y año en la etiqueta.\nBúsqueda 12/11/2026. Compila instrumentales de Check Your Head e Ill Communication + temas nuevos. Título/tapa: homenaje a Perrey & Kingsley (Vanguard 1966). 'Groove Holmes' homenajea al organista Richard 'Groove' Holmes (m. 1991). Fuentes: Wikipedia, uDiscover, Trouser Press, All About Jazz.",
     "owner": "yo"
   },
   {
