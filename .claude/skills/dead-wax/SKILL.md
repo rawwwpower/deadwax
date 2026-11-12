@@ -60,6 +60,8 @@ Lo que no se identifica bien se recomienda mal: este paso va **antes** del vered
 
 **1º la primera edición** (original de época, país de origen), **2º la que mejor suene** de las que se puedan conseguir. Todo veredicto y ranking de versiones sigue ese orden: primero decir dónde está la primera edición y cómo reconocerla, y recién después, si no se consigue o no conviene, la mejor alternativa por sonido. Una reedición bien reseñada es "buena para escuchar", nunca "la que hay que tener".
 
+**Reedición extranjera antes que el reprensado local** (Ana, 12/11/2026, a partir de *Colores Santos*): cuando la misma reedición existe prensada afuera (ej. GZ Media, Rep. Checa) y reprensada en Argentina, buscar la extranjera y decir cómo distinguirla (leyenda de fabricación en contratapa, runout).
+
 **No repetir como lora que no es la primera edición** (Ana, 04/11/2026): si ella ya dijo que sabe que es reedición, no volver a marcarlo. Ir directo a lo que pregunta (cómo suena, de qué master viene, qué ediciones hay) y a los datos curiosos, que es lo que espera. Ejemplo que le encantó: el runout "serenity now!" de la original de *Come With Us* (es fan de *Seinfeld*). Los runouts y etchings con mensajes son buena fuente de datos curiosos.
 
 ## Los tres criterios (resumen — detalle en `references/guia-completa.md`)
