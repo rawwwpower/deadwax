@@ -218,7 +218,7 @@ window.DEADWAX_SEED = [
     "label": "Mute / Little Idiot",
     "year": "1999",
     "format": "LP",
-    "notes": "Prensado: Sonido: buscar prensa confirmada en Optimal Media (Alemania) — 2016 180g (Discogs r8465720) o 2022 140g (r24322403). La 2022 180g francesa (r25028983) suena bien según reseñas (rechequeo 23/10), con algunas copias con fallas de control de calidad; la del ingeniero de corte distinto no se pudo verificar. 2016 Optimal Media: matrix BF 03494-01 A1 AM. La copia 'Little Idiot 2022, 19 temas, sobre' que encontró Ana no está confirmada contra Discogs (el STUMM172 francés tiene 18 temas, no 19) — pedir foto/barcode antes de comprar.\nRechequeo 23/10: STUMM172 y el barcode 5016025311729 son los mismos en las reediciones de 2016 y 2022 (también en la francesa a evitar): se distinguen por 'Made in France' frente a Optimal Media/EU, no por el código. | 12/11/2026 Larks ofrece la francesa 2022 180 g (r25028983, 4ª del ranking) a ARS 110.000 (~USD 67, dólar 1.650 que indicó Ana): no es la que se busca."
+    "notes": "Prensado: Sonido: buscar prensa confirmada en Optimal Media (Alemania) — 2016 180g (Discogs r8465720) o 2022 140g (r24322403). La 2022 180g francesa (r25028983) suena bien según reseñas (rechequeo 23/10), con algunas copias con fallas de control de calidad; la del ingeniero de corte distinto no se pudo verificar. 2016 Optimal Media: matrix BF 03494-01 A1 AM. La copia 'Little Idiot 2022, 19 temas, sobre' que encontró Ana no está confirmada contra Discogs (el STUMM172 francés tiene 18 temas, no 19) — pedir foto/barcode antes de comprar.\nRechequeo 23/10: STUMM172 y el barcode 5016025311729 son los mismos en las reediciones de 2016 y 2022 (también en la francesa a evitar): se distinguen por 'Made in France' frente a Optimal Media/EU, no por el código. | 12/11/2026 Larks ofrece la francesa 2022 180 g (r25028983, 4ª del ranking) a ARS 110.000 (~USD 67, dólar 1.650 que indicó Ana): no es la que se busca. | 12/11 Lado B $129.500, edición desconocida: caro."
   },
   {
     "id": "dw-25",
@@ -258,7 +258,7 @@ window.DEADWAX_SEED = [
     "label": "Circa / Virgin (reedición 2023)",
     "year": "2023",
     "format": "LP",
-    "notes": "País: Alemania · Catálogo: barcode 602537540433 · Prensado: PROBABLE: reedición Virgin/Circa 2LP 180 g, barcode 602537540433 (compartido por 2013, 2017 y 2023). 31/10/2026: copia sellada vista en disquería con sticker 'Made in Germany' y 'Printed in the EU' en contratapa (barcode no legible en la foto). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK es la referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: comprar la reedición (barcode 602537540433, 2LP 180 g) a vendedor local; las tiradas comparten barcode. Rechequeo 23/10: la de 2013 tiene el corte de laca en Abbey Road (no en Metropolis; Tim Young/Metropolis es el remaster). Original 1998 UK = tope a largo plazo."
+    "notes": "País: Alemania · Catálogo: barcode 602537540433 · Prensado: PROBABLE: reedición Virgin/Circa 2LP 180 g, barcode 602537540433 (compartido por 2013, 2017 y 2023). 31/10/2026: copia sellada vista en disquería con sticker 'Made in Germany' y 'Printed in the EU' en contratapa (barcode no legible en la foto). Reviews muy buenas: silenciosa, buen bajo. El original 1998 UK es la referencia para puristas, pero es lotería de 25+ años.\nVEREDICTO: comprar la reedición (barcode 602537540433, 2LP 180 g) a vendedor local; las tiradas comparten barcode. Rechequeo 23/10: la de 2013 tiene el corte de laca en Abbey Road (no en Metropolis; Tim Young/Metropolis es el remaster). Original 1998 UK = tope a largo plazo. | 12/11 Lado B $135.000 (2LP): caro frente a traerla (Discogs 29588590 desde USD 21)."
   },
   {
     "id": "dw-29",
@@ -268,7 +268,7 @@ window.DEADWAX_SEED = [
     "label": "Sony Legacy (reedición 2020)",
     "year": "2020",
     "format": "LP",
-    "notes": "Catálogo: barcode 194397838619 · Prensado: PROBABLE (barcode 194397838619 verificado: corresponde a una sola edición, Legacy 2020; falta ver etiqueta/dead wax): reedición estándar 30 aniversario 2020 (NO el box deluxe, ese es otro SKU). Cortada por Chris Bellman, remasterizada en Gateway Mastering (estudio de Bob Ludwig). Reviews muy buenas: profundidad, silenciosa, buenos agudos.\nVEREDICTO: vale la pena, comprar. Original 1990 Columbia no evaluado en detalle (grunge de los 90, no una era audiófila de referencia)."
+    "notes": "Catálogo: barcode 194397838619 · Prensado: PROBABLE (barcode 194397838619 verificado: corresponde a una sola edición, Legacy 2020; falta ver etiqueta/dead wax): reedición estándar 30 aniversario 2020 (NO el box deluxe, ese es otro SKU). Cortada por Chris Bellman, remasterizada en Gateway Mastering (estudio de Bob Ludwig). Reviews muy buenas: profundidad, silenciosa, buenos agudos.\nVEREDICTO: vale la pena, comprar. Original 1990 Columbia no evaluado en detalle (grunge de los 90, no una era audiófila de referencia). | 12/11 Lado B $102.400 (2LP, sin barcode) y Exit $152.991 (barcode 194397838619). Ojo con truchas: barcode 889853749317. Discogs 16841046 desde USD 21."
   },
   {
     "id": "dw-30",
@@ -666,7 +666,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG"
+    "notes": "País: Japón · Grading: VG+ / VG\n | 12/11 Lado B $92.400 y Exit $116.991 (barcode 889853490516 = Europa 2016, MPO, corte SST). Discogs desde USD 15,5. Existe MoFi 2024 (MFSL 1-555)."
   },
   {
     "id": "dw-92",
@@ -1017,7 +1017,7 @@ window.DEADWAX_SEED = [
     "label": "RCA",
     "year": "1976",
     "format": "LP",
-    "notes": "País: UK · Catálogo: APL1-1327 · Grading: EX++"
+    "notes": "País: UK · Catálogo: APL1-1327 · Grading: EX++\n | 12/11 Lado B $91.000 (import) y Exit picture disc $125.991 (barcode 5021732811196). Reedición 2017 Optimal (Discogs 9810328) desde USD 16,7."
   },
   {
     "id": "dw-131",
@@ -1107,7 +1107,7 @@ window.DEADWAX_SEED = [
     "label": "Rolling Stones Records",
     "year": "1973",
     "format": "LP",
-    "notes": "País: USA · Catálogo: COC 59101 · Grading: NM / NM · Prensado: Primera edición USA 1973 con insert, sin fritura ni tics según el vendedor."
+    "notes": "País: USA · Catálogo: COC 59101 · Grading: NM / NM · Prensado: Primera edición USA 1973 con insert, sin fritura ni tics según el vendedor.\n | 12/11 Lado B $81.000 (reedición) y Exit $94.991 / $116.991. Reedición 2020 GZ (Discogs 15866464) desde USD 18."
   },
   {
     "id": "dw-141",
@@ -1561,7 +1561,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1995",
     "format": "LP",
-    "notes": "Prensado: 31/10/2026 vista sellada en disquería: TPLP51, barcode 5016958041618, Made in EU, contratapa dice 'One Little Independent' (nombre del sello desde 2020) → reedición post-2020. El mismo cat./barcode lo usan reedición 2015 y posteriores; original 1995 One Little Indian TPLP51.\nEdiciones LP (MusicBrainz, 22/10/2026; Discogs bloqueado): UK 1995 One Little Indian TPLP51 (y variante TPLP51L, citada como rosa limitada), barcode 5016958025212, runout reportado TLP51-A; UK 2008 TPLP51DMM 2LP DMM, barcode 5016958097516; reediciones 2015 (rosa MoMA 5000 copias y negra 180g), 2021-22, todas con barcode 5016958041618 compartido. El rosa NO prueba original: la 2015 MoMA también es rosa. Sin reviews de sonido comparativas encontradas."
+    "notes": "Prensado: 31/10/2026 vista sellada en disquería: TPLP51, barcode 5016958041618, Made in EU, contratapa dice 'One Little Independent' (nombre del sello desde 2020) → reedición post-2020. El mismo cat./barcode lo usan reedición 2015 y posteriores; original 1995 One Little Indian TPLP51.\nEdiciones LP (MusicBrainz, 22/10/2026; Discogs bloqueado): UK 1995 One Little Indian TPLP51 (y variante TPLP51L, citada como rosa limitada), barcode 5016958025212, runout reportado TLP51-A; UK 2008 TPLP51DMM 2LP DMM, barcode 5016958097516; reediciones 2015 (rosa MoMA 5000 copias y negra 180g), 2021-22, todas con barcode 5016958041618 compartido. El rosa NO prueba original: la 2015 MoMA también es rosa. Sin reviews de sonido comparativas encontradas. | 12/11 Lado B $99.700 y Exit $116.991 (barcode 5016958041618 = TPLP51 reedición estándar; Discogs 26232848 desde USD 24). Lado B es la opción: USD 60 contra 65 traída."
   },
   {
     "id": "dw-190",
@@ -1571,7 +1571,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1997",
     "format": "LP",
-    "notes": ""
+    "notes": " | 12/11 Exit $116.991 ($105.292 transferencia, barcode 5016958032913 = TPLP71; Discogs 21577147 desde USD 27): USD 64 contra 69 traída."
   },
   {
     "id": "dw-191",
@@ -2162,7 +2162,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1995",
     "format": "LP",
-    "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography')."
+    "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography'). | 12/11 Lado B $74.200 (sin barcode). Oficial: US Rhino 2021 R1 61811 barcode 081227958794 (Eddy Schreyer/Future Disc, Discogs 17617867, desde USD 20). Truchas: Europe 2023 'R1 61811' barcode 0812279587942 y Germany 2021 barcode 075596181112."
   },
   {
     "id": "dw-307",
@@ -2222,7 +2222,7 @@ window.DEADWAX_SEED = [
     "label": "Columbia",
     "year": "1992",
     "format": "LP",
-    "notes": "País: Argentina · Catálogo: 70185 / 1-470.085 · Prensado: Original AR 1992: Columbia 70185 / 1-470.085, Sony Music Entertainment (Argentina) S.A., sin barcode. Promo AR 1992: 70185 (Discogs 12334332). Prensas de época también en Colombia (COL 14470085) y Venezuela (1.21.1269). Reediciones 180 g con el mismo cat. 88843004191 / barcode 888430041912: AR 2015 GZ Media (dice 'Vinyl made in Czech Republic', runout etched 113207E1/A, Discogs 7064137), MX 2016 y CO 2017 (prensa checa), AR 2019 reprensado local (sin leyenda checa, runout '88843004191 -A- -LvC-', Discogs 22705724, crédito Mastered By Mike Fuller).\nInvestigación 12/11/2026 vía API de Discogs (master 342419). Sonido: reseñas de usuarios en Discogs positivas para 2015 y 2019 (prensa limpia; algo de sibilancia en el último tema del lado B, 2015). Original 1992: sin reseñas de sonido encontradas; un reviewer dice que es difícil en buen estado. Precios más bajos en venta (no ventas cerradas) 12/11/2026: AR 1992 USD 85, promo USD 270, CO 1992 USD 170, VE 1992 USD 145, 2015 USD 30, 2019 USD 52. Dato: el nombre de Dynamo (Soda Stereo) salió de un comentario de Melero sobre el dínamo de una bicicleta en estas sesiones; el disco inauguró los estudios Supersónico (Rolling Stone AR)."
+    "notes": "País: Argentina · Catálogo: 70185 / 1-470.085 · Prensado: Original AR 1992: Columbia 70185 / 1-470.085, Sony Music Entertainment (Argentina) S.A., sin barcode. Promo AR 1992: 70185 (Discogs 12334332). Prensas de época también en Colombia (COL 14470085) y Venezuela (1.21.1269). Reediciones 180 g con el mismo cat. 88843004191 / barcode 888430041912: AR 2015 GZ Media (dice 'Vinyl made in Czech Republic', runout etched 113207E1/A, Discogs 7064137), MX 2016 y CO 2017 (prensa checa), AR 2019 reprensado local (sin leyenda checa, runout '88843004191 -A- -LvC-', Discogs 22705724, crédito Mastered By Mike Fuller).\nInvestigación 12/11/2026 vía API de Discogs (master 342419). Sonido: reseñas de usuarios en Discogs positivas para 2015 y 2019 (prensa limpia; algo de sibilancia en el último tema del lado B, 2015). Original 1992: sin reseñas de sonido encontradas; un reviewer dice que es difícil en buen estado. Precios más bajos en venta (no ventas cerradas) 12/11/2026: AR 1992 USD 85, promo USD 270, CO 1992 USD 170, VE 1992 USD 145, 2015 USD 30, 2019 USD 52. Dato: el nombre de Dynamo (Soda Stereo) salió de un comentario de Melero sobre el dínamo de una bicicleta en estas sesiones; el disco inauguró los estudios Supersónico (Rolling Stone AR). | 12/11 Lado B $47.000 (sin barcode) y Exit $54.991 ($49.492 transferencia, barcode 888430041912, título '180g Reissue'): reedición, falta confirmar si es la checa 2015 o la AR 2019 (pedir foto de contratapa)."
   },
   {
     "id": "dw-335",
@@ -2232,6 +2232,6 @@ window.DEADWAX_SEED = [
     "label": "Mo Wax",
     "year": "1996",
     "format": "LP",
-    "notes": "País: UK · Catálogo: MW059 · Prensado: Original UK/EU 1996 Mo Wax MW059 (Orlake, runout grabado 'MW 059 A', barcode 731454060714; el LP no trae 'What Does Your Soul Look Like (Part 4)'). Half-speed Miles Showell (Abbey Road, desde la cinta DAT de la mezcla final): 2021 UMC 00602435838779 (MPO, faja), represión 2024 [PIAS] PIASC1061DLP barcode 5400863157159 (Optimal, runout 'BN08913-01 A1 MILES ABBEY ROAD 1/2 SPEED ROOM 30'), 2026 30 aniversario PIASC1129DLP con las mismas matrices.\nInvestigación 12/11/2026 (API de Discogs, Clash, reseñas de usuarios). Half-speed: más limpio y con más aire, menos graves que la original (comparación de un usuario de Discogs contra el master de 1996). Más baratos a la venta: half-speed 2024 USD 25, original USD 53. Traídos (envío USD 30 + IVA 21%, +30% con tarjeta en pesos): 67/87 y 100/131. Techo sugerido en Argentina: ~ARS 110.000. Dato: tapa de B+ en Rare Records (Sacramento) con Chief Xcel y Lyrics Born. | 12/11: Ana sabe que es reedición y quiere el half-speed para escuchar. Veredicto: vale la pena por menos de ARS 100.000 (USD 61). Rating Discogs 4,83 (258 votos)."
+    "notes": "País: UK · Catálogo: MW059 · Prensado: Original UK/EU 1996 Mo Wax MW059 (Orlake, runout grabado 'MW 059 A', barcode 731454060714; el LP no trae 'What Does Your Soul Look Like (Part 4)'). Half-speed Miles Showell (Abbey Road, desde la cinta DAT de la mezcla final): 2021 UMC 00602435838779 (MPO, faja), represión 2024 [PIAS] PIASC1061DLP barcode 5400863157159 (Optimal, runout 'BN08913-01 A1 MILES ABBEY ROAD 1/2 SPEED ROOM 30'), 2026 30 aniversario PIASC1129DLP con las mismas matrices.\nInvestigación 12/11/2026 (API de Discogs, Clash, reseñas de usuarios). Half-speed: más limpio y con más aire, menos graves que la original (comparación de un usuario de Discogs contra el master de 1996). Más baratos a la venta: half-speed 2024 USD 25, original USD 53. Traídos (envío USD 30 + IVA 21%, +30% con tarjeta en pesos): 67/87 y 100/131. Techo sugerido en Argentina: ~ARS 110.000. Dato: tapa de B+ en Rare Records (Sacramento) con Chief Xcel y Lyrics Born. | 12/11: Ana sabe que es reedición y quiere el half-speed para escuchar. Veredicto: vale la pena por menos de ARS 100.000 (USD 61). Rating Discogs 4,83 (258 votos). | 12/11 Lado B $120.000 (edición desconocida) y Exit $134.991 ($121.492 transferencia, barcode 5400863210021 = 30 aniversario 2026, mismas lacas): más que el techo de $100.000 de Ana."
   }
 ];

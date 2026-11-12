@@ -66,6 +66,14 @@ Discos que Ana dijo que va a escuchar. Cuando vuelva, preguntarle qué le pareci
 Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **protocolo de identificación**
 (niveles de confianza confirmada / probable / sin confirmar). Lo que dice la base es hipótesis hasta verificarlo.
 
+## Curaduría Lado B y Exit Music Records (12/11/2026, abierta: esperando qué elige Ana)
+
+Criterio de Ana: calidad de sonido de la edición contra el precio en Argentina (dólar 1.650; traerlo = Discogs más barato + USD 30 de envío + IVA 21%, +30% de percepción con tarjeta en pesos). Las dos tiendas venden casi todo nuevo (reediciones). Lado B (ladobmusica.com.ar, WooCommerce; las categorías `/categoria-producto/musica/<genero>/vinilo-<genero>/` traen stock y precio; no publica barcode ni edición) es más barata que Exit (exitmusicrecords.com.ar, Tiendanube, usar sin "www"; el listado `/productos/?page=N` trae el barcode como SKU y 10% de descuento por transferencia). Larks sigue más barata que las dos.
+- 💎 *Colores Santos*: Lado B $47.000 · Exit $49.500 por transferencia (barcode 888430041912, el título dice 180 g). Falta foto de la contratapa para confirmar que sea la checa.
+- 👍 Kyuss *Circus* Lado B $74.200 (pedir barcode: oficial 081227958794; truchas 0812279587942 / 075596181112) · Sonny Clark *Cool Struttin'* Blue Note Classic (Kevin Gray, AAA) Lado B $80.000 · Stones *Goats Head Soup* Lado B $81.000 · Björk *Post* Lado B $99.700 · Björk *Homogenic* Exit $105.300 · AIC *Facelift* Lado B $102.400 (precio justo; trucha con 889853749317).
+- Precio justo: Lou Reed *Berlin* Lado B $92.400 · Bowie *Station to Station* Lado B $91.000. Caros: *Mezzanine*, *Play*, *Endtroducing* (más de $100k), *Cosmogramma*, *Sextant* (MOV), *Licensed to Ill*.
+- 🚩 Exit: LPs de transmisiones de radio, productos con SKU inventado, Madonna *Music* con barcode compartido. Lado B: "Edición Nacional" (prensas locales) y jazz de $50.000 "Vinyl Colored" (probable dominio público, sin verificar).
+
 ## Curaduría Muzik Saved My Life (05/11/2026, abierta: esperando qué le interesa a Ana)
 
 Tienda de CABA (muziksavedmylife.com, WooCommerce: el catálogo entero sale de `/wp-json/wc/store/v1/products?per_page=100&page=N`, 2217 ítems, 2143 en stock; la descripción trae Sello/Catálogo/Formato/País/Año/Disco/Tapa, así que se puede filtrar por "Reissue"). Fuerte en 12" de synth-pop/house/Depeche/Madonna. Precios ARS al 05/11/2026.
