@@ -2247,5 +2247,26 @@ window.DEADWAX_SEED = [
     "year": "1996",
     "format": "LP",
     "notes": "País: UK · Catálogo: MW059 · Prensado: Original UK/EU 1996 Mo Wax MW059 (Orlake, runout grabado 'MW 059 A', barcode 731454060714; el LP no trae 'What Does Your Soul Look Like (Part 4)'). Half-speed Miles Showell (Abbey Road, desde la cinta DAT de la mezcla final): 2021 UMC 00602435838779 (MPO, faja), represión 2024 [PIAS] PIASC1061DLP barcode 5400863157159 (Optimal, runout 'BN08913-01 A1 MILES ABBEY ROAD 1/2 SPEED ROOM 30'), 2026 30 aniversario PIASC1129DLP con las mismas matrices.\nInvestigación 12/11/2026 (API de Discogs, Clash, reseñas de usuarios). Half-speed: más limpio y con más aire, menos graves que la original (comparación de un usuario de Discogs contra el master de 1996). Más baratos a la venta: half-speed 2024 USD 25, original USD 53. Traídos (envío USD 30 + IVA 21%, +30% con tarjeta en pesos): 67/87 y 100/131. Techo sugerido en Argentina: ~ARS 110.000. Dato: tapa de B+ en Rare Records (Sacramento) con Chief Xcel y Lyrics Born. | 12/11: Ana sabe que es reedición y quiere el half-speed para escuchar. Veredicto: vale la pena por menos de ARS 100.000 (USD 61). Rating Discogs 4,83 (258 votos). | 12/11 Lado B $120.000 (edición desconocida) y Exit $134.991 ($121.492 transferencia, barcode 5400863210021 = 30 aniversario 2026, mismas lacas): más que el techo de $100.000 de Ana."
+  },
+  {
+    "id": "dw-350",
+    "type": "collection",
+    "artist": "Beastie Boys",
+    "album": "The In Sound From Way Out!",
+    "label": "Grand Royal",
+    "year": "1996",
+    "format": "LP",
+    "notes": "País: USA · Prensado: Comprado 12/11/2026. Represión Grand Royal US de 1998 según Ana ('creo que es 98', mirando la contratapa; sin foto: probable). Primera tirada: 1996 Grand Royal (salida inicial vía fan club francés). Descartada la 2017 Capitol 180g (602557727920, Made in EU). Para confirmar del todo: catálogo y año en la etiqueta.\nBúsqueda 12/11/2026. Compila instrumentales de Check Your Head e Ill Communication + temas nuevos. Título/tapa: homenaje a Perrey & Kingsley (Vanguard 1966). 'Groove Holmes' homenajea al organista Richard 'Groove' Holmes (m. 1991). Fuentes: Wikipedia, uDiscover, Trouser Press, All About Jazz.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-361",
+    "type": "wantlist",
+    "artist": "Deee-Lite",
+    "album": "World Clique",
+    "label": "Elektra",
+    "year": "1990",
+    "format": "LP",
+    "notes": "Catálogo: 60957-1 · Prensado: Primera edición: US Elektra 60957-1 (agosto 1990, país de origen). Otras de época: Alemania 7559-60957-1, UK EKT77, México ST-E-60957. Reediciones: Music On Vinyl 2015 (10 temas), box 2LP 45 rpm UltraDisc One-Step 2026 (2.000 numeradas). Cómo reconocer la primera: Elektra US con catálogo 60957-1 en lomo/etiqueta, año 1990.\nPedido de Ana 12/11/2026 tras ver el maxi Groove Is in the Heart en Apolo Records (Europa 1990, VG+, ARS 79900). Invitados: Bootsy Collins, Q-Tip, Fred Wesley, Maceo Parker; Groove Is in the Heart samplea a Herbie Hancock. Fuentes: Wikipedia, rarevinyl, soundstation.dk, audiosoundmusic."
   }
 ];
