@@ -2247,5 +2247,15 @@ window.DEADWAX_SEED = [
     "year": "1996",
     "format": "LP",
     "notes": "País: UK · Catálogo: MW059 · Prensado: Original UK/EU 1996 Mo Wax MW059 (Orlake, runout grabado 'MW 059 A', barcode 731454060714; el LP no trae 'What Does Your Soul Look Like (Part 4)'). Half-speed Miles Showell (Abbey Road, desde la cinta DAT de la mezcla final): 2021 UMC 00602435838779 (MPO, faja), represión 2024 [PIAS] PIASC1061DLP barcode 5400863157159 (Optimal, runout 'BN08913-01 A1 MILES ABBEY ROAD 1/2 SPEED ROOM 30'), 2026 30 aniversario PIASC1129DLP con las mismas matrices.\nInvestigación 12/11/2026 (API de Discogs, Clash, reseñas de usuarios). Half-speed: más limpio y con más aire, menos graves que la original (comparación de un usuario de Discogs contra el master de 1996). Más baratos a la venta: half-speed 2024 USD 25, original USD 53. Traídos (envío USD 30 + IVA 21%, +30% con tarjeta en pesos): 67/87 y 100/131. Techo sugerido en Argentina: ~ARS 110.000. Dato: tapa de B+ en Rare Records (Sacramento) con Chief Xcel y Lyrics Born. | 12/11: Ana sabe que es reedición y quiere el half-speed para escuchar. Veredicto: vale la pena por menos de ARS 100.000 (USD 61). Rating Discogs 4,83 (258 votos). | 12/11 Lado B $120.000 (edición desconocida) y Exit $134.991 ($121.492 transferencia, barcode 5400863210021 = 30 aniversario 2026, mismas lacas): más que el techo de $100.000 de Ana."
+  },
+  {
+    "id": "dw-337",
+    "type": "wantlist",
+    "artist": "Peter Tosh",
+    "album": "Bush Doctor",
+    "label": "Rolling Stones Records",
+    "year": "1978",
+    "format": "LP",
+    "notes": "Catálogo: CUN 39109 (UK) / COC 39109 (US) · Prensado: UK 1978 CUN 39109: matrix YAX.5536/YAX.5537, runout estampado 'ATLANTIC STUDIOS D.K.' (Dennis King). US 1978 COC 39109: distrib. Atlantic, prensa Specialty, runout ST-RS-784141/784142 + 'ATLANTIC STUDIOS D.K.'. Alemania 1C 064-61708 e Italia 3C 064-61708 (licencia EMI, corte europeo). Reediciones: UK 1985, Trojan test press 1990 (TRPT100), Music On Vinyl 2020 180 g remastered, Rhino 2024 roja reciclada. No se encontró prensa jamaiquina de época.\nInvestigación 13/11/2026 (Discogs bloqueado, runouts de espejos de Discogs y 45worlds: sin confirmar). Sin reseñas que comparen sonido entre ediciones. Grabado en Dynamic Sounds/Joe Gibbs (Kingston) y Bearsville (Woodstock). Dato: sticker scratch & sniff con olor a marihuana en la tapa UK; según relatos secundarios, una cadena británica la retiró. 'Don't Look Back' (Robinson/White, Temptations 1965) a dúo con Mick Jagger; Tosh ya la había grabado en ska con los Wailers en 1966. Fuentes: 45worlds cun39109/coc39109, shugarecords, vinyl-records.nl, Wikipedia."
   }
 ];
