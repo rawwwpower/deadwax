@@ -171,6 +171,7 @@ Son muy amplios y buscan activamente descubrir cosas nuevas: al curar un catálo
   - **Rock argentino de los 70/80: interés bajo.** Marcarlo solo si es una ganga o una oportunidad clara.
   - **Indie, post-punk, goth, new wave: le gusta, y lo quiere de época** (original o licencia contemporánea), no reediciones.
   - Antes de sugerir un icónico, mirar si ya lo tiene (`status=owned`): *Sonic Temple* lo tiene en US de época.
+- **Curaduría también es descubrimiento** (Ana, 15/11/2026, Clavel Records: "te estás enfocando mucho en precio/calidad"): no dejar afuera un disco por no conocer bien su edición ni porque en Discogs sale más barato. Sumar siempre una pasada musical: clásicos de su género aunque no sea el de Ana, discos con historia, saltos de género (clásica, tango, calypso). Precio y edición se dicen, pero no filtran.
 - **Cómo priorizar una curaduría** (pedido de Ana, 04/10/2026): primero lo que le puede gustar musicalmente; precio, estado, rareza y "no lo tengo" vienen después. Ante la duda, preguntar por artistas puntuales antes de dejar algo afuera.
 - **Ya presente en la colección**: metal/hard rock, grunge, rock y punk argentino, bandas de sonido (Goblin, Clockwork Orange), post-punk/new wave, krautrock, disco/boogie brasilero.
 - **Huecos detectados (sep 2026)**: jazz clásico y fusión, soul/funk, MPB, reggae.
