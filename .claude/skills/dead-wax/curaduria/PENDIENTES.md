@@ -70,6 +70,13 @@ Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **proto
 
 En orden: 1) *Colores Santos* checa, Exit $49.492 transferencia (pedir contratapa; alternativa Lado B $47.000) · 2) Gorillaz 2026 Larks /discos/206 $90.000 · 3) *Exit Planet Dust* 2017 Larks /discos/215 $85.000 · 4) Thievery Larks /discos/322 $82.000 (subió de $80.000) · 5) Daft Punk *Discovery* 2023 Larks /discos/283 $92.000 · 6) Kyuss *Circus* Lado B $74.200 (barcode 081227958794) · 7) *Endtroducing* half-speed solo si cuesta menos de $100.000 · 8) *Goats Head Soup* Lado B $81.000 · 9) Björk *Homogenic* Exit $105.292 · 10) *Cool Struttin'* Lado B $80.000 · 11) Morphine Larks /discos/221 $80.000 · 12) Aphex *SAW* Larks /discos/3 $96.000 · 13) ATCQ Larks /discos/299 $90.000 · 14) BoC *Inferno* Larks /discos/292 $96.000 (caro). Cuando Ana confirme compras: pasar a owned y vaciar precio.
 
+## Curaduría Beach House Music (15/11/2026, abierta: esperando qué elige Ana)
+
+beachhousemusic.empretienda.com.ar (Empretienda). 358 discos, casi todo importado nuevo, sin barcode ni país: preguntar edición. Catálogo completo en `/sitemap.xml`; precio y stock en cada ficha (`var stock = [...]`). Precios $87k-$153k con descuento.
+- Wishlist: *Dig Your Own Hole* $131.890 (¿2016 Mike Marsh?) · *Play* $142.890 (¿2016 Optimal?) · *Blood Sugar* $131.890 (¿Grundman 2012 o EU 2019?) · Fatboy Slim *You've Come a Long Way* $120.890 · *Never Mind the Bollocks* $98.890.
+- Descubrimiento: Massive Attack vs Mad Professor *No Protection* $109k · Kraftwerk *Autobahn* $104k · Love and Rockets *Express* $92k · Prince *Dirty Mind* $87k · Depeche Mode *Violator*/*SOFAD*/*Ultra* · Joy Division *Closer* · Nick Cave *From Her to Eternity* · Cocteau Twins *Heaven or Las Vegas* · NIN *Downward Spiral* · Parliament *Osmium* $98k · MF DOOM *MM..Food* $131k · Marvin Gaye · Lauryn Hill · Talking Heads *Remain in Light* $92k · Tom Waits *Rain Dogs* · Django Reinhardt *Nuages* $76k · *Louie's Limbo Lounge* (Crypt) $88k · Spice Girls *Greatest Hits*.
+- Ediciones BH (propias, locales): Adicta, Fantasmagoria, Coiffeur, Bochatón, Aristimuño ($49-87k), sin investigar.
+
 ## Curaduría Clavel Records (15/11/2026, abierta: esperando qué elige Ana)
 
 vinilolibre.com/s/clavel-records (Colegiales). 660 discos, casi todo 12" house/eurodance 90s usado + reediciones nuevas Vampisoul/Soundway/Munster. Fotos de stock de Discogs ("no es foto del ejemplar"): la edición la elige el vendedor, todo sin confirmar. Listado completo por API: `/api/s/clavel-records/listings?offset=N&limit=50` (trae discogsReleaseId, formato, año, estado, precio); la ficha `/l/<slug>/<id>` trae sello y catálogo. Dólar $1.650 (12/11).
