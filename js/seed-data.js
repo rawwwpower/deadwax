@@ -1259,7 +1259,7 @@ window.DEADWAX_SEED = [
     "label": "Mute",
     "year": "2019",
     "format": "LP",
-    "notes": ""
+    "notes": "Catálogo: 724596937839 · Prensado: Remaster 2014 Spoon/Mute (XSPOON8 / 9378-1), vinilo verde limitado, barcode 724596937839. Original 1972 Alemania United Artists. Foro Pinkfish: fiel al remaster SACD, abierto y detallado; duda sobre bajo/energía vs. UA original.\n | 15/11/2026: visto sellado en Planeador a ARS 99.000 (London Records 89.000 en oct). Fuentes: Pinkfish Media, Turntable Lab, Elusive Disc."
   },
   {
     "id": "dw-156",
