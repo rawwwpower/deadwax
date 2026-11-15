@@ -1253,13 +1253,14 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-155",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "Can",
     "album": "Ege Bamyasi",
     "label": "Mute",
     "year": "2019",
     "format": "LP",
-    "notes": "Catálogo: 724596937839 · Prensado: Remaster 2014 Spoon/Mute (XSPOON8 / 9378-1), vinilo verde limitado, barcode 724596937839. Original 1972 Alemania United Artists. Foro Pinkfish: fiel al remaster SACD, abierto y detallado; duda sobre bajo/energía vs. UA original.\n | 15/11/2026: visto sellado en Planeador a ARS 99.000 (London Records 89.000 en oct). Fuentes: Pinkfish Media, Turntable Lab, Elusive Disc."
+    "notes": "Catálogo: 724596937839 · Prensado: Remaster 2014 Spoon/Mute (XSPOON8 / 9378-1), vinilo verde limitado, barcode 724596937839. Original 1972 Alemania United Artists. Foro Pinkfish: fiel al remaster SACD, abierto y detallado; duda sobre bajo/energía vs. UA original.\n | 15/11/2026: visto sellado en Planeador a ARS 99.000 (London Records 89.000 en oct). Fuentes: Pinkfish Media, Turntable Lab, Elusive Disc.",
+    "owner": "yo"
   },
   {
     "id": "dw-156",
@@ -2247,5 +2248,38 @@ window.DEADWAX_SEED = [
     "year": "1996",
     "format": "LP",
     "notes": "País: UK · Catálogo: MW059 · Prensado: Original UK/EU 1996 Mo Wax MW059 (Orlake, runout grabado 'MW 059 A', barcode 731454060714; el LP no trae 'What Does Your Soul Look Like (Part 4)'). Half-speed Miles Showell (Abbey Road, desde la cinta DAT de la mezcla final): 2021 UMC 00602435838779 (MPO, faja), represión 2024 [PIAS] PIASC1061DLP barcode 5400863157159 (Optimal, runout 'BN08913-01 A1 MILES ABBEY ROAD 1/2 SPEED ROOM 30'), 2026 30 aniversario PIASC1129DLP con las mismas matrices.\nInvestigación 12/11/2026 (API de Discogs, Clash, reseñas de usuarios). Half-speed: más limpio y con más aire, menos graves que la original (comparación de un usuario de Discogs contra el master de 1996). Más baratos a la venta: half-speed 2024 USD 25, original USD 53. Traídos (envío USD 30 + IVA 21%, +30% con tarjeta en pesos): 67/87 y 100/131. Techo sugerido en Argentina: ~ARS 110.000. Dato: tapa de B+ en Rare Records (Sacramento) con Chief Xcel y Lyrics Born. | 12/11: Ana sabe que es reedición y quiere el half-speed para escuchar. Veredicto: vale la pena por menos de ARS 100.000 (USD 61). Rating Discogs 4,83 (258 votos). | 12/11 Lado B $120.000 (edición desconocida) y Exit $134.991 ($121.492 transferencia, barcode 5400863210021 = 30 aniversario 2026, mismas lacas): más que el techo de $100.000 de Ana."
+  },
+  {
+    "id": "dw-339",
+    "type": "collection",
+    "artist": "Talking Heads",
+    "album": "Fear of Music",
+    "label": "WEA",
+    "year": "1979",
+    "format": "LP",
+    "notes": "País: Brasil · Catálogo: 6107079 · Prensado: Época: US Sire SRK 6076 (tapa con relieve, plantas varias, una Winchester) · Europa/Alemania Sire 56 707 · Portugal SRK 6076 NP · Canadá WEA · Brasil WEA 6107079 (catálogo de una sola fuente, Progrography). Reconocer la brasileña: etiqueta WEA con 6107079, tapa con relieve de chapa, hoja de letras.\n15/11/2026: solo foto de tapa con sticker de tienda brasileña 'SELADO' y cartel 'Brasil 70.000'. Sin reseñas de sonido de la brasileña. Fuentes: Progrography, Discogs master 39260, rarevinyl, 45worlds, Wikipedia. | 15/11 sonido: On The Record dice que la prensa promedio vuelve los efectos \"grainy mush\"; mejores las Sire de época (SRK 6076).",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-341",
+    "type": "collection",
+    "artist": "The Doors",
+    "album": "The Soft Parade",
+    "label": "Elektra",
+    "year": "1969",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: EKS-75005 · Prensado: 1ª: etiqueta roja Big E SIN rim text (y copias en etiqueta dorada vieja) · 2ª: roja con rim text 'elektra records • 1855 broadway • new york city' (1969-70) · luego butterfly (1970+) · roja/negra 80s. Plantas: CTH/T Terre Haute, CP Pitman. Mejor sonido según vendedor: Analogue Productions 45rpm (Botnick 2012), sin verificar.\n15/11/2026: foto de tapa y etiqueta lado B. Fuentes: Discogs 3069006/490817, cvinyl, vinylbeat, Hoffman forum, Wikipedia. | 15/11 sonido: On The Record: \"most pressings just plain horrible\", elogia original temprana (gold label); AP 45rpm (Doug Sax) \"superior\" según vendedor; Rhino 2009 floja.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-347",
+    "type": "collection",
+    "artist": "Rage Against the Machine",
+    "album": "Rage Against the Machine",
+    "label": "Epic / Legacy",
+    "year": "1992",
+    "format": "LP",
+    "notes": "País: USA · Catálogo: 887254704515 · Prensado: 2012 XX 20th Anniversary, Epic/Legacy 88725470451, 180 g, sticker en shrink. Remaster Vlado Meller, corte Mark Santangelo (Masterdisk). Original 1992 Epic.\n15/11/2026: sin comparación seria vs. 1992; reseñas de compradores buenas. Fuentes: Music Direct, Shuga, Best Buy.",
+    "owner": "yo"
   }
 ];
