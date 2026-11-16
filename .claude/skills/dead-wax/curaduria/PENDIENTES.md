@@ -3,6 +3,15 @@
 Estado al 07/10/2026, para retomar en una sesión nueva sin perder nada.
 Leer esto antes de seguir con cualquier compra, carga a la base o la página de vinilos.
 
+## Lista maestra (16 nov 2026): todo lo pendiente, con el criterio integral de Ana
+
+Rescatadas 4 ramas viejas sin mergear (admiring-fermi, lekqyi, relaxed-goldberg, serene-davinci): 49 discos fusionados fila por fila. Precios del 11 al 15/11, sin rechequear.
+- **Comprar acá:** 💎 *Colores Santos* checa (Lado B 47k / Exit 49,5k / Clavel 55k) · 💎 Propaganda *Dr. Mabuse* ZTT (Muzik 35k) · 💎 Clavel época: NoW *Happiness!* 40k, Moroder & Bennett 47k, Ledernacken 40k, Görl 50k, Mackenzie 60k · 👍 *Remain in Light* Beach House 92k (preguntar edición) · *More Songs* alemana Planeador 70k · Kyuss *Circus* Lado B 74,2k · *Cool Struttin'* Lado B 80k · *Goats Head Soup* / *Station to Station* / *Berlin* Lado B · *Discovery* Larks 92k · Larks 90s (Exit Planet Dust, SAW, Bustin', Twin Peaks, Zombie, Thievery, Morphine, ATCQ, Gorillaz) · Muzik (Thieves Like Us JP, Cowley, Candyman) · Specials 12" JP (falta precio).
+- **Links (16/11, precios rechequeados):** Colores Santos [Lado B $47k](https://ladobmusica.com.ar/producto/cerati-gustavo-melero-daniel-colores-santos-vinilo/) / [Clavel $55k](https://vinilolibre.com/l/cerati-melero-colores-santos/lst_Tn5OP1tvl7974Jr2) · [Dr. Mabuse $43.960](https://muziksavedmylife.com/product/propaganda-the-nine-lives-of-dr-mabuse/) · [Happiness! $40k](https://vinilolibre.com/l/nightmares-on-wax-happiness/lst_lNO4MAuDakS49at4) · [Giorgio & Chris $47,5k](https://vinilolibre.com/l/giorgio-and-chris-loves-in-you-loves-in-me/lst_PGJBsh5sv2juTvgM) · [Ledernacken $40k](https://vinilolibre.com/l/ledernacken-do-the-boogaloo/lst_v_MMei3yPJgrQOWw) · [Görl $50k](https://vinilolibre.com/l/robert-gorl-watch-the-great-copycat/lst_oM-oIT-m8MM-Z0pX) · [Mackenzie $60k](https://vinilolibre.com/l/the-mackenzie-chicago-trip/lst_0Hx988R2NXjx9maH) · [Remain in Light $92.950](https://beachhousemusic.empretienda.com.ar/importados/talking-head-remain-in-light) · [Circus $74,2k](https://ladobmusica.com.ar/producto/kyuss-and-the-circus-leaves-town-vinilo/) · [Cool Struttin' $80k](https://ladobmusica.com.ar/producto/clark-sonny-cool-struttin-blue-note-classic-vinyl-edition-vinilo-jazz/) · [Goats Head $81k](https://ladobmusica.com.ar/producto/rolling-stones-the-goats-head-soup-vinilo/) · [Station to Station $91k](https://ladobmusica.com.ar/producto/bowie-david-station-to-station-edicion-import-vinilo/) · [Berlin $92,4k](https://ladobmusica.com.ar/producto/reed-lou-berlin-vinilo/) · Larks (URL larksrecords.com.ar/discos/<id>): Discovery 283 $92k, EPD 215 $85k, SAW 3 $96k, Bustin' 1 $68k, Twin Peaks 277 $84k, Zombie 305 $80k, Fragile 242 $96k, Thievery 322 $82k, Morphine 221 $80k, ATCQ 299 $90k, Gorillaz 206 $90k, BoC 292 $96k · Muzik: [Thieves Like Us $131.880](https://muziksavedmylife.com/product/new-order-thieves-like-us/), [Cowley $70.336](https://muziksavedmylife.com/product/patrick-cowley-goin-home-tech-no-logical-world/), [Candyman $87.920](https://muziksavedmylife.com/product/siouxsie-the-banshees-candyman/). Regla: toda lista va con link a cada disco.
+- **Importar:** icónicos según `versiones`; *Madvillainy* Audiophile STH2065-8; Hawkwind *Doremi* UK UA; *Bush Doctor* UK CUN 39109; *dubnobass* 1ª; *Cymande*; *Freedom Flight*; Kyuss; YMO; *B-2 Unit*.
+- **Preguntado a Ana:** ¿sale de la wishlist la *Soft Parade* alemana 1992 (id 32) ahora que tiene la US?
+- Top 5 sugerido: *Colores Santos*, *Dr. Mabuse*, *Remain in Light*, *Cool Struttin'*, *Happiness!*.
+
 ## Retomar acá (15 nov 2026): batea de Planeador Records
 
 Ana compró: *Fear of Music* Brasil WEA 1979 (339), *The Soft Parade* US roja 1969-70 (341), *Ege Bamyasi* remaster 2014 verde (155) y *RATM XX* 2012 (347): pasados a owned. Evaluados y no comprados (ids 337-349): *Mystic Man* (época, 54k), *Madvillainy* común (buscar la Audiophile STH2065-8), *Ohio Players Gold*, *Blah-Blah-Blah* (muy caro), *Roseland 25th* (160k, caro), *Moby 18*, *Sticky Fingers* half-speed (domesticada), *Vertigo*, Specials 12" Japón WWS-10002 (falta precio), *More Songs* alemana Ariola 26 383 XOT 70k (👍 sugerida). *Discovery* ahí a 120k: comprar en Larks (92k). Regla nueva en SKILL.md: foco en sonido y en cómo suena en su equipo; precio solo si es MUY caro. La lista consolidada del 12/11 sigue abierta (no rechequeada el 15/11).
@@ -76,6 +85,23 @@ Leer en `SKILL.md` "No confiar: verificar", "un disco es un activo" y el **proto
 
 En orden: 1) *Colores Santos* checa, Exit $49.492 transferencia (pedir contratapa; alternativa Lado B $47.000) · 2) Gorillaz 2026 Larks /discos/206 $90.000 · 3) *Exit Planet Dust* 2017 Larks /discos/215 $85.000 · 4) Thievery Larks /discos/322 $82.000 (subió de $80.000) · 5) Daft Punk *Discovery* 2023 Larks /discos/283 $92.000 · 6) Kyuss *Circus* Lado B $74.200 (barcode 081227958794) · 7) *Endtroducing* half-speed solo si cuesta menos de $100.000 · 8) *Goats Head Soup* Lado B $81.000 · 9) Björk *Homogenic* Exit $105.292 · 10) *Cool Struttin'* Lado B $80.000 · 11) Morphine Larks /discos/221 $80.000 · 12) Aphex *SAW* Larks /discos/3 $96.000 · 13) ATCQ Larks /discos/299 $90.000 · 14) BoC *Inferno* Larks /discos/292 $96.000 (caro). Cuando Ana confirme compras: pasar a owned y vaciar precio.
 
+## Curaduría Beach House Music (15/11/2026, abierta: esperando qué elige Ana)
+
+beachhousemusic.empretienda.com.ar (Empretienda). 358 discos, casi todo importado nuevo, sin barcode ni país: preguntar edición. Catálogo completo en `/sitemap.xml`; precio y stock en cada ficha (`var stock = [...]`). Precios $87k-$153k con descuento.
+- Wishlist: *Dig Your Own Hole* $131.890 (¿2016 Mike Marsh?) · *Play* $142.890 (¿2016 Optimal?) · *Blood Sugar* $131.890 (¿Grundman 2012 o EU 2019?) · Fatboy Slim *You've Come a Long Way* $120.890 · *Never Mind the Bollocks* $98.890.
+- Descubrimiento: Massive Attack vs Mad Professor *No Protection* $109k · Kraftwerk *Autobahn* $104k · Love and Rockets *Express* $92k · Prince *Dirty Mind* $87k · Depeche Mode *Violator*/*SOFAD*/*Ultra* · Joy Division *Closer* · Nick Cave *From Her to Eternity* · Cocteau Twins *Heaven or Las Vegas* · NIN *Downward Spiral* · Parliament *Osmium* $98k · MF DOOM *MM..Food* $131k · Marvin Gaye · Lauryn Hill · Talking Heads *Remain in Light* $92k · Tom Waits *Rain Dogs* · Django Reinhardt *Nuages* $76k · *Louie's Limbo Lounge* (Crypt) $88k · Spice Girls *Greatest Hits*.
+- Ediciones BH (propias, locales): Adicta, Fantasmagoria, Coiffeur, Bochatón, Aristimuño ($49-87k), sin investigar.
+
+## Curaduría Clavel Records (15/11/2026, abierta: esperando qué elige Ana)
+
+vinilolibre.com/s/clavel-records (Colegiales). 660 discos, casi todo 12" house/eurodance 90s usado + reediciones nuevas Vampisoul/Soundway/Munster. Fotos de stock de Discogs ("no es foto del ejemplar"): la edición la elige el vendedor, todo sin confirmar. Listado completo por API: `/api/s/clavel-records/listings?offset=N&limit=50` (trae discogsReleaseId, formato, año, estado, precio); la ficha `/l/<slug>/<id>` trae sello y catálogo. Dólar $1.650 (12/11).
+- 💎 *Colores Santos* $55.000 nuevo, cargado como Discogs 7064137 = checa 2015 (pedir contratapa "Vinyl made in Czech Republic" y runout 113207E1/A; el barcode lo comparte la AR 2019).
+- 👍 Originales de época, baratos frente a traerlos: Robert Görl *Watch The Great Copycat* DE 1996 Disko B $50k · The Mackenzie *Chicago Trip* BE 1989 MAC 1011 $60k · Ledernacken *Do The Boogaloo* UK 1987 SBR 12T $40k · Nightmares On Wax *Happiness!* UK 1992 Warp WAP 28 $40k · Moroder & Chris Bennett *Love's In You* US 1978 Casablanca $47k.
+- 👍 Licencias AR Parnaso (CTI): Lalo Schifrin *Black Widow* 1976 $70k · Deodato *Preludio* 1974 cuadrafónico $50k (caro: AR desde USD 15).
+- 👍 Reediciones: Los Zheros *Psychedelic Cumbia Party* (Vampisoul 2025, cumbia peruana de Iquitos) $90k · Tim Maia 1971 $115k · Ghetto Brothers *Power-Fuerza* $125k · Soundway *Kaiso Power* $90k / *Ghana Special* $95k / Black Truth Rhythm Band $85k.
+- 🆕 Segunda pasada por descubrimiento (pedido de Ana): Peter Godwin *Images of Heaven* promo $33k · Yello *Rubberbandman* · The The *Infected* · Heaven 17 · Mathew Jonson / Geoff White / Black Dice / Jimmy Edgar · Inner City *That Man* · Sub Sub · Hollis P. Monroe *I'm Lonely* $65k · Kid Creole *Off The Coast Of Me* (BR) $50k · Invisible Man's Band $70k · Debbie Harry *Backfired* · Bogaz / Intrigue (boogie raro) · Janet *Got 'Til It's Gone* $50k · The Sequence (Angie Stone) $37k · Dr. Jeckyll & Mr. Hyde $50k · The Survival · *Radio Cramps* · Walter Wanderley *Moondreams* · King Eric (Bahamas) · Bäck/Nielsen 1965 $30k · Piazzolla *Nuestro Tiempo* 1962 $50k · Spinetta Jade / Litto Nebbia / Serú (jazz-rock) · Gato Barbieri *Euforia*.
+- 🚩 Pappo's Blues 1971 y *Vol. 3*, Charly *Pubis Angelical* 1982: año/catálogo de la original pero "nuevo sellado" = reediciones mal cargadas.
+
 ## Curaduría Lado B y Exit Music Records (12/11/2026, abierta: esperando qué elige Ana)
 
 Criterio de Ana: calidad de sonido de la edición contra el precio en Argentina (dólar 1.650; traerlo = Discogs más barato + USD 30 de envío + IVA 21%, +30% de percepción con tarjeta en pesos). Las dos tiendas venden casi todo nuevo (reediciones). Lado B (ladobmusica.com.ar, WooCommerce; las categorías `/categoria-producto/musica/<genero>/vinilo-<genero>/` traen stock y precio; no publica barcode ni edición) es más barata que Exit (exitmusicrecords.com.ar, Tiendanube, usar sin "www"; el listado `/productos/?page=N` trae el barcode como SKU y 10% de descuento por transferencia). Larks sigue más barata que las dos.
@@ -101,6 +127,31 @@ Segunda pasada (la buena, después de la corrección de Ana):
   - No hay: cumbia, jazz, hip hop 2000s, hardcore; Spice Girls solo reedición 2019.
 - Primera pasada, vigente pero tibia para Ana: Quincy Jones *The Dude* USA 1981 SP-3721 $93.811 · Chas Jankel 12" Francia 1982 $102.339 · Grace Jones *Slave to the Rhythm* 12" USA 1985 $65.412 (Ana busca *Warm Leatherette*, id 31) · Horace Andy *Midnight Scorchers* · Rhythm & Sound *w/ The Artists* · *Virtual Dreams II* · *Congo Funk!* · Pastoral 1973.
 - Descartados por Ana: *Rockit* (ya está *Future Shock* en casa), *Sonic Temple* Brasil (tiene la US de época, id 34 owned), *Álbum Blanco* argentino, Aquelarre.
+
+## Curaduría Larks Records (11/11/2026, abierta: esperando qué le interesa a Ana)
+
+Tienda virtual de La Plata (larksrecords.com.ar, sin `www`). Es una SPA: el catálogo lo trae el navegador desde
+`mdfbxfzikkvxtzvnfngs.supabase.co` (habilitado en el entorno el 11/11). Se lee abriendo la página con Playwright y
+mirando las respuestas que recibe el navegador; cada ficha `/discos/<id>` trae país, año, sello, barcode y link a Discogs.
+157 discos, 78 en stock, **casi todo reedición nueva sellada** (indie, post-rock, krautrock, trip hop, electrónica 90s).
+Precios ARS al 11/11/2026.
+
+- Respuesta de Ana (11/11): *Mezzanine* y *Dummy* ya son suyos (reediciones; va a pasar cuáles). Le interesan Blur (lo
+  escucha), Twin Peaks, NIN (primero *The Downward Spiral*), Fela (a ella y a Seba) y Primus *Sailing* + *Pork Soda* con el
+  mejor sonido: todos cargados con ranking de versiones (ids 324-330).
+- **Play** (icónico, id 24): la francesa 2022 (r25028983, #4 del ranking, reportes de QC), $110.000: caro para la #4.
+- Electrónica/trip hop: Boards of Canada *Inferno* 2026 (primera edición, $96.000) · Aphex Twin *SAW 85-92* 2021
+  remaster Metropolis ($96.000) · Chemical Brothers *Exit Planet Dust* 2017, cortado de los lacquers originales por Mike
+  Marsh ($85.000) · Massive Attack *Protection* EU 2016 ($76.000) · Portishead *Dummy* 2014 ($85.000) · Blur
+  *Bustin' + Dronin'* (remixes dub, RSD 2022, usado EX con obi, $68.000).
+- Otros por su gusto: Badalamenti *Music From Twin Peaks* 2020 ($84.000) · NIN *The Fragile* Definitive 2017
+  ($96.000) · Tool *Undertow* 2025 ($80.000) · Primus *Sailing the Seas of Cheese* 2022 (**nuevo mix estéreo, no el
+  original**, $79.000) · Fela Kuti *Zombie* 2022 ($80.000).
+- Segunda ronda (11/11): a Ana le interesaron *Exit Planet Dust*, *Bustin' + Dronin'*, *SAW 85-92* y BoC *Inferno* (wishlist
+  con ranking, ids 324 y 331-333). Larks consigue discos a pedido: sugeridos Leftfield, The Orb, Underworld, Global
+  Communication, BoC *Music Has the Right…*, Autechre *Amber* (descubrimientos 334-344, con Harmonia, Dots and Loops y Surrender en stock).
+- Sin stock pero para vigilar: Seefeel *Quique*, Thievery Corporation *Radio Retaliation*, Tricky, Kraftwerk *The Man-Machine*.
+- 🚩 *The Velvet Underground & Nico* de "Vinyl Lovers" (2008): sello europeo de dominio público, no oficial.
 
 ## Abierto
 
