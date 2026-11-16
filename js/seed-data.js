@@ -269,7 +269,7 @@ window.DEADWAX_SEED = [
     "label": "Sony Legacy (reedición 2020)",
     "year": "2020",
     "format": "LP",
-    "notes": "Prensado: PROBABLE (barcode 194397838619 verificado: corresponde a una sola edición, Legacy 2020; falta ver etiqueta/dead wax): reedición estándar 30 aniversario 2020 (NO el box deluxe, ese es otro SKU). Cortada por Chris Bellman, remasterizada en Gateway Mastering (estudio de Bob Ludwig). Reviews muy buenas: profundidad, silenciosa, buenos agudos.\nVEREDICTO: vale la pena, comprar. Original 1990 Columbia no evaluado en detalle (grunge de los 90, no una era audiófila de referencia). | 12/11 Lado B $102.400 (2LP, sin barcode) y Exit $152.991 (barcode 194397838619). Ojo con truchas: barcode 889853749317. Discogs 16841046 desde USD 21. | 12/11/2026 Ana confirma que lo tiene; edición sin identificar (antes evaluada: país None, cat. barcode 194397838619, sello Sony Legacy (reedición 2020)).",
+    "notes": "Catálogo: barcode 194397838619 · Prensado: PROBABLE (barcode 194397838619 verificado: corresponde a una sola edición, Legacy 2020; falta ver etiqueta/dead wax): reedición estándar 30 aniversario 2020 (NO el box deluxe, ese es otro SKU). Cortada por Chris Bellman, remasterizada en Gateway Mastering (estudio de Bob Ludwig). Reviews muy buenas: profundidad, silenciosa, buenos agudos.\nVEREDICTO: vale la pena, comprar. Original 1990 Columbia no evaluado en detalle (grunge de los 90, no una era audiófila de referencia). | 12/11 Lado B $102.400 (2LP, sin barcode) y Exit $152.991 (barcode 194397838619). Ojo con truchas: barcode 889853749317. Discogs 16841046 desde USD 21. | 12/11/2026 Ana confirma que lo tiene; edición sin identificar (antes evaluada: país None, cat. barcode 194397838619, sello Sony Legacy (reedición 2020)).",
     "owner": "yo"
   },
   {
@@ -1831,7 +1831,7 @@ window.DEADWAX_SEED = [
     "label": "XL Recordings",
     "year": "",
     "format": "LP",
-    "notes": "Prensado: PROBABLE (contratapa vista sellada en disquería, 31/10/2026): represión US moderna, 'Made in USA' en créditos, barcode US de XL (634904...). Original 1997 UK XLLP 121. Sin reviews de sonido de esta prensa.\n23/10, ML (CINEMAMUSICRECORDS): nuevo e importado = reedición negra XLLP121 (2012, 2018, 2020…; mismo catálogo y barcode que la original 1997). Rechequeo 23/10 (reseñas de Discogs): las UK negras de 2018 y 2020 son las mejor reseñadas (silenciosas, buena dinámica); la US 2012, nivel alto; la 25 aniversario plateada (XL121LP2, Optimal Media, barcode 634904212117) es limpia, sin remaster declarado, y no apareció en Argentina; la original 1997 (Damont) tiene reportes de saltos en C/D. Los 180 g del anuncio no están verificados. 31/10, Monkey Records (fotos de Ana, sin dead wax): cómo distinguir la original: mismo catálogo y etiqueta '© XL-Recordings 1997' en la original y en todas las represiones (2006, 2016 US, 2020 UK, 2022 Optimal). Original 1997: dead wax con 'DAMONT' y 'MIKE'S - THE EXCHANGE' (corte de Mike Marsh). Represiones: matrix 'B666911'. 31/10, disquería: copia sellada US moderna (ver prensado_notas). VEREDICTO: reedición estándar, para escuchar; sin valor de colección. | 12/11/2026 Ana confirma que lo tiene; edición sin identificar (antes evaluada: país UK/EU/USA (tres copias vistas, ninguna confirmada), cat. XLLP 121 (barcode 634904012113), sello XL Recordings).",
+    "notes": "País: UK/EU/USA (tres copias vistas, ninguna confirmada) · Catálogo: XLLP 121 (barcode 634904012113) · Prensado: PROBABLE (contratapa vista sellada en disquería, 31/10/2026): represión US moderna, 'Made in USA' en créditos, barcode US de XL (634904...). Original 1997 UK XLLP 121. Sin reviews de sonido de esta prensa.\n23/10, ML (CINEMAMUSICRECORDS): nuevo e importado = reedición negra XLLP121 (2012, 2018, 2020…; mismo catálogo y barcode que la original 1997). Rechequeo 23/10 (reseñas de Discogs): las UK negras de 2018 y 2020 son las mejor reseñadas (silenciosas, buena dinámica); la US 2012, nivel alto; la 25 aniversario plateada (XL121LP2, Optimal Media, barcode 634904212117) es limpia, sin remaster declarado, y no apareció en Argentina; la original 1997 (Damont) tiene reportes de saltos en C/D. Los 180 g del anuncio no están verificados. 31/10, Monkey Records (fotos de Ana, sin dead wax): cómo distinguir la original: mismo catálogo y etiqueta '© XL-Recordings 1997' en la original y en todas las represiones (2006, 2016 US, 2020 UK, 2022 Optimal). Original 1997: dead wax con 'DAMONT' y 'MIKE'S - THE EXCHANGE' (corte de Mike Marsh). Represiones: matrix 'B666911'. 31/10, disquería: copia sellada US moderna (ver prensado_notas). VEREDICTO: reedición estándar, para escuchar; sin valor de colección. | 12/11/2026 Ana confirma que lo tiene; edición sin identificar (antes evaluada: país UK/EU/USA (tres copias vistas, ninguna confirmada), cat. XLLP 121 (barcode 634904012113), sello XL Recordings).",
     "owner": "yo"
   },
   {
@@ -2237,7 +2237,7 @@ window.DEADWAX_SEED = [
     "label": "Columbia",
     "year": "1992",
     "format": "LP",
-    "notes": "País: Argentina · Catálogo: 70185 / 1-470.085 · Prensado: Original AR 1992: Columbia 70185 / 1-470.085, Sony Music Entertainment (Argentina) S.A., sin barcode. Promo AR 1992: 70185 (Discogs 12334332). Prensas de época también en Colombia (COL 14470085) y Venezuela (1.21.1269). Reediciones 180 g con el mismo cat. 88843004191 / barcode 888430041912: AR 2015 GZ Media (dice 'Vinyl made in Czech Republic', runout etched 113207E1/A, Discogs 7064137), MX 2016 y CO 2017 (prensa checa), AR 2019 reprensado local (sin leyenda checa, runout '88843004191 -A- -LvC-', Discogs 22705724, crédito Mastered By Mike Fuller).\nInvestigación 12/11/2026 vía API de Discogs (master 342419). Sonido: reseñas de usuarios en Discogs positivas para 2015 y 2019 (prensa limpia; algo de sibilancia en el último tema del lado B, 2015). Original 1992: sin reseñas de sonido encontradas; un reviewer dice que es difícil en buen estado. Precios más bajos en venta (no ventas cerradas) 12/11/2026: AR 1992 USD 85, promo USD 270, CO 1992 USD 170, VE 1992 USD 145, 2015 USD 30, 2019 USD 52. Dato: el nombre de Dynamo (Soda Stereo) salió de un comentario de Melero sobre el dínamo de una bicicleta en estas sesiones; el disco inauguró los estudios Supersónico (Rolling Stone AR). | 12/11 Lado B $47.000 (sin barcode) y Exit $54.991 ($49.492 transferencia, barcode 888430041912, título '180g Reissue'): reedición, falta confirmar si es la checa 2015 o la AR 2019 (pedir foto de contratapa). | 12/11: la descripción de Exit copia la ficha de Discogs 7064137 (2015, LP Reissue 180 gram, Columbia 88843004191): probable checa, sin confirmar (mismo barcode que la AR 2019). Confirmar con contratapa 'Vinyl made in Czech Republic' o runout 113207E1/A. | 12/11 checa vs AR: la AR 2019 es reprensado basado en la checa 2015 (Discogs); runout LvC (según un usuario, corte de Louis Van Coeverden, sin verificar). Reseñas: AR 2019 muy buena; 2015 dividida (genial / plana). El sonido plano es de la grabación (casi casera), también en CD. Diferencia de sonido probablemente mínima; la checa por planta (GZ) y por ser primera tirada."
+    "notes": "País: Argentina · Catálogo: 70185 / 1-470.085 · Prensado: Original AR 1992: Columbia 70185 / 1-470.085, Sony Music Entertainment (Argentina) S.A., sin barcode. Promo AR 1992: 70185 (Discogs 12334332). Prensas de época también en Colombia (COL 14470085) y Venezuela (1.21.1269). Reediciones 180 g con el mismo cat. 88843004191 / barcode 888430041912: AR 2015 GZ Media (dice 'Vinyl made in Czech Republic', runout etched 113207E1/A, Discogs 7064137), MX 2016 y CO 2017 (prensa checa), AR 2019 reprensado local (sin leyenda checa, runout '88843004191 -A- -LvC-', Discogs 22705724, crédito Mastered By Mike Fuller).\nInvestigación 12/11/2026 vía API de Discogs (master 342419). Sonido: reseñas de usuarios en Discogs positivas para 2015 y 2019 (prensa limpia; algo de sibilancia en el último tema del lado B, 2015). Original 1992: sin reseñas de sonido encontradas; un reviewer dice que es difícil en buen estado. Precios más bajos en venta (no ventas cerradas) 12/11/2026: AR 1992 USD 85, promo USD 270, CO 1992 USD 170, VE 1992 USD 145, 2015 USD 30, 2019 USD 52. Dato: el nombre de Dynamo (Soda Stereo) salió de un comentario de Melero sobre el dínamo de una bicicleta en estas sesiones; el disco inauguró los estudios Supersónico (Rolling Stone AR). | 12/11 Lado B $47.000 (sin barcode) y Exit $54.991 ($49.492 transferencia, barcode 888430041912, título '180g Reissue'): reedición, falta confirmar si es la checa 2015 o la AR 2019 (pedir foto de contratapa). | 12/11: la descripción de Exit copia la ficha de Discogs 7064137 (2015, LP Reissue 180 gram, Columbia 88843004191): probable checa, sin confirmar (mismo barcode que la AR 2019). Confirmar con contratapa 'Vinyl made in Czech Republic' o runout 113207E1/A. | 12/11 checa vs AR: la AR 2019 es reprensado basado en la checa 2015 (Discogs); runout LvC (según un usuario, corte de Louis Van Coeverden, sin verificar). Reseñas: AR 2019 muy buena; 2015 dividida (genial / plana). El sonido plano es de la grabación (casi casera), también en CD. Diferencia de sonido probablemente mínima; la checa por planta (GZ) y por ser primera tirada. | 15/11 Clavel Records (vinilolibre) $55.000 nuevo sellado, cargado por el vendedor como Discogs 7064137 (checa 2015); foto de stock, pedir contratapa y runout."
   },
   {
     "id": "dw-335",
@@ -2268,7 +2268,7 @@ window.DEADWAX_SEED = [
     "label": "Elektra",
     "year": "1969",
     "format": "LP",
-    "notes": "País: USA · Catálogo: EKS-75005 · Prensado: 1ª: etiqueta roja Big E SIN rim text (y copias en etiqueta dorada vieja) · 2ª: roja con rim text 'elektra records • 1855 broadway • new york city' (1969-70) · luego butterfly (1970+) · roja/negra 80s. Plantas: CTH/T Terre Haute, CP Pitman. Mejor sonido según vendedor: Analogue Productions 45rpm (Botnick 2012), sin verificar.\n15/11/2026: foto de tapa y etiqueta lado B. Fuentes: Discogs 3069006/490817, cvinyl, vinylbeat, Hoffman forum, Wikipedia. | 15/11 sonido: On The Record: \"most pressings just plain horrible\", elogia original temprana (gold label); AP 45rpm (Doug Sax) \"superior\" según vendedor; Rhino 2009 floja.",
+    "notes": "País: USA · Catálogo: EKS-75005 · Prensado: 1ª: etiqueta roja Big E SIN rim text (y copias en etiqueta dorada vieja) · 2ª: roja con rim text 'elektra records • 1855 broadway • new york city' (1969-70) · luego butterfly (1970+) · roja/negra 80s. Plantas: CTH/T Terre Haute, CP Pitman. Mejor sonido según vendedor: Analogue Productions 45rpm (Botnick 2012), sin verificar. | Reedición de catálogo de los 90s (labels blancos), NO original 1969 ni reedición temprana de los 80. Review de dueño real: 'fantastic sound, dead flat and quiet wax', lado A cortado en Tonstudio Pfanz, lado B en Strawberry Mastering. Alternativa audiófila si se busca más: Analogue Productions 45RPM, descripta como superior incluso al original de etiqueta roja.\n15/11/2026: foto de tapa y etiqueta lado B. Fuentes: Discogs 3069006/490817, cvinyl, vinylbeat, Hoffman forum, Wikipedia. | 15/11 sonido: On The Record: \"most pressings just plain horrible\", elogia original temprana (gold label); AP 45rpm (Doug Sax) \"superior\" según vendedor; Rhino 2009 floja. | Consultado, no comprado. No es pieza de colección, es para escuchar.",
     "owner": "yo"
   },
   {
@@ -2281,5 +2281,178 @@ window.DEADWAX_SEED = [
     "format": "LP",
     "notes": "País: USA · Catálogo: 887254704515 · Prensado: 2012 XX 20th Anniversary, Epic/Legacy 88725470451, 180 g, sticker en shrink. Remaster Vlado Meller, corte Mark Santangelo (Masterdisk). Original 1992 Epic.\n15/11/2026: sin comparación seria vs. 1992; reseñas de compradores buenas. Fuentes: Music Direct, Shuga, Best Buy.",
     "owner": "yo"
+  },
+  {
+    "id": "dw-350",
+    "type": "collection",
+    "artist": "Portishead",
+    "album": "Dummy",
+    "label": "",
+    "year": "",
+    "format": "LP",
+    "notes": "",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-351",
+    "type": "wantlist",
+    "artist": "Fela Kuti",
+    "album": "Zombie",
+    "label": "",
+    "year": "1977",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-352",
+    "type": "wantlist",
+    "artist": "Nine Inch Nails",
+    "album": "The Fragile",
+    "label": "",
+    "year": "1999",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-353",
+    "type": "wantlist",
+    "artist": "Angelo Badalamenti",
+    "album": "Music From Twin Peaks",
+    "label": "",
+    "year": "1990",
+    "format": "LP",
+    "notes": "Discogs 11/11/2026: no hubo LP estadounidense en 1990; el vinilo original es europeo. Sonido: ninguna comparación directa encontrada; dealers dicen que la Warner/Rhino 2017 suena mejor que la Death Waltz 2016 (rumor, sin verificar)."
+  },
+  {
+    "id": "dw-354",
+    "type": "wantlist",
+    "artist": "Nine Inch Nails",
+    "album": "The Downward Spiral",
+    "label": "",
+    "year": "1994",
+    "format": "LP",
+    "notes": "Discogs 11/11/2026. Sin comparación de sonido 1994 vs 2017 verificada."
+  },
+  {
+    "id": "dw-355",
+    "type": "wantlist",
+    "artist": "Primus",
+    "album": "Sailing the Seas of Cheese",
+    "label": "",
+    "year": "1991",
+    "format": "LP",
+    "notes": "Discogs 11/11/2026. Sin comparación de sonido directa encontrada: reseñas dicen que la mezcla 2013 es 'más en la cara' y que no le quita nada a la original."
+  },
+  {
+    "id": "dw-356",
+    "type": "wantlist",
+    "artist": "Primus",
+    "album": "Pork Soda",
+    "label": "",
+    "year": "1993",
+    "format": "LP",
+    "notes": "Discogs 11/11/2026. Sin comparación de sonido directa encontrada."
+  },
+  {
+    "id": "dw-358",
+    "type": "collection",
+    "artist": "Stereolab",
+    "album": "Dots and Loops",
+    "label": "",
+    "year": "1997",
+    "format": "LP",
+    "notes": "",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-364",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "dubnobasswithmyheadman",
+    "label": "",
+    "year": "1994",
+    "format": "LP",
+    "notes": "Techno hipnótico de los 90, primo de los Chemical. Para pedir a Larks."
+  },
+  {
+    "id": "dw-368",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Second Toughest in the Infants",
+    "label": "",
+    "year": "1996",
+    "format": "LP",
+    "notes": "Para el recital: el disco que muchos señalan como su mejor (Juanita, Pearl's Girl)."
+  },
+  {
+    "id": "dw-369",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Beaucoup Fish",
+    "label": "",
+    "year": "1999",
+    "format": "LP",
+    "notes": "Para el recital: King of Snake y Push Upstairs, clásicos en vivo."
+  },
+  {
+    "id": "dw-370",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Born Slippy .NUXX (12\")",
+    "label": "",
+    "year": "1995",
+    "format": "LP",
+    "notes": "El himno de Trainspotting; no está en ningún disco de estudio original. Infaltable en vivo."
+  },
+  {
+    "id": "dw-371",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Rez / Cowgirl (12\")",
+    "label": "",
+    "year": "1993",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-372",
+    "type": "wantlist",
+    "artist": "Underworld",
+    "album": "Dark & Long (12\")",
+    "label": "",
+    "year": "1994",
+    "format": "LP",
+    "notes": ""
+  },
+  {
+    "id": "dw-386",
+    "type": "collection",
+    "artist": "Beastie Boys",
+    "album": "The In Sound From Way Out!",
+    "label": "Grand Royal",
+    "year": "1996",
+    "format": "LP",
+    "notes": "País: USA · Prensado: Comprado 12/11/2026. Represión Grand Royal US de 1998 según Ana ('creo que es 98', mirando la contratapa; sin foto: probable). Primera tirada: 1996 Grand Royal (salida inicial vía fan club francés). Descartada la 2017 Capitol 180g (602557727920, Made in EU). Para confirmar del todo: catálogo y año en la etiqueta.\nBúsqueda 12/11/2026. Compila instrumentales de Check Your Head e Ill Communication + temas nuevos. Título/tapa: homenaje a Perrey & Kingsley (Vanguard 1966). 'Groove Holmes' homenajea al organista Richard 'Groove' Holmes (m. 1991). Fuentes: Wikipedia, uDiscover, Trouser Press, All About Jazz.",
+    "owner": "yo"
+  },
+  {
+    "id": "dw-397",
+    "type": "wantlist",
+    "artist": "Deee-Lite",
+    "album": "World Clique",
+    "label": "Elektra",
+    "year": "1990",
+    "format": "LP",
+    "notes": "Catálogo: 60957-1 · Prensado: Primera edición: US Elektra 60957-1 (agosto 1990, país de origen). Otras de época: Alemania 7559-60957-1, UK EKT77, México ST-E-60957. Reediciones: Music On Vinyl 2015 (10 temas), box 2LP 45 rpm UltraDisc One-Step 2026 (2.000 numeradas). Cómo reconocer la primera: Elektra US con catálogo 60957-1 en lomo/etiqueta, año 1990.\nPedido de Ana 12/11/2026 tras ver el maxi Groove Is in the Heart en Apolo Records (Europa 1990, VG+, ARS 79900). Invitados: Bootsy Collins, Q-Tip, Fred Wesley, Maceo Parker; Groove Is in the Heart samplea a Herbie Hancock. Fuentes: Wikipedia, rarevinyl, soundstation.dk, audiosoundmusic."
+  },
+  {
+    "id": "dw-398",
+    "type": "wantlist",
+    "artist": "Peter Tosh",
+    "album": "Bush Doctor",
+    "label": "Rolling Stones Records",
+    "year": "1978",
+    "format": "LP",
+    "notes": "Catálogo: CUN 39109 (UK) / COC 39109 (US) · Prensado: UK 1978 CUN 39109: matrix YAX.5536/YAX.5537, runout estampado 'ATLANTIC STUDIOS D.K.' (Dennis King). US 1978 COC 39109: distrib. Atlantic, prensa Specialty, runout ST-RS-784141/784142 + 'ATLANTIC STUDIOS D.K.'. Alemania 1C 064-61708 e Italia 3C 064-61708 (licencia EMI, corte europeo). Reediciones: UK 1985, Trojan test press 1990 (TRPT100), Music On Vinyl 2020 180 g remastered, Rhino 2024 roja reciclada. No se encontró prensa jamaiquina de época.\nInvestigación 13/11/2026 (Discogs bloqueado, runouts de espejos de Discogs y 45worlds: sin confirmar). Sin reseñas que comparen sonido entre ediciones. Grabado en Dynamic Sounds/Joe Gibbs (Kingston) y Bearsville (Woodstock). Dato: sticker scratch & sniff con olor a marihuana en la tapa UK; según relatos secundarios, una cadena británica la retiró. 'Don't Look Back' (Robinson/White, Temptations 1965) a dúo con Mick Jagger; Tosh ya la había grabado en ska con los Wailers en 1966. Fuentes: 45worlds cun39109/coc39109, shugarecords, vinyl-records.nl, Wikipedia."
   }
 ];
