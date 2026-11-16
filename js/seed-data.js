@@ -248,7 +248,7 @@ window.DEADWAX_SEED = [
     "label": "Freestyle Dust / Virgin",
     "year": "1997",
     "format": "LP",
-    "notes": "Prensado: Mejor sonido: reedición 2016 gatefold, cortada por Mike Marsh (ingeniero original) de los lacquers originales, aprobada por la banda. EVITAR el original 1997 para priorizar sonido: reportes de corte 'caliente'/distorsión y de sonido 'blando, sin vida' en copias sueltas — incluye la copia US Astralwerks (Hollywood CA) que Ana encontró en Maniac Records (cat. 4384295011 / barcode 724384295011), confirmada legítima pero no la apuesta más segura para sonido. Alternativa colección: reedición 2017 limitada a 1000 copias en vinilo de color (misma masterización probablemente).\nRecomendado como primer álbum de la discografía de la banda (consenso de rankings)."
+    "notes": "Prensado: Mejor sonido: reedición 2016 gatefold, cortada por Mike Marsh (ingeniero original) de los lacquers originales, aprobada por la banda. EVITAR el original 1997 para priorizar sonido: reportes de corte 'caliente'/distorsión y de sonido 'blando, sin vida' en copias sueltas — incluye la copia US Astralwerks (Hollywood CA) que Ana encontró en Maniac Records (cat. 4384295011 / barcode 724384295011), confirmada legítima pero no la apuesta más segura para sonido. Alternativa colección: reedición 2017 limitada a 1000 copias en vinilo de color (misma masterización probablemente).\nRecomendado como primer álbum de la discografía de la banda (consenso de rankings). | 16/11 Maniac: US Astralwerks 724384295011 a $119.700 (no es la Mike Marsh 2016)."
   },
   {
     "id": "dw-28",
@@ -1119,7 +1119,7 @@ window.DEADWAX_SEED = [
     "label": "Warner Bros.",
     "year": "",
     "format": "LP",
-    "notes": "País: USA · Grading: NM / NM · Prensado: Publicada como \"edición limitada\", país USA, sin catálogo. Casi seguro la reedición 2LP 180 g (remaster de cintas analógicas, 2012) y no la original de 1991."
+    "notes": "País: USA · Grading: NM / NM · Prensado: Publicada como \"edición limitada\", país USA, sin catálogo. Casi seguro la reedición 2LP 180 g (remaster de cintas analógicas, 2012) y no la original de 1991.\n | 16/11 Maniac: $136.600 barcode 093624954163, edición sin identificar (preguntar si es Grundman 2012)."
   },
   {
     "id": "dw-142",
@@ -1219,7 +1219,7 @@ window.DEADWAX_SEED = [
     "label": "Impulse! / Elemental",
     "year": "",
     "format": "LP",
-    "notes": "País: Europa"
+    "notes": "País: Europa\n | 16/11 Maniac: $85.800 https://www.maniacrecords.com.ar/productos/pharoah-sanders-wisdom-through-music-vinilo/ (barcode 5060672889247)."
   },
   {
     "id": "dw-152",
@@ -1842,7 +1842,7 @@ window.DEADWAX_SEED = [
     "label": "Analogue Productions (Atlantic 75)",
     "year": "2024",
     "format": "LP",
-    "notes": "País: USA · Catálogo: AAPA 028-45 · barcode 753088752872\n1LP 180 g 2020: remaster 2017 de Tom Baker, prensado en Optimal; sin reviews de sonido. La definitiva según Sound & Vision: Analogue Productions 2024, 2LP 45 rpm, Ryan K. Smith (Sterling) de la cinta master, QRP."
+    "notes": "País: USA · Catálogo: AAPA 028-45 · barcode 753088752872\n1LP 180 g 2020: remaster 2017 de Tom Baker, prensado en Optimal; sin reviews de sonido. La definitiva según Sound & Vision: Analogue Productions 2024, 2LP 45 rpm, Ryan K. Smith (Sterling) de la cinta master, QRP. | 16/11 Maniac: 2017 remaster $85.800 https://www.maniacrecords.com.ar/productos/stone-temple-pilots-core-2017-remaster-vinilo/ (barcode 603497845651)."
   },
   {
     "id": "dw-243",
@@ -1965,7 +1965,7 @@ window.DEADWAX_SEED = [
     "label": "Merciful Release",
     "year": "1983",
     "format": "LP",
-    "notes": "País: UK · Catálogo: MR 023 (a confirmar)\nVisto en Fear of Musik: 12\" UK 1983 con insert, tapa VG+ (raspón en contratapa), disco VG+. $80.000 transferencia (~USD 50). Para saber si es la primera prensa o una represión del mismo sello, pedir foto del dead wax."
+    "notes": "País: UK · Catálogo: MR 023 (a confirmar)\nVisto en Fear of Musik: 12\" UK 1983 con insert, tapa VG+ (raspón en contratapa), disco VG+. $80.000 transferencia (~USD 50). Para saber si es la primera prensa o una represión del mismo sello, pedir foto del dead wax. | 16/11 Maniac: reedición 5054197242755 $85.800 (Ana lo quiere de época)."
   },
   {
     "id": "dw-260",
@@ -2157,7 +2157,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1992",
     "format": "LP",
-    "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography')."
+    "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography'). | 16/11 Maniac: $85.800 https://www.maniacrecords.com.ar/productos/kyuss-blues-for-the-red-sun-edicion-vinilo/ (barcode 081227958749)."
   },
   {
     "id": "dw-305",
@@ -2167,7 +2167,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1994",
     "format": "LP",
-    "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography')."
+    "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography'). | 16/11 Maniac: $85.800 https://www.maniacrecords.com.ar/productos/kyuss-welcome-to-sky-valley-edicion-vinilo/ (barcode 081227958732)."
   },
   {
     "id": "dw-306",
@@ -2177,7 +2177,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1995",
     "format": "LP",
-    "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography'). | 12/11 Lado B $74.200 (sin barcode). Oficial: US Rhino 2021 R1 61811 barcode 081227958794 (Eddy Schreyer/Future Disc, Discogs 17617867, desde USD 20). Truchas: Europe 2023 'R1 61811' barcode 0812279587942 y Germany 2021 barcode 075596181112."
+    "notes": "Kyuss se formó en Palm Desert, California (1988, primero como Katzenjammer); 4 discos de estudio entre 1991 y 1995. Dato: Josh Homme formó después Queens of the Stone Age, y el último lanzamiento (1997) fue un split de 3 temas de Kyuss y 3 de QOTSA (Wikipedia 'Kyuss', 'Kyuss discography'). | 12/11 Lado B $74.200 (sin barcode). Oficial: US Rhino 2021 R1 61811 barcode 081227958794 (Eddy Schreyer/Future Disc, Discogs 17617867, desde USD 20). Truchas: Europe 2023 'R1 61811' barcode 0812279587942 y Germany 2021 barcode 075596181112. | 16/11 Maniac: $85.800 barcode oficial 081227958794 https://www.maniacrecords.com.ar/productos/kyuss-the-circus-leaves-town-edicion-vinilo/"
   },
   {
     "id": "dw-307",
@@ -2247,7 +2247,7 @@ window.DEADWAX_SEED = [
     "label": "Mo Wax",
     "year": "1996",
     "format": "LP",
-    "notes": "País: UK · Catálogo: MW059 · Prensado: Original UK/EU 1996 Mo Wax MW059 (Orlake, runout grabado 'MW 059 A', barcode 731454060714; el LP no trae 'What Does Your Soul Look Like (Part 4)'). Half-speed Miles Showell (Abbey Road, desde la cinta DAT de la mezcla final): 2021 UMC 00602435838779 (MPO, faja), represión 2024 [PIAS] PIASC1061DLP barcode 5400863157159 (Optimal, runout 'BN08913-01 A1 MILES ABBEY ROAD 1/2 SPEED ROOM 30'), 2026 30 aniversario PIASC1129DLP con las mismas matrices.\nInvestigación 12/11/2026 (API de Discogs, Clash, reseñas de usuarios). Half-speed: más limpio y con más aire, menos graves que la original (comparación de un usuario de Discogs contra el master de 1996). Más baratos a la venta: half-speed 2024 USD 25, original USD 53. Traídos (envío USD 30 + IVA 21%, +30% con tarjeta en pesos): 67/87 y 100/131. Techo sugerido en Argentina: ~ARS 110.000. Dato: tapa de B+ en Rare Records (Sacramento) con Chief Xcel y Lyrics Born. | 12/11: Ana sabe que es reedición y quiere el half-speed para escuchar. Veredicto: vale la pena por menos de ARS 100.000 (USD 61). Rating Discogs 4,83 (258 votos). | 12/11 Lado B $120.000 (edición desconocida) y Exit $134.991 ($121.492 transferencia, barcode 5400863210021 = 30 aniversario 2026, mismas lacas): más que el techo de $100.000 de Ana."
+    "notes": "País: UK · Catálogo: MW059 · Prensado: Original UK/EU 1996 Mo Wax MW059 (Orlake, runout grabado 'MW 059 A', barcode 731454060714; el LP no trae 'What Does Your Soul Look Like (Part 4)'). Half-speed Miles Showell (Abbey Road, desde la cinta DAT de la mezcla final): 2021 UMC 00602435838779 (MPO, faja), represión 2024 [PIAS] PIASC1061DLP barcode 5400863157159 (Optimal, runout 'BN08913-01 A1 MILES ABBEY ROAD 1/2 SPEED ROOM 30'), 2026 30 aniversario PIASC1129DLP con las mismas matrices.\nInvestigación 12/11/2026 (API de Discogs, Clash, reseñas de usuarios). Half-speed: más limpio y con más aire, menos graves que la original (comparación de un usuario de Discogs contra el master de 1996). Más baratos a la venta: half-speed 2024 USD 25, original USD 53. Traídos (envío USD 30 + IVA 21%, +30% con tarjeta en pesos): 67/87 y 100/131. Techo sugerido en Argentina: ~ARS 110.000. Dato: tapa de B+ en Rare Records (Sacramento) con Chief Xcel y Lyrics Born. | 12/11: Ana sabe que es reedición y quiere el half-speed para escuchar. Veredicto: vale la pena por menos de ARS 100.000 (USD 61). Rating Discogs 4,83 (258 votos). | 12/11 Lado B $120.000 (edición desconocida) y Exit $134.991 ($121.492 transferencia, barcode 5400863210021 = 30 aniversario 2026, mismas lacas): más que el techo de $100.000 de Ana. | 16/11 Maniac: 30 aniv. 5400863210021 a $128.200 (sobre el techo de 100k)."
   },
   {
     "id": "dw-339",
@@ -2341,7 +2341,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1991",
     "format": "LP",
-    "notes": "Discogs 11/11/2026. Sin comparación de sonido directa encontrada: reseñas dicen que la mezcla 2013 es 'más en la cara' y que no le quita nada a la original."
+    "notes": "Discogs 11/11/2026. Sin comparación de sonido directa encontrada: reseñas dicen que la mezcla 2013 es 'más en la cara' y que no le quita nada a la original. | 16/11 Maniac: $102.700 https://www.maniacrecords.com.ar/productos/SKU602537331260/ (barcode 602537331260)."
   },
   {
     "id": "dw-356",
@@ -2351,7 +2351,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1993",
     "format": "LP",
-    "notes": "Discogs 11/11/2026. Sin comparación de sonido directa encontrada."
+    "notes": "Discogs 11/11/2026. Sin comparación de sonido directa encontrada. | 16/11 Maniac: $119.700 https://www.maniacrecords.com.ar/productos/SKU602557414400/ (barcode 602557414400)."
   },
   {
     "id": "dw-358",
@@ -2454,5 +2454,15 @@ window.DEADWAX_SEED = [
     "year": "1978",
     "format": "LP",
     "notes": "Catálogo: CUN 39109 (UK) / COC 39109 (US) · Prensado: UK 1978 CUN 39109: matrix YAX.5536/YAX.5537, runout estampado 'ATLANTIC STUDIOS D.K.' (Dennis King). US 1978 COC 39109: distrib. Atlantic, prensa Specialty, runout ST-RS-784141/784142 + 'ATLANTIC STUDIOS D.K.'. Alemania 1C 064-61708 e Italia 3C 064-61708 (licencia EMI, corte europeo). Reediciones: UK 1985, Trojan test press 1990 (TRPT100), Music On Vinyl 2020 180 g remastered, Rhino 2024 roja reciclada. No se encontró prensa jamaiquina de época.\nInvestigación 13/11/2026 (Discogs bloqueado, runouts de espejos de Discogs y 45worlds: sin confirmar). Sin reseñas que comparen sonido entre ediciones. Grabado en Dynamic Sounds/Joe Gibbs (Kingston) y Bearsville (Woodstock). Dato: sticker scratch & sniff con olor a marihuana en la tapa UK; según relatos secundarios, una cadena británica la retiró. 'Don't Look Back' (Robinson/White, Temptations 1965) a dúo con Mick Jagger; Tosh ya la había grabado en ska con los Wailers en 1966. Fuentes: 45worlds cun39109/coc39109, shugarecords, vinyl-records.nl, Wikipedia."
+  },
+  {
+    "id": "dw-399",
+    "type": "wantlist",
+    "artist": "Alice Coltrane",
+    "album": "Journey in Satchidananda",
+    "label": "Impulse! / Verve Acoustic Sounds",
+    "year": "1971",
+    "format": "LP",
+    "notes": "Catálogo: 602448476357\n16/11/2026 curaduría Maniac."
   }
 ];
