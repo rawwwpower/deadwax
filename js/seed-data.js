@@ -2240,6 +2240,16 @@ window.DEADWAX_SEED = [
     "notes": "País: Argentina · Catálogo: 70185 / 1-470.085 · Prensado: Original AR 1992: Columbia 70185 / 1-470.085, Sony Music Entertainment (Argentina) S.A., sin barcode. Promo AR 1992: 70185 (Discogs 12334332). Prensas de época también en Colombia (COL 14470085) y Venezuela (1.21.1269). Reediciones 180 g con el mismo cat. 88843004191 / barcode 888430041912: AR 2015 GZ Media (dice 'Vinyl made in Czech Republic', runout etched 113207E1/A, Discogs 7064137), MX 2016 y CO 2017 (prensa checa), AR 2019 reprensado local (sin leyenda checa, runout '88843004191 -A- -LvC-', Discogs 22705724, crédito Mastered By Mike Fuller).\nInvestigación 12/11/2026 vía API de Discogs (master 342419). Sonido: reseñas de usuarios en Discogs positivas para 2015 y 2019 (prensa limpia; algo de sibilancia en el último tema del lado B, 2015). Original 1992: sin reseñas de sonido encontradas; un reviewer dice que es difícil en buen estado. Precios más bajos en venta (no ventas cerradas) 12/11/2026: AR 1992 USD 85, promo USD 270, CO 1992 USD 170, VE 1992 USD 145, 2015 USD 30, 2019 USD 52. Dato: el nombre de Dynamo (Soda Stereo) salió de un comentario de Melero sobre el dínamo de una bicicleta en estas sesiones; el disco inauguró los estudios Supersónico (Rolling Stone AR). | 12/11 Lado B $47.000 (sin barcode) y Exit $54.991 ($49.492 transferencia, barcode 888430041912, título '180g Reissue'): reedición, falta confirmar si es la checa 2015 o la AR 2019 (pedir foto de contratapa). | 12/11: la descripción de Exit copia la ficha de Discogs 7064137 (2015, LP Reissue 180 gram, Columbia 88843004191): probable checa, sin confirmar (mismo barcode que la AR 2019). Confirmar con contratapa 'Vinyl made in Czech Republic' o runout 113207E1/A. | 12/11 checa vs AR: la AR 2019 es reprensado basado en la checa 2015 (Discogs); runout LvC (según un usuario, corte de Louis Van Coeverden, sin verificar). Reseñas: AR 2019 muy buena; 2015 dividida (genial / plana). El sonido plano es de la grabación (casi casera), también en CD. Diferencia de sonido probablemente mínima; la checa por planta (GZ) y por ser primera tirada. | 15/11 Clavel Records (vinilolibre) $55.000 nuevo sellado, cargado por el vendedor como Discogs 7064137 (checa 2015); foto de stock, pedir contratapa y runout."
   },
   {
+    "id": "dw-329",
+    "type": "wantlist",
+    "artist": "Boards of Canada",
+    "album": "Inferno",
+    "label": "Warp",
+    "year": "2026",
+    "format": "LP",
+    "notes": "País: Canadá · Catálogo: WARPLP496 (barcode 5056818807435) · Prensado: 2LP gatefold 2026, masterizado por Matt Colton (Metropolis). Mismo barcode en tres versiones: US/Canadá GZ ('Made in CA' en tapa y etiquetas, r37470963), Europa GZ (r37465812) y Europa Optimal (r38502015). '= MATT @ METROPOLIS =' grabado a mano.\nEvaluado 12/11/2026 en Larks; barcode verificado en la API de Discogs. Larks dice Canadá. ARS 96.000 (~USD 58, dólar 1.650 que indicó Ana); Discogs más bajo USD 15,5 para la de Canadá: caro. Veredicto 👍 musical. | 16/11/2026: aparece (probable, por la tipografía Blippo de la tapa) en una foto de discos de Sven Väth en Instagram (26/08/2026). | 16/11/2026: Ana lo pasa a la wishlist."
+  },
+  {
     "id": "dw-335",
     "type": "collection",
     "artist": "DJ Shadow",
@@ -2476,5 +2486,15 @@ window.DEADWAX_SEED = [
     "year": "2000",
     "format": "LP",
     "notes": "Catálogo: 5099963622010 · Prensado: Original UK 2000 EMI/Blue Note 2LP (rarevinyl 5251141). Remaster 2012 Parlophone 180 g (reportes de trompeta distorsionada en Rose Rouge y ruido en Sure Thing). 2015 US Nonesuch (remaster 2012). 2018 recut desde master original, barcode 5099963622010. 2024 naranja Warner FR.\n16/11/2026: fuentes rarevinyl, Shuga, Turntable Lab; sin reseñas independientes."
+  },
+  {
+    "id": "dw-402",
+    "type": "wantlist",
+    "artist": "Stan Getz & João Gilberto",
+    "album": "Getz/Gilberto",
+    "label": "Verve",
+    "year": "1964",
+    "format": "LP",
+    "notes": "Catálogo: V6-8545 · Prensado: Original Verve USA 1964: V6-8545 estéreo / V-8545 mono (cómo reconocer la etiqueta de época: sin verificar). Reediciones: Verve Acoustic Sounds 180 g (reseñas de compradores muy buenas), Analogue Productions 45 rpm 2LP 2011 (AVRJ-8545-45, corte de George Marino), Impex 1Step 45 rpm 2023.\n16/11/2026: visto en una foto de la colección de Sven Väth (Instagram, 26/08/2026). Tapa: pintura de Olga Albizu (pintora abstracta puertorriqueña). Estéreo V6-8545, mono V-8545. | 16/11/2026: investigado (Analog Planet, Tracking Angle, Turntable Lab, reseñas de compradores). Original: buen tono y aire, estéreo muy abierto a los costados. Sin comparación directa entre las tres reediciones."
   }
 ];
