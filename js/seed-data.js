@@ -2241,13 +2241,14 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-335",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "DJ Shadow",
     "album": "Endtroducing.....",
-    "label": "Mo Wax",
-    "year": "1996",
+    "label": "[PIAS] / Mo Wax",
+    "year": "2026",
     "format": "LP",
-    "notes": "País: UK · Catálogo: MW059 · Prensado: Original UK/EU 1996 Mo Wax MW059 (Orlake, runout grabado 'MW 059 A', barcode 731454060714; el LP no trae 'What Does Your Soul Look Like (Part 4)'). Half-speed Miles Showell (Abbey Road, desde la cinta DAT de la mezcla final): 2021 UMC 00602435838779 (MPO, faja), represión 2024 [PIAS] PIASC1061DLP barcode 5400863157159 (Optimal, runout 'BN08913-01 A1 MILES ABBEY ROAD 1/2 SPEED ROOM 30'), 2026 30 aniversario PIASC1129DLP con las mismas matrices. Otras: US 2002 2LP y Island 2019 180 g, sin reseñas de sonido (16/11). Sin la original, el half-speed es la mejor reseñada (Clash, Pinkfish).\nInvestigación 12/11/2026 (API de Discogs, Clash, reseñas de usuarios). Half-speed: más limpio y con más aire, menos graves que la original (comparación de un usuario de Discogs contra el master de 1996). Más baratos a la venta: half-speed 2024 USD 25, original USD 53. Traídos (envío USD 30 + IVA 21%, +30% con tarjeta en pesos): 67/87 y 100/131. Techo sugerido en Argentina: ~ARS 110.000. Dato: tapa de B+ en Rare Records (Sacramento) con Chief Xcel y Lyrics Born. | 12/11: Ana sabe que es reedición y quiere el half-speed para escuchar. Veredicto: vale la pena por menos de ARS 100.000 (USD 61). Rating Discogs 4,83 (258 votos). | 12/11 Lado B $120.000 (edición desconocida) y Exit $134.991 ($121.492 transferencia, barcode 5400863210021 = 30 aniversario 2026, mismas lacas): más que el techo de $100.000 de Ana. | 16/11 Maniac: 30 aniv. 5400863210021 a $128.200 (sobre el techo de 100k). | 16/11 Larks https://larksrecords.com.ar/discos/214 $96.000, 2LP nuevo, edición sin identificar, SIN STOCK: pedir barcode (half-speed = 5400863157159 / 0602435838779 / 5400863210021)."
+    "notes": "Catálogo: PIASC1129DLP · Prensado: Original UK/EU 1996 Mo Wax MW059 (Orlake, runout grabado 'MW 059 A', barcode 731454060714; el LP no trae 'What Does Your Soul Look Like (Part 4)'). Half-speed Miles Showell (Abbey Road, desde la cinta DAT de la mezcla final): 2021 UMC 00602435838779 (MPO, faja), represión 2024 [PIAS] PIASC1061DLP barcode 5400863157159 (Optimal, runout 'BN08913-01 A1 MILES ABBEY ROAD 1/2 SPEED ROOM 30'), 2026 30 aniversario PIASC1129DLP con las mismas matrices. Otras: US 2002 2LP y Island 2019 180 g, sin reseñas de sonido (16/11). Sin la original, el half-speed es la mejor reseñada (Clash, Pinkfish).\nInvestigación 12/11/2026 (API de Discogs, Clash, reseñas de usuarios). Half-speed: más limpio y con más aire, menos graves que la original (comparación de un usuario de Discogs contra el master de 1996). Más baratos a la venta: half-speed 2024 USD 25, original USD 53. Traídos (envío USD 30 + IVA 21%, +30% con tarjeta en pesos): 67/87 y 100/131. Techo sugerido en Argentina: ~ARS 110.000. Dato: tapa de B+ en Rare Records (Sacramento) con Chief Xcel y Lyrics Born. | 12/11: Ana sabe que es reedición y quiere el half-speed para escuchar. Veredicto: vale la pena por menos de ARS 100.000 (USD 61). Rating Discogs 4,83 (258 votos). | 12/11 Lado B $120.000 (edición desconocida) y Exit $134.991 ($121.492 transferencia, barcode 5400863210021 = 30 aniversario 2026, mismas lacas): más que el techo de $100.000 de Ana. | 16/11 Maniac: 30 aniv. 5400863210021 a $128.200 (sobre el techo de 100k). | 16/11 Larks https://larksrecords.com.ar/discos/214 $96.000, 2LP nuevo, edición sin identificar, SIN STOCK: pedir barcode (half-speed = 5400863157159 / 0602435838779 / 5400863210021). | 16/11/2026: Ana lo compró en Maniac (edición 30 aniversario, por barcode de la publicación; confirmar con la contratapa).",
+    "owner": "yo"
   },
   {
     "id": "dw-339",
@@ -2457,13 +2458,14 @@ window.DEADWAX_SEED = [
   },
   {
     "id": "dw-399",
-    "type": "wantlist",
+    "type": "collection",
     "artist": "Alice Coltrane",
     "album": "Journey in Satchidananda",
     "label": "Impulse! / Verve Acoustic Sounds",
     "year": "1971",
     "format": "LP",
-    "notes": "Catálogo: 602448476357\n16/11/2026 curaduría Maniac."
+    "notes": "Catálogo: 602448476357\n16/11/2026 curaduría Maniac. | 16/11/2026: Ana lo compró en Maniac.",
+    "owner": "yo"
   },
   {
     "id": "dw-401",
