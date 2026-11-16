@@ -3,6 +3,14 @@
 Estado al 07/10/2026, para retomar en una sesión nueva sin perder nada.
 Leer esto antes de seguir con cualquier compra, carga a la base o la página de vinilos.
 
+## Lista maestra (16 nov 2026): todo lo pendiente, con el criterio integral de Ana
+
+Rescatadas 4 ramas viejas sin mergear (admiring-fermi, lekqyi, relaxed-goldberg, serene-davinci): 49 discos fusionados fila por fila. Precios del 11 al 15/11, sin rechequear.
+- **Comprar acá:** 💎 *Colores Santos* checa (Lado B 47k / Exit 49,5k / Clavel 55k) · 💎 Propaganda *Dr. Mabuse* ZTT (Muzik 35k) · 💎 Clavel época: NoW *Happiness!* 40k, Moroder & Bennett 47k, Ledernacken 40k, Görl 50k, Mackenzie 60k · 👍 *Remain in Light* Beach House 92k (preguntar edición) · *More Songs* alemana Planeador 70k · Kyuss *Circus* Lado B 74,2k · *Cool Struttin'* Lado B 80k · *Goats Head Soup* / *Station to Station* / *Berlin* Lado B · *Discovery* Larks 92k · Larks 90s (Exit Planet Dust, SAW, Bustin', Twin Peaks, Zombie, Thievery, Morphine, ATCQ, Gorillaz) · Muzik (Thieves Like Us JP, Cowley, Candyman) · Specials 12" JP (falta precio).
+- **Importar:** icónicos según `versiones`; *Madvillainy* Audiophile STH2065-8; Hawkwind *Doremi* UK UA; *Bush Doctor* UK CUN 39109; *dubnobass* 1ª; *Cymande*; *Freedom Flight*; Kyuss; YMO; *B-2 Unit*.
+- **Preguntado a Ana:** ¿sale de la wishlist la *Soft Parade* alemana 1992 (id 32) ahora que tiene la US?
+- Top 5 sugerido: *Colores Santos*, *Dr. Mabuse*, *Remain in Light*, *Cool Struttin'*, *Happiness!*.
+
 ## Retomar acá (15 nov 2026): batea de Planeador Records
 
 Ana compró: *Fear of Music* Brasil WEA 1979 (339), *The Soft Parade* US roja 1969-70 (341), *Ege Bamyasi* remaster 2014 verde (155) y *RATM XX* 2012 (347): pasados a owned. Evaluados y no comprados (ids 337-349): *Mystic Man* (época, 54k), *Madvillainy* común (buscar la Audiophile STH2065-8), *Ohio Players Gold*, *Blah-Blah-Blah* (muy caro), *Roseland 25th* (160k, caro), *Moby 18*, *Sticky Fingers* half-speed (domesticada), *Vertigo*, Specials 12" Japón WWS-10002 (falta precio), *More Songs* alemana Ariola 26 383 XOT 70k (👍 sugerida). *Discovery* ahí a 120k: comprar en Larks (92k). Regla nueva en SKILL.md: foco en sonido y en cómo suena en su equipo; precio solo si es MUY caro. La lista consolidada del 12/11 sigue abierta (no rechequeada el 15/11).
