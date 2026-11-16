@@ -12,6 +12,13 @@ app/skill, asesora sobre calidad de audio de prensados. Hablarle en castellano r
 que va en `musica` (o sumar ese repo a la sesión). Para opinar cómo suena un prensado alcanza con saber que escucha en
 una Technics SL-1700 MK2 (directa con cuarzo, desde el 07/11/2026) con cápsula Sumiko Pearl (MM, elíptica), por el phono de un integrado Lenco A600.
 
+## Recomendaciones: siempre con link directo (regla de Ana, 02/11 y 16/11/2026)
+
+Todo disco que se recomienda, se compara o se descarta en una respuesta lleva el **link directo a la ficha del
+producto** (no a la home ni a la categoría de la tienda). Si se menciona una alternativa en otra tienda, también va
+con link. Si no hay link (batea física, feria), decirlo. Cuando Ana pasa una web, ir directo a los discos que se
+cruzan con su wishlist y su colección, con precio y link; no describir la tienda.
+
 ## Personal y laboral: nunca mezclar (pedido de Ana, 21/10/2026)
 
 Dead Wax es un proyecto **personal**: se trabaja con esta cuenta, en Claude Code web. El trabajo de Ana va en otra cuenta
