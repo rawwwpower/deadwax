@@ -7,6 +7,8 @@ Leer esto antes de seguir con cualquier compra, carga a la base o la página de 
 
 Ana compró: *Fear of Music* Brasil WEA 1979 (339), *The Soft Parade* US roja 1969-70 (341), *Ege Bamyasi* remaster 2014 verde (155) y *RATM XX* 2012 (347): pasados a owned. Evaluados y no comprados (ids 337-349): *Mystic Man* (época, 54k), *Madvillainy* común (buscar la Audiophile STH2065-8), *Ohio Players Gold*, *Blah-Blah-Blah* (muy caro), *Roseland 25th* (160k, caro), *Moby 18*, *Sticky Fingers* half-speed (domesticada), *Vertigo*, Specials 12" Japón WWS-10002 (falta precio), *More Songs* alemana Ariola 26 383 XOT 70k (👍 sugerida). *Discovery* ahí a 120k: comprar en Larks (92k). Regla nueva en SKILL.md: foco en sonido y en cómo suena en su equipo; precio solo si es MUY caro. La lista consolidada del 12/11 sigue abierta (no rechequeada el 15/11).
 
+**Próximo (Ana, 16/11): importar.** Ana va a investigar en otra sesión en paralelo cómo avanzar con la importación (Discogs y tiendas de afuera, envío, franquicia courier, IVA y percepciones, dólar ~1.700). Cuando vuelva, ayudarla a decidir qué conviene traer y qué comprar acá: candidatos naturales son *Madvillainy* Audiophile STH2065-8, la US Sire de *Fear of Music*/*Remain in Light* de época y lo que sea caro o no exista en Argentina. Re-verificar las reglas de importación del día (cambian seguido).
+
 ## Retomar acá (5 nov 2026): panorama de Spotify
 
 Ana pasó el export de sus playlists de Spotify. Lo que quedó está en `references/panorama-spotify.md`, que es contexto
