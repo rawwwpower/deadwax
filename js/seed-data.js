@@ -228,7 +228,7 @@ window.DEADWAX_SEED = [
     "label": "Skint",
     "year": "1998",
     "format": "LP",
-    "notes": "Prensado: Mejor sonido: Half Speed Master Abbey Road, National Album Day 2023, cat. BRASS11HSLP, barcode 4050538919004 (UK, 3000 copias, dificil desde Argentina). Alternativa más viable: RSD Essential, Astralwerks, cat. 602455862242 (US, 1500 copias, mejor distribución). Plan B accesible: reedición estándar 2015 (no limitada), evitar variantes de color. EVITAR: edición 2018 'Art of the Album' deluxe, BMG, cat. BMGAA06LP / barcode 602567341390 (reviews de sonido plano/sin dinámica) — la tiene Maniac Records, ya la descartamos dos veces.\nÉpoca: original 1998 UK Skint, legítimo pero lotería de ruido en copias sueltas."
+    "notes": "Prensado: Mejor sonido: Half Speed Master Abbey Road, National Album Day 2023, cat. BRASS11HSLP, barcode 4050538919004 (UK, 3000 copias, dificil desde Argentina). Alternativa más viable: RSD Essential, Astralwerks, cat. 602455862242 (US, 1500 copias, mejor distribución). Plan B accesible: reedición estándar 2015 (no limitada), evitar variantes de color. EVITAR: edición 2018 'Art of the Album' deluxe, BMG, cat. BMGAA06LP / barcode 602567341390 (reviews de sonido plano/sin dinámica) — la tiene Maniac Records, ya la descartamos dos veces.\nÉpoca: original 1998 UK Skint, legítimo pero lotería de ruido en copias sueltas. | 16/11 Maniac: la \"VINILO USA\" barcode 602455862242 = RSD Essential Astralwerks, half-speed Miles Showell Abbey Road, 180 g, 1500 copias, $128.200 https://www.maniacrecords.com.ar/productos/fatboy-slim-youve-come-a-long-way-baby-vinilousa/ (afuera USD 50-54, agotada). La otra de Maniac (602567341390, $119.700) es la 2018 Art of the Album a evitar."
   },
   {
     "id": "dw-26",
@@ -2464,5 +2464,15 @@ window.DEADWAX_SEED = [
     "year": "1971",
     "format": "LP",
     "notes": "Catálogo: 602448476357\n16/11/2026 curaduría Maniac."
+  },
+  {
+    "id": "dw-401",
+    "type": "wantlist",
+    "artist": "St Germain",
+    "album": "Tourist",
+    "label": "Parlophone (orig. Blue Note/EMI)",
+    "year": "2000",
+    "format": "LP",
+    "notes": "Catálogo: 5099963622010 · Prensado: Original UK 2000 EMI/Blue Note 2LP (rarevinyl 5251141). Remaster 2012 Parlophone 180 g (reportes de trompeta distorsionada en Rose Rouge y ruido en Sure Thing). 2015 US Nonesuch (remaster 2012). 2018 recut desde master original, barcode 5099963622010. 2024 naranja Warner FR.\n16/11/2026: fuentes rarevinyl, Shuga, Turntable Lab; sin reseñas independientes."
   }
 ];
