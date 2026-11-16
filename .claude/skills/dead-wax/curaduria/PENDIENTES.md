@@ -3,6 +3,13 @@
 Estado al 07/10/2026, para retomar en una sesión nueva sin perder nada.
 Leer esto antes de seguir con cualquier compra, carga a la base o la página de vinilos.
 
+## Curaduría Maniac Records (16/11/2026, abierta: esperando qué elige Ana)
+
+maniacrecords.com.ar (Tiendanube, ~4.800 vinilos casi todo nuevo importado; el SKU es el barcode). Listado: `/musica/vinilo/?page=N` (data-variants trae precio y SKU). Host habilitado en el entorno el 16/11.
+- 💎 [Madvillainy Audiophile STH2065-8 $145.100](https://www.maniacrecords.com.ar/productos/SKU659457206581/) (comprar acá, traerla sale igual) · [Alice Coltrane *Journey in Satchidananda* Verve Acoustic Sounds $145.100](https://www.maniacrecords.com.ar/productos/alice-coltrane-journey-in-satchidananda-verve-acoustic-sounds-vinilo/) · [Pharoah *Wisdom Through Music* $85.800](https://www.maniacrecords.com.ar/productos/pharoah-sanders-wisdom-through-music-vinilo/).
+- 👍 Kyuss [Blues](https://www.maniacrecords.com.ar/productos/kyuss-blues-for-the-red-sun-edicion-vinilo/) / [Sky Valley](https://www.maniacrecords.com.ar/productos/kyuss-welcome-to-sky-valley-edicion-vinilo/) / [Circus](https://www.maniacrecords.com.ar/productos/kyuss-the-circus-leaves-town-edicion-vinilo/) $85.800 c/u · Primus [Sailing](https://www.maniacrecords.com.ar/productos/SKU602537331260/) $102.700 / [Pork Soda](https://www.maniacrecords.com.ar/productos/SKU602557414400/) $119.700 · [STP *Core* 2017](https://www.maniacrecords.com.ar/productos/stone-temple-pilots-core-2017-remaster-vinilo/) $85.800 · [Japan *Tin Drum* half-speed](https://www.maniacrecords.com.ar/productos/SKU0602567462231/) $119.700 · nuevos: [J Dilla *Donuts*](https://www.maniacrecords.com.ar/productos/j-dilla-donuts-vinilo/) $102.700, [Kraftwerk *TEE*](https://www.maniacrecords.com.ar/productos/SKU0603497911448/) $85.800.
+- 🤷 Endtroducing 30 aniv $128.200 · DYOH = US Astralwerks $119.700 · BSSM $136.600 (edición?) · More Songs reedición $85.800 (mejor la alemana 1978) · Goats Head $102.700 (Lado B 81k) · BoC Inferno $119.700 (Larks 96k) · Reptile House reedición · NIN TDS $153.600 caro. No hay *Remain in Light*.
+
 ## Lista maestra (16 nov 2026): todo lo pendiente, con el criterio integral de Ana
 
 Rescatadas 4 ramas viejas sin mergear (admiring-fermi, lekqyi, relaxed-goldberg, serene-davinci): 49 discos fusionados fila por fila. Precios del 11 al 15/11, sin rechequear.
