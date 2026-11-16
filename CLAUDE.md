@@ -14,10 +14,15 @@ una Technics SL-1700 MK2 (directa con cuarzo, desde el 07/11/2026) con cápsula 
 
 ## Recomendaciones: siempre con link directo (regla de Ana, 02/11 y 16/11/2026)
 
-Todo disco que se recomienda, se compara o se descarta en una respuesta lleva el **link directo a la ficha del
-producto** (no a la home ni a la categoría de la tienda). Si se menciona una alternativa en otra tienda, también va
-con link. Si no hay link (batea física, feria), decirlo. Cuando Ana pasa una web, ir directo a los discos que se
-cruzan con su wishlist y su colección, con precio y link; no describir la tienda.
+Todo disco que se recomienda, se compara o se descarta en una respuesta lleva el **link directo a la publicación
+donde se vio** (no a la home ni a la categoría de la tienda). El texto del link es el nombre de la tienda (ej.
+"London Records"), nunca "ficha": la ficha es lo nuestro, el link es dónde está el disco para que Ana lo analice.
+Si se menciona una alternativa en otra tienda, también va con link. Si no hay link (batea física, feria), decirlo.
+
+**Formato: tabla, ordenada por jerarquía** (pedido de Ana, 16/11/2026). Nada de listas con mucho texto. Agrupar en
+tablas por veredicto, de lo mejor a lo peor (comprar → preguntar antes → evitar), con columnas cortas: disco,
+edición, precio, por qué (una línea), dónde (link). Cuando Ana pasa una web, ir directo a los discos que se cruzan
+con su wishlist y su colección; no describir la tienda.
 
 ## Personal y laboral: nunca mezclar (pedido de Ana, 21/10/2026)
 
