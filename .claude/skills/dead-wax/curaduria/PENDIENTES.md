@@ -176,6 +176,23 @@ Precios ARS al 11/11/2026.
   (¿P-8166A?), qué es el T-Wave "color azul", qué edición es el Blood Sugar Sex Magik "limitado", si Hot
   Space trae obi, y fotos de etiqueta/matrix de los AC/DC australianos. Las fotos de la tienda
   (acdn-us.mitiendanube.com) están bloqueadas por el proxy del sandbox: hay que pedírselas a Ana.
+  - 17/11 repaso con links (Ana: "por ahora veo todo muy caro"). Fuera de la wishlist, para cuando bajen o haya
+    plata. En el jazz nuevo, lo que dice "Europeo 180g + Bonus Tracks" es de dominio público: evitar.
+
+    | Disco | Edición | Precio | Dónde |
+    |---|---|---|---|
+    | Bill Evans · Sunday at the Village Vanguard | OJC, analógica | $140.000 | [London Records](https://londonrecords.com.ar/productos/bill-evans-sunday-at-the-village-vanguard-original-jazz-classics-series/) |
+    | Art Pepper · Intensity | Contemporary Acoustic Sounds | $86.000 | [London Records](https://londonrecords.com.ar/productos/art-pepper-intensity-contemporary-records-acoustic-sounds-series/) |
+    | Billie Holiday · Songs for Distingué Lovers | Verve Acoustic Sounds | $129.000 | [London Records](https://londonrecords.com.ar/productos/billie-holiday-songs-for-distingue-lovers-verve-acoustic-sounds-series-9z1ht/) |
+    | Bobby Hutcherson · Montara | Tone Poet | $129.000 | [London Records](https://londonrecords.com.ar/productos/bobby-hutcherson-montara-tone-poet-europeo-2s17v/) |
+    | Bill Evans · Trio '65 | Verve Acoustic Sounds | $150.000 | [London Records](https://londonrecords.com.ar/productos/bill-evans-bill-evans-trio-65-verve-acoustic-sounds-series-02tve/) |
+    | Andrew Hill · Point of Departure | Blue Note | $94.000 | [London Records](https://londonrecords.com.ar/productos/andrew-hill-point-of-departure-blue-note-records/) |
+    | Anri · Timely!! | Original japonesa 1983, usada | $190.000 | [London Records](https://londonrecords.com.ar/productos/anri-timely-primera-edicion-japonesa-9jdjg/) |
+    | Takanaka · The Rainbow Goblins | 2LP, edición limitada japonesa | $210.000 | [London Records](https://londonrecords.com.ar/productos/masayoshi-takanaka-the-rainbow-goblins-edicion-limitada-japones-1l3pv/) |
+    | Hidefumi Toki · Toki | MHJL324 (¿mismo disco que el de $190.000 con obi?) | $195.000 | [London Records](https://londonrecords.com.ar/productos/hidefumi-toki-toki-mhjl324-nuevo-180grs-1abns/) |
+    | Coltrane & Johnny Hartman | Japonesa, usada | $120.000 | [London Records](https://londonrecords.com.ar/productos/john-coltrane-johny-hartman-1jnsw/) |
+- **AC/DC · Dirty Deeds** (id 81, owned): Ana dice (17/11) que la suya es una USA de época, pero en la base figura
+  la alemana WEA 1979 (ATL 50 323). Confirmar con foto de etiqueta. Si es USA, es la Atlantic SD 16033 (1981).
 - `coleccion.py list --incomplete` para la próxima ronda de repaso con Seba.
 - **Fotos de etiqueta y dead wax** para pasar a "confirmada": Mr. Gone (Master Sound), Led Zeppelin II japonés
   (¿Nippon Grammophon 1969 o Warner-Pioneer?), Go-Go's Vacation (y qué dice el sello negro del obi), Nena

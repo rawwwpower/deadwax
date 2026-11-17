@@ -969,7 +969,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG\nVisto en Fear of Musik 02/11/2026: USA 1977 con sobre interno y cupón, tapa VG+, disco strong VG+, $70.003 (~USD 44)."
+    "notes": "País: Japón · Grading: VG+ / VG\nVisto en Fear of Musik 02/11/2026: USA 1977 con sobre interno y cupón, tapa VG+, disco strong VG+, $70.003 (~USD 44). | 17/11 London Records: japonesa con obi a $150.000 https://londonrecords.com.ar/productos/aerosmith-draw-the-line-japan-lp-obi-1jdio/ (la USA 1977 de Fear of Musik estaba a $70.003)."
   },
   {
     "id": "dw-122",
@@ -1089,7 +1089,7 @@ window.DEADWAX_SEED = [
     "label": "Rhino",
     "year": "2024",
     "format": "LP",
-    "notes": "País: USA · Catálogo: UPC 081227814434 · Prensado: Rhino High Fidelity, exclusiva de disquerías (Brick & Mortar): 180 g, cortada por Kevin Gray de las cintas analógicas originales, prensada en Optimal Media. Tapa tip-on, entrevista a Tom Allom (ingeniero del disco)."
+    "notes": "País: USA · Catálogo: UPC 081227814434 · Prensado: Rhino High Fidelity, exclusiva de disquerías (Brick & Mortar): 180 g, cortada por Kevin Gray de las cintas analógicas originales, prensada en Optimal Media. Tapa tip-on, entrevista a Tom Allom (ingeniero del disco).\n | 17/11 London Records: la Brick & Mortar subió a $150.000 https://londonrecords.com.ar/productos/black-sabbath-black-sabbath-brick-mortar-exclusive-1j72n/ . La de $90.000 \"180 g limited black\" es otra edición, no la de Kevin Gray: https://londonrecords.com.ar/productos/black-sabbath-black-sabbath-180-gram-vinyl-limited-edition-black/"
   },
   {
     "id": "dw-139",
@@ -1149,7 +1149,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: NM / NM · Prensado: Publicado como \"color azul\". La reedición 2025 de T-Wave (Abbey Road, 180 g) es naranja transparente; la azul es Can I Sing? (y Brasilian Skies es celeste). La original es Kitty MKF 1063 (1980, negra)."
+    "notes": "País: Japón · Grading: NM / NM · Prensado: Publicado como \"color azul\". La reedición 2025 de T-Wave (Abbey Road, 180 g) es naranja transparente; la azul es Can I Sing? (y Brasilian Skies es celeste). La original es Kitty MKF 1063 (1980, negra).\n | 17/11 Ya no está publicado en London Records (vendido o retirado)."
   },
   {
     "id": "dw-145",
@@ -1159,7 +1159,7 @@ window.DEADWAX_SEED = [
     "label": "Atlantic",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: NM / NM · Prensado: Japonesa sin catálogo publicado: P-8166A es la primera japonesa (1971); P-10125A es la tercera (1976). El precio solo se justifica si es la primera con obi."
+    "notes": "País: Japón · Grading: NM / NM · Prensado: Japonesa sin catálogo publicado: P-8166A es la primera japonesa (1971); P-10125A es la tercera (1976). El precio solo se justifica si es la primera con obi.\n | 17/11 London Records sigue a $170.000, sin catálogo publicado: https://londonrecords.com.ar/productos/led-zeppelin-iv-63nac/"
   },
   {
     "id": "dw-146",
@@ -1169,17 +1169,7 @@ window.DEADWAX_SEED = [
     "label": "Albert Productions",
     "year": "1975",
     "format": "LP",
-    "notes": "País: Australia · Catálogo: APLP 009 · Grading: NM / NM · Prensado: Publicada como primera edición australiana 1975, insert crema original. Hay repress australianos: pedir foto de etiqueta y matrix."
-  },
-  {
-    "id": "dw-147",
-    "type": "wantlist",
-    "artist": "AC/DC",
-    "album": "Dirty Deeds Done Dirt Cheap (edición australiana)",
-    "label": "Albert Productions",
-    "year": "1976",
-    "format": "LP",
-    "notes": "País: Australia · Grading: NM / NM"
+    "notes": "País: Australia · Catálogo: APLP 009 · Grading: NM / NM · Prensado: Publicada como primera edición australiana 1975, insert crema original. Hay repress australianos: pedir foto de etiqueta y matrix.\n | 17/11 London Records sigue a $350.000; la URL dice \"1980-copia\" y el título 1975 (ficha clonada). Sin foto de matrix, no: https://londonrecords.com.ar/productos/ac-dc-high-voltage-primera-edicion-australia-1980-copia-1eymn/"
   },
   {
     "id": "dw-148",
@@ -1199,7 +1189,7 @@ window.DEADWAX_SEED = [
     "label": "Fantasy",
     "year": "1975",
     "format": "LP",
-    "notes": "País: USA · Grading: VG++"
+    "notes": "País: USA · Grading: VG++\n | 17/11 London Records sigue a $70.000: https://londonrecords.com.ar/productos/blackbyrds-citylife-primera-edicion-usa-1975/"
   },
   {
     "id": "dw-150",
@@ -1229,7 +1219,7 @@ window.DEADWAX_SEED = [
     "label": "ECM",
     "year": "2025",
     "format": "LP",
-    "notes": ""
+    "notes": " | 17/11 London Records sigue a $115.000 (ECM Luminessence, AAA desde cintas, Optimal). Mejor opción vista: https://londonrecords.com.ar/productos/bennie-maupin-the-jewel-in-the-lotus-ecm-luminessence-series-gbvo1/"
   },
   {
     "id": "dw-153",
@@ -1239,7 +1229,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1977",
     "format": "LP",
-    "notes": "País: Japón"
+    "notes": "País: Japón\n | 17/11 London Records sigue a $178.400, reedición CRJ1038 de color (no la de 1977): https://londonrecords.com.ar/productos/taeko-onuki-sunshower-pure-color-vinyl-crj1038-edicion-limitada-1q3fv/"
   },
   {
     "id": "dw-154",
@@ -1249,7 +1239,7 @@ window.DEADWAX_SEED = [
     "label": "Nippon Columbia",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón"
+    "notes": "País: Japón\n | 17/11 London Records: Funky Stuff HMJY237 transparente con obi a $220.000 https://londonrecords.com.ar/productos/jiro-inagaki-funky-stuff-clear-vinyl-japones-con-obi-7ryxs/ . Ojo: los $195.000 anotados en octubre coinciden con In the Groove HMJY236 https://londonrecords.com.ar/productos/jiro-inagaki-soul-media-soul-media-in-the-groove-pure-vinyl-180g-hmjy236-edicion-limitada-338ng/ (¿subió o se mezclaron?)."
   },
   {
     "id": "dw-155",
