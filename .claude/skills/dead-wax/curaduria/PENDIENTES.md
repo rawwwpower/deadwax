@@ -3,6 +3,15 @@
 Estado al 07/10/2026, para retomar en una sesión nueva sin perder nada.
 Leer esto antes de seguir con cualquier compra, carga a la base o la página de vinilos.
 
+## Curaduría AVG Record Store (19/11/2026, abierta: esperando qué elige Ana)
+
+avgrecords.com (WooCommerce; Av. del Libertador 3883, galería Avant Garten). Catálogo completo por API:
+`/wp-json/wc/store/v1/products?per_page=100&page=N` (334 discos el 19/11, ~70% house/techno en 12", usados a
+$15.700–36.200). Host habilitado en el entorno el 19/11. **Ningún disco de la wishlist.**
+- 👍 Usados de época baratos: [Ponty *Imaginary Voyage* US 1976 SD 18195 $23.600](https://avgrecords.com/producto/jean-luc-ponty-imaginary-voyage-atlantic/) · [Summers & Fripp *Bewitched* DE 1984 $23.600](https://avgrecords.com/producto/andy-summers-robert-fripp-bewitched-eg/) · [Valentin *Land of the Third Eye* GRP 5009 1980 $23.600](https://avgrecords.com/producto/dave-valentin-land-of-the-third-eye-arista-grp/) · [Spyro Gyra *Stories Without Words* Europadisk $15.700](https://avgrecords.com/producto/spyro-gyra-stories-without-words-mca-records/).
+- ❓ [Aphex *Classics* R&S RS 95035 $120.900](https://avgrecords.com/producto/the-aphex-twin-classics/) (¿Bélgica 1995 o repress?) · [Sven Väth *L'Esperanza* $78.500](https://avgrecords.com/producto/sven-vath-lesperanza/) (sin datos de edición) · [Idris Muhammad *Could Heaven…* 12" RSD 2017 $62.800](https://avgrecords.com/producto/idris-muhammad-could-heaven-ever-be-like-this-kudu/).
+- ❌ [*SAW 85-92* Apollo $120.900](https://avgrecords.com/producto/selected-ambient-works-85-92-aphex-twin/) (Larks $96k) · [New Order *Low-life* colección La Nación 2023 $70.700](https://avgrecords.com/producto/new-order-low-life-warner-records/).
+
 ## Curaduría Maniac Records (16/11/2026, abierta: esperando qué elige Ana)
 
 maniacrecords.com.ar (Tiendanube, ~4.800 vinilos casi todo nuevo importado; el SKU es el barcode). Listado: `/musica/vinilo/?page=N` (data-variants trae precio y SKU). Host habilitado en el entorno el 16/11.
