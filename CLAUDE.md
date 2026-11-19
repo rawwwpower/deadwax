@@ -12,6 +12,14 @@ app/skill, asesora sobre calidad de audio de prensados. Hablarle en castellano r
 que va en `musica` (o sumar ese repo a la sesión). Para opinar cómo suena un prensado alcanza con saber que escucha en
 una Technics SL-1700 MK2 (directa con cuarzo, desde el 07/11/2026) con cápsula Sumiko Pearl (MM, elíptica), por el phono de un integrado Lenco A600.
 
+## Qué espera Ana cuando pide revisar algo (19/11/2026)
+
+Consejo de **par melómano**, no un cruce con la wishlist (eso lo hace ella sola). Ana es melómana nivel 10: va del
+metal al techno y a la cumbia peruana, no le hace asco a nada, **mezcla (DJ) y es muy fan de Sven Väth**. Al revisar una
+tienda o batea: buscar **joyas y cosas para aprender** aunque no estén en la wishlist ni en la colección (mejor
+todavía), con el dato de por qué importan (quién es, de qué escena viene, qué conexión tiene con lo que ya escucha) y,
+en dance, qué sirve para mezclar. Nunca descartar un género por estar lejos de la colección.
+
 ## Recomendaciones: siempre con link directo (regla de Ana, 02/11 y 16/11/2026)
 
 Todo disco que se recomienda, se compara o se descarta en una respuesta lleva el **link directo a la publicación
