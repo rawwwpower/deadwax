@@ -1842,7 +1842,7 @@ window.DEADWAX_SEED = [
     "label": "Columbia",
     "year": "1995",
     "format": "LP",
-    "notes": "País: USA · Catálogo: C2 67248 (barcode 0 7464-67248-1 1) · Prensado: SIN CONFIRMAR (contratapa vista en disquería 31/10/2026, en bolsa): barcode/catálogo de la original US 1995 2LP gatefold, pero hay bootleg 'Tripod' con el mismo cat. C267248 (vinilo marmolado verde/negro y violeta). Reedición 30 aniv. 2026 tiene otro UPC (198028486910), así que no es esa. Falta ver vinilo, etiquetas y dead wax.\nVEREDICTO: si es la original 1995 negra, joya; si es vinilo de color, bootleg."
+    "notes": "País: USA · Catálogo: C2 67248 (barcode 0 7464-67248-1 1) · Prensado: SIN CONFIRMAR (contratapa vista en disquería 31/10/2026, en bolsa): barcode/catálogo de la original US 1995 2LP gatefold, pero hay bootleg 'Tripod' con el mismo cat. C267248 (vinilo marmolado verde/negro y violeta). Reedición 30 aniv. 2026 tiene otro UPC (198028486910), así que no es esa. Falta ver vinilo, etiquetas y dead wax.\nVEREDICTO: si es la original 1995 negra, joya; si es vinilo de color, bootleg. | 20/11 Larks: reedición oficial 30° aniversario 2026, 2LP amarillo fluorescente, Columbia/Legacy USA (barcode 198028486910), $94.000 https://larksrecords.com.ar/discos/240 . Alternativa oficial a la copia blanca no oficial (id 245)."
   },
   {
     "id": "dw-244",
@@ -2237,7 +2237,7 @@ window.DEADWAX_SEED = [
     "label": "Warp",
     "year": "2026",
     "format": "LP",
-    "notes": "País: Canadá · Catálogo: WARPLP496 (barcode 5056818807435) · Prensado: 2LP gatefold 2026, masterizado por Matt Colton (Metropolis). Mismo barcode en tres versiones: US/Canadá GZ ('Made in CA' en tapa y etiquetas, r37470963), Europa GZ (r37465812) y Europa Optimal (r38502015). '= MATT @ METROPOLIS =' grabado a mano.\nEvaluado 12/11/2026 en Larks; barcode verificado en la API de Discogs. Larks dice Canadá. ARS 96.000 (~USD 58, dólar 1.650 que indicó Ana); Discogs más bajo USD 15,5 para la de Canadá: caro. Veredicto 👍 musical. | 16/11/2026: aparece (probable, por la tipografía Blippo de la tapa) en una foto de Sven Väth en Instagram (post de la gira por Brasil, 26/08/2026; probablemente su casa en Ibiza: mismo living que un post suyo de Ibiza de agosto 2023). | 16/11/2026: Ana lo pasa a la wishlist."
+    "notes": "País: Canadá · Catálogo: WARPLP496 (barcode 5056818807435) · Prensado: 2LP gatefold 2026, masterizado por Matt Colton (Metropolis). Mismo barcode en tres versiones: US/Canadá GZ ('Made in CA' en tapa y etiquetas, r37470963), Europa GZ (r37465812) y Europa Optimal (r38502015). '= MATT @ METROPOLIS =' grabado a mano.\nEvaluado 12/11/2026 en Larks; barcode verificado en la API de Discogs. Larks dice Canadá. ARS 96.000 (~USD 58, dólar 1.650 que indicó Ana); Discogs más bajo USD 15,5 para la de Canadá: caro. Veredicto 👍 musical. | 16/11/2026: aparece (probable, por la tipografía Blippo de la tapa) en una foto de Sven Väth en Instagram (post de la gira por Brasil, 26/08/2026; probablemente su casa en Ibiza: mismo living que un post suyo de Ibiza de agosto 2023). | 16/11/2026: Ana lo pasa a la wishlist. | 20/11 Larks sigue a $96.000 (2 en stock) https://larksrecords.com.ar/discos/292 ; Maniac la tiene a $119.700."
   },
   {
     "id": "dw-335",
@@ -2302,7 +2302,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1977",
     "format": "LP",
-    "notes": ""
+    "notes": " | 20/11 Larks: Knitting Factory 2022 a $80.000 https://larksrecords.com.ar/discos/305"
   },
   {
     "id": "dw-352",
@@ -2312,7 +2312,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1999",
     "format": "LP",
-    "notes": ""
+    "notes": " | 20/11 Larks: Definitive 2017 a $96.000 https://larksrecords.com.ar/discos/242"
   },
   {
     "id": "dw-353",
@@ -2322,7 +2322,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1990",
     "format": "LP",
-    "notes": "Discogs 11/11/2026: no hubo LP estadounidense en 1990; el vinilo original es europeo. Sonido: ninguna comparación directa encontrada; dealers dicen que la Warner/Rhino 2017 suena mejor que la Death Waltz 2016 (rumor, sin verificar)."
+    "notes": "Discogs 11/11/2026: no hubo LP estadounidense en 1990; el vinilo original es europeo. Sonido: ninguna comparación directa encontrada; dealers dicen que la Warner/Rhino 2017 suena mejor que la Death Waltz 2016 (rumor, sin verificar). | 20/11 Larks: Warner 2020 180 g a $84.000 https://larksrecords.com.ar/discos/277"
   },
   {
     "id": "dw-354",

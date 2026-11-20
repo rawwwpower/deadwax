@@ -168,6 +168,12 @@ Precios ARS al 11/11/2026.
   con ranking, ids 324 y 331-333). Larks consigue discos a pedido: sugeridos Leftfield, The Orb, Underworld, Global
   Communication, BoC *Music Has the Right…*, Autechre *Amber* (descubrimientos 334-344, con Harmonia, Dots and Loops y Surrender en stock).
 - Sin stock pero para vigilar: Seefeel *Quique*, Thievery Corporation *Radio Retaliation*, Tricky, Kraftwerk *The Man-Machine*.
+- **Rechequeo 20/11** (172 discos, 74 en stock): siguen *Exit Planet Dust* $85k, *Bustin'* $68k, BoC *Inferno* $96k
+  (Maniac 119,7k), Twin Peaks $84k, *Fragile* $96k, *Zombie* $80k, *Discovery* $92k (bajó de 96k). **Sin stock: *SAW 85-92***
+  (queda AVG $120.900), *Downward Spiral*, *Sailing*, *Low End Theory*, Morphine, Tricky. Entradas nuevas con link:
+  [AIC Tripod 30° aniv. 2026 $94k](https://larksrecords.com.ar/discos/240) · [Talk Talk *Spirit of Eden* half-speed 2025 $75k](https://larksrecords.com.ar/discos/321) ·
+  [King Crimson *Red* Panegyric 200 g $90k](https://larksrecords.com.ar/discos/154) · [Eno *Another Green World* 2018 $76k](https://larksrecords.com.ar/discos/328) ·
+  [Gun Club *Fire of Love* 2025 $66,5k](https://larksrecords.com.ar/discos/335) · [Bauhaus *Mask* $79k](https://larksrecords.com.ar/discos/332) · [Slint *Spiderland* $78k](https://larksrecords.com.ar/discos/193).
 - 🚩 *The Velvet Underground & Nico* de "Vinyl Lovers" (2008): sello europeo de dominio público, no oficial.
 
 ## Abierto
