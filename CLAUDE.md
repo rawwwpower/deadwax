@@ -27,6 +27,10 @@ donde se vio** (no a la home ni a la categoría de la tienda). El texto del link
 "London Records"), nunca "ficha": la ficha es lo nuestro, el link es dónde está el disco para que Ana lo analice.
 Si se menciona una alternativa en otra tienda, también va con link. Si no hay link (batea física, feria), decirlo.
 
+**Antes de recomendar, buscar el disco en la base** (`coleccion.py search`): si ya tiene un veredicto, respetarlo o
+decir explícitamente por qué cambia. Que una edición sea **oficial/licenciada no dice nada de cómo suena** ni de si el
+precio es bueno (error del 19/11 con el *Zombie* de Knitting Factory: ya estaba evaluado 🤷 y se recomendó igual).
+
 **Formato: tabla, ordenada por jerarquía** (pedido de Ana, 16/11/2026). Nada de listas con mucho texto. Agrupar en
 tablas por veredicto, de lo mejor a lo peor (comprar → preguntar antes → evitar), con columnas cortas: disco,
 edición, precio, por qué (una línea), dónde (link). Cuando Ana pasa una web, ir directo a los discos que se cruzan
