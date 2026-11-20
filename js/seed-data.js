@@ -1842,7 +1842,7 @@ window.DEADWAX_SEED = [
     "label": "Columbia",
     "year": "1995",
     "format": "LP",
-    "notes": "País: USA · Catálogo: C2 67248 (barcode 0 7464-67248-1 1) · Prensado: SIN CONFIRMAR (contratapa vista en disquería 31/10/2026, en bolsa): barcode/catálogo de la original US 1995 2LP gatefold, pero hay bootleg 'Tripod' con el mismo cat. C267248 (vinilo marmolado verde/negro y violeta). Reedición 30 aniv. 2026 tiene otro UPC (198028486910), así que no es esa. Falta ver vinilo, etiquetas y dead wax.\nVEREDICTO: si es la original 1995 negra, joya; si es vinilo de color, bootleg. | 20/11 Larks: reedición oficial 30° aniversario 2026, 2LP amarillo fluorescente, Columbia/Legacy USA (barcode 198028486910), $94.000 https://larksrecords.com.ar/discos/240 . Alternativa oficial a la copia blanca no oficial (id 245)."
+    "notes": "País: USA · Catálogo: C2 67248 (barcode 0 7464-67248-1 1) · Prensado: SIN CONFIRMAR (contratapa vista en disquería 31/10/2026, en bolsa): barcode/catálogo de la original US 1995 2LP gatefold, pero hay bootleg 'Tripod' con el mismo cat. C267248 (vinilo marmolado verde/negro y violeta). Reedición 30 aniv. 2026 tiene otro UPC (198028486910), así que no es esa. Falta ver vinilo, etiquetas y dead wax.\nVEREDICTO: si es la original 1995 negra, joya; si es vinilo de color, bootleg. | 20/11 Larks: reedición oficial 30° aniversario 2026, 2LP amarillo fluorescente, Columbia/Legacy USA (barcode 198028486910), $94.000 https://larksrecords.com.ar/discos/240 . Alternativa oficial a la copia blanca no oficial (id 245). | 20/11 Ana prefiere esperar copias de época de AIC; la reedición 2026 no le interesa."
   },
   {
     "id": "dw-244",
@@ -2302,7 +2302,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1977",
     "format": "LP",
-    "notes": " | 20/11 Larks: Knitting Factory 2022 a $80.000 https://larksrecords.com.ar/discos/305"
+    "notes": " | 20/11 Larks: Knitting Factory 2022 a $80.000 https://larksrecords.com.ar/discos/305 | 20/11 Corrección: la Knitting Factory a $80.000 sigue en 🤷 (ver id 333): el doble que en Discogs y sin datos de master ni planta. Buscar Coconut 1977 o Creole UK."
   },
   {
     "id": "dw-352",
