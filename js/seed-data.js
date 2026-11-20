@@ -969,7 +969,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: VG+ / VG\nVisto en Fear of Musik 02/11/2026: USA 1977 con sobre interno y cupón, tapa VG+, disco strong VG+, $70.003 (~USD 44)."
+    "notes": "País: Japón · Grading: VG+ / VG\nVisto en Fear of Musik 02/11/2026: USA 1977 con sobre interno y cupón, tapa VG+, disco strong VG+, $70.003 (~USD 44). | 17/11 London Records: japonesa con obi a $150.000 https://londonrecords.com.ar/productos/aerosmith-draw-the-line-japan-lp-obi-1jdio/ (la USA 1977 de Fear of Musik estaba a $70.003)."
   },
   {
     "id": "dw-122",
@@ -1089,7 +1089,7 @@ window.DEADWAX_SEED = [
     "label": "Rhino",
     "year": "2024",
     "format": "LP",
-    "notes": "País: USA · Catálogo: UPC 081227814434 · Prensado: Rhino High Fidelity, exclusiva de disquerías (Brick & Mortar): 180 g, cortada por Kevin Gray de las cintas analógicas originales, prensada en Optimal Media. Tapa tip-on, entrevista a Tom Allom (ingeniero del disco)."
+    "notes": "País: USA · Catálogo: UPC 081227814434 · Prensado: Rhino High Fidelity, exclusiva de disquerías (Brick & Mortar): 180 g, cortada por Kevin Gray de las cintas analógicas originales, prensada en Optimal Media. Tapa tip-on, entrevista a Tom Allom (ingeniero del disco).\n | 17/11 London Records: la Brick & Mortar subió a $150.000 https://londonrecords.com.ar/productos/black-sabbath-black-sabbath-brick-mortar-exclusive-1j72n/ . La de $90.000 \"180 g limited black\" es otra edición, no la de Kevin Gray: https://londonrecords.com.ar/productos/black-sabbath-black-sabbath-180-gram-vinyl-limited-edition-black/"
   },
   {
     "id": "dw-139",
@@ -1149,7 +1149,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: NM / NM · Prensado: Publicado como \"color azul\". La reedición 2025 de T-Wave (Abbey Road, 180 g) es naranja transparente; la azul es Can I Sing? (y Brasilian Skies es celeste). La original es Kitty MKF 1063 (1980, negra)."
+    "notes": "País: Japón · Grading: NM / NM · Prensado: Publicado como \"color azul\". La reedición 2025 de T-Wave (Abbey Road, 180 g) es naranja transparente; la azul es Can I Sing? (y Brasilian Skies es celeste). La original es Kitty MKF 1063 (1980, negra).\n | 17/11 Ya no está publicado en London Records (vendido o retirado)."
   },
   {
     "id": "dw-145",
@@ -1159,7 +1159,7 @@ window.DEADWAX_SEED = [
     "label": "Atlantic",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón · Grading: NM / NM · Prensado: Japonesa sin catálogo publicado: P-8166A es la primera japonesa (1971); P-10125A es la tercera (1976). El precio solo se justifica si es la primera con obi."
+    "notes": "País: Japón · Grading: NM / NM · Prensado: Japonesa sin catálogo publicado: P-8166A es la primera japonesa (1971); P-10125A es la tercera (1976). El precio solo se justifica si es la primera con obi.\n | 17/11 London Records sigue a $170.000, sin catálogo publicado: https://londonrecords.com.ar/productos/led-zeppelin-iv-63nac/"
   },
   {
     "id": "dw-146",
@@ -1169,17 +1169,7 @@ window.DEADWAX_SEED = [
     "label": "Albert Productions",
     "year": "1975",
     "format": "LP",
-    "notes": "País: Australia · Catálogo: APLP 009 · Grading: NM / NM · Prensado: Publicada como primera edición australiana 1975, insert crema original. Hay repress australianos: pedir foto de etiqueta y matrix."
-  },
-  {
-    "id": "dw-147",
-    "type": "wantlist",
-    "artist": "AC/DC",
-    "album": "Dirty Deeds Done Dirt Cheap (edición australiana)",
-    "label": "Albert Productions",
-    "year": "1976",
-    "format": "LP",
-    "notes": "País: Australia · Grading: NM / NM"
+    "notes": "País: Australia · Catálogo: APLP 009 · Grading: NM / NM · Prensado: Publicada como primera edición australiana 1975, insert crema original. Hay repress australianos: pedir foto de etiqueta y matrix.\n | 17/11 London Records sigue a $350.000; la URL dice \"1980-copia\" y el título 1975 (ficha clonada). Sin foto de matrix, no: https://londonrecords.com.ar/productos/ac-dc-high-voltage-primera-edicion-australia-1980-copia-1eymn/"
   },
   {
     "id": "dw-148",
@@ -1199,7 +1189,7 @@ window.DEADWAX_SEED = [
     "label": "Fantasy",
     "year": "1975",
     "format": "LP",
-    "notes": "País: USA · Grading: VG++"
+    "notes": "País: USA · Grading: VG++\n | 17/11 London Records sigue a $70.000: https://londonrecords.com.ar/productos/blackbyrds-citylife-primera-edicion-usa-1975/"
   },
   {
     "id": "dw-150",
@@ -1229,7 +1219,7 @@ window.DEADWAX_SEED = [
     "label": "ECM",
     "year": "2025",
     "format": "LP",
-    "notes": ""
+    "notes": " | 17/11 London Records sigue a $115.000 (ECM Luminessence, AAA desde cintas, Optimal). Mejor opción vista: https://londonrecords.com.ar/productos/bennie-maupin-the-jewel-in-the-lotus-ecm-luminessence-series-gbvo1/"
   },
   {
     "id": "dw-153",
@@ -1239,7 +1229,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1977",
     "format": "LP",
-    "notes": "País: Japón"
+    "notes": "País: Japón\n | 17/11 London Records sigue a $178.400, reedición CRJ1038 de color (no la de 1977): https://londonrecords.com.ar/productos/taeko-onuki-sunshower-pure-color-vinyl-crj1038-edicion-limitada-1q3fv/"
   },
   {
     "id": "dw-154",
@@ -1249,7 +1239,7 @@ window.DEADWAX_SEED = [
     "label": "Nippon Columbia",
     "year": "",
     "format": "LP",
-    "notes": "País: Japón"
+    "notes": "País: Japón\n | 17/11 London Records: Funky Stuff HMJY237 transparente con obi a $220.000 https://londonrecords.com.ar/productos/jiro-inagaki-funky-stuff-clear-vinyl-japones-con-obi-7ryxs/ . Ojo: los $195.000 anotados en octubre coinciden con In the Groove HMJY236 https://londonrecords.com.ar/productos/jiro-inagaki-soul-media-soul-media-in-the-groove-pure-vinyl-180g-hmjy236-edicion-limitada-338ng/ (¿subió o se mezclaron?)."
   },
   {
     "id": "dw-155",
@@ -1852,7 +1842,7 @@ window.DEADWAX_SEED = [
     "label": "Columbia",
     "year": "1995",
     "format": "LP",
-    "notes": "País: USA · Catálogo: C2 67248 (barcode 0 7464-67248-1 1) · Prensado: SIN CONFIRMAR (contratapa vista en disquería 31/10/2026, en bolsa): barcode/catálogo de la original US 1995 2LP gatefold, pero hay bootleg 'Tripod' con el mismo cat. C267248 (vinilo marmolado verde/negro y violeta). Reedición 30 aniv. 2026 tiene otro UPC (198028486910), así que no es esa. Falta ver vinilo, etiquetas y dead wax.\nVEREDICTO: si es la original 1995 negra, joya; si es vinilo de color, bootleg."
+    "notes": "País: USA · Catálogo: C2 67248 (barcode 0 7464-67248-1 1) · Prensado: SIN CONFIRMAR (contratapa vista en disquería 31/10/2026, en bolsa): barcode/catálogo de la original US 1995 2LP gatefold, pero hay bootleg 'Tripod' con el mismo cat. C267248 (vinilo marmolado verde/negro y violeta). Reedición 30 aniv. 2026 tiene otro UPC (198028486910), así que no es esa. Falta ver vinilo, etiquetas y dead wax.\nVEREDICTO: si es la original 1995 negra, joya; si es vinilo de color, bootleg. | 20/11 Larks: reedición oficial 30° aniversario 2026, 2LP amarillo fluorescente, Columbia/Legacy USA (barcode 198028486910), $94.000 https://larksrecords.com.ar/discos/240 . Alternativa oficial a la copia blanca no oficial (id 245). | 20/11 Ana prefiere esperar copias de época de AIC; la reedición 2026 no le interesa."
   },
   {
     "id": "dw-244",
@@ -2247,7 +2237,7 @@ window.DEADWAX_SEED = [
     "label": "Warp",
     "year": "2026",
     "format": "LP",
-    "notes": "País: Canadá · Catálogo: WARPLP496 (barcode 5056818807435) · Prensado: 2LP gatefold 2026, masterizado por Matt Colton (Metropolis). Mismo barcode en tres versiones: US/Canadá GZ ('Made in CA' en tapa y etiquetas, r37470963), Europa GZ (r37465812) y Europa Optimal (r38502015). '= MATT @ METROPOLIS =' grabado a mano.\nEvaluado 12/11/2026 en Larks; barcode verificado en la API de Discogs. Larks dice Canadá. ARS 96.000 (~USD 58, dólar 1.650 que indicó Ana); Discogs más bajo USD 15,5 para la de Canadá: caro. Veredicto 👍 musical. | 16/11/2026: aparece (probable, por la tipografía Blippo de la tapa) en una foto de Sven Väth en Instagram (post de la gira por Brasil, 26/08/2026; probablemente su casa en Ibiza: mismo living que un post suyo de Ibiza de agosto 2023). | 16/11/2026: Ana lo pasa a la wishlist."
+    "notes": "País: Canadá · Catálogo: WARPLP496 (barcode 5056818807435) · Prensado: 2LP gatefold 2026, masterizado por Matt Colton (Metropolis). Mismo barcode en tres versiones: US/Canadá GZ ('Made in CA' en tapa y etiquetas, r37470963), Europa GZ (r37465812) y Europa Optimal (r38502015). '= MATT @ METROPOLIS =' grabado a mano.\nEvaluado 12/11/2026 en Larks; barcode verificado en la API de Discogs. Larks dice Canadá. ARS 96.000 (~USD 58, dólar 1.650 que indicó Ana); Discogs más bajo USD 15,5 para la de Canadá: caro. Veredicto 👍 musical. | 16/11/2026: aparece (probable, por la tipografía Blippo de la tapa) en una foto de Sven Väth en Instagram (post de la gira por Brasil, 26/08/2026; probablemente su casa en Ibiza: mismo living que un post suyo de Ibiza de agosto 2023). | 16/11/2026: Ana lo pasa a la wishlist. | 20/11 Larks sigue a $96.000 (2 en stock) https://larksrecords.com.ar/discos/292 ; Maniac la tiene a $119.700."
   },
   {
     "id": "dw-335",
@@ -2312,7 +2302,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1977",
     "format": "LP",
-    "notes": ""
+    "notes": " | 20/11 Larks: Knitting Factory 2022 a $80.000 https://larksrecords.com.ar/discos/305 | 20/11 Corrección: la Knitting Factory a $80.000 sigue en 🤷 (ver id 333): el doble que en Discogs y sin datos de master ni planta. Buscar Coconut 1977 o Creole UK."
   },
   {
     "id": "dw-352",
@@ -2322,7 +2312,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1999",
     "format": "LP",
-    "notes": ""
+    "notes": " | 20/11 Larks: Definitive 2017 a $96.000 https://larksrecords.com.ar/discos/242"
   },
   {
     "id": "dw-353",
@@ -2332,7 +2322,7 @@ window.DEADWAX_SEED = [
     "label": "",
     "year": "1990",
     "format": "LP",
-    "notes": "Discogs 11/11/2026: no hubo LP estadounidense en 1990; el vinilo original es europeo. Sonido: ninguna comparación directa encontrada; dealers dicen que la Warner/Rhino 2017 suena mejor que la Death Waltz 2016 (rumor, sin verificar)."
+    "notes": "Discogs 11/11/2026: no hubo LP estadounidense en 1990; el vinilo original es europeo. Sonido: ninguna comparación directa encontrada; dealers dicen que la Warner/Rhino 2017 suena mejor que la Death Waltz 2016 (rumor, sin verificar). | 20/11 Larks: Warner 2020 180 g a $84.000 https://larksrecords.com.ar/discos/277"
   },
   {
     "id": "dw-354",

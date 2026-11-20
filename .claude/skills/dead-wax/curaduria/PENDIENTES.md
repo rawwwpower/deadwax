@@ -3,6 +3,16 @@
 Estado al 07/10/2026, para retomar en una sesión nueva sin perder nada.
 Leer esto antes de seguir con cualquier compra, carga a la base o la página de vinilos.
 
+## Curaduría AVG Record Store (19/11/2026, abierta: esperando qué elige Ana)
+
+avgrecords.com (WooCommerce; Av. del Libertador 3883, galería Avant Garten). Catálogo completo por API:
+`/wp-json/wc/store/v1/products?per_page=100&page=N` (334 discos el 19/11, ~70% house/techno en 12", usados a
+$15.700–36.200). Host habilitado en el entorno el 19/11. **Ningún disco de la wishlist.**
+- 💎 (repaso como par, 19/11) [Der Zyklus *Biometry* 2004 original $55.000](https://avgrecords.com/producto/der-zyklus-biometry-dub-recordings/) · [Ruffneck *Move Your Body* MAW $36.200](https://avgrecords.com/producto/ruffneck-featuring-yavahn-move-your-body-maw-records/) · [Mighty Dub Kats (Norman Cook) $36.200](https://avgrecords.com/producto/mighty-dub-kats-cangica-its-just-a-groove-work/) · [Booka Shade *Mandarine EP* $36.200](https://avgrecords.com/producto/booka-shade-mandarine-ep-get-physical-music/) · [Chez Damier *Majestic* $47.100](https://avgrecords.com/producto/chez-damier-ben-vedren-majestic-shishu/) · [MFSB *Love Is the Message* 12" $62.800](https://avgrecords.com/producto/mfsb-featuring-the-three-degrees-love-is-the-message-tsop-the-sound-of-philadelphia-philadelphia-international-records/) · [Aleem & Leroy Burgess $29.900](https://avgrecords.com/producto/aleem-featuring-leroy-burgess-loves-on-fire-atlantic/) · [Cheri (AR 1982) $28.300](https://avgrecords.com/producto/cheri-cheri-21-records/) · [*House Disco 1992* Sum (AR) $31.400](https://avgrecords.com/producto/various-house-disco-1992-sum-records/). Precio roto (preguntar): [Ultra Naté *It's Over Now*](https://avgrecords.com/producto/ultra-nate-its-over-now/), [Rainy Davis *Sweetheart*](https://avgrecords.com/producto/rainy-davis-sweetheart-supertronics/), [Adaye](https://avgrecords.com/producto/adaye-turn-it-up-heads/). Evitar: [MAW *Dubplate Special 2* (no oficial)](https://avgrecords.com/producto/masters-at-work-dubplate-special-2-maw-records/).
+- 👍 Usados de época baratos: [Ponty *Imaginary Voyage* US 1976 SD 18195 $23.600](https://avgrecords.com/producto/jean-luc-ponty-imaginary-voyage-atlantic/) · [Summers & Fripp *Bewitched* DE 1984 $23.600](https://avgrecords.com/producto/andy-summers-robert-fripp-bewitched-eg/) · [Valentin *Land of the Third Eye* GRP 5009 1980 $23.600](https://avgrecords.com/producto/dave-valentin-land-of-the-third-eye-arista-grp/) · [Spyro Gyra *Stories Without Words* Europadisk $15.700](https://avgrecords.com/producto/spyro-gyra-stories-without-words-mca-records/).
+- ❓ [Aphex *Classics* R&S RS 95035 $120.900](https://avgrecords.com/producto/the-aphex-twin-classics/) (¿Bélgica 1995 o repress?) · [Sven Väth *L'Esperanza* $78.500](https://avgrecords.com/producto/sven-vath-lesperanza/) (sin datos de edición) · [Idris Muhammad *Could Heaven…* 12" RSD 2017 $62.800](https://avgrecords.com/producto/idris-muhammad-could-heaven-ever-be-like-this-kudu/).
+- ❌ [*SAW 85-92* Apollo $120.900](https://avgrecords.com/producto/selected-ambient-works-85-92-aphex-twin/) (Larks $96k) · [New Order *Low-life* colección La Nación 2023 $70.700](https://avgrecords.com/producto/new-order-low-life-warner-records/).
+
 ## Curaduría Maniac Records (16/11/2026, abierta: esperando qué elige Ana)
 
 maniacrecords.com.ar (Tiendanube, ~4.800 vinilos casi todo nuevo importado; el SKU es el barcode). Listado: `/musica/vinilo/?page=N` (data-variants trae precio y SKU). Host habilitado en el entorno el 16/11.
@@ -158,6 +168,12 @@ Precios ARS al 11/11/2026.
   con ranking, ids 324 y 331-333). Larks consigue discos a pedido: sugeridos Leftfield, The Orb, Underworld, Global
   Communication, BoC *Music Has the Right…*, Autechre *Amber* (descubrimientos 334-344, con Harmonia, Dots and Loops y Surrender en stock).
 - Sin stock pero para vigilar: Seefeel *Quique*, Thievery Corporation *Radio Retaliation*, Tricky, Kraftwerk *The Man-Machine*.
+- **Rechequeo 20/11** (172 discos, 74 en stock): siguen *Exit Planet Dust* $85k, *Bustin'* $68k, BoC *Inferno* $96k
+  (Maniac 119,7k), Twin Peaks $84k, *Fragile* $96k, *Zombie* $80k (sigue 🤷, ver id 333), *Discovery* $92k (bajó de 96k). **Sin stock: *SAW 85-92***
+  (queda AVG $120.900), *Downward Spiral*, *Sailing*, *Low End Theory*, Morphine, Tricky. Entradas nuevas con link:
+  [AIC Tripod 30° aniv. 2026 $94k](https://larksrecords.com.ar/discos/240) · [Talk Talk *Spirit of Eden* half-speed 2025 $75k](https://larksrecords.com.ar/discos/321) ·
+  [King Crimson *Red* Panegyric 200 g $90k](https://larksrecords.com.ar/discos/154) · [Eno *Another Green World* 2018 $76k](https://larksrecords.com.ar/discos/328) ·
+  [Gun Club *Fire of Love* 2025 $66,5k](https://larksrecords.com.ar/discos/335) · [Bauhaus *Mask* $79k](https://larksrecords.com.ar/discos/332) · [Slint *Spiderland* $78k](https://larksrecords.com.ar/discos/193).
 - 🚩 *The Velvet Underground & Nico* de "Vinyl Lovers" (2008): sello europeo de dominio público, no oficial.
 
 ## Abierto
@@ -176,6 +192,23 @@ Precios ARS al 11/11/2026.
   (¿P-8166A?), qué es el T-Wave "color azul", qué edición es el Blood Sugar Sex Magik "limitado", si Hot
   Space trae obi, y fotos de etiqueta/matrix de los AC/DC australianos. Las fotos de la tienda
   (acdn-us.mitiendanube.com) están bloqueadas por el proxy del sandbox: hay que pedírselas a Ana.
+  - 17/11 repaso con links (Ana: "por ahora veo todo muy caro"). Fuera de la wishlist, para cuando bajen o haya
+    plata. En el jazz nuevo, lo que dice "Europeo 180g + Bonus Tracks" es de dominio público: evitar.
+
+    | Disco | Edición | Precio | Dónde |
+    |---|---|---|---|
+    | Bill Evans · Sunday at the Village Vanguard | OJC, analógica | $140.000 | [London Records](https://londonrecords.com.ar/productos/bill-evans-sunday-at-the-village-vanguard-original-jazz-classics-series/) |
+    | Art Pepper · Intensity | Contemporary Acoustic Sounds | $86.000 | [London Records](https://londonrecords.com.ar/productos/art-pepper-intensity-contemporary-records-acoustic-sounds-series/) |
+    | Billie Holiday · Songs for Distingué Lovers | Verve Acoustic Sounds | $129.000 | [London Records](https://londonrecords.com.ar/productos/billie-holiday-songs-for-distingue-lovers-verve-acoustic-sounds-series-9z1ht/) |
+    | Bobby Hutcherson · Montara | Tone Poet | $129.000 | [London Records](https://londonrecords.com.ar/productos/bobby-hutcherson-montara-tone-poet-europeo-2s17v/) |
+    | Bill Evans · Trio '65 | Verve Acoustic Sounds | $150.000 | [London Records](https://londonrecords.com.ar/productos/bill-evans-bill-evans-trio-65-verve-acoustic-sounds-series-02tve/) |
+    | Andrew Hill · Point of Departure | Blue Note | $94.000 | [London Records](https://londonrecords.com.ar/productos/andrew-hill-point-of-departure-blue-note-records/) |
+    | Anri · Timely!! | Original japonesa 1983, usada | $190.000 | [London Records](https://londonrecords.com.ar/productos/anri-timely-primera-edicion-japonesa-9jdjg/) |
+    | Takanaka · The Rainbow Goblins | 2LP, edición limitada japonesa | $210.000 | [London Records](https://londonrecords.com.ar/productos/masayoshi-takanaka-the-rainbow-goblins-edicion-limitada-japones-1l3pv/) |
+    | Hidefumi Toki · Toki | MHJL324 (¿mismo disco que el de $190.000 con obi?) | $195.000 | [London Records](https://londonrecords.com.ar/productos/hidefumi-toki-toki-mhjl324-nuevo-180grs-1abns/) |
+    | Coltrane & Johnny Hartman | Japonesa, usada | $120.000 | [London Records](https://londonrecords.com.ar/productos/john-coltrane-johny-hartman-1jnsw/) |
+- **AC/DC · Dirty Deeds** (id 81, owned): Ana dice (17/11) que la suya es una USA de época, pero en la base figura
+  la alemana WEA 1979 (ATL 50 323). Confirmar con foto de etiqueta. Si es USA, es la Atlantic SD 16033 (1981).
 - `coleccion.py list --incomplete` para la próxima ronda de repaso con Seba.
 - **Fotos de etiqueta y dead wax** para pasar a "confirmada": Mr. Gone (Master Sound), Led Zeppelin II japonés
   (¿Nippon Grammophon 1969 o Warner-Pioneer?), Go-Go's Vacation (y qué dice el sello negro del obi), Nena

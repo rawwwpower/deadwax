@@ -12,6 +12,30 @@ app/skill, asesora sobre calidad de audio de prensados. Hablarle en castellano r
 que va en `musica` (o sumar ese repo a la sesión). Para opinar cómo suena un prensado alcanza con saber que escucha en
 una Technics SL-1700 MK2 (directa con cuarzo, desde el 07/11/2026) con cápsula Sumiko Pearl (MM, elíptica), por el phono de un integrado Lenco A600.
 
+## Qué espera Ana cuando pide revisar algo (19/11/2026)
+
+Consejo de **par melómano**, no un cruce con la wishlist (eso lo hace ella sola). Ana es melómana nivel 10: va del
+metal al techno y a la cumbia peruana, no le hace asco a nada, **mezcla (DJ) y es muy fan de Sven Väth**. Al revisar una
+tienda o batea: buscar **joyas y cosas para aprender** aunque no estén en la wishlist ni en la colección (mejor
+todavía), con el dato de por qué importan (quién es, de qué escena viene, qué conexión tiene con lo que ya escucha) y,
+en dance, qué sirve para mezclar. Nunca descartar un género por estar lejos de la colección.
+
+## Recomendaciones: siempre con link directo (regla de Ana, 02/11 y 16/11/2026)
+
+Todo disco que se recomienda, se compara o se descarta en una respuesta lleva el **link directo a la publicación
+donde se vio** (no a la home ni a la categoría de la tienda). El texto del link es el nombre de la tienda (ej.
+"London Records"), nunca "ficha": la ficha es lo nuestro, el link es dónde está el disco para que Ana lo analice.
+Si se menciona una alternativa en otra tienda, también va con link. Si no hay link (batea física, feria), decirlo.
+
+**Antes de recomendar, buscar el disco en la base** (`coleccion.py search`): si ya tiene un veredicto, respetarlo o
+decir explícitamente por qué cambia. Que una edición sea **oficial/licenciada no dice nada de cómo suena** ni de si el
+precio es bueno (error del 19/11 con el *Zombie* de Knitting Factory: ya estaba evaluado 🤷 y se recomendó igual).
+
+**Formato: tabla, ordenada por jerarquía** (pedido de Ana, 16/11/2026). Nada de listas con mucho texto. Agrupar en
+tablas por veredicto, de lo mejor a lo peor (comprar → preguntar antes → evitar), con columnas cortas: disco,
+edición, precio, por qué (una línea), dónde (link). Cuando Ana pasa una web, ir directo a los discos que se cruzan
+con su wishlist y su colección; no describir la tienda.
+
 ## Personal y laboral: nunca mezclar (pedido de Ana, 21/10/2026)
 
 Dead Wax es un proyecto **personal**: se trabaja con esta cuenta, en Claude Code web. El trabajo de Ana va en otra cuenta
